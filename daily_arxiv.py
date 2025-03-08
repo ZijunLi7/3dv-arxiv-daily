@@ -16,6 +16,29 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+EXCAPE = '\"'
+QUOTA = '' # NO-USE
+OR = ' OR ' # TODO
+AND = ' AND '
+ANDNOT = ' ANDNOT '
+LEFT = '('
+RIGHT = ')'
+
+def key_connecter(key_list:list) -> str:
+    ret = ''
+    for idx in range(0,len(key_list)):
+        words = key_list[idx]
+        if ':' in words:
+            prefix, words = words.split(':')
+            ret += prefix + ':'
+        if len(words.split()) > 1:
+            ret += (EXCAPE + words + EXCAPE)
+        else:
+            ret += (QUOTA + words + QUOTA)
+        if idx != len(key_list) - 1:
+            ret += OR
+    return ret
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -24,22 +47,21 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = ' OR ' # TODO
-        def parse_filters(filters:list):
+        def parse_filters(dicts:dict):
             ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)
-                else:
-                    ret += (QUOTA + filter + QUOTA)
-                if idx != len(filters) - 1:
-                    ret += OR
+            if 'filters' in dicts.keys():
+                ret += LEFT + key_connecter(dicts['filters']) + RIGHT
+                dicts.pop('filters')
+            for k,v in dicts.items():
+                if k != 'invert':
+                    ret += AND if len(ret) > 0 else ''
+                    ret += LEFT + key_connecter(v) + RIGHT
+            if 'invert' in dicts.keys():
+                ret += ANDNOT + LEFT + key_connecter(dicts['invert']) + RIGHT
             return ret
+
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            keywords[k] = parse_filters(v)
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)

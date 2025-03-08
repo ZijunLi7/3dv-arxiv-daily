@@ -25,6 +25,8 @@ keywords:
     "3D Reconstruction":
         filters: ["SFM", "Structure from Motion", "Structure and Motion",
                   "3D Reconstruction", "Scene Reconstruction", "3D Geometric"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation", "visual place recognition",
@@ -36,4 +38,3 @@ keywords:
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation",
                   "Metric Depth", "Geometry Estimation"]
-
