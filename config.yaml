@@ -25,16 +25,26 @@ keywords:
     "3D Reconstruction":
         filters: ["SFM", "Structure from Motion", "Structure and Motion",
                   "3D Reconstruction", "Scene Reconstruction", "3D Geometric"]
+        titles: ["ti:SFM", "ti:Structure from Motion", "ti:Structure and Motion",
+                  "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
-        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP"]
+        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
+                 "ti:medical", "ti:surgery", "ti:MRI"]
+    "Depth Estimation":
+        filters: ["Depth Estimation", "Monocular Depth Estimation",
+                  "Metric Depth", "Geometry Estimation"]
+        titles: ["ti:Depth", "ti:Monocular", "ti:Metric", "ti:Geometr", "ti:Single"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
+                 "ti:medical", "ti:surgery", "ti:MRI", "ti:Reconstruction"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation", "visual place recognition",
                   "image retrieval"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "Image Matching":
         filters: ["Image Matching"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
     "NeRF & Gaussian":
         filters: ["NeRF", "Neural Radiance Field", "Gaussian Splatting"]
-    "Depth Estimation":
-        filters: ["Depth Estimation", "Monocular Depth Estimation",
-                  "Metric Depth", "Geometry Estimation"]
+        categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
