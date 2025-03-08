@@ -29,22 +29,28 @@ keywords:
                   "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
-                 "ti:medical", "ti:surgery", "ti:MRI"]
+                 "ti:Medical", "ti:Surgery", "ti:MRI"]
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation",
                   "Metric Depth", "Geometry Estimation"]
         titles: ["ti:Depth", "ti:Monocular", "ti:Metric", "ti:Geometr", "ti:Single"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
-                 "ti:medical", "ti:surgery", "ti:MRI", "ti:Reconstruction"]
+                 "ti:Medical", "ti:Surgery", "ti:MRI", "ti:Reconstruction"]
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation", "visual place recognition",
-                  "image retrieval"]
+                  "Camera Relocalization", "Visual Place Recognition",
+                  "Image Retrieval"]
+        titles: ["ti:Localization", "ti:Place Recognition", "ti:localisation","ti:Retrieval",
+                 "ti:APR", "ti:Dof", "ti:Pose Estimation", "ti:Pose Regression", "ti:Coordinate"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:Medical", "ti:Object Pose"]
     "Image Matching":
         filters: ["Image Matching"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
+        invert: ["ti:Medical", "ti:Surgery", "ti:MRI"]
     "NeRF & Gaussian":
         filters: ["NeRF", "Neural Radiance Field", "Gaussian Splatting"]
+        titles: ["ti:NeRF", "ti:Radiance", "ti:Field", "ti:Gaussian",
+                 "ti:Splatting"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
