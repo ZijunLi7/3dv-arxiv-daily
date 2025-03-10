@@ -29,7 +29,7 @@ keywords:
                   "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
-                 "ti:Medical", "ti:Surgery", "ti:MRI"]
+                 "ti:Medical", "ti:Surgery", "ti:MRI", "ti:GS"]
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation",
                   "Metric Depth", "Geometry Estimation"]
