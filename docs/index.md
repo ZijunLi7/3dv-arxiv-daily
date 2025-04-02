@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
 |**2025-03-29**|**GenFusion: Closing the Loop between Reconstruction and Generation via Videos**|Sibo Wu et.al.|[2503.21219](http://arxiv.org/abs/2503.21219)|null|
 |**2025-03-27**|**Leveraging 3D Geometric Priors in 2D Rotation Symmetry Detection**|Ahyun Seo et.al.|[2503.20235](http://arxiv.org/abs/2503.20235)|null|
@@ -73,9 +74,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Detail-aware multi-view stereo network for depth estimation**|Haitao Tian et.al.|[2503.23684](http://arxiv.org/abs/2503.23684)|null|
+|**2025-03-30**|**Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries**|Wei Xu et.al.|[2503.23606](http://arxiv.org/abs/2503.23606)|null|
+|**2025-03-30**|**Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model**|Jannik Endres et.al.|[2503.23502](http://arxiv.org/abs/2503.23502)|**[link](https://github.com/vita-epfl/DFI-OmniStereo)**|
 |**2025-03-28**|**One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images**|Byeongjun Kwon et.al.|[2503.22351](http://arxiv.org/abs/2503.22351)|null|
 |**2025-03-28**|**Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces**|Wonhyeok Choi et.al.|[2503.22209](http://arxiv.org/abs/2503.22209)|null|
-|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060](http://arxiv.org/abs/2503.22060)|null|
+|**2025-03-28**|**Deep Depth Estimation from Thermal Image: Dataset, Benchmark, and Challenges**|Ukcheol Shin et.al.|[2503.22060](http://arxiv.org/abs/2503.22060)|**[link](https://github.com/ukcheolshin/supdepth4thermal)**|
 |**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211](http://arxiv.org/abs/2503.20211)|**[link](https://github.com/davidyan2001/synthetic2real-depth)**|
 |**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947](http://arxiv.org/abs/2503.19947)|**[link](https://github.com/KochPJ/vanishing-depth)**|
 |**2025-03-26**|**FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion**|Pihai Sun et.al.|[2503.19739](http://arxiv.org/abs/2503.19739)|**[link](https://github.com/sunpihai-up/fuse)**|
@@ -113,6 +117,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
+|**2025-03-30**|**Multiview Image-Based Localization**|Cameron Fiore et.al.|[2503.23577](http://arxiv.org/abs/2503.23577)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
@@ -146,6 +152,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
+|**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
 |**2025-03-26**|**Multimodal Image Matching based on Frequency-domain Information of Local Energy Response**|Meng Yang et.al.|[2503.20827](http://arxiv.org/abs/2503.20827)|null|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
@@ -168,6 +176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
+|**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
+|**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009](http://arxiv.org/abs/2503.24009)|null|
+|**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
+|**2025-03-30**|**Gaussian Blending Unit: An Edge GPU Plug-in for Real-Time Gaussian-Based Rendering in AR/VR**|Zhifan Ye et.al.|[2503.23625](http://arxiv.org/abs/2503.23625)|null|
+|**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337](http://arxiv.org/abs/2503.23337)|null|
+|**2025-03-30**|**ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning**|Zhenyang Liu et.al.|[2503.23297](http://arxiv.org/abs/2503.23297)|null|
+|**2025-03-29**|**NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**|Zhenyu Tang et.al.|[2503.23162](http://arxiv.org/abs/2503.23162)|null|
 |**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676](http://arxiv.org/abs/2503.22676)|null|
 |**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605](http://arxiv.org/abs/2503.22605)|null|
 |**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|**[link](https://github.com/michaelwanggo/endolrmgs)**|
