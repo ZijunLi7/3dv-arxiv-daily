@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**|Chaojun Ni et.al.|[2504.02261](http://arxiv.org/abs/2504.02261)|null|
+|**2025-04-02**|**Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning**|Zhen Meng et.al.|[2504.02161](http://arxiv.org/abs/2504.02161)|null|
+|**2025-04-02**|**Evaluation of Flight Parameters in UAV-based 3D Reconstruction for Rooftop Infrastructure Assessment**|Nick Chodura et.al.|[2504.02084](http://arxiv.org/abs/2504.02084)|null|
 |**2025-04-01**|**Coca-Splat: Collaborative Optimization for Camera Parameters and 3D Gaussians**|Jiamin Wu et.al.|[2504.00639](http://arxiv.org/abs/2504.00639)|null|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664](http://arxiv.org/abs/2503.23664)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
@@ -184,6 +187,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
+|**2025-04-02**|**UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting**|Jaehoon Choi et.al.|[2504.02158](http://arxiv.org/abs/2504.02158)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
 |**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844](http://arxiv.org/abs/2504.01844)|null|
