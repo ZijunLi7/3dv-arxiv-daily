@@ -1,4 +1,4 @@
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -81,7 +81,7 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -129,12 +129,13 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -169,7 +170,7 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Image Matching
 
@@ -182,7 +183,7 @@
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
-|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-04-07**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
@@ -196,12 +197,14 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**|Boyuan Wang et.al.|[2504.03536](http://arxiv.org/abs/2504.03536)|null|
+|**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
 |**2025-04-03**|**MultiNeRF: Multiple Watermark Embedding for Neural Radiance Fields**|Yash Kulthe et.al.|[2504.02517](http://arxiv.org/abs/2504.02517)|null|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-02**|**UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting**|Jaehoon Choi et.al.|[2504.02158](http://arxiv.org/abs/2504.02158)|null|
@@ -343,7 +346,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
