@@ -217,7 +217,7 @@ layout: default
 |**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
-|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|null|
+|**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|**[link](https://github.com/zhicongsun/d4dgs-slam)**|
 |**2025-04-05**|**Interpretable Single-View 3D Gaussian Splatting using Unsupervised Hierarchical Disentangled Representation Learning**|Yuyang Zhang et.al.|[2504.04190](http://arxiv.org/abs/2504.04190)|null|
 |**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886](http://arxiv.org/abs/2504.03886)|null|
 |**2025-04-04**|**HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**|Boyuan Wang et.al.|[2504.03536](http://arxiv.org/abs/2504.03536)|null|
@@ -300,7 +300,7 @@ layout: default
 |**2025-03-18**|**HandSplat: Embedding-Driven Gaussian Splatting for High-Fidelity Hand Rendering**|Yilan Dong et.al.|[2503.14736](http://arxiv.org/abs/2503.14736)|null|
 |**2025-03-18**|**These Magic Moments: Differentiable Uncertainty Quantification of Radiance Field Models**|Parker Ewen et.al.|[2503.14665](http://arxiv.org/abs/2503.14665)|null|
 |**2025-03-18**|**Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation**|Umar Farooq et.al.|[2503.14475](http://arxiv.org/abs/2503.14475)|null|
-|**2025-03-18**|**Improving Adaptive Density Control for 3D Gaussian Splatting**|Glenn Grubert et.al.|[2503.14274](http://arxiv.org/abs/2503.14274)|null|
+|**2025-03-18**|**Improving Adaptive Density Control for 3D Gaussian Splatting**|Glenn Grubert et.al.|[2503.14274](http://arxiv.org/abs/2503.14274)|**[link](https://github.com/fraunhoferhhi/improving-adc-3dgs)**|
 |**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
 |**2025-03-18**|**RoGSplat: Learning Robust Generalizable Human Gaussian Splatting from Sparse Multi-View Images**|Junjin Xiao et.al.|[2503.14198](http://arxiv.org/abs/2503.14198)|**[link](https://github.com/isee-laboratory/rogsplat)**|
 |**2025-03-18**|**Lightweight Gradient-Aware Upscaling of 3D Gaussian Splatting Images**|Simon Niedermayr et.al.|[2503.14171](http://arxiv.org/abs/2503.14171)|null|
