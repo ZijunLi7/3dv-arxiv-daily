@@ -28,7 +28,7 @@ layout: default
 |**2025-04-08**|**HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**|Yiming Liang et.al.|[2504.06210](http://arxiv.org/abs/2504.06210)|null|
 |**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178](http://arxiv.org/abs/2504.06178)|null|
 |**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|**[link](https://github.com/wyddmw/pomato)**|
-|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|**[link](https://github.com/saidwivedi/InteractVLM)**|
 |**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781](http://arxiv.org/abs/2504.04781)|null|
 |**2025-04-03**|**WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**|Chaojun Ni et.al.|[2504.02261](http://arxiv.org/abs/2504.02261)|null|
 |**2025-04-02**|**Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning**|Zhen Meng et.al.|[2504.02161](http://arxiv.org/abs/2504.02161)|null|
