@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
+|**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288](http://arxiv.org/abs/2505.05288)|null|
+|**2025-05-08**|**Advanced 3D Imaging Approach to TSV/TGV Metrology and Inspection Using Only Optical Microscopy**|Gugeong Sung et.al.|[2505.04913](http://arxiv.org/abs/2505.04913)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -273,6 +276,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356](http://arxiv.org/abs/2505.05356)|null|
+|**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|null|
+|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|

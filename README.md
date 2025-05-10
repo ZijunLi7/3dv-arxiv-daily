@@ -1,4 +1,4 @@
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
+|**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288](http://arxiv.org/abs/2505.05288)|null|
+|**2025-05-08**|**Advanced 3D Imaging Approach to TSV/TGV Metrology and Inspection Using Only Optical Microscopy**|Gugeong Sung et.al.|[2505.04913](http://arxiv.org/abs/2505.04913)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540](http://arxiv.org/abs/2505.04540)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -120,7 +123,7 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -191,7 +194,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -247,7 +250,7 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Image Matching
 
@@ -282,12 +285,15 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356](http://arxiv.org/abs/2505.05356)|null|
+|**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|null|
+|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|
@@ -514,7 +520,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
