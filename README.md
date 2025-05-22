@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,9 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621](http://arxiv.org/abs/2505.14621)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-20**|**AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards**|Laura-Sophia von Hirschhausen et.al.|[2505.14029](http://arxiv.org/abs/2505.14029)|null|
 |**2025-05-18**|**Real-Time Spatial Reasoning by Mobile Robots for Reconstruction and Navigation in Dynamic LiDAR Scenes**|Pengdi Huang et.al.|[2505.12267](http://arxiv.org/abs/2505.12267)|**[link](https://github.com/SZU-VCC/RTRecon)**|
 |**2025-05-17**|**SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations**|Songchun Zhang et.al.|[2505.11992](http://arxiv.org/abs/2505.11992)|null|
-|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|null|
+|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|**[link](https://github.com/mrzihan/dynam3d)**|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-15**|**VolE: A Point-cloud Framework for Food 3D Reconstruction and Volume Estimation**|Umair Haroon et.al.|[2505.10205](http://arxiv.org/abs/2505.10205)|null|
 |**2025-05-13**|**Template-Guided Reconstruction of Pulmonary Segments with Neural Implicit Functions**|Kangxian Xie et.al.|[2505.08919](http://arxiv.org/abs/2505.08919)|**[link](https://github.com/m3dv/impulse)**|
@@ -135,12 +138,14 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**M3Depth: Wavelet-Enhanced Depth Estimation on Mars via Mutual Boosting of Dual-Modal Data**|Junjie Li et.al.|[2505.14159](http://arxiv.org/abs/2505.14159)|null|
+|**2025-05-20**|**Multi-Label Stereo Matching for Transparent Scene Depth Estimation**|Zhidan Liu et.al.|[2505.14008](http://arxiv.org/abs/2505.14008)|null|
 |**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
 |**2025-05-20**|**3D Visual Illusion Depth Estimation**|Chengtang Yao et.al.|[2505.13061](http://arxiv.org/abs/2505.13061)|**[link](https://github.com/yaochengtang/3d-visual-illusion-depth-estimation)**|
@@ -215,7 +220,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -273,7 +278,7 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -309,19 +314,22 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|null|
+|**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537](http://arxiv.org/abs/2505.14537)|null|
+|**2025-05-20**|**MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction**|Zhenyu Bao et.al.|[2505.13839](http://arxiv.org/abs/2505.13839)|**[link](https://github.com/pcl3dv/mgstream)**|
+|**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|**[link](https://github.com/ohsngjun/3D-4DGS)**|
 |**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
 |**2025-05-17**|**Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments**|Dexter Ong et.al.|[2505.11794](http://arxiv.org/abs/2505.11794)|null|
 |**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
 |**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
 |**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
-|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|**[link](https://github.com/scut-bip-lab/ea-3dgs)**|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
 |**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
@@ -570,7 +578,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
