@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
+|**2025-05-21**|**Building LOD Representation for 3D Urban Scenes**|Shanshan Pan et.al.|[2505.15190](http://arxiv.org/abs/2505.15190)|null|
 |**2025-05-20**|**3D Reconstruction from Sketches**|Abhimanyu Talwar et.al.|[2505.14621](http://arxiv.org/abs/2505.14621)|null|
 |**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**AppleGrowthVision: A large-scale stereo dataset for phenological analysis, fruit detection, and 3D reconstruction in apple orchards**|Laura-Sophia von Hirschhausen et.al.|[2505.14029](http://arxiv.org/abs/2505.14029)|null|
@@ -305,6 +307,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
+|**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
+|**2025-05-21**|**R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**|Xu yan et.al.|[2505.15294](http://arxiv.org/abs/2505.15294)|null|
+|**2025-05-21**|**GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation**|Yuchen Li et.al.|[2505.15287](http://arxiv.org/abs/2505.15287)|null|
+|**2025-05-21**|**X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography**|Yifan Liu et.al.|[2505.15235](http://arxiv.org/abs/2505.15235)|**[link](https://github.com/cuhk-aim-group/x-grm)**|
+|**2025-05-21**|**GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting**|Wenjie Liu et.al.|[2505.15208](http://arxiv.org/abs/2505.15208)|null|
+|**2025-05-21**|**MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models**|Yifan Liu et.al.|[2505.15185](http://arxiv.org/abs/2505.15185)|**[link](https://github.com/cuhk-aim-group/monosplat)**|
 |**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537](http://arxiv.org/abs/2505.14537)|null|
 |**2025-05-20**|**MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction**|Zhenyu Bao et.al.|[2505.13839](http://arxiv.org/abs/2505.13839)|**[link](https://github.com/pcl3dv/mgstream)**|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
