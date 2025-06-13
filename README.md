@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**|Yiming Dou et.al.|[2506.09989](http://arxiv.org/abs/2506.09989)|null|
+|**2025-06-11**|**DreamCS: Geometry-Aware Text-to-3D Generation with Unpaired 3D Reward Supervision**|Xiandong Zou et.al.|[2506.09814](http://arxiv.org/abs/2506.09814)|null|
+|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565](http://arxiv.org/abs/2506.09565)|null|
+|**2025-06-11**|**3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection**|Yi Zhang et.al.|[2506.09541](http://arxiv.org/abs/2506.09541)|null|
+|**2025-06-11**|**GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra**|Mateusz Michalkiewicz et.al.|[2506.08194](http://arxiv.org/abs/2506.08194)|null|
 |**2025-06-09**|**HuSc3D: Human Sculpture dataset for 3D object reconstruction**|Weronika Smolak-Dyżewska et.al.|[2506.07628](http://arxiv.org/abs/2506.07628)|null|
 |**2025-06-06**|**CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy**|Jiakai Zhang et.al.|[2506.05864](http://arxiv.org/abs/2506.05864)|null|
 |**2025-06-06**|**FreeTimeGS: Free Gaussian Primitives at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
@@ -165,12 +170,13 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**|Guanghu Xie et.al.|[2506.09491](http://arxiv.org/abs/2506.09491)|null|
 |**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
 |**2025-06-07**|**Dark Channel-Assisted Depth-from-Defocus from a Single Image**|Moushumi Medhi et.al.|[2506.06643](http://arxiv.org/abs/2506.06643)|null|
 |**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
@@ -263,12 +269,14 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
@@ -338,12 +346,13 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
@@ -377,12 +386,22 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
+|**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952](http://arxiv.org/abs/2506.09952)|null|
+|**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836](http://arxiv.org/abs/2506.09836)|null|
+|**2025-06-11**|**Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation**|Haowen Wang et.al.|[2506.09663](http://arxiv.org/abs/2506.09663)|null|
+|**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534](http://arxiv.org/abs/2506.09534)|null|
+|**2025-06-11**|**HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene**|Jianing Chen et.al.|[2506.09518](http://arxiv.org/abs/2506.09518)|null|
+|**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378](http://arxiv.org/abs/2506.09378)|null|
+|**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710](http://arxiv.org/abs/2506.08710)|null|
+|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704](http://arxiv.org/abs/2506.08704)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
 |**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
@@ -716,7 +735,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
