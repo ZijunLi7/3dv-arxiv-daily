@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.21
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750](http://arxiv.org/abs/2506.13750)|null|
 |**2025-06-16**|**Integrated Pipeline for Monocular 3D Reconstruction and Finite Element Simulation in Industrial Applications**|Bowen Zheng et.al.|[2506.13573](http://arxiv.org/abs/2506.13573)|null|
 |**2025-06-16**|**ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs**|Bikram Keshari Parida et.al.|[2506.13195](http://arxiv.org/abs/2506.13195)|null|
@@ -172,6 +173,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
+|**2025-06-17**|**Time-Optimized Safe Navigation in Unstructured Environments through Learning Based Depth Completion**|Jeffrey Mao et.al.|[2506.14975](http://arxiv.org/abs/2506.14975)|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
 |**2025-06-17**|**Self-Supervised Enhancement for Depth from a Lightweight ToF Sensor with Monocular Images**|Laiyan Ding et.al.|[2506.13444](http://arxiv.org/abs/2506.13444)|null|
 |**2025-06-16**|**TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast**|Beilei Cui et.al.|[2506.13387](http://arxiv.org/abs/2506.13387)|null|
 |**2025-06-11**|**DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**|Guanghu Xie et.al.|[2506.09491](http://arxiv.org/abs/2506.09491)|null|
@@ -271,7 +275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-17**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
 |**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
@@ -350,10 +354,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
@@ -388,9 +393,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
-|**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348](http://arxiv.org/abs/2506.13348)|null|
+|**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348](http://arxiv.org/abs/2506.13348)|**[link](https://github.com/maeyounes/texturesplat)**|
 |**2025-06-15**|**Metropolis-Hastings Sampling for 3D Gaussian Reconstruction**|Hyunjin Kim et.al.|[2506.12945](http://arxiv.org/abs/2506.12945)|null|
 |**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
 |**2025-06-17**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
