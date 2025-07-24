@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
+|**2025-07-22**|**Dens3R: A Foundation Model for 3D Geometry Prediction**|Xianze Fang et.al.|[2507.16290](http://arxiv.org/abs/2507.16290)|null|
 |**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
 |**2025-07-19**|**Real-Time Scene Reconstruction using Light Field Probes**|Yaru Liu et.al.|[2507.14624](http://arxiv.org/abs/2507.14624)|null|
 |**2025-07-19**|**AutoPartGen: Autogressive 3D Part Generation and Discovery**|Minghao Chen et.al.|[2507.13346](http://arxiv.org/abs/2507.13346)|null|
@@ -492,6 +494,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
 |**2025-07-21**|**Gaussian Splatting with Discretized SDF for Relightable Assets**|Zuo-Liang Zhu et.al.|[2507.15629](http://arxiv.org/abs/2507.15629)|null|
