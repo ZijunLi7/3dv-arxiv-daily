@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-28**|**RadGS-Reg: Registering Spine CT with Biplanar X-rays via Joint 3D Radiative Gaussians Reconstruction and 3D/3D Registration**|Ao Shen et.al.|[2508.21154](http://arxiv.org/abs/2508.21154)|N/A|
+|**2025-08-28**|**DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes**|Yajiao Xiong et.al.|[2508.20965](http://arxiv.org/abs/2508.20965)|N/A|
+|**2025-08-28**|**Surfel-based 3D Registration with Equivariant SE(3) Features**|Xueyang Kang et.al.|[2508.20789](http://arxiv.org/abs/2508.20789)|N/A|
+|**2025-08-27**|**DATR: Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View**|Tian Qiu et.al.|[2508.19508](http://arxiv.org/abs/2508.19508)|N/A|
+|**2025-08-25**|**SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization**|Junyuan Deng et.al.|[2508.17972](http://arxiv.org/abs/2508.17972)|N/A|
+|**2025-08-25**|**Wound3DAssist: A Practical Framework for 3D Wound Assessment**|Remi Chierchia et.al.|[2508.17635](http://arxiv.org/abs/2508.17635)|N/A|
+|**2025-08-25**|**HOSt3R: Keypoint-free Hand-Object 3D Reconstruction from RGB images**|Anilkumar Swamy et.al.|[2508.16465](http://arxiv.org/abs/2508.16465)|N/A|
+|**2025-08-22**|**HAMSt3R: Human-Aware Multi-view Stereo 3D Reconstruction**|Sara Rojas et.al.|[2508.16433](http://arxiv.org/abs/2508.16433)|N/A|
+|**2025-08-22**|**Advances and Trends in the 3D Reconstruction of the Shape and Motion of Animals**|Ziqi Li et.al.|[2508.16062](http://arxiv.org/abs/2508.16062)|N/A|
+|**2025-08-21**|**CM2LoD3: Reconstructing LoD3 Building Models Using Semantic Conflict Maps**|Franz Hanke et.al.|[2508.15672](http://arxiv.org/abs/2508.15672)|N/A|
 |**2025-07-22**|**Dyna3DGR: 4D Cardiac Motion Tracking with Dynamic 3D Gaussian Representation**|Xueming Fu et.al.|[2507.16608](http://arxiv.org/abs/2507.16608)|null|
 |**2025-07-22**|**Dens3R: A Foundation Model for 3D Geometry Prediction**|Xianze Fang et.al.|[2507.16290](http://arxiv.org/abs/2507.16290)|null|
 |**2025-07-20**|**An Evaluation of DUSt3R/MASt3R/VGGT 3D Reconstruction on Photogrammetric Aerial Blocks**|Xinyi Wu et.al.|[2507.14798](http://arxiv.org/abs/2507.14798)|null|
@@ -216,6 +226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-25**|**Impact of Target and Tool Visualization on Depth Perception and Usability in Optical See-Through AR**|Yue Yang et.al.|[2508.18481](http://arxiv.org/abs/2508.18481)|N/A|
+|**2025-08-25**|**EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images**|Xinning Yao et.al.|[2508.17916](http://arxiv.org/abs/2508.17916)|N/A|
+|**2025-08-19**|**ROVR-Open-Dataset: A Large-Scale Depth Dataset for Autonomous Driving**|Xianda Guo et.al.|[2508.13977](http://arxiv.org/abs/2508.13977)|N/A|
+|**2025-08-18**|**DMS:Diffusion-Based Multi-Baseline Stereo Generation for Improving Self-Supervised Depth Estimation**|Zihua Liu et.al.|[2508.13091](http://arxiv.org/abs/2508.13091)|N/A|
+|**2025-08-15**|**CHARM3R: Towards Unseen Camera Height Robust Monocular 3D Detector**|Abhinav Kumar et.al.|[2508.11185](http://arxiv.org/abs/2508.11185)|N/A|
+|**2025-08-12**|**ViPE: Video Pose Engine for 3D Geometric Perception**|Jiahui Huang et.al.|[2508.10934](http://arxiv.org/abs/2508.10934)|N/A|
+|**2025-08-12**|**A Robust Epipolar-Domain Regularization Algorithm for Light Field Depth Estimation**|Noor Islam S. Mohammad et.al.|[2508.08900](http://arxiv.org/abs/2508.08900)|N/A|
+|**2025-08-18**|**TRIDE: A Text-assisted Radar-Image weather-aware fusion network for Depth Estimation**|Huawei Sun et.al.|[2508.08038](http://arxiv.org/abs/2508.08038)|N/A|
+|**2025-08-10**|**MonoMPC: Monocular Vision Based Navigation with Learned Collision Model and Risk-Aware Model Predictive Control**|Basant Sharma et.al.|[2508.07387](http://arxiv.org/abs/2508.07387)|N/A|
+|**2025-08-10**|**Similarity Matters: A Novel Depth-guided Network for Image Restoration and A New Dataset**|Junyi He et.al.|[2508.07211](http://arxiv.org/abs/2508.07211)|N/A|
 |**2025-07-21**|**BenchDepth: Are We on the Right Way to Evaluate Depth Foundation Models?**|Zhenyu Li et.al.|[2507.15321](http://arxiv.org/abs/2507.15321)|null|
 |**2025-07-20**|**Region-aware Depth Scale Adaptation with Sparse Measurements**|Rizhao Fan et.al.|[2507.14879](http://arxiv.org/abs/2507.14879)|null|
 |**2025-07-20**|**Training Self-Supervised Depth Completion Using Sparse Measurements and a Single Image**|Rizhao Fan et.al.|[2507.14845](http://arxiv.org/abs/2507.14845)|null|
@@ -346,6 +366,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|N/A|
+|**2025-08-26**|**Can we make NeRF-based visual localization privacy-preserving?**|Maxime Pietrantoni et.al.|[2508.18971](http://arxiv.org/abs/2508.18971)|N/A|
+|**2025-08-25**|**GSVisLoc: Generalizable Visual Localization for Gaussian Splatting Scene Representations**|Fadi Khatib et.al.|[2508.18242](http://arxiv.org/abs/2508.18242)|N/A|
+|**2025-08-25**|**SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization**|Junyuan Deng et.al.|[2508.17972](http://arxiv.org/abs/2508.17972)|N/A|
+|**2025-08-17**|**CLAIR: CLIP-Aided Weakly Supervised Zero-Shot Cross-Domain Image Retrieval**|Chor Boon Tan et.al.|[2508.12290](http://arxiv.org/abs/2508.12290)|N/A|
+|**2025-08-15**|**Enhancing Supervised Composed Image Retrieval via Reasoning-Augmented Representation Engineering**|Jun Li et.al.|[2508.11272](http://arxiv.org/abs/2508.11272)|N/A|
+|**2025-08-12**|**Relative Pose Regression with Pose Auto-Encoders: Enhancing Accuracy and Data Efficiency for Retail Applications**|Yoli Shavit et.al.|[2508.10933](http://arxiv.org/abs/2508.10933)|N/A|
+|**2025-08-06**|**Advanced Multi-Architecture Deep Learning Framework for BIRADS-Based Mammographic Image Retrieval: Comprehensive Performance Analysis with Super-Ensemble Optimization**|MD Shaikh Rahman et.al.|[2508.04790](http://arxiv.org/abs/2508.04790)|N/A|
+|**2025-08-06**|**Composed Object Retrieval: Object-level Retrieval via Composed Expressions**|Tong Wang et.al.|[2508.04424](http://arxiv.org/abs/2508.04424)|N/A|
+|**2025-08-26**|**Gaussian Splatting Feature Fields for Privacy-Preserving Visual Localization**|Maxime Pietrantoni et.al.|[2507.23569](http://arxiv.org/abs/2507.23569)|N/A|
 |**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
 |**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
 |**2025-07-19**|**OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**|Zhenyu Li et.al.|[2507.14477](http://arxiv.org/abs/2507.14477)|null|
@@ -450,8 +480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
-|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
+|**2025-08-14**|**Revisiting Cross-View Localization from Image Matching**|Panwang Xia et.al.|[2508.10716](http://arxiv.org/abs/2508.10716)|N/A|
+|**2025-08-14**|**A Sub-Pixel Multimodal Optical Remote Sensing Images Matching Method**|Tao Huang et.al.|[2508.10294](http://arxiv.org/abs/2508.10294)|N/A|
+|**2025-08-13**|**Episodic Memory Representation for Long-form Video Understanding**|Yun Wang et.al.|[2508.09486](http://arxiv.org/abs/2508.09486)|N/A|
+|**2025-08-11**|**VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models**|Mansi Phute et.al.|[2508.08521](http://arxiv.org/abs/2508.08521)|N/A|
+|**2025-08-11**|**Semi-supervised Multiscale Matching for SAR-Optical Image**|Jingze Gai et.al.|[2508.07812](http://arxiv.org/abs/2508.07812)|N/A|
+|**2025-08-07**|**Refining Gaussian Splatting: A Volumetric Densification Approach**|Mohamed Abdul Gafoor et.al.|[2508.05187](http://arxiv.org/abs/2508.05187)|N/A|
+|**2025-07-30**|**Modality-Aware Feature Matching: A Comprehensive Review of Single- and Cross-Modality Techniques**|Weide Liu et.al.|[2507.22791](http://arxiv.org/abs/2507.22791)|N/A|
+|**2025-07-25**|**Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching**|Abu Sadat Mohammad Salehin Amit et.al.|[2507.19118](http://arxiv.org/abs/2507.19118)|N/A|
+|**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|N/A|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|N/A|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-07-22**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
@@ -494,6 +532,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-29**|**Complete Gaussian Splats from a Single Image with Denoising Diffusion Models**|Ziwei Liao et.al.|[2508.21542](http://arxiv.org/abs/2508.21542)|N/A|
+|**2025-08-29**|**Scale-GS: Efficient Scalable Gaussian Splatting via Redundancy-filtering Training on Streaming Content**|Jiayu Yang et.al.|[2508.21444](http://arxiv.org/abs/2508.21444)|N/A|
+|**2025-08-29**|**ARGS: Advanced Regularization on Aligning Gaussians over the Surface**|Jeong Uk Lee et.al.|[2508.21344](http://arxiv.org/abs/2508.21344)|N/A|
+|**2025-08-28**|**${C}^{3}$ -GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2508.20754](http://arxiv.org/abs/2508.20754)|N/A|
+|**2025-08-28**|**Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation**|Jiusi Li et.al.|[2508.20471](http://arxiv.org/abs/2508.20471)|N/A|
+|**2025-08-27**|**Seam360GS: Seamless 360° Gaussian Splatting from Real-World Omnidirectional Images**|Changha Shin et.al.|[2508.20080](http://arxiv.org/abs/2508.20080)|N/A|
+|**2025-08-27**|**MAPo : Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction**|Han Jiao et.al.|[2508.19786](http://arxiv.org/abs/2508.19786)|N/A|
+|**2025-08-27**|**FastAvatar: Towards Unified Fast High-Fidelity 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers**|Yue Wu et.al.|[2508.19754](http://arxiv.org/abs/2508.19754)|N/A|
+|**2025-08-27**|**LabelGS: Label-Aware 3D Gaussian Splatting for 3D Scene Segmentation**|Yupeng Zhang et.al.|[2508.19699](http://arxiv.org/abs/2508.19699)|N/A|
+|**2025-08-26**|**Can we make NeRF-based visual localization privacy-preserving?**|Maxime Pietrantoni et.al.|[2508.18971](http://arxiv.org/abs/2508.18971)|N/A|
 |**2025-07-22**|**LongSplat: Online Generalizable 3D Gaussian Splatting from Long Sequence Images**|Guichen Huang et.al.|[2507.16144](http://arxiv.org/abs/2507.16144)|null|
 |**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683](http://arxiv.org/abs/2507.15683)|null|
