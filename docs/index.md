@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.07
+## Updated on 2025.09.08
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -373,7 +373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-04**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|Dror Aiger et.al.|[2509.04351](http://arxiv.org/abs/2509.04351)|N/A|
+|**2025-09-05**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|Dror Aiger et.al.|[2509.04351](http://arxiv.org/abs/2509.04351)|N/A|
 |**2025-09-04**|**DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval**|Ruohong Yang et.al.|[2509.04193](http://arxiv.org/abs/2509.04193)|N/A|
 |**2025-09-02**|**Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time**|Jintao Cheng et.al.|[2509.02129](http://arxiv.org/abs/2509.02129)|N/A|
 |**2025-09-02**|**Ensemble-Based Event Camera Place Recognition Under Varying Illumination**|Therese Joseph et.al.|[2509.01968](http://arxiv.org/abs/2509.01968)|N/A|
