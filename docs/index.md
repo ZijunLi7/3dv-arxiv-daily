@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -228,10 +228,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|N/A|
 |**2025-09-03**|**DUViN: Diffusion-Based Underwater Visual Navigation via Knowledge-Transferred Depth Features**|Jinghe Yang et.al.|[2509.02983](http://arxiv.org/abs/2509.02983)|N/A|
 |**2025-09-02**|**Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation**|Lan Wei et.al.|[2509.02343](http://arxiv.org/abs/2509.02343)|N/A|
 |**2025-09-01**|**Generalizable Self-supervised Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|N/A|
-|**2025-08-31**|**ER-LoRA: Effective-Rank Guided Adaptation for Weather-Generalized Depth Estimation**|Weilong Yan et.al.|[2509.00665](http://arxiv.org/abs/2509.00665)|N/A|
+|**2025-09-06**|**ER-LoRA: Effective-Rank Guided Adaptation for Weather-Generalized Depth Estimation**|Weilong Yan et.al.|[2509.00665](http://arxiv.org/abs/2509.00665)|N/A|
 |**2025-08-23**|**ARTPS: Depth-Enhanced Hybrid Anomaly Detection and Learnable Curiosity Score for Autonomous Rover Target Prioritization**|Poyraz Baydemir et.al.|[2509.00042](http://arxiv.org/abs/2509.00042)|N/A|
 |**2025-08-25**|**Impact of Target and Tool Visualization on Depth Perception and Usability in Optical See-Through AR**|Yue Yang et.al.|[2508.18481](http://arxiv.org/abs/2508.18481)|N/A|
 |**2025-08-25**|**EndoUFM: Utilizing Foundation Models for Monocular depth estimation of endoscopic images**|Xinning Yao et.al.|[2508.17916](http://arxiv.org/abs/2508.17916)|N/A|
@@ -373,6 +374,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|N/A|
 |**2025-09-05**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|Dror Aiger et.al.|[2509.04351](http://arxiv.org/abs/2509.04351)|N/A|
 |**2025-09-04**|**DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval**|Ruohong Yang et.al.|[2509.04193](http://arxiv.org/abs/2509.04193)|N/A|
 |**2025-09-02**|**Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time**|Jintao Cheng et.al.|[2509.02129](http://arxiv.org/abs/2509.02129)|N/A|
@@ -546,6 +548,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting**|Yangming Li et.al.|[2509.05075](http://arxiv.org/abs/2509.05075)|N/A|
+|**2025-09-05**|**CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus**|Hannah Schieber et.al.|[2509.04859](http://arxiv.org/abs/2509.04859)|N/A|
 |**2025-09-03**|**ContraGS: Codebook-Condensed and Trainable Gaussian Splatting for Fast, Memory-Efficient Reconstruction**|Sankeerth Durvasula et.al.|[2509.03775](http://arxiv.org/abs/2509.03775)|N/A|
 |**2025-09-02**|**GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals**|Mohit Mendiratta et.al.|[2509.02141](http://arxiv.org/abs/2509.02141)|N/A|
 |**2025-09-02**|**2D Gaussian Splatting with Semantic Alignment for Image Inpainting**|Hongyu Li et.al.|[2509.01964](http://arxiv.org/abs/2509.01964)|N/A|
