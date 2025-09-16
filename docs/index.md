@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|N/A|
+|**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|N/A|
 |**2025-09-11**|**DualTrack: Sensorless 3D Ultrasound needs Local and Global Context**|Paul F. R. Wilson et.al.|[2509.09530](http://arxiv.org/abs/2509.09530)|N/A|
 |**2025-09-11**|**Objectness Similarity: Capturing Object-Level Fidelity in 3D Scene Evaluation**|Yuiko Uchida et.al.|[2509.09143](http://arxiv.org/abs/2509.09143)|N/A|
 |**2025-09-10**|**Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction**|Davide Allegro et.al.|[2509.08813](http://arxiv.org/abs/2509.08813)|N/A|
@@ -234,6 +236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Fine-Grained Cross-View Localization via Local Feature Matching and Monocular Depth Priors**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|N/A|
 |**2025-09-09**|**Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation**|Steven Yang et.al.|[2509.08159](http://arxiv.org/abs/2509.08159)|N/A|
 |**2025-09-08**|**Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.|[2509.06741](http://arxiv.org/abs/2509.06741)|N/A|
 |**2025-09-07**|**S-LAM3D: Segmentation-Guided Monocular 3D Object Detection via Feature Space Fusion**|Diana-Alexandra Sas et.al.|[2509.05999](http://arxiv.org/abs/2509.05999)|N/A|
@@ -241,7 +244,7 @@ layout: default
 |**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|N/A|
 |**2025-09-03**|**DUViN: Diffusion-Based Underwater Visual Navigation via Knowledge-Transferred Depth Features**|Jinghe Yang et.al.|[2509.02983](http://arxiv.org/abs/2509.02983)|N/A|
 |**2025-09-02**|**Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation**|Lan Wei et.al.|[2509.02343](http://arxiv.org/abs/2509.02343)|N/A|
-|**2025-09-01**|**Generalizable Self-supervised Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|N/A|
+|**2025-09-14**|**EndoGeDE: Generalizable Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|N/A|
 |**2025-09-06**|**ER-LoRA: Effective-Rank Guided Adaptation for Weather-Generalized Depth Estimation**|Weilong Yan et.al.|[2509.00665](http://arxiv.org/abs/2509.00665)|N/A|
 |**2025-08-23**|**ARTPS: Depth-Enhanced Hybrid Anomaly Detection and Learnable Curiosity Score for Autonomous Rover Target Prioritization**|Poyraz Baydemir et.al.|[2509.00042](http://arxiv.org/abs/2509.00042)|N/A|
 |**2025-08-25**|**Impact of Target and Tool Visualization on Depth Perception and Usability in Optical See-Through AR**|Yue Yang et.al.|[2508.18481](http://arxiv.org/abs/2508.18481)|N/A|

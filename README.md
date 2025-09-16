@@ -1,4 +1,4 @@
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|N/A|
+|**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|N/A|
 |**2025-09-11**|**DualTrack: Sensorless 3D Ultrasound needs Local and Global Context**|Paul F. R. Wilson et.al.|[2509.09530](http://arxiv.org/abs/2509.09530)|N/A|
 |**2025-09-11**|**Objectness Similarity: Capturing Object-Level Fidelity in 3D Scene Evaluation**|Yuiko Uchida et.al.|[2509.09143](http://arxiv.org/abs/2509.09143)|N/A|
 |**2025-09-10**|**Calib3R: A 3D Foundation Model for Multi-Camera to Robot Calibration and 3D Metric-Scaled Scene Reconstruction**|Davide Allegro et.al.|[2509.08813](http://arxiv.org/abs/2509.08813)|N/A|
@@ -237,12 +239,13 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|N/A|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|N/A|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Fine-Grained Cross-View Localization via Local Feature Matching and Monocular Depth Priors**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|N/A|
 |**2025-09-09**|**Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation**|Steven Yang et.al.|[2509.08159](http://arxiv.org/abs/2509.08159)|N/A|
 |**2025-09-08**|**Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.|[2509.06741](http://arxiv.org/abs/2509.06741)|N/A|
 |**2025-09-07**|**S-LAM3D: Segmentation-Guided Monocular 3D Object Detection via Feature Space Fusion**|Diana-Alexandra Sas et.al.|[2509.05999](http://arxiv.org/abs/2509.05999)|N/A|
@@ -250,7 +253,7 @@
 |**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|N/A|
 |**2025-09-03**|**DUViN: Diffusion-Based Underwater Visual Navigation via Knowledge-Transferred Depth Features**|Jinghe Yang et.al.|[2509.02983](http://arxiv.org/abs/2509.02983)|N/A|
 |**2025-09-02**|**Physics-Informed Machine Learning with Adaptive Grids for Optical Microrobot Depth Estimation**|Lan Wei et.al.|[2509.02343](http://arxiv.org/abs/2509.02343)|N/A|
-|**2025-09-01**|**Generalizable Self-supervised Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|N/A|
+|**2025-09-14**|**EndoGeDE: Generalizable Monocular Depth Estimation with Mixture of Low-Rank Experts for Diverse Endoscopic Scenes**|Liangjing Shao et.al.|[2509.01206](http://arxiv.org/abs/2509.01206)|N/A|
 |**2025-09-06**|**ER-LoRA: Effective-Rank Guided Adaptation for Weather-Generalized Depth Estimation**|Weilong Yan et.al.|[2509.00665](http://arxiv.org/abs/2509.00665)|N/A|
 |**2025-08-23**|**ARTPS: Depth-Enhanced Hybrid Anomaly Detection and Learnable Curiosity Score for Autonomous Rover Target Prioritization**|Poyraz Baydemir et.al.|[2509.00042](http://arxiv.org/abs/2509.00042)|N/A|
 |**2025-08-25**|**Impact of Target and Tool Visualization on Depth Perception and Usability in Optical See-Through AR**|Yue Yang et.al.|[2508.18481](http://arxiv.org/abs/2508.18481)|N/A|
@@ -389,7 +392,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|N/A|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|N/A|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -515,7 +518,7 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|N/A|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|N/A|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## Image Matching
 
@@ -572,7 +575,7 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|N/A|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|N/A|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -1055,7 +1058,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|N/A|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|N/A|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
