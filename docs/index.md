@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Integrating Prior Observations for Incremental 3D Scene Graph Prediction**|Marian Renz et.al.|[2509.11895](http://arxiv.org/abs/2509.11895)|N/A|
+|**2025-09-15**|**Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps**|Zhexi Peng et.al.|[2509.11574](http://arxiv.org/abs/2509.11574)|N/A|
+|**2025-09-14**|**3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment**|Nhut Le et.al.|[2509.11097](http://arxiv.org/abs/2509.11097)|N/A|
+|**2025-09-14**|**SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar**|Omkar Shailendra Vengurlekar et.al.|[2509.11087](http://arxiv.org/abs/2509.11087)|N/A|
 |**2025-09-12**|**Event Camera Guided Visual Media Restoration & 3D Reconstruction: A Survey**|Aupendu Kar et.al.|[2509.09971](http://arxiv.org/abs/2509.09971)|N/A|
 |**2025-09-09**|**Australian Supermarket Object Set (ASOS): A Benchmark Dataset of Physical Objects and 3D Models for Robotics and Computer Vision**|Akansel Cosgun et.al.|[2509.09720](http://arxiv.org/abs/2509.09720)|N/A|
 |**2025-09-11**|**DualTrack: Sensorless 3D Ultrasound needs Local and Global Context**|Paul F. R. Wilson et.al.|[2509.09530](http://arxiv.org/abs/2509.09530)|N/A|
@@ -236,6 +240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**BREA-Depth: Bronchoscopy Realistic Airway-geometric Depth Estimation**|Francis Xiatian Zhang et.al.|[2509.11885](http://arxiv.org/abs/2509.11885)|N/A|
 |**2025-09-11**|**Fine-Grained Cross-View Localization via Local Feature Matching and Monocular Depth Priors**|Zimin Xia et.al.|[2509.09792](http://arxiv.org/abs/2509.09792)|N/A|
 |**2025-09-09**|**Zero-Shot Metric Depth Estimation via Monocular Visual-Inertial Rescaling for Autonomous Aerial Navigation**|Steven Yang et.al.|[2509.08159](http://arxiv.org/abs/2509.08159)|N/A|
 |**2025-09-08**|**Event Spectroscopy: Event-based Multispectral and Depth Sensing using Structured Light**|Christian Geckeler et.al.|[2509.06741](http://arxiv.org/abs/2509.06741)|N/A|
@@ -387,6 +392,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-14**|**UnLoc: Leveraging Depth Uncertainties for Floorplan Localization**|Matthias Wüest et.al.|[2509.11301](http://arxiv.org/abs/2509.11301)|N/A|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|N/A|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|N/A|
 |**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|N/A|
@@ -566,6 +572,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-15**|**Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting**|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|N/A|
+|**2025-09-15**|**A Controllable 3D Deepfake Generation Framework with Gaussian Splatting**|Wending Liu et.al.|[2509.11624](http://arxiv.org/abs/2509.11624)|N/A|
+|**2025-09-14**|**On the Skinning of Gaussian Avatars**|Nikolaos Zioulis et.al.|[2509.11411](http://arxiv.org/abs/2509.11411)|N/A|
+|**2025-09-14**|**ROSGS: Relightable Outdoor Scenes With Gaussian Splatting**|Lianjun Liao et.al.|[2509.11275](http://arxiv.org/abs/2509.11275)|N/A|
+|**2025-09-14**|**Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.|[2509.11169](http://arxiv.org/abs/2509.11169)|N/A|
+|**2025-09-14**|**SVR-GS: Spatially Variant Regularization for Probabilistic Masks in 3D Gaussian Splatting**|Ashkan Taghipour et.al.|[2509.11116](http://arxiv.org/abs/2509.11116)|N/A|
+|**2025-09-13**|**AD-GS: Alternating Densification for Sparse-Input 3D Gaussian Splatting**|Gurutva Patle et.al.|[2509.11003](http://arxiv.org/abs/2509.11003)|N/A|
+|**2025-09-13**|**Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation**|Yi-Ruei Liu et.al.|[2509.10759](http://arxiv.org/abs/2509.10759)|N/A|
 |**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|N/A|
 |**2025-09-09**|**HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting**|Yimin Pan et.al.|[2509.07774](http://arxiv.org/abs/2509.07774)|N/A|
 |**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|N/A|
