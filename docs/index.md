@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-18**|**SPATIALGEN: Layout-guided 3D Indoor Scene Generation**|Chuan Fang et.al.|[2509.14981](http://arxiv.org/abs/2509.14981)|N/A|
+|**2025-09-19**|**SPATIALGEN: Layout-guided 3D Indoor Scene Generation**|Chuan Fang et.al.|[2509.14981](http://arxiv.org/abs/2509.14981)|N/A|
 |**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|Xingwu Zhang et.al.|[2509.14966](http://arxiv.org/abs/2509.14966)|N/A|
 |**2025-09-18**|**Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification**|Xiang Tuo et.al.|[2509.14958](http://arxiv.org/abs/2509.14958)|N/A|
 |**2025-09-17**|**Gaussian Alignment for Relative Camera Pose Estimation via Single-View Reconstruction**|Yumin Li et.al.|[2509.13652](http://arxiv.org/abs/2509.13652)|N/A|
 |**2025-09-16**|**Semantic 3D Reconstructions with SLAM for Central Airway Obstruction**|Ayberk Acar et.al.|[2509.13541](http://arxiv.org/abs/2509.13541)|N/A|
-|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|N/A|
+|**2025-09-18**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|N/A|
 |**2025-09-15**|**Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles**|Àlmos Veres-Vitàlyos et.al.|[2509.12458](http://arxiv.org/abs/2509.12458)|N/A|
 |**2025-09-10**|**Artificial Intelligence in Breast Cancer Care: Transforming Preoperative Planning and Patient Education with 3D Reconstruction**|Mustafa Khanbhai et.al.|[2509.12242](http://arxiv.org/abs/2509.12242)|N/A|
 |**2025-09-15**|**Integrating Prior Observations for Incremental 3D Scene Graph Prediction**|Marian Renz et.al.|[2509.11895](http://arxiv.org/abs/2509.11895)|N/A|
