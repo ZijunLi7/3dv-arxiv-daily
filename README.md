@@ -1,4 +1,4 @@
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes**|Mohamed Ebbed et.al.|[2509.15892](http://arxiv.org/abs/2509.15892)|N/A|
+|**2025-09-17**|**ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images**|Jaydeep Rade et.al.|[2509.15242](http://arxiv.org/abs/2509.15242)|N/A|
 |**2025-09-19**|**SPATIALGEN: Layout-guided 3D Indoor Scene Generation**|Chuan Fang et.al.|[2509.14981](http://arxiv.org/abs/2509.14981)|N/A|
 |**2025-09-18**|**RoboEye: Enhancing 2D Robotic Object Identification with Selective 3D Geometric Keypoint Matching**|Xingwu Zhang et.al.|[2509.14966](http://arxiv.org/abs/2509.14966)|N/A|
-|**2025-09-18**|**Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification**|Xiang Tuo et.al.|[2509.14958](http://arxiv.org/abs/2509.14958)|N/A|
+|**2025-09-21**|**Seeing 3D Through 2D Lenses: 3D Few-Shot Class-Incremental Learning via Cross-Modal Geometric Rectification**|Tuo Xiang et.al.|[2509.14958](http://arxiv.org/abs/2509.14958)|N/A|
 |**2025-09-17**|**Gaussian Alignment for Relative Camera Pose Estimation via Single-View Reconstruction**|Yumin Li et.al.|[2509.13652](http://arxiv.org/abs/2509.13652)|N/A|
 |**2025-09-16**|**Semantic 3D Reconstructions with SLAM for Central Airway Obstruction**|Ayberk Acar et.al.|[2509.13541](http://arxiv.org/abs/2509.13541)|N/A|
 |**2025-09-18**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|N/A|
@@ -251,12 +253,14 @@
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|N/A|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853](http://arxiv.org/abs/2503.00853)|N/A|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**Towards Sharper Object Boundaries in Self-Supervised Depth Estimation**|Aurélien Cecille et.al.|[2509.15987](http://arxiv.org/abs/2509.15987)|N/A|
+|**2025-09-19**|**Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation**|Lorenzo Cirillo et.al.|[2509.15980](http://arxiv.org/abs/2509.15980)|N/A|
 |**2025-09-18**|**Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation**|Luca Bartolomei et.al.|[2509.15224](http://arxiv.org/abs/2509.15224)|N/A|
 |**2025-09-18**|**UCorr: Wire Detection and Depth Estimation for Autonomous Drones**|Benedikt Kolbeinsson et.al.|[2509.14989](http://arxiv.org/abs/2509.14989)|N/A|
 |**2025-09-18**|**MapAnything: Mapping Urban Assets using Single Street-View Images**|Miriam Louise Carnot et.al.|[2509.14839](http://arxiv.org/abs/2509.14839)|N/A|
@@ -410,7 +414,7 @@
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|N/A|
 |**2025-03-03**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|N/A|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -542,12 +546,13 @@
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|N/A|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|N/A|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](http://arxiv.org/abs/2509.16017)|N/A|
 |**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|N/A|
 |**2025-09-10**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|N/A|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|N/A|
@@ -599,12 +604,18 @@
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|N/A|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|N/A|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-19**|**RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars**|Weiyi Xiong et.al.|[2509.16119](http://arxiv.org/abs/2509.16119)|N/A|
+|**2025-09-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al.|[2509.15871](http://arxiv.org/abs/2509.15871)|N/A|
+|**2025-09-19**|**Camera Splatting for Continuous View Optimization**|Gahye Lee et.al.|[2509.15677](http://arxiv.org/abs/2509.15677)|N/A|
+|**2025-09-19**|**FingerSplat: Contactless Fingerprint 3D Reconstruction and Generation based on 3D Gaussian Splatting**|Yuwei Jia et.al.|[2509.15648](http://arxiv.org/abs/2509.15648)|N/A|
+|**2025-09-19**|**GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading**|Donghyun Lee et.al.|[2509.15645](http://arxiv.org/abs/2509.15645)|N/A|
+|**2025-09-19**|**MS-GS: Multi-Appearance Sparse-View 3D Gaussian Splatting in the Wild**|Deming Li et.al.|[2509.15548](http://arxiv.org/abs/2509.15548)|N/A|
 |**2025-09-18**|**NeRF-based Visualization of 3D Cues Supporting Data-Driven Spacecraft Pose Estimation**|Antoine Legrand et.al.|[2509.14890](http://arxiv.org/abs/2509.14890)|N/A|
 |**2025-09-18**|**FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction**|Jinlong Fan et.al.|[2509.14739](http://arxiv.org/abs/2509.14739)|N/A|
 |**2025-09-17**|**Perception-Integrated Safety Critical Control via Analytic Collision Cone Barrier Functions on 3D Gaussian Splatting**|Dario Tscholl et.al.|[2509.14421](http://arxiv.org/abs/2509.14421)|N/A|
@@ -1101,7 +1112,7 @@
 |**2025-03-07**|**EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation**|Chao Zhang et.al.|[2503.05162](http://arxiv.org/abs/2503.05162)|N/A|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|N/A|
 
-<p align=right>(<a href=#updated-on-20250922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
