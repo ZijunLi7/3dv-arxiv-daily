@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-23**|**3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction**|Maria Taktasheva et.al.|[2509.16423](http://arxiv.org/abs/2509.16423)|N/A|
 |**2025-09-19**|**MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes**|Mohamed Ebbed et.al.|[2509.15892](http://arxiv.org/abs/2509.15892)|N/A|
 |**2025-09-17**|**ProFusion: 3D Reconstruction of Protein Complex Structures from Multi-view AFM Images**|Jaydeep Rade et.al.|[2509.15242](http://arxiv.org/abs/2509.15242)|N/A|
 |**2025-09-19**|**SPATIALGEN: Layout-guided 3D Indoor Scene Generation**|Chuan Fang et.al.|[2509.14981](http://arxiv.org/abs/2509.14981)|N/A|
@@ -250,6 +251,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds**|Bin Zhao et.al.|[2509.18068](http://arxiv.org/abs/2509.18068)|N/A|
+|**2025-09-22**|**Predicting Depth Maps from Single RGB Images and Addressing Missing Information in Depth Estimation**|Mohamad Mofeed Chaar et.al.|[2509.17686](http://arxiv.org/abs/2509.17686)|N/A|
+|**2025-09-19**|**StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes**|Zhengri Wu et.al.|[2509.16415](http://arxiv.org/abs/2509.16415)|N/A|
 |**2025-09-19**|**Towards Sharper Object Boundaries in Self-Supervised Depth Estimation**|Aurélien Cecille et.al.|[2509.15987](http://arxiv.org/abs/2509.15987)|N/A|
 |**2025-09-19**|**Shedding Light on Depth: Explainability Assessment in Monocular Depth Estimation**|Lorenzo Cirillo et.al.|[2509.15980](http://arxiv.org/abs/2509.15980)|N/A|
 |**2025-09-18**|**Depth AnyEvent: A Cross-Modal Distillation Paradigm for Event-Based Monocular Depth Estimation**|Luca Bartolomei et.al.|[2509.15224](http://arxiv.org/abs/2509.15224)|N/A|
@@ -409,6 +413,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-21**|**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|N/A|
 |**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|Arda Kabadayi et.al.|[2509.14985](http://arxiv.org/abs/2509.14985)|N/A|
 |**2025-09-18**|**Chain-of-Thought Re-ranking for Image Retrieval Tasks**|Shangrong Wu et.al.|[2509.14746](http://arxiv.org/abs/2509.14746)|N/A|
 |**2025-09-18**|**DiffVL: Diffusion-Based Visual Localization on 2D Maps via BEV-Conditioned GPS Denoising**|Li Gao et.al.|[2509.14565](http://arxiv.org/abs/2509.14565)|N/A|
@@ -539,9 +544,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-20**|**PM25Vision: A Large-Scale Benchmark Dataset for Visual Estimation of Air Quality**|Yang Han et.al.|[2509.16519](http://arxiv.org/abs/2509.16519)|N/A|
 |**2025-09-19**|**DistillMatch: Leveraging Knowledge Distillation from Vision Foundation Model for Multimodal Image Matching**|Meng Yang et.al.|[2509.16017](http://arxiv.org/abs/2509.16017)|N/A|
 |**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|N/A|
-|**2025-09-10**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|N/A|
+|**2025-09-23**|**Handling Multiple Hypotheses in Coarse-to-Fine Dense Image Matching**|Matthieu Vilain et.al.|[2509.08805](http://arxiv.org/abs/2509.08805)|N/A|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|N/A|
 |**2025-08-14**|**Revisiting Cross-View Localization from Image Matching**|Panwang Xia et.al.|[2508.10716](http://arxiv.org/abs/2508.10716)|N/A|
 |**2025-08-14**|**A Sub-Pixel Multimodal Optical Remote Sensing Images Matching Method**|Tao Huang et.al.|[2508.10294](http://arxiv.org/abs/2508.10294)|N/A|
@@ -595,6 +601,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen et.al.|[2509.17864](http://arxiv.org/abs/2509.17864)|N/A|
+|**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|N/A|
+|**2025-09-22**|**Neural-MMGS: Multi-modal Neural Gaussian Splats for Large-Scale Scene Reconstruction**|Sitian Shen et.al.|[2509.17762](http://arxiv.org/abs/2509.17762)|N/A|
+|**2025-09-23**|**EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**|Gunjan Chhablani et.al.|[2509.17430](http://arxiv.org/abs/2509.17430)|N/A|
+|**2025-09-22**|**SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction**|Neham Jain et.al.|[2509.17329](http://arxiv.org/abs/2509.17329)|N/A|
+|**2025-09-21**|**SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views**|Ranran Huang et.al.|[2509.17246](http://arxiv.org/abs/2509.17246)|N/A|
+|**2025-09-21**|**DT-NeRF: A Diffusion and Transformer-Based Optimization Approach for Neural Radiance Fields in 3D Reconstruction**|Bo Liu et.al.|[2509.17232](http://arxiv.org/abs/2509.17232)|N/A|
+|**2025-09-23**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](http://arxiv.org/abs/2509.17083)|N/A|
+|**2025-09-21**|**ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM**|Amanuel T. Dufera et.al.|[2509.16863](http://arxiv.org/abs/2509.16863)|N/A|
+|**2025-09-20**|**MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging**|Kacper Marzol et.al.|[2509.16806](http://arxiv.org/abs/2509.16806)|N/A|
 |**2025-09-19**|**RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars**|Weiyi Xiong et.al.|[2509.16119](http://arxiv.org/abs/2509.16119)|N/A|
 |**2025-09-19**|**Zero-Shot Visual Grounding in 3D Gaussians via View Retrieval**|Liwei Liao et.al.|[2509.15871](http://arxiv.org/abs/2509.15871)|N/A|
 |**2025-09-19**|**Camera Splatting for Continuous View Optimization**|Gahye Lee et.al.|[2509.15677](http://arxiv.org/abs/2509.15677)|N/A|
