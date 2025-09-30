@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**SRHand: Super-Resolving Hand Images and 3D Shapes via View/Pose-aware Neural Image Representations and Explicit 3D Meshes**|Minje Kim et.al.|[2509.21859](http://arxiv.org/abs/2509.21859)|N/A|
 |**2025-09-25**|**Finding 3D Positions of Distant Objects from Noisy Camera Movement and Semantic Segmentation Sequences**|Julius Pesonen et.al.|[2509.20906](http://arxiv.org/abs/2509.20906)|N/A|
 |**2025-09-24**|**Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections**|Jing Wu et.al.|[2509.20607](http://arxiv.org/abs/2509.20607)|N/A|
 |**2025-09-23**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/abs/2509.20401)|N/A|
@@ -255,6 +256,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](http://arxiv.org/abs/2509.22627)|N/A|
+|**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|N/A|
+|**2025-09-26**|**DualFocus: Depth from Focus with Spatio-Focal Dual Variational Constraints**|Sungmin Woo et.al.|[2509.21992](http://arxiv.org/abs/2509.21992)|N/A|
 |**2025-09-24**|**VIMD: Monocular Visual-Inertial Motion and Depth Estimation**|Saimouli Katragadda et.al.|[2509.19713](http://arxiv.org/abs/2509.19713)|N/A|
 |**2025-09-23**|**Zero-shot Monocular Metric Depth for Endoscopic Images**|Nicolas Toussaint et.al.|[2509.18642](http://arxiv.org/abs/2509.18642)|N/A|
 |**2025-09-18**|**URNet: Uncertainty-aware Refinement Network for Event-based Stereo Depth Estimation**|Yifeng Cheng et.al.|[2509.18184](http://arxiv.org/abs/2509.18184)|N/A|
@@ -610,6 +614,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-26**|**Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting**|Yasmine Omri et.al.|[2509.22615](http://arxiv.org/abs/2509.22615)|N/A|
+|**2025-09-26**|**GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition**|Dinh Minh Nguyen et.al.|[2509.22276](http://arxiv.org/abs/2509.22276)|N/A|
+|**2025-09-26**|**Polysemous Language Gaussian Splatting via Matching-based Mask Lifting**|Jiayu Ding et.al.|[2509.22225](http://arxiv.org/abs/2509.22225)|N/A|
+|**2025-09-26**|**Large Material Gaussian Model for Relightable 3D Generation**|Jingrui Ye et.al.|[2509.22112](http://arxiv.org/abs/2509.22112)|N/A|
 |**2025-09-23**|**SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing**|Yiyu Li et.al.|[2509.20400](http://arxiv.org/abs/2509.20400)|N/A|
 |**2025-09-24**|**GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes**|Guo Chen et.al.|[2509.19937](http://arxiv.org/abs/2509.19937)|N/A|
 |**2025-09-24**|**Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering**|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|N/A|
