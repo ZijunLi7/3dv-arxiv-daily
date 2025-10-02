@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.02
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**TTT3R: 3D Reconstruction as Test-Time Training**|Xingyu Chen et.al.|[2509.26645](http://arxiv.org/abs/2509.26645)|N/A|
+|**2025-09-30**|**IPDRecon: Image-Plane Geometric Decoding for View-Invariant Indoor Scene Reconstruction**|Mingyang Li et.al.|[2509.25744](http://arxiv.org/abs/2509.25744)|N/A|
+|**2025-09-29**|**PAD3R: Pose-Aware Dynamic 3D Reconstruction from Casual Videos**|Ting-Hsuan Liao et.al.|[2509.25183](http://arxiv.org/abs/2509.25183)|N/A|
 |**2025-09-29**|**Finding an Initial Probe Pose in Teleoperated Robotic Echocardiography via 2D LiDAR-Based 3D Reconstruction**|Mariadas Capsran Roshan et.al.|[2509.24867](http://arxiv.org/abs/2509.24867)|N/A|
 |**2025-09-29**|**UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections**|Zeyu Cai et.al.|[2509.24817](http://arxiv.org/abs/2509.24817)|N/A|
 |**2025-09-29**|**Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy**|Haijier Chen et.al.|[2509.24385](http://arxiv.org/abs/2509.24385)|N/A|
@@ -263,6 +266,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|N/A|
+|**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498](http://arxiv.org/abs/2509.26498)|N/A|
+|**2025-10-01**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/abs/2509.25413)|N/A|
 |**2025-09-30**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](http://arxiv.org/abs/2509.25077)|N/A|
 |**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](http://arxiv.org/abs/2509.23991)|N/A|
 |**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](http://arxiv.org/abs/2509.23733)|N/A|
@@ -434,6 +440,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|N/A|
+|**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|N/A|
+|**2025-09-30**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|N/A|
+|**2025-09-29**|**Robust Visual Localization in Compute-Constrained Environments by Salient Edge Rendering and Weighted Hamming Similarity**|Tu-Hoa Pham et.al.|[2509.25520](http://arxiv.org/abs/2509.25520)|N/A|
 |**2025-09-29**|**Performance-Efficiency Trade-off for Fashion Image Retrieval**|Julio Hurtado et.al.|[2509.24477](http://arxiv.org/abs/2509.24477)|N/A|
 |**2025-09-28**|**Prepare for Warp Speed: Sub-millisecond Visual Place Recognition Using Event Cameras**|Vignesh Ramanathan et.al.|[2509.24094](http://arxiv.org/abs/2509.24094)|N/A|
 |**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|N/A|
@@ -626,10 +636,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting**|Hanzhou Liu et.al.|[2509.26455](http://arxiv.org/abs/2509.26455)|N/A|
+|**2025-09-30**|**PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion**|Zhiwei Zhang et.al.|[2509.26008](http://arxiv.org/abs/2509.26008)|N/A|
+|**2025-09-29**|**GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification**|Yijia Weng et.al.|[2509.25603](http://arxiv.org/abs/2509.25603)|N/A|
 |**2025-09-29**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](http://arxiv.org/abs/2509.25075)|N/A|
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|N/A|
 |**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|N/A|
-|**2025-09-29**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|N/A|
+|**2025-10-01**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|N/A|
 |**2025-09-29**|**OMeGa: Joint Optimization of Explicit Meshes and Gaussian Splats for Robust Scene-Level Surface Reconstruction**|Yuhang Cao et.al.|[2509.24308](http://arxiv.org/abs/2509.24308)|N/A|
 |**2025-09-28**|**CrashSplat: 2D to 3D Vehicle Damage Segmentation in Gaussian Splatting**|Dragoş-Andrei Chileban et.al.|[2509.23947](http://arxiv.org/abs/2509.23947)|N/A|
 |**2025-09-28**|**From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations**|Javed Ahmad et.al.|[2509.23555](http://arxiv.org/abs/2509.23555)|N/A|
