@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -272,6 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Benchmark on Monocular Metric Depth Estimation in Wildlife Setting**|Niccolò Niccoli et.al.|[2510.04723](http://arxiv.org/abs/2510.04723)|N/A|
 |**2025-09-30**|**DA $^2$ : Depth Anything in Any Direction**|Haodong Li et.al.|[2509.26618](http://arxiv.org/abs/2509.26618)|N/A|
 |**2025-09-30**|**DEPTHOR++: Robust Depth Enhancement from a Real-World Lightweight dToF and RGB Guidance**|Jijun Xiang et.al.|[2509.26498](http://arxiv.org/abs/2509.26498)|N/A|
 |**2025-10-01**|**DepthLM: Metric Depth From Vision Language Models**|Zhipeng Cai et.al.|[2509.25413](http://arxiv.org/abs/2509.25413)|N/A|
@@ -446,6 +447,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-05**|**Flexible and Efficient Spatio-Temporal Transformer for Sequential Visual Place Recognition**|Yu Kiu et.al.|[2510.04282](http://arxiv.org/abs/2510.04282)|N/A|
+|**2025-10-04**|**The Overlooked Value of Test-time Reference Sets in Visual Place Recognition**|Mubariz Zaffar et.al.|[2510.03751](http://arxiv.org/abs/2510.03751)|N/A|
 |**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|N/A|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|N/A|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|N/A|
@@ -645,6 +648,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|N/A|
 |**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|N/A|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|N/A|
 |**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|N/A|
