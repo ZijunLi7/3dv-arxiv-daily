@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Iterative Motion Compensation for Canonical 3D Reconstruction from UAV Plant Images Captured in Windy Conditions**|Andre Rochow et.al.|[2510.15491](http://arxiv.org/abs/2510.15491)|N/A|
+|**2025-10-17**|**MRASfM: Multi-Camera Reconstruction and Aggregation through Structure-from-Motion in Driving Scenes**|Lingfeng Xuan et.al.|[2510.15467](http://arxiv.org/abs/2510.15467)|N/A|
+|**2025-10-17**|**CuSfM: CUDA-Accelerated Structure-from-Motion**|Jingrui Yu et.al.|[2510.15271](http://arxiv.org/abs/2510.15271)|N/A|
 |**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](http://arxiv.org/abs/2510.14960)|N/A|
 |**2025-10-15**|**FlashWorld: High-quality 3D Scene Generation within Seconds**|Xinyang Li et.al.|[2510.13678](http://arxiv.org/abs/2510.13678)|N/A|
 |**2025-10-11**|**EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection**|Huaizhi Qu et.al.|[2510.13652](http://arxiv.org/abs/2510.13652)|N/A|
@@ -679,6 +682,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction**|Ting-Yu Yen et.al.|[2510.15386](http://arxiv.org/abs/2510.15386)|N/A|
 |**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin et.al.|[2510.14705](http://arxiv.org/abs/2510.14705)|N/A|
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu et.al.|[2510.14564](http://arxiv.org/abs/2510.14564)|N/A|
 |**2025-10-17**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin et.al.|[2510.14081](http://arxiv.org/abs/2510.14081)|N/A|
