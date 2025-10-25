@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.10.24
+## Updated on 2025.10.25
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|N/A|
+|**2025-10-23**|**OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects**|Mark He Huang et.al.|[2510.20605](http://arxiv.org/abs/2510.20605)|N/A|
 |**2025-10-21**|**PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting**|Changkun Liu et.al.|[2510.18714](http://arxiv.org/abs/2510.18714)|N/A|
 |**2025-10-21**|**Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views**|Zhangquan Chen et.al.|[2510.18632](http://arxiv.org/abs/2510.18632)|N/A|
 |**2025-10-20**|**Adapting Stereo Vision From Objects To 3D Lunar Surface Reconstruction with the StereoLunar Dataset**|Clementine Grethen et.al.|[2510.18172](http://arxiv.org/abs/2510.18172)|N/A|
