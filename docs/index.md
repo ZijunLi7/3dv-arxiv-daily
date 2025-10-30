@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments**|Raman Jha et.al.|[2510.23928](http://arxiv.org/abs/2510.23928)|N/A|
 |**2025-10-28**|**IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction**|Hao Li et.al.|[2510.22706](http://arxiv.org/abs/2510.22706)|N/A|
 |**2025-10-25**|**GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation**|Phillip Mueller et.al.|[2510.22337](http://arxiv.org/abs/2510.22337)|N/A|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|N/A|
@@ -702,6 +703,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation**|Haotian Zhou et.al.|[2510.24118](http://arxiv.org/abs/2510.24118)|N/A|
+|**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan et.al.|[2510.23988](http://arxiv.org/abs/2510.23988)|N/A|
+|**2025-10-27**|**PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors**|Xirui Jin et.al.|[2510.23930](http://arxiv.org/abs/2510.23930)|N/A|
 |**2025-10-27**|**Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation**|Anthony Opipari et.al.|[2510.23521](http://arxiv.org/abs/2510.23521)|N/A|
 |**2025-10-27**|**VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting**|Hoonhee Cho et.al.|[2510.23205](http://arxiv.org/abs/2510.23205)|N/A|
 |**2025-10-27**|**EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction**|Taoyu Wu et.al.|[2510.23087](http://arxiv.org/abs/2510.23087)|N/A|
