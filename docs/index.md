@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2025-10-30**|**PointSt3R: Point Tracking through 3D Grounded Correspondence**|Rhodri Guerrier et.al.|[2510.26443](http://arxiv.org/abs/2510.26443)|N/A|
 |**2025-10-29**|**EA3D: Online Open-World 3D Object Extraction from Streaming Videos**|Xiaoyu Zhou et.al.|[2510.25146](http://arxiv.org/abs/2510.25146)|N/A|
 |**2025-10-27**|**Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments**|Raman Jha et.al.|[2510.23928](http://arxiv.org/abs/2510.23928)|N/A|
-|**2025-10-28**|**IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction**|Hao Li et.al.|[2510.22706](http://arxiv.org/abs/2510.22706)|N/A|
+|**2025-10-31**|**IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction**|Hao Li et.al.|[2510.22706](http://arxiv.org/abs/2510.22706)|N/A|
 |**2025-10-25**|**GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation**|Phillip Mueller et.al.|[2510.22337](http://arxiv.org/abs/2510.22337)|N/A|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|N/A|
 |**2025-10-23**|**OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects**|Mark He Huang et.al.|[2510.20605](http://arxiv.org/abs/2510.20605)|N/A|
@@ -305,7 +305,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|N/A|
 |**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|N/A|
-|**2025-10-22**|**How to Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|N/A|
+|**2025-10-30**|**How Should One Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|N/A|
 |**2025-10-21**|**GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation**|Tuan Pham et.al.|[2510.18291](http://arxiv.org/abs/2510.18291)|N/A|
 |**2025-10-18**|**Self-Supervised Learning to Fly using Efficient Semantic Segmentation and Metric Depth Estimation for Low-Cost Autonomous UAVs**|Sebastian Mocanu et.al.|[2510.16624](http://arxiv.org/abs/2510.16624)|N/A|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|N/A|
