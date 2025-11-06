@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.05
+## Updated on 2025.11.06
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-03**|**Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction**|Ya Wen et.al.|[2511.01399](http://arxiv.org/abs/2511.01399)|N/A|
+|**2025-11-01**|**SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping**|Lingpeng Chen et.al.|[2511.00392](http://arxiv.org/abs/2511.00392)|N/A|
+|**2025-11-01**|**Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery**|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|N/A|
 |**2025-10-30**|**PointSt3R: Point Tracking through 3D Grounded Correspondence**|Rhodri Guerrier et.al.|[2510.26443](http://arxiv.org/abs/2510.26443)|N/A|
 |**2025-10-29**|**EA3D: Online Open-World 3D Object Extraction from Streaming Videos**|Xiaoyu Zhou et.al.|[2510.25146](http://arxiv.org/abs/2510.25146)|N/A|
 |**2025-10-27**|**Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments**|Raman Jha et.al.|[2510.23928](http://arxiv.org/abs/2510.23928)|N/A|
@@ -303,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Monocular absolute depth estimation from endoscopy via domain-invariant feature learning and latent consistency**|Hao Li et.al.|[2511.02247](http://arxiv.org/abs/2511.02247)|N/A|
 |**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|N/A|
 |**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](http://arxiv.org/abs/2510.23574)|N/A|
 |**2025-10-30**|**How Should One Evaluate Monocular Depth Estimation?**|Siyang Wu et.al.|[2510.19814](http://arxiv.org/abs/2510.19814)|N/A|
@@ -491,6 +495,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|N/A|
+|**2025-11-02**|**Dynamic Multi-level Weighted Alignment Network for Zero-shot Sketch-based Image Retrieval**|Hanwen Su et.al.|[2511.00925](http://arxiv.org/abs/2511.00925)|N/A|
 |**2025-10-30**|**Scaling Image Geo-Localization to Continent Level**|Philipp Lindenberger et.al.|[2510.26795](http://arxiv.org/abs/2510.26795)|N/A|
 |**2025-10-29**|**Instance-Level Composed Image Retrieval**|Bill Psomas et.al.|[2510.25387](http://arxiv.org/abs/2510.25387)|N/A|
 |**2025-10-28**|**DualCap: Enhancing Lightweight Image Captioning via Dual Retrieval with Similar Scenes Visual Prompts**|Binbin Li et.al.|[2510.24813](http://arxiv.org/abs/2510.24813)|N/A|
@@ -649,6 +655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|N/A|
 |**2025-10-26**|**FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment**|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|N/A|
 |**2025-10-08**|**StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance**|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|N/A|
 |**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|N/A|
@@ -709,6 +716,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](http://arxiv.org/abs/2511.02207)|N/A|
+|**2025-11-01**|**4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting**|Chun-Tin Wu et.al.|[2511.00560](http://arxiv.org/abs/2511.00560)|N/A|
 |**2025-10-31**|**SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction**|Wenfeng Huang et.al.|[2510.27318](http://arxiv.org/abs/2510.27318)|N/A|
 |**2025-10-30**|**DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting**|Moonsoo Jeong et.al.|[2510.26921](http://arxiv.org/abs/2510.26921)|N/A|
 |**2025-10-30**|**The Impact and Outlook of 3D Gaussian Splatting**|Bernhard Kerbl et.al.|[2510.26694](http://arxiv.org/abs/2510.26694)|N/A|
