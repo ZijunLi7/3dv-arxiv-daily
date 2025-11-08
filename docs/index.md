@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.11.07
+## Updated on 2025.11.08
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|N/A|
+|**2025-11-06**|**Near-Lossless 3D Voxel Representation Free from Iso-surface**|Yihao Luo et.al.|[2511.04029](http://arxiv.org/abs/2511.04029)|N/A|
+|**2025-11-06**|**Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images**|Sam Bahrami et.al.|[2511.03970](http://arxiv.org/abs/2511.03970)|N/A|
+|**2025-11-06**|**Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization**|Zhejia Cai et.al.|[2511.03950](http://arxiv.org/abs/2511.03950)|N/A|
 |**2025-11-03**|**Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction**|Ya Wen et.al.|[2511.01399](http://arxiv.org/abs/2511.01399)|N/A|
 |**2025-11-01**|**SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping**|Lingpeng Chen et.al.|[2511.00392](http://arxiv.org/abs/2511.00392)|N/A|
 |**2025-11-01**|**Oitijjo-3D: Generative AI Framework for Rapid 3D Heritage Reconstruction from Street View Imagery**|Momen Khandoker Ope et.al.|[2511.00362](http://arxiv.org/abs/2511.00362)|N/A|
@@ -306,6 +310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/abs/2511.04388)|N/A|
 |**2025-11-04**|**EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation**|Sadiq Layi Macaulay et.al.|[2511.02953](http://arxiv.org/abs/2511.02953)|N/A|
 |**2025-11-04**|**Monocular absolute depth estimation from endoscopy via domain-invariant feature learning and latent consistency**|Hao Li et.al.|[2511.02247](http://arxiv.org/abs/2511.02247)|N/A|
 |**2025-10-29**|**SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments**|Hongjie Zhang et.al.|[2510.25463](http://arxiv.org/abs/2510.25463)|N/A|
@@ -718,6 +723,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665](http://arxiv.org/abs/2511.04665)|N/A|
+|**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](http://arxiv.org/abs/2511.04283)|N/A|
+|**2025-11-06**|**CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation**|Yuwen Tao et.al.|[2511.03992](http://arxiv.org/abs/2511.03992)|N/A|
 |**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](http://arxiv.org/abs/2511.02207)|N/A|
 |**2025-11-01**|**4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting**|Chun-Tin Wu et.al.|[2511.00560](http://arxiv.org/abs/2511.00560)|N/A|
 |**2025-10-31**|**SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction**|Wenfeng Huang et.al.|[2510.27318](http://arxiv.org/abs/2510.27318)|N/A|
