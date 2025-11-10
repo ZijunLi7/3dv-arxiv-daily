@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|N/A|
-|**2025-11-06**|**Near-Lossless 3D Voxel Representation Free from Iso-surface**|Yihao Luo et.al.|[2511.04029](http://arxiv.org/abs/2511.04029)|N/A|
+|**2025-11-07**|**Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface**|Yihao Luo et.al.|[2511.04029](http://arxiv.org/abs/2511.04029)|N/A|
 |**2025-11-06**|**Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images**|Sam Bahrami et.al.|[2511.03970](http://arxiv.org/abs/2511.03970)|N/A|
 |**2025-11-06**|**Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization**|Zhejia Cai et.al.|[2511.03950](http://arxiv.org/abs/2511.03950)|N/A|
 |**2025-11-03**|**Semantic BIM enrichment for firefighting assets: Fire-ART dataset and panoramic image-based 3D reconstruction**|Ya Wen et.al.|[2511.01399](http://arxiv.org/abs/2511.01399)|N/A|
