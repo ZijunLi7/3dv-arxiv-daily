@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.11.14
+## Updated on 2025.11.16
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning**|Xinran Yang et.al.|[2511.10040](http://arxiv.org/abs/2511.10040)|N/A|
+|**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|N/A|
+|**2025-11-12**|**Lumos3D: A Single-Forward Framework for Low-Light 3D Scene Restoration**|Hanzhou Liu et.al.|[2511.09818](http://arxiv.org/abs/2511.09818)|N/A|
+|**2025-11-11**|**VEDA: 3D Molecular Generation via Variance-Exploding Diffusion with Annealing**|Peining Zhang et.al.|[2511.09568](http://arxiv.org/abs/2511.09568)|N/A|
+|**2025-11-12**|**DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation**|Jerrin Bright et.al.|[2511.09502](http://arxiv.org/abs/2511.09502)|N/A|
+|**2025-11-11**|**Enhancing Rotation-Invariant 3D Learning with Global Pose Awareness and Attention Mechanisms**|Jiaxun Guo et.al.|[2511.08833](http://arxiv.org/abs/2511.08833)|N/A|
+|**2025-11-11**|**WarpGAN: Warping-Guided 3D GAN Inversion with Style-Based Novel View Inpainting**|Kaitao Huang et.al.|[2511.08178](http://arxiv.org/abs/2511.08178)|N/A|
+|**2025-11-12**|**EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision**|Yifei Cao et.al.|[2511.08007](http://arxiv.org/abs/2511.08007)|N/A|
+|**2025-11-11**|**MonoCLUE : Object-Aware Clustering Enhances Monocular 3D Object Detection**|Sunghun Yang et.al.|[2511.07862](http://arxiv.org/abs/2511.07862)|N/A|
+|**2025-11-11**|**Human Motion Synthesis in 3D Scenes via Unified Scene Semantic Occupancy**|Gong Jingyu et.al.|[2511.07819](http://arxiv.org/abs/2511.07819)|N/A|
 |**2025-11-06**|**Global 3D Reconstruction of Clouds & Tropical Cyclones**|Shirin Ermis et.al.|[2511.04773](http://arxiv.org/abs/2511.04773)|N/A|
 |**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|N/A|
 |**2025-11-07**|**Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface**|Yihao Luo et.al.|[2511.04029](http://arxiv.org/abs/2511.04029)|N/A|
@@ -319,6 +329,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](http://arxiv.org/abs/2511.10647)|N/A|
+|**2025-11-13**|**SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection**|Jia Lin et.al.|[2511.09870](http://arxiv.org/abs/2511.09870)|N/A|
+|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|N/A|
+|**2025-11-12**|**PIFF: A Physics-Informed Generative Flow Model for Real-Time Flood Depth Mapping**|ChunLiang Wu et.al.|[2511.09130](http://arxiv.org/abs/2511.09130)|N/A|
+|**2025-11-11**|**WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation**|Gongshu Wang et.al.|[2511.08036](http://arxiv.org/abs/2511.08036)|N/A|
+|**2025-11-10**|**SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection**|Yifan Wang et.al.|[2511.06702](http://arxiv.org/abs/2511.06702)|N/A|
+|**2025-11-08**|**Light-Field Dataset for Disparity Based Depth Estimation**|Suresh Nehra et.al.|[2511.05866](http://arxiv.org/abs/2511.05866)|N/A|
 |**2025-11-07**|**No Pose Estimation? No Problem: Pose-Agnostic and Instance-Aware Test-Time Adaptation for Monocular Depth Estimation**|Mingyu Sung et.al.|[2511.05055](http://arxiv.org/abs/2511.05055)|N/A|
 |**2025-11-06**|**BoRe-Depth: Self-supervised Monocular Depth Estimation with Boundary Refinement for Embedded Systems**|Chang Liu et.al.|[2511.04388](http://arxiv.org/abs/2511.04388)|N/A|
 |**2025-11-04**|**EvtSlowTV -- A Large and Diverse Dataset for Event-Based Depth Estimation**|Sadiq Layi Macaulay et.al.|[2511.02953](http://arxiv.org/abs/2511.02953)|N/A|
@@ -519,6 +536,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Next-Frame Feature Prediction for Multimodal Deepfake Detection and Temporal Localization**|Ashutosh Anshul et.al.|[2511.10212](http://arxiv.org/abs/2511.10212)|N/A|
+|**2025-11-13**|**GEA: Generation-Enhanced Alignment for Text-to-Image Person Retrieval**|Hao Zou et.al.|[2511.10154](http://arxiv.org/abs/2511.10154)|N/A|
+|**2025-11-12**|**From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance**|Jeongho Min et.al.|[2511.09820](http://arxiv.org/abs/2511.09820)|N/A|
+|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|N/A|
+|**2025-11-11**|**Text-based Aerial-Ground Person Retrieval**|Xinyu Zhou et.al.|[2511.08369](http://arxiv.org/abs/2511.08369)|N/A|
+|**2025-11-11**|**Multi-modal Deepfake Detection and Localization with FPN-Transformer**|Chende Zheng et.al.|[2511.08031](http://arxiv.org/abs/2511.08031)|N/A|
+|**2025-11-12**|**EAGLE: Episodic Appearance- and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision**|Yifei Cao et.al.|[2511.08007](http://arxiv.org/abs/2511.08007)|N/A|
+|**2025-11-11**|**Semantic-Consistent Bidirectional Contrastive Hashing for Noisy Multi-Label Cross-Modal Retrieval**|Likang Peng et.al.|[2511.07780](http://arxiv.org/abs/2511.07780)|N/A|
+|**2025-11-10**|**Integration of Visual SLAM into Consumer-Grade Automotive Localization**|Luis Diener et.al.|[2511.06919](http://arxiv.org/abs/2511.06919)|N/A|
+|**2025-11-10**|**Semi-distributed Cross-modal Air-Ground Relative Localization**|Weining Lu et.al.|[2511.06749](http://arxiv.org/abs/2511.06749)|N/A|
 |**2025-11-07**|**DAFM: Dynamic Adaptive Fusion for Multi-Model Collaboration in Composed Image Retrieval**|Yawei Cai et.al.|[2511.05020](http://arxiv.org/abs/2511.05020)|N/A|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|N/A|
 |**2025-11-02**|**Dynamic Multi-level Weighted Alignment Network for Zero-shot Sketch-based Image Retrieval**|Hanwen Su et.al.|[2511.00925](http://arxiv.org/abs/2511.00925)|N/A|
@@ -690,6 +717,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|N/A|
+|**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](http://arxiv.org/abs/2511.10316)|N/A|
+|**2025-11-13**|**DGFusion: Dual-guided Fusion for Robust Multi-Modal 3D Object Detection**|Feiyang Jia et.al.|[2511.10035](http://arxiv.org/abs/2511.10035)|N/A|
+|**2025-11-13**|**Beyond Cosine Similarity Magnitude-Aware CLIP for No-Reference Image Quality Assessment**|Zhicheng Liao et.al.|[2511.09948](http://arxiv.org/abs/2511.09948)|N/A|
+|**2025-11-12**|**From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance**|Jeongho Min et.al.|[2511.09820](http://arxiv.org/abs/2511.09820)|N/A|
+|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|N/A|
+|**2025-11-12**|**Computational Caustic Design for Surface Light Source**|Sizhuo Zhou et.al.|[2511.09361](http://arxiv.org/abs/2511.09361)|N/A|
+|**2025-11-12**|**4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching**|Xingchi Chen et.al.|[2511.09055](http://arxiv.org/abs/2511.09055)|N/A|
+|**2025-11-12**|**Asymmetric Cross-Modal Knowledge Distillation: Bridging Modalities with Weak Semantic Consistency**|Riling Wei et.al.|[2511.08901](http://arxiv.org/abs/2511.08901)|N/A|
+|**2025-11-11**|**LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification**|Arnab Maity et.al.|[2511.08119](http://arxiv.org/abs/2511.08119)|N/A|
 |**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[2511.03416](http://arxiv.org/abs/2511.03416)|N/A|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|N/A|
 |**2025-10-26**|**FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment**|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|N/A|
@@ -762,6 +799,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](http://arxiv.org/abs/2511.10316)|N/A|
+|**2025-11-13**|**TSPE-GS: Probabilistic Depth Extraction for Semi-Transparent Surface Reconstruction via 3D Gaussian Splatting**|Zhiyuan Xu et.al.|[2511.09944](http://arxiv.org/abs/2511.09944)|N/A|
+|**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|N/A|
+|**2025-11-11**|**RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses**|Sriram Srinivasan et.al.|[2511.08545](http://arxiv.org/abs/2511.08545)|N/A|
+|**2025-11-11**|**SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering**|Laura Bragagnolo et.al.|[2511.08294](http://arxiv.org/abs/2511.08294)|N/A|
+|**2025-11-11**|**Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric**|Zhaolin Wan et.al.|[2511.08032](http://arxiv.org/abs/2511.08032)|N/A|
+|**2025-11-11**|**UltraGS: Gaussian Splatting for Ultrasound Novel View Synthesis**|Yuezhe Yang et.al.|[2511.07743](http://arxiv.org/abs/2511.07743)|N/A|
+|**2025-11-10**|**LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration**|Tung Vu et.al.|[2511.07552](http://arxiv.org/abs/2511.07552)|N/A|
+|**2025-11-10**|**YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting**|Botao Ye et.al.|[2511.07321](http://arxiv.org/abs/2511.07321)|N/A|
+|**2025-11-10**|**4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation**|Mengmeng Liu et.al.|[2511.07241](http://arxiv.org/abs/2511.07241)|N/A|
 |**2025-11-07**|**Splatography: Sparse multi-view dynamic Gaussian Splatting for filmmaking challenges**|Adrian Azzarelli et.al.|[2511.05152](http://arxiv.org/abs/2511.05152)|N/A|
 |**2025-11-07**|**CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting**|Hexu Zhao et.al.|[2511.04951](http://arxiv.org/abs/2511.04951)|N/A|
 |**2025-11-06**|**3D Gaussian Point Encoders**|Jim James et.al.|[2511.04797](http://arxiv.org/abs/2511.04797)|N/A|
