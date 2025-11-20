@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**DeCo-VAE: Learning Compact Latents for Video Reconstruction via Decoupled Representation**|Xiangchen Yin et.al.|[2511.14530](http://arxiv.org/abs/2511.14530)|N/A|
+|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|N/A|
+|**2025-11-18**|**NeuralSSD: A Neural Solver for Signed Distance Surface Reconstruction**|Zi-Chen Xi et.al.|[2511.14283](http://arxiv.org/abs/2511.14283)|N/A|
+|**2025-11-18**|**Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation**|Weimin Bai et.al.|[2511.14271](http://arxiv.org/abs/2511.14271)|N/A|
+|**2025-11-18**|**Wave-Former: Through-Occlusion 3D Reconstruction via Wireless Shape Completion**|Laura Dodds et.al.|[2511.14152](http://arxiv.org/abs/2511.14152)|N/A|
+|**2025-11-18**|**Error-Driven Scene Editing for 3D Grounding in Large Language Models**|Yue Zhang et.al.|[2511.14086](http://arxiv.org/abs/2511.14086)|N/A|
+|**2025-11-17**|**PoCGM: Poisson-Conditioned Generative Model for Sparse-View CT Reconstruction**|Changsheng Fang et.al.|[2511.13967](http://arxiv.org/abs/2511.13967)|N/A|
 |**2025-11-17**|**Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine**|Xincheng Shuai et.al.|[2511.13713](http://arxiv.org/abs/2511.13713)|N/A|
 |**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|N/A|
 |**2025-11-17**|**Force-Aware 3D Contact Modeling for Stable Grasp Generation**|Zhuo Chen et.al.|[2511.13247](http://arxiv.org/abs/2511.13247)|N/A|
@@ -349,6 +356,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|N/A|
+|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|N/A|
+|**2025-11-18**|**Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization**|Yan Huang et.al.|[2511.14238](http://arxiv.org/abs/2511.14238)|N/A|
+|**2025-11-18**|**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**|Zeyu Cheng et.al.|[2511.14107](http://arxiv.org/abs/2511.14107)|N/A|
+|**2025-11-18**|**ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders**|Junsik Kim et.al.|[2511.14070](http://arxiv.org/abs/2511.14070)|N/A|
+|**2025-11-17**|**GRLoc: Geometric Representation Regression for Visual Localization**|Changyang Li et.al.|[2511.13864](http://arxiv.org/abs/2511.13864)|N/A|
 |**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](http://arxiv.org/abs/2511.13282)|N/A|
 |**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Soyul Lee et.al.|[2511.13195](http://arxiv.org/abs/2511.13195)|N/A|
 |**2025-11-17**|**DiffuDepGrasp: Diffusion-based Depth Noise Modeling Empowers Sim2Real Robotic Grasping**|Yingting Zhou et.al.|[2511.12912](http://arxiv.org/abs/2511.12912)|N/A|
@@ -559,6 +572,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**DIR-TIR: Dialog-Iterative Refinement for Text-to-Image Retrieval**|Zongwei Zhen et.al.|[2511.14449](http://arxiv.org/abs/2511.14449)|N/A|
+|**2025-11-18**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|N/A|
+|**2025-11-18**|**SMART: Shot-Aware Multimodal Video Moment Retrieval with Audio-Enhanced MLLM**|An Yu et.al.|[2511.14143](http://arxiv.org/abs/2511.14143)|N/A|
+|**2025-11-18**|**$A^2$GC: $A$symmetric $A$ ggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|N/A|
+|**2025-11-18**|**SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts**|Fan Zhang et.al.|[2511.14093](http://arxiv.org/abs/2511.14093)|N/A|
+|**2025-11-17**|**GRLoc: Geometric Representation Regression for Visual Localization**|Changyang Li et.al.|[2511.13864](http://arxiv.org/abs/2511.13864)|N/A|
 |**2025-11-17**|**Attention Grounded Enhancement for Visual Document Retrieval**|Wanqing Cui et.al.|[2511.13415](http://arxiv.org/abs/2511.13415)|N/A|
 |**2025-11-17**|**THIR: Topological Histopathological Image Retrieval**|Zahra Tabatabaei et.al.|[2511.13170](http://arxiv.org/abs/2511.13170)|N/A|
 |**2025-11-16**|**D $^{2}$ -VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation**|Zheyuan Zhang et.al.|[2511.12528](http://arxiv.org/abs/2511.12528)|N/A|
@@ -745,6 +764,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**Cranio-ID: Graph-Based Craniofacial Identification via Automatic Landmark Annotation in 2D Multi-View X-rays**|Ravi Shankar Prasad et.al.|[2511.14411](http://arxiv.org/abs/2511.14411)|N/A|
+|**2025-11-18**|**Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs**|Yiyi Miao et.al.|[2511.14315](http://arxiv.org/abs/2511.14315)|N/A|
+|**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286](http://arxiv.org/abs/2511.14286)|N/A|
+|**2025-11-18**|**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior**|Weimin Bai et.al.|[2511.14208](http://arxiv.org/abs/2511.14208)|N/A|
+|**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|N/A|
+|**2025-11-18**|**$A^2$GC: $A$symmetric $A$ ggregation with Geometric Constraints for Locally Aggregated Descriptors**|Zhenyu Li et.al.|[2511.14109](http://arxiv.org/abs/2511.14109)|N/A|
+|**2025-11-18**|**SMGeo: Cross-View Object Geo-Localization with Grid-Level Mixture-of-Experts**|Fan Zhang et.al.|[2511.14093](http://arxiv.org/abs/2511.14093)|N/A|
 |**2025-11-17**|**Language-Guided Invariance Probing of Vision-Language Models**|Jae Joong Lee et.al.|[2511.13494](http://arxiv.org/abs/2511.13494)|N/A|
 |**2025-11-17**|**Semi-Supervised Multi-Task Learning for Interpretable Quality As- sessment of Fundus Images**|Lucas Gabriel Telesco et.al.|[2511.13353](http://arxiv.org/abs/2511.13353)|N/A|
 |**2025-11-17**|**Referring Camouflaged Object Detection With Multi-Context Overlapped Windows Cross-Attention**|Yu Wen et.al.|[2511.13249](http://arxiv.org/abs/2511.13249)|N/A|
@@ -844,6 +870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|N/A|
+|**2025-11-18**|**Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction**|Hao Tian et.al.|[2511.14540](http://arxiv.org/abs/2511.14540)|N/A|
+|**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|N/A|
+|**2025-11-18**|**IBGS: Image-Based Gaussian Splatting**|Hoang Chuong Nguyen et.al.|[2511.14357](http://arxiv.org/abs/2511.14357)|N/A|
+|**2025-11-18**|**Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery**|Yiming Zeng et.al.|[2511.14270](http://arxiv.org/abs/2511.14270)|N/A|
+|**2025-11-18**|**RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action**|Xiaoquan Sun et.al.|[2511.14161](http://arxiv.org/abs/2511.14161)|N/A|
+|**2025-11-18**|**iGaussian: Real-Time Camera Pose Estimation via Feed-Forward 3D Gaussian Splatting Inversion**|Hao Wang et.al.|[2511.14149](http://arxiv.org/abs/2511.14149)|N/A|
 |**2025-11-17**|**Opt3DGS: Optimizing 3D Gaussian Splatting with Adaptive Exploration and Curvature-Aware Exploitation**|Ziyang Huang et.al.|[2511.13571](http://arxiv.org/abs/2511.13571)|N/A|
 |**2025-11-17**|**SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting**|Zihan Li et.al.|[2511.13278](http://arxiv.org/abs/2511.13278)|N/A|
 |**2025-11-17**|**SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression**|Keshav Gupta et.al.|[2511.13264](http://arxiv.org/abs/2511.13264)|N/A|
