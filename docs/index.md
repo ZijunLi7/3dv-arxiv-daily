@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.11.21
+## Updated on 2025.11.22
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](http://arxiv.org/abs/2511.16659)|N/A|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|N/A|
+|**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|N/A|
+|**2025-11-20**|**LLaVA $^3$ : Representing 3D Scenes like a Cubist Painter to Boost 3D Scene Understanding of VLMs**|Doriand Petit et.al.|[2511.16454](http://arxiv.org/abs/2511.16454)|N/A|
+|**2025-11-20**|**Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs**|Sinan Mutlu et.al.|[2511.16264](http://arxiv.org/abs/2511.16264)|N/A|
+|**2025-11-20**|**PrIntMesh: Precise Intersection Surfaces for 3D Organ Mesh Reconstruction**|Deniz Sayin Mercadier et.al.|[2511.16186](http://arxiv.org/abs/2511.16186)|N/A|
+|**2025-11-20**|**Automated Interpretable 2D Video Extraction from 3D Echocardiography**|Milos Vukadinovic et.al.|[2511.15946](http://arxiv.org/abs/2511.15946)|N/A|
 |**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](http://arxiv.org/abs/2511.15600)|N/A|
 |**2025-11-19**|**ShelfOcc: Native 3D Supervision beyond LiDAR for Vision-Based Occupancy Estimation**|Simon Boeder et.al.|[2511.15396](http://arxiv.org/abs/2511.15396)|N/A|
 |**2025-11-19**|**SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection**|Chun-Jung Lin et.al.|[2511.15153](http://arxiv.org/abs/2511.15153)|N/A|
@@ -360,6 +367,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|N/A|
+|**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|N/A|
 |**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](http://arxiv.org/abs/2511.15167)|N/A|
 |**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](http://arxiv.org/abs/2511.14970)|N/A|
 |**2025-11-19**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|N/A|
@@ -578,6 +587,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[2511.16566](http://arxiv.org/abs/2511.16566)|N/A|
+|**2025-11-20**|**BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**|Rahul Kumar et.al.|[2511.16524](http://arxiv.org/abs/2511.16524)|N/A|
 |**2025-11-19**|**HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation**|Linyin Luo et.al.|[2511.15435](http://arxiv.org/abs/2511.15435)|N/A|
 |**2025-11-19**|**Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval**|Qing Wang et.al.|[2511.15201](http://arxiv.org/abs/2511.15201)|N/A|
 |**2025-11-18**|**DIR-TIR: Dialog-Iterative Refinement for Text-to-Image Retrieval**|Zongwei Zhen et.al.|[2511.14449](http://arxiv.org/abs/2511.14449)|N/A|
@@ -772,7 +783,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-19**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|N/A|
+|**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|N/A|
+|**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[2511.16566](http://arxiv.org/abs/2511.16566)|N/A|
+|**2025-11-20**|**Beyond Visual Cues: Leveraging General Semantics as Support for Few-Shot Segmentation**|Jin Wang et.al.|[2511.16435](http://arxiv.org/abs/2511.16435)|N/A|
+|**2025-11-20**|**DetailSemNet: Elevating Signature Verification through Detail-Semantic Integration**|Meng-Cheng Shih et.al.|[2511.16364](http://arxiv.org/abs/2511.16364)|N/A|
+|**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349](http://arxiv.org/abs/2511.16349)|N/A|
+|**2025-11-20**|**RoMa v2: Harder Better Faster Denser Feature Matching**|Johan Edstedt et.al.|[2511.15706](http://arxiv.org/abs/2511.15706)|N/A|
 |**2025-11-19**|**What Your Features Reveal: Data-Efficient Black-Box Feature Inversion Attack for Split DNNs**|Zhihan Ren et.al.|[2511.15316](http://arxiv.org/abs/2511.15316)|N/A|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|N/A|
 |**2025-11-19**|**Computer Vision Modeling of the Development of Geometric and Numerical Concepts in Humans**|Zekun Wang et.al.|[2511.15029](http://arxiv.org/abs/2511.15029)|N/A|
@@ -882,6 +898,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|N/A|
+|**2025-11-20**|**Optimizing 3D Gaussian Splattering for Mobile GPUs**|Md Musfiqur Rahman Sanim et.al.|[2511.16298](http://arxiv.org/abs/2511.16298)|N/A|
+|**2025-11-20**|**LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM**|Sibaek Lee et.al.|[2511.16144](http://arxiv.org/abs/2511.16144)|N/A|
+|**2025-11-20**|**Clustered Error Correction with Grouped 4D Gaussian Splatting**|Taeho Kang et.al.|[2511.16112](http://arxiv.org/abs/2511.16112)|N/A|
+|**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|N/A|
+|**2025-11-20**|**CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis**|Zijian Wu et.al.|[2511.16030](http://arxiv.org/abs/2511.16030)|N/A|
 |**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|N/A|
 |**2025-11-18**|**Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video**|Yarin Bekor et.al.|[2511.14848](http://arxiv.org/abs/2511.14848)|N/A|
 |**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|N/A|
