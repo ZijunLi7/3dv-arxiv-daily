@@ -2,14 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions**|Neel Sortur et.al.|[2511.17484](http://arxiv.org/abs/2511.17484)|N/A|
+|**2025-11-21**|**SVRecon: Sparse Voxel Rasterization for Surface Reconstruction**|Seunghun Oh et.al.|[2511.17364](http://arxiv.org/abs/2511.17364)|N/A|
+|**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|N/A|
+|**2025-11-21**|**SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors**|Kunyi Li et.al.|[2511.17207](http://arxiv.org/abs/2511.17207)|N/A|
+|**2025-11-21**|**RoomPlanner: Explicit Layout Planner for Easier LLM-Driven 3D Room Generation**|Wenzhuo Sun et.al.|[2511.17048](http://arxiv.org/abs/2511.17048)|N/A|
+|**2025-11-20**|**WorldGen: From Text to Traversable and Interactive 3D Worlds**|Dilin Wang et.al.|[2511.16825](http://arxiv.org/abs/2511.16825)|N/A|
 |**2025-11-20**|**PartUV: Part-Based UV Unwrapping of 3D Meshes**|Zhaoning Wang et.al.|[2511.16659](http://arxiv.org/abs/2511.16659)|N/A|
 |**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|N/A|
-|**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|N/A|
+|**2025-11-21**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|N/A|
 |**2025-11-20**|**LLaVA $^3$ : Representing 3D Scenes like a Cubist Painter to Boost 3D Scene Understanding of VLMs**|Doriand Petit et.al.|[2511.16454](http://arxiv.org/abs/2511.16454)|N/A|
 |**2025-11-20**|**Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs**|Sinan Mutlu et.al.|[2511.16264](http://arxiv.org/abs/2511.16264)|N/A|
 |**2025-11-20**|**PrIntMesh: Precise Intersection Surfaces for 3D Organ Mesh Reconstruction**|Deniz Sayin Mercadier et.al.|[2511.16186](http://arxiv.org/abs/2511.16186)|N/A|
@@ -367,6 +373,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**DepthFocus: Controllable Depth Estimation for See-Through Scenes**|Junhong Min et.al.|[2511.16993](http://arxiv.org/abs/2511.16993)|N/A|
 |**2025-11-20**|**Flow and Depth Assisted Video Prediction with Latent Transformer**|Eliyas Suleyman et.al.|[2511.16484](http://arxiv.org/abs/2511.16484)|N/A|
 |**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|N/A|
 |**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](http://arxiv.org/abs/2511.15167)|N/A|
@@ -587,6 +594,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|N/A|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al.|[2511.17255](http://arxiv.org/abs/2511.17255)|N/A|
+|**2025-11-21**|**Reflection-Based Relative Localization for Cooperative UAV Teams Using Active Markers**|Tim Lakemann et.al.|[2511.17166](http://arxiv.org/abs/2511.17166)|N/A|
+|**2025-11-21**|**ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion**|Junming Liu et.al.|[2511.17068](http://arxiv.org/abs/2511.17068)|N/A|
 |**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[2511.16566](http://arxiv.org/abs/2511.16566)|N/A|
 |**2025-11-20**|**BoxingVI: A Multi-Modal Benchmark for Boxing Action Recognition and Localization**|Rahul Kumar et.al.|[2511.16524](http://arxiv.org/abs/2511.16524)|N/A|
 |**2025-11-19**|**HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation**|Linyin Luo et.al.|[2511.15435](http://arxiv.org/abs/2511.15435)|N/A|
@@ -783,6 +794,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|N/A|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|N/A|
+|**2025-11-21**|**ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP**|Linxiang Su et.al.|[2511.17362](http://arxiv.org/abs/2511.17362)|N/A|
+|**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|N/A|
+|**2025-11-21**|**MuM: Multi-View Masked Image Modeling for 3D Vision**|David Nordström et.al.|[2511.17309](http://arxiv.org/abs/2511.17309)|N/A|
+|**2025-11-21**|**UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for Cross-Device Diagnosis Using a Frozen Black-Box Inference Network**|Nhat-Tuong Do-Tran et.al.|[2511.17155](http://arxiv.org/abs/2511.17155)|N/A|
+|**2025-11-21**|**Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models**|Dailan He et.al.|[2511.16955](http://arxiv.org/abs/2511.16955)|N/A|
+|**2025-11-20**|**SAM 3: Segment Anything with Concepts**|Nicolas Carion et.al.|[2511.16719](http://arxiv.org/abs/2511.16719)|N/A|
+|**2025-11-20**|**A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images**|Asya Y. Akkus et.al.|[2511.16717](http://arxiv.org/abs/2511.16717)|N/A|
 |**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|N/A|
 |**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[2511.16566](http://arxiv.org/abs/2511.16566)|N/A|
 |**2025-11-20**|**Beyond Visual Cues: Leveraging General Semantics as Support for Few-Shot Segmentation**|Jin Wang et.al.|[2511.16435](http://arxiv.org/abs/2511.16435)|N/A|
@@ -898,6 +918,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|N/A|
+|**2025-11-21**|**PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting**|Yijun Xu et.al.|[2511.17116](http://arxiv.org/abs/2511.17116)|N/A|
+|**2025-11-21**|**SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17092](http://arxiv.org/abs/2511.17092)|N/A|
+|**2025-11-21**|**REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting**|Di Wu et.al.|[2511.17059](http://arxiv.org/abs/2511.17059)|N/A|
+|**2025-11-21**|**Gradient-Driven Natural Selection for Compact 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2511.16980](http://arxiv.org/abs/2511.16980)|N/A|
+|**2025-11-20**|**Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training**|Yipeng Wang et.al.|[2511.16831](http://arxiv.org/abs/2511.16831)|N/A|
 |**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez et.al.|[2511.16542](http://arxiv.org/abs/2511.16542)|N/A|
 |**2025-11-20**|**Optimizing 3D Gaussian Splattering for Mobile GPUs**|Md Musfiqur Rahman Sanim et.al.|[2511.16298](http://arxiv.org/abs/2511.16298)|N/A|
 |**2025-11-20**|**LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM**|Sibaek Lee et.al.|[2511.16144](http://arxiv.org/abs/2511.16144)|N/A|
