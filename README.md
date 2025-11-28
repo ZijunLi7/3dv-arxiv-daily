@@ -1,4 +1,4 @@
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|N/A|
+|**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|N/A|
+|**2025-11-26**|**UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes**|Kang Du et.al.|[2511.21565](http://arxiv.org/abs/2511.21565)|N/A|
+|**2025-11-26**|**E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework**|Adeela Islam et.al.|[2511.21422](http://arxiv.org/abs/2511.21422)|N/A|
+|**2025-11-26**|**CaliTex: Geometry-Calibrated Attention for View-Coherent 3D Texture Generation**|Chenyu Liu et.al.|[2511.21309](http://arxiv.org/abs/2511.21309)|N/A|
+|**2025-11-26**|**FIELDS: Face reconstruction with accurate Inference of Expression using Learning with Direct Supervision**|Chen Ling et.al.|[2511.21245](http://arxiv.org/abs/2511.21245)|N/A|
+|**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191](http://arxiv.org/abs/2511.21191)|N/A|
+|**2025-11-26**|**FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain**|YuAn Wang et.al.|[2511.21113](http://arxiv.org/abs/2511.21113)|N/A|
+|**2025-11-26**|**Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction**|Gayoung Lee et.al.|[2511.21098](http://arxiv.org/abs/2511.21098)|N/A|
+|**2025-11-25**|**One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues**|Sindhuja Penchala et.al.|[2511.20784](http://arxiv.org/abs/2511.20784)|N/A|
 |**2025-11-25**|**3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding**|Xiaoye Wang et.al.|[2511.20646](http://arxiv.org/abs/2511.20646)|N/A|
 |**2025-11-25**|**MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts**|Zilong Huang et.al.|[2511.20415](http://arxiv.org/abs/2511.20415)|N/A|
 |**2025-11-25**|**VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild**|Xin Ming et.al.|[2511.20366](http://arxiv.org/abs/2511.20366)|N/A|
@@ -396,12 +406,13 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|N/A|
 |**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|N/A|
 |**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](http://arxiv.org/abs/2511.18105)|N/A|
 |**2025-11-21**|**DepthFocus: Controllable Depth Estimation for See-Through Scenes**|Junhong Min et.al.|[2511.16993](http://arxiv.org/abs/2511.16993)|N/A|
@@ -409,7 +420,7 @@
 |**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](http://arxiv.org/abs/2511.16428)|N/A|
 |**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](http://arxiv.org/abs/2511.15167)|N/A|
 |**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](http://arxiv.org/abs/2511.14970)|N/A|
-|**2025-11-19**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|N/A|
+|**2025-11-26**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](http://arxiv.org/abs/2511.14386)|N/A|
 |**2025-11-23**|**Simultaneous Localization and 3D-Semi Dense Mapping for Micro Drones Using Monocular Camera and Inertial Sensors**|Jeryes Danial et.al.|[2511.14335](http://arxiv.org/abs/2511.14335)|N/A|
 |**2025-11-18**|**Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization**|Yan Huang et.al.|[2511.14238](http://arxiv.org/abs/2511.14238)|N/A|
 |**2025-11-18**|**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**|Zeyu Cheng et.al.|[2511.14107](http://arxiv.org/abs/2511.14107)|N/A|
@@ -621,12 +632,16 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning**|Xiaoxing You et.al.|[2511.21002](http://arxiv.org/abs/2511.21002)|N/A|
+|**2025-11-25**|**Efficient Greedy Algorithms for Feature Selection in Robot Visual Localization**|Vivek Pandey et.al.|[2511.20894](http://arxiv.org/abs/2511.20894)|N/A|
+|**2025-11-25**|**OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping**|Edmond Tong et.al.|[2511.20841](http://arxiv.org/abs/2511.20841)|N/A|
+|**2025-11-25**|**Video Object Recognition in Mobile Edge Networks: Local Tracking or Edge Detection?**|Kun Guo et.al.|[2511.20716](http://arxiv.org/abs/2511.20716)|N/A|
 |**2025-11-25**|**Blind Adaptive Local Denoising for CEST Imaging**|Chu Chen et.al.|[2511.20081](http://arxiv.org/abs/2511.20081)|N/A|
 |**2025-11-25**|**OmniRefiner: Reinforcement-Guided Local Diffusion Refinement**|Yaoli Liu et.al.|[2511.19990](http://arxiv.org/abs/2511.19990)|N/A|
 |**2025-11-25**|**Large Language Model Aided Birt-Hogg-Dube Syndrome Diagnosis with Multimodal Retrieval-Augmented Generation**|Haoqing Li et.al.|[2511.19834](http://arxiv.org/abs/2511.19834)|N/A|
@@ -835,12 +850,20 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|N/A|
+|**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|N/A|
+|**2025-11-26**|**From Diffusion to One-Step Generation: A Comparative Study of Flow-Based Models with Application to Image Inpainting**|Umang Agarwal et.al.|[2511.21215](http://arxiv.org/abs/2511.21215)|N/A|
+|**2025-11-26**|**Transformer Driven Visual Servoing and Dual Arm Impedance Control for Fabric Texture Matching**|Fuyuki Tokuda et.al.|[2511.21203](http://arxiv.org/abs/2511.21203)|N/A|
+|**2025-11-26**|**CLRecogEye : Curriculum Learning towards exploiting convolution features for Dynamic Iris Recognition**|Geetanjali Sharma et.al.|[2511.21097](http://arxiv.org/abs/2511.21097)|N/A|
+|**2025-11-26**|**Deep Parameter Interpolation for Scalar Conditioning**|Chicago Y. Park et.al.|[2511.21028](http://arxiv.org/abs/2511.21028)|N/A|
+|**2025-11-26**|**Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning**|Xiaoxing You et.al.|[2511.21002](http://arxiv.org/abs/2511.21002)|N/A|
+|**2025-11-26**|**Beyond Realism: Learning the Art of Expressive Composition with StickerNet**|Haoming Lu et.al.|[2511.20957](http://arxiv.org/abs/2511.20957)|N/A|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648](http://arxiv.org/abs/2511.20648)|N/A|
 |**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641](http://arxiv.org/abs/2511.20641)|N/A|
 |**2025-11-25**|**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning**|Guanjie Chen et.al.|[2511.20549](http://arxiv.org/abs/2511.20549)|N/A|
@@ -980,12 +1003,14 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|N/A|
+|**2025-11-25**|**$Δ$ -NeRF: Incremental Refinement of Neural Radiance Fields through Residual Control and Knowledge Transfer**|Kriti Ghosh et.al.|[2511.20804](http://arxiv.org/abs/2511.20804)|N/A|
 |**2025-11-25**|**GS-Checker: Tampering Localization for 3D Gaussian Splatting**|Haoliang Han et.al.|[2511.20354](http://arxiv.org/abs/2511.20354)|N/A|
 |**2025-11-25**|**Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin**|João Malheiro Silva et.al.|[2511.20348](http://arxiv.org/abs/2511.20348)|N/A|
 |**2025-11-24**|**Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation**|Jaeyeong Kim et.al.|[2511.19542](http://arxiv.org/abs/2511.19542)|N/A|
@@ -1685,7 +1710,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
