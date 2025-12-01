@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|N/A|
+|**2025-11-27**|**Bringing Your Portrait to 3D Presence**|Jiawei Zhang et.al.|[2511.22553](http://arxiv.org/abs/2511.22553)|N/A|
+|**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|N/A|
+|**2025-11-27**|**Gaussians on Fire: High-Frequency Reconstruction of Flames**|Jakob Nazarenus et.al.|[2511.22459](http://arxiv.org/abs/2511.22459)|N/A|
+|**2025-11-27**|**Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation**|Weining Ren et.al.|[2511.22429](http://arxiv.org/abs/2511.22429)|N/A|
+|**2025-11-27**|**Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models**|Minghao Yin et.al.|[2511.22425](http://arxiv.org/abs/2511.22425)|N/A|
+|**2025-11-27**|**AnchorFlow: Training-Free 3D Editing via Latent Anchor-Aligned Flows**|Zhenglin Zhou et.al.|[2511.22357](http://arxiv.org/abs/2511.22357)|N/A|
+|**2025-11-27**|**Cue3D: Quantifying the Role of Image Cues in Single-Image 3D Generation**|Xiang Li et.al.|[2511.22121](http://arxiv.org/abs/2511.22121)|N/A|
+|**2025-11-26**|**AmodalGen3D: Generative Amodal 3D Object Reconstruction from Sparse Unposed Views**|Junwei Zhou et.al.|[2511.21945](http://arxiv.org/abs/2511.21945)|N/A|
+|**2025-11-26**|**UniArt: Unified 3D Representation for Generating 3D Articulated Objects with Open-Set Articulation**|Bu Jin et.al.|[2511.21887](http://arxiv.org/abs/2511.21887)|N/A|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|N/A|
 |**2025-11-26**|**G $^2$ VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al.|[2511.21688](http://arxiv.org/abs/2511.21688)|N/A|
 |**2025-11-26**|**UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes**|Kang Du et.al.|[2511.21565](http://arxiv.org/abs/2511.21565)|N/A|
@@ -627,6 +637,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Hybrid, Unified and Iterative: A Novel Framework for Text-based Person Anomaly Retrieval**|Tien-Huy Nguyen et.al.|[2511.22470](http://arxiv.org/abs/2511.22470)|N/A|
+|**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|N/A|
+|**2025-11-27**|**FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text**|Hoang-Bao Le et.al.|[2511.22247](http://arxiv.org/abs/2511.22247)|N/A|
 |**2025-11-26**|**Knowledge Completes the Vision: A Multimodal Entity-aware Retrieval-Augmented Generation Framework for News Image Captioning**|Xiaoxing You et.al.|[2511.21002](http://arxiv.org/abs/2511.21002)|N/A|
 |**2025-11-25**|**Efficient Greedy Algorithms for Feature Selection in Robot Visual Localization**|Vivek Pandey et.al.|[2511.20894](http://arxiv.org/abs/2511.20894)|N/A|
 |**2025-11-25**|**OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping**|Edmond Tong et.al.|[2511.20841](http://arxiv.org/abs/2511.20841)|N/A|
@@ -843,6 +856,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|N/A|
+|**2025-11-27**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|N/A|
+|**2025-11-27**|**Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield**|Dongyang Liu et.al.|[2511.22677](http://arxiv.org/abs/2511.22677)|N/A|
+|**2025-11-27**|**Hybrid, Unified and Iterative: A Novel Framework for Text-based Person Anomaly Retrieval**|Tien-Huy Nguyen et.al.|[2511.22470](http://arxiv.org/abs/2511.22470)|N/A|
+|**2025-11-27**|**Gaussians on Fire: High-Frequency Reconstruction of Flames**|Jakob Nazarenus et.al.|[2511.22459](http://arxiv.org/abs/2511.22459)|N/A|
+|**2025-11-27**|**Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation**|Weining Ren et.al.|[2511.22429](http://arxiv.org/abs/2511.22429)|N/A|
+|**2025-11-27**|**Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models**|Minghao Yin et.al.|[2511.22425](http://arxiv.org/abs/2511.22425)|N/A|
+|**2025-11-27**|**Match-and-Fuse: Consistent Generation from Unstructured Image Sets**|Kate Feingold et.al.|[2511.22287](http://arxiv.org/abs/2511.22287)|N/A|
+|**2025-11-27**|**Controllable 3D Object Generation with Single Image Prompt**|Jaeseok Lee et.al.|[2511.22194](http://arxiv.org/abs/2511.22194)|N/A|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|N/A|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](http://arxiv.org/abs/2511.21592)|N/A|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|N/A|
 |**2025-11-26**|**From Diffusion to One-Step Generation: A Comparative Study of Flow-Based Models with Application to Image Inpainting**|Umang Agarwal et.al.|[2511.21215](http://arxiv.org/abs/2511.21215)|N/A|
@@ -994,6 +1017,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|N/A|
+|**2025-11-27**|**Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?**|Wenkai Huang et.al.|[2511.22262](http://arxiv.org/abs/2511.22262)|N/A|
+|**2025-11-27**|**IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution**|Xiang Feng et.al.|[2511.22233](http://arxiv.org/abs/2511.22233)|N/A|
+|**2025-11-27**|**RemedyGS: Defend 3D Gaussian Splatting against Computation Cost Attacks**|Yanping Li et.al.|[2511.22147](http://arxiv.org/abs/2511.22147)|N/A|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|N/A|
 |**2025-11-25**|**$Δ$ -NeRF: Incremental Refinement of Neural Radiance Fields through Residual Control and Knowledge Transfer**|Kriti Ghosh et.al.|[2511.20804](http://arxiv.org/abs/2511.20804)|N/A|
 |**2025-11-25**|**GS-Checker: Tampering Localization for 3D Gaussian Splatting**|Haoliang Han et.al.|[2511.20354](http://arxiv.org/abs/2511.20354)|N/A|
