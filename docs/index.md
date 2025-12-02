@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**GeoWorld: Unlocking the Potential of Geometry Models to Facilitate High-Fidelity 3D Scene Generation**|Yuhao Wan et.al.|[2511.23191](http://arxiv.org/abs/2511.23191)|N/A|
+|**2025-11-28**|**Fast Multi-view Consistent 3D Editing with Video Priors**|Liyi Chen et.al.|[2511.23172](http://arxiv.org/abs/2511.23172)|N/A|
 |**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|N/A|
 |**2025-11-27**|**Bringing Your Portrait to 3D Presence**|Jiawei Zhang et.al.|[2511.22553](http://arxiv.org/abs/2511.22553)|N/A|
 |**2025-11-27**|**Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration**|Mengyu Yang et.al.|[2511.22533](http://arxiv.org/abs/2511.22533)|N/A|
@@ -637,6 +639,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**DEAL-300K: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline**|Rui Zhang et.al.|[2511.23377](http://arxiv.org/abs/2511.23377)|N/A|
+|**2025-11-28**|**See, Rank, and Filter: Important Word-Aware Clip Filtering via Scene Understanding for Moment Retrieval and Highlight Detection**|YuEun Lee et.al.|[2511.22906](http://arxiv.org/abs/2511.22906)|N/A|
 |**2025-11-27**|**Hybrid, Unified and Iterative: A Novel Framework for Text-based Person Anomaly Retrieval**|Tien-Huy Nguyen et.al.|[2511.22470](http://arxiv.org/abs/2511.22470)|N/A|
 |**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|N/A|
 |**2025-11-27**|**FIGROTD: A Friendly-to-Handle Dataset for Image Guided Retrieval with Optional Text**|Hoang-Bao Le et.al.|[2511.22247](http://arxiv.org/abs/2511.22247)|N/A|
@@ -856,6 +860,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Vision Bridge Transformer at Scale**|Zhenxiong Tan et.al.|[2511.23199](http://arxiv.org/abs/2511.23199)|N/A|
+|**2025-11-28**|**REVEAL: Reasoning-enhanced Forensic Evidence Analysis for Explainable AI-generated Image Detection**|Huangsen Cao et.al.|[2511.23158](http://arxiv.org/abs/2511.23158)|N/A|
+|**2025-11-28**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfe**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|N/A|
+|**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908](http://arxiv.org/abs/2511.22908)|N/A|
+|**2025-11-28**|**MARVO: Marine-Adaptive Radiance-aware Visual Odometry**|Sacchin Sundar et.al.|[2511.22860](http://arxiv.org/abs/2511.22860)|N/A|
+|**2025-11-28**|**Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering**|Dosung Lee et.al.|[2511.22843](http://arxiv.org/abs/2511.22843)|N/A|
 |**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|N/A|
 |**2025-11-27**|**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**|Shubhankar Borse et.al.|[2511.22690](http://arxiv.org/abs/2511.22690)|N/A|
 |**2025-11-27**|**Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield**|Dongyang Liu et.al.|[2511.22677](http://arxiv.org/abs/2511.22677)|N/A|
@@ -1017,6 +1027,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**FACT-GS: Frequency-Aligned Complexity-Aware Texture Reparameterization for 2D Gaussian Splatting**|Tianhao Xie et.al.|[2511.23292](http://arxiv.org/abs/2511.23292)|N/A|
+|**2025-11-28**|**Image Valuation in NeRF-based 3D reconstruction**|Grigorios Aris Cheimariotis et.al.|[2511.23052](http://arxiv.org/abs/2511.23052)|N/A|
+|**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](http://arxiv.org/abs/2511.23044)|N/A|
+|**2025-11-28**|**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**|Casimir Feldmann et.al.|[2511.23030](http://arxiv.org/abs/2511.23030)|N/A|
+|**2025-11-28**|**MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**|Minseong Kweon et.al.|[2511.22997](http://arxiv.org/abs/2511.22997)|N/A|
+|**2025-11-28**|**DenoiseGS: Gaussian Reconstruction Model for Burst Denoising**|Yongsen Cheng et.al.|[2511.22939](http://arxiv.org/abs/2511.22939)|N/A|
 |**2025-11-27**|**Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction**|Boyao Zhou et.al.|[2511.22704](http://arxiv.org/abs/2511.22704)|N/A|
 |**2025-11-27**|**Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?**|Wenkai Huang et.al.|[2511.22262](http://arxiv.org/abs/2511.22262)|N/A|
 |**2025-11-27**|**IE-SRGS: An Internal-External Knowledge Fusion Framework for High-Fidelity 3D Gaussian Splatting Super-Resolution**|Xiang Feng et.al.|[2511.22233](http://arxiv.org/abs/2511.22233)|N/A|
