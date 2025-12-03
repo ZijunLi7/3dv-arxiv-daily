@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850](http://arxiv.org/abs/2512.01850)|N/A|
+|**2025-12-01**|**SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge**|Yumeng He et.al.|[2512.01629](http://arxiv.org/abs/2512.01629)|N/A|
+|**2025-12-01**|**Textured Geometry Evaluation: Perceptual 3D Textured Shape Metric via 3D Latent-Geometry Network**|Tianyu Luan et.al.|[2512.01380](http://arxiv.org/abs/2512.01380)|N/A|
+|**2025-12-01**|**SRAM: Shape-Realism Alignment Metric for No Reference 3D Shape Evaluation**|Sheng Liu et.al.|[2512.01373](http://arxiv.org/abs/2512.01373)|N/A|
+|**2025-12-01**|**S $^2$ -MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance**|Beining Xu et.al.|[2512.01223](http://arxiv.org/abs/2512.01223)|N/A|
+|**2025-12-01**|**TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image**|Ziqian Wang et.al.|[2512.01204](http://arxiv.org/abs/2512.01204)|N/A|
+|**2025-11-30**|**Efficient and Scalable Monocular Human-Object Interaction Motion Reconstruction**|Boran Wen et.al.|[2512.00960](http://arxiv.org/abs/2512.00960)|N/A|
+|**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](http://arxiv.org/abs/2512.00771)|N/A|
+|**2025-11-29**|**EZ-SP: Fast and Lightweight Superpoint-Based 3D Segmentation**|Louis Geist et.al.|[2512.00385](http://arxiv.org/abs/2512.00385)|N/A|
+|**2025-11-29**|**HeartFormer: Semantic-Aware Dual-Structure Transformers for 3D Four-Chamber Cardiac Point Cloud Reconstruction**|Zhengda Ma et.al.|[2512.00264](http://arxiv.org/abs/2512.00264)|N/A|
 |**2025-11-28**|**GeoWorld: Unlocking the Potential of Geometry Models to Facilitate High-Fidelity 3D Scene Generation**|Yuhao Wan et.al.|[2511.23191](http://arxiv.org/abs/2511.23191)|N/A|
 |**2025-11-28**|**Fast Multi-view Consistent 3D Editing with Video Priors**|Liyi Chen et.al.|[2511.23172](http://arxiv.org/abs/2511.23172)|N/A|
 |**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|N/A|
@@ -415,6 +425,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|N/A|
+|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|N/A|
+|**2025-11-29**|**CC-FMO: Camera-Conditioned Zero-Shot Single Image to 3D Scene Generation with Foundation Model Orchestration**|Boshi Tang et.al.|[2512.00493](http://arxiv.org/abs/2512.00493)|N/A|
+|**2025-11-26**|**Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs**|Davide Nadalini et.al.|[2512.00086](http://arxiv.org/abs/2512.00086)|N/A|
 |**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|N/A|
 |**2025-11-25**|**DeLightMono: Enhancing Self-Supervised Monocular Depth Estimation in Endoscopy by Decoupling Uneven Illumination**|Mingyang Ou et.al.|[2511.20058](http://arxiv.org/abs/2511.20058)|N/A|
 |**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](http://arxiv.org/abs/2511.18105)|N/A|
@@ -639,6 +653,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval**|Xin Wang et.al.|[2512.01636](http://arxiv.org/abs/2512.01636)|N/A|
+|**2025-12-01**|**Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation**|Thao Thi Phuong Dao et.al.|[2512.01589](http://arxiv.org/abs/2512.01589)|N/A|
+|**2025-12-01**|**M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis**|Hang Wu et.al.|[2512.01214](http://arxiv.org/abs/2512.01214)|N/A|
+|**2025-11-28**|**Local and Global Context-and-Object-part-Aware Superpixel-based Data Augmentation for Deep Visual Recognition**|Fadi Dornaika et.al.|[2512.00130](http://arxiv.org/abs/2512.00130)|N/A|
 |**2025-11-28**|**DEAL-300K: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline**|Rui Zhang et.al.|[2511.23377](http://arxiv.org/abs/2511.23377)|N/A|
 |**2025-11-28**|**See, Rank, and Filter: Important Word-Aware Clip Filtering via Scene Understanding for Moment Retrieval and Highlight Detection**|YuEun Lee et.al.|[2511.22906](http://arxiv.org/abs/2511.22906)|N/A|
 |**2025-11-27**|**Hybrid, Unified and Iterative: A Novel Framework for Text-based Person Anomaly Retrieval**|Tien-Huy Nguyen et.al.|[2511.22470](http://arxiv.org/abs/2511.22470)|N/A|
@@ -860,6 +878,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**SARL: Spatially-Aware Self-Supervised Representation Learning for Visuo-Tactile Perception**|Gurmeher Khurana et.al.|[2512.01908](http://arxiv.org/abs/2512.01908)|N/A|
+|**2025-12-01**|**Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights**|Juanxi Tian et.al.|[2512.01816](http://arxiv.org/abs/2512.01816)|N/A|
+|**2025-12-01**|**ViT $^3$ : Unlocking Test-Time Training in Vision**|Dongchen Han et.al.|[2512.01643](http://arxiv.org/abs/2512.01643)|N/A|
+|**2025-12-01**|**Depth Matching Method Based on ShapeDTW for Oil-Based Mud Imager**|Fengfeng Li et.al.|[2512.01611](http://arxiv.org/abs/2512.01611)|N/A|
+|**2025-11-30**|**Accelerating Inference of Masked Image Generators via Reinforcement Learning**|Pranav Subbaraman et.al.|[2512.01094](http://arxiv.org/abs/2512.01094)|N/A|
+|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|N/A|
+|**2025-11-29**|**Terrain Sensing with Smartphone Structured Light: 2D Dynamic Time Warping for Grid Pattern Matching**|Tanaka Nobuaki et.al.|[2512.00514](http://arxiv.org/abs/2512.00514)|N/A|
+|**2025-11-29**|**Time-Series at the Edge: Tiny Separable CNNs for Wearable Gait Detection and Optimal Sensor Placement**|Andrea Procopio et.al.|[2512.00396](http://arxiv.org/abs/2512.00396)|N/A|
+|**2025-11-29**|**Pore-scale Image Patch Dataset and A Comparative Evaluation of Pore-scale Facial Features**|Dong Li et.al.|[2512.00381](http://arxiv.org/abs/2512.00381)|N/A|
+|**2025-11-29**|**Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation**|Xiao Cui et.al.|[2512.00308](http://arxiv.org/abs/2512.00308)|N/A|
 |**2025-11-28**|**Vision Bridge Transformer at Scale**|Zhenxiong Tan et.al.|[2511.23199](http://arxiv.org/abs/2511.23199)|N/A|
 |**2025-11-28**|**REVEAL: Reasoning-enhanced Forensic Evidence Analysis for Explainable AI-generated Image Detection**|Huangsen Cao et.al.|[2511.23158](http://arxiv.org/abs/2511.23158)|N/A|
 |**2025-11-28**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfe**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|N/A|
@@ -1027,6 +1055,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking**|Hanzhi Guo et.al.|[2512.01329](http://arxiv.org/abs/2512.01329)|N/A|
+|**2025-12-01**|**EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly**|Xiaokun Pan et.al.|[2512.01296](http://arxiv.org/abs/2512.01296)|N/A|
+|**2025-11-30**|**Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation**|An Yang et.al.|[2512.00944](http://arxiv.org/abs/2512.00944)|N/A|
+|**2025-11-30**|**Feed-Forward 3D Gaussian Splatting Compression with Long-Context Modeling**|Zhening Liu et.al.|[2512.00877](http://arxiv.org/abs/2512.00877)|N/A|
+|**2025-11-30**|**Smol-GS: Compact Representations for Abstract 3D Gaussian Splatting**|Haishan Wang et.al.|[2512.00850](http://arxiv.org/abs/2512.00850)|N/A|
+|**2025-11-30**|**PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery**|Bo Guo et.al.|[2512.00794](http://arxiv.org/abs/2512.00794)|N/A|
+|**2025-11-29**|**Cross-Temporal 3D Gaussian Splatting for Sparse-View Guided Scene Update**|Zeyuan An et.al.|[2512.00534](http://arxiv.org/abs/2512.00534)|N/A|
+|**2025-11-29**|**TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion**|Rui Qian et.al.|[2512.00300](http://arxiv.org/abs/2512.00300)|N/A|
 |**2025-11-28**|**FACT-GS: Frequency-Aligned Complexity-Aware Texture Reparameterization for 2D Gaussian Splatting**|Tianhao Xie et.al.|[2511.23292](http://arxiv.org/abs/2511.23292)|N/A|
 |**2025-11-28**|**Image Valuation in NeRF-based 3D reconstruction**|Grigorios Aris Cheimariotis et.al.|[2511.23052](http://arxiv.org/abs/2511.23052)|N/A|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](http://arxiv.org/abs/2511.23044)|N/A|
