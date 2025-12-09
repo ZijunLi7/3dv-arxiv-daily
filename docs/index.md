@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Curvature-Regularized Variational Autoencoder for 3D Scene Reconstruction from Sparse Depth**|Maryam Yousefi et.al.|[2512.05783](http://arxiv.org/abs/2512.05783)|N/A|
+|**2025-12-05**|**The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos**|Zhuoyuan Wu et.al.|[2512.05398](http://arxiv.org/abs/2512.05398)|N/A|
+|**2025-12-05**|**PoolNet: Deep Learning for 2D to 3D Video Process Validation**|Sanchit Kaul et.al.|[2512.05362](http://arxiv.org/abs/2512.05362)|N/A|
+|**2025-12-04**|**Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization**|Georgios Chatzichristodoulou et.al.|[2512.05259](http://arxiv.org/abs/2512.05259)|N/A|
 |**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|N/A|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|N/A|
 |**2025-12-04**|**FreeGen: Feed-Forward Reconstruction-Generation Co-Training for Free-Viewpoint Driving Scene Synthesis**|Shijie Chen et.al.|[2512.04830](http://arxiv.org/abs/2512.04830)|N/A|
@@ -445,12 +449,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|N/A|
+|**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|N/A|
 |**2025-12-03**|**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**|Gasser Elazab et.al.|[2512.04303](http://arxiv.org/abs/2512.04303)|N/A|
 |**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](http://arxiv.org/abs/2512.04085)|N/A|
 |**2025-12-03**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](http://arxiv.org/abs/2512.03958)|N/A|
 |**2025-12-01**|**DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction**|Xia Su et.al.|[2512.02263](http://arxiv.org/abs/2512.02263)|N/A|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|N/A|
-|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|N/A|
+|**2025-12-04**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](http://arxiv.org/abs/2512.01030)|N/A|
 |**2025-11-29**|**CC-FMO: Camera-Conditioned Zero-Shot Single Image to 3D Scene Generation with Foundation Model Orchestration**|Boshi Tang et.al.|[2512.00493](http://arxiv.org/abs/2512.00493)|N/A|
 |**2025-11-26**|**Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs**|Davide Nadalini et.al.|[2512.00086](http://arxiv.org/abs/2512.00086)|N/A|
 |**2025-11-25**|**MODEST: Multi-Optics Depth-of-Field Stereo Dataset**|Nisarg K. Trivedi et.al.|[2511.20853](http://arxiv.org/abs/2511.20853)|N/A|
@@ -981,6 +987,7 @@ layout: default
 |**2025-11-24**|**Inverse Rendering for High-Genus Surface Meshes from Multi-View Images**|Xiang Gao et.al.|[2511.18680](http://arxiv.org/abs/2511.18680)|N/A|
 |**2025-11-24**|**A Theory-Inspired Framework for Few-Shot Cross-Modal Sketch Person Re-Identification**|Yunpeng Gong et.al.|[2511.18677](http://arxiv.org/abs/2511.18677)|N/A|
 |**2025-11-23**|**DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition**|Raja Kumar et.al.|[2511.18305](http://arxiv.org/abs/2511.18305)|N/A|
+|**2025-11-21**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|N/A|
 |**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|N/A|
 |**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|N/A|
 |**2025-11-21**|**ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP**|Linxiang Su et.al.|[2511.17362](http://arxiv.org/abs/2511.17362)|N/A|
@@ -1033,9 +1040,10 @@ layout: default
 |**2025-11-12**|**4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching**|Xingchi Chen et.al.|[2511.09055](http://arxiv.org/abs/2511.09055)|N/A|
 |**2025-11-12**|**Asymmetric Cross-Modal Knowledge Distillation: Bridging Modalities with Weak Semantic Consistency**|Riling Wei et.al.|[2511.08901](http://arxiv.org/abs/2511.08901)|N/A|
 |**2025-11-11**|**LatentPrintFormer: A Hybrid CNN-Transformer with Spatial Attention for Latent Fingerprint identification**|Arnab Maity et.al.|[2511.08119](http://arxiv.org/abs/2511.08119)|N/A|
+|**2025-11-08**|**U(PM) $^2$ :Unsupervised polygon matching with pre-trained models for challenging stereo images**|Chang Li et.al.|[2511.05949](http://arxiv.org/abs/2511.05949)|N/A|
 |**2025-11-05**|**Robust Alignment of the Human Embryo in 3D Ultrasound using PCA and an Ensemble of Heuristic, Atlas-based and Learning-based Classifiers Evaluated on the Rotterdam Periconceptional Cohort**|Nikolai Herrmann et.al.|[2511.03416](http://arxiv.org/abs/2511.03416)|N/A|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|N/A|
-|**2025-10-26**|**FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment**|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|N/A|
+|**2025-11-18**|**FairJudge: MLLM Judging for Social Attributes and Prompt Image Alignment**|Zahraa Al Sahili et.al.|[2510.22827](http://arxiv.org/abs/2510.22827)|N/A|
 |**2025-10-08**|**StyleKeeper: Prevent Content Leakage using Negative Visual Query Guidance**|Jaeseok Jeong et.al.|[2510.06827](http://arxiv.org/abs/2510.06827)|N/A|
 |**2025-10-08**|**Efficient Discriminative Joint Encoders for Large Scale Vision-Language Reranking**|Mitchell Keren Taraday et.al.|[2510.06820](http://arxiv.org/abs/2510.06820)|N/A|
 |**2025-09-20**|**PM25Vision: A Large-Scale Benchmark Dataset for Visual Estimation of Air Quality**|Yang Han et.al.|[2509.16519](http://arxiv.org/abs/2509.16519)|N/A|
@@ -1105,6 +1113,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training**|Yang Zheng et.al.|[2512.05354](http://arxiv.org/abs/2512.05354)|N/A|
 |**2025-12-04**|**Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting**|Hao-Jen Chien et.al.|[2512.05113](http://arxiv.org/abs/2512.05113)|N/A|
 |**2025-12-04**|**Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting**|Jian Tang et.al.|[2512.04731](http://arxiv.org/abs/2512.04731)|N/A|
 |**2025-12-04**|**Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization**|Hong Kuang et.al.|[2512.04542](http://arxiv.org/abs/2512.04542)|N/A|
