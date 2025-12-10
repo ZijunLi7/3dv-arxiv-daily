@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
+|**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|N/A|
+|**2025-12-05**|**Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light**|Tzofi Klinghoffer et.al.|[2512.06080](http://arxiv.org/abs/2512.06080)|N/A|
+|**2025-12-04**|**Neural reconstruction of 3D ocean wave hydrodynamics from camera sensing**|Jiabin Liu et.al.|[2512.06024](http://arxiv.org/abs/2512.06024)|N/A|
 |**2025-12-05**|**Curvature-Regularized Variational Autoencoder for 3D Scene Reconstruction from Sparse Depth**|Maryam Yousefi et.al.|[2512.05783](http://arxiv.org/abs/2512.05783)|N/A|
 |**2025-12-05**|**The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos**|Zhuoyuan Wu et.al.|[2512.05398](http://arxiv.org/abs/2512.05398)|N/A|
 |**2025-12-05**|**PoolNet: Deep Learning for 2D to 3D Video Process Validation**|Sanchit Kaul et.al.|[2512.05362](http://arxiv.org/abs/2512.05362)|N/A|
@@ -683,6 +687,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|N/A|
+|**2025-12-06**|**Language-driven Fine-grained Retrieval**|Shijie Wang et.al.|[2512.06255](http://arxiv.org/abs/2512.06255)|N/A|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|N/A|
 |**2025-12-03**|**Text-Only Training for Image Captioning with Retrieval Augmentation and Modality Gap Correction**|Rui Fonseca et.al.|[2512.04309](http://arxiv.org/abs/2512.04309)|N/A|
 |**2025-12-03**|**M3DR: Towards Universal Multilingual Multimodal Document Retrieval**|Adithya S Kolavi et.al.|[2512.03514](http://arxiv.org/abs/2512.03514)|N/A|
@@ -1113,6 +1119,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|N/A|
+|**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|N/A|
+|**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|N/A|
+|**2025-12-08**|**STRinGS: Selective Text Refinement in Gaussian Splatting**|Abhinav Raundhal et.al.|[2512.07230](http://arxiv.org/abs/2512.07230)|N/A|
+|**2025-12-08**|**SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting**|Seokhyun Youn et.al.|[2512.07197](http://arxiv.org/abs/2512.07197)|N/A|
+|**2025-12-08**|**MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation**|Muyu Xu et.al.|[2512.07165](http://arxiv.org/abs/2512.07165)|N/A|
+|**2025-12-08**|**COREA: Coarse-to-Fine 3D Representation Alignment Between Relightable 3D Gaussians and SDF via Bidirectional 3D-to-3D Supervision**|Jaeyoon Lee et.al.|[2512.07107](http://arxiv.org/abs/2512.07107)|N/A|
+|**2025-12-07**|**RAVE: Rate-Adaptive Visual Encoding for 3D Gaussian Splatting**|Hoang-Nhat Tran et.al.|[2512.07052](http://arxiv.org/abs/2512.07052)|N/A|
+|**2025-12-07**|**RDSplat: Robust Watermarking Against Diffusion Editing for 3D Gaussian Splatting**|Longjie Zhao et.al.|[2512.06774](http://arxiv.org/abs/2512.06774)|N/A|
+|**2025-12-07**|**EMGauss: Continuous Slice-to-3D Reconstruction via Dynamic Gaussian Modeling in Volume Electron Microscopy**|Yumeng He et.al.|[2512.06684](http://arxiv.org/abs/2512.06684)|N/A|
 |**2025-12-05**|**SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training**|Yang Zheng et.al.|[2512.05354](http://arxiv.org/abs/2512.05354)|N/A|
 |**2025-12-04**|**Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting**|Hao-Jen Chien et.al.|[2512.05113](http://arxiv.org/abs/2512.05113)|N/A|
 |**2025-12-04**|**Bridging Simulation and Reality: Cross-Domain Transfer with Semantic 2D Gaussian Splatting**|Jian Tang et.al.|[2512.04731](http://arxiv.org/abs/2512.04731)|N/A|
