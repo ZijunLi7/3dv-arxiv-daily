@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-08**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|N/A|
+|**2025-12-09**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
 |**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|N/A|
 |**2025-12-05**|**Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light**|Tzofi Klinghoffer et.al.|[2512.06080](http://arxiv.org/abs/2512.06080)|N/A|
 |**2025-12-04**|**Neural reconstruction of 3D ocean wave hydrodynamics from camera sensing**|Jiabin Liu et.al.|[2512.06024](http://arxiv.org/abs/2512.06024)|N/A|
@@ -453,6 +454,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|N/A|
+|**2025-12-09**|**Trajectory Densification and Depth from Perspective-based Blur**|Tianchen Qiu et.al.|[2512.08627](http://arxiv.org/abs/2512.08627)|N/A|
+|**2025-12-09**|**Accuracy Does Not Guarantee Human-Likeness in Monocular Depth Estimators**|Yuki Kubota et.al.|[2512.08163](http://arxiv.org/abs/2512.08163)|N/A|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|N/A|
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|N/A|
 |**2025-12-03**|**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**|Gasser Elazab et.al.|[2512.04303](http://arxiv.org/abs/2512.04303)|N/A|
@@ -1119,6 +1123,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|N/A|
+|**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|N/A|
+|**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|N/A|
+|**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|N/A|
 |**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|N/A|
 |**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|N/A|
 |**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|N/A|

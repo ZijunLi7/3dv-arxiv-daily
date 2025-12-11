@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-08**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|N/A|
+|**2025-12-09**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
 |**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|N/A|
 |**2025-12-05**|**Shoot-Bounce-3D: Single-Shot Occlusion-Aware 3D from Lidar by Decomposing Two-Bounce Light**|Tzofi Klinghoffer et.al.|[2512.06080](http://arxiv.org/abs/2512.06080)|N/A|
 |**2025-12-04**|**Neural reconstruction of 3D ocean wave hydrodynamics from camera sensing**|Jiabin Liu et.al.|[2512.06024](http://arxiv.org/abs/2512.06024)|N/A|
@@ -456,12 +457,15 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|N/A|
+|**2025-12-09**|**Trajectory Densification and Depth from Perspective-based Blur**|Tianchen Qiu et.al.|[2512.08627](http://arxiv.org/abs/2512.08627)|N/A|
+|**2025-12-09**|**Accuracy Does Not Guarantee Human-Likeness in Monocular Depth Estimators**|Yuki Kubota et.al.|[2512.08163](http://arxiv.org/abs/2512.08163)|N/A|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|N/A|
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](http://arxiv.org/abs/2512.05412)|N/A|
 |**2025-12-03**|**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**|Gasser Elazab et.al.|[2512.04303](http://arxiv.org/abs/2512.04303)|N/A|
@@ -692,7 +696,7 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -931,7 +935,7 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1128,12 +1132,16 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|N/A|
+|**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|N/A|
+|**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|N/A|
+|**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|N/A|
 |**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|N/A|
 |**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|N/A|
 |**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|N/A|
@@ -1878,7 +1886,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
