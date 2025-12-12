@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**LoGoColor: Local-Global 3D Colorization for 360° Scenes**|Yeonjin Chang et.al.|[2512.09278](http://arxiv.org/abs/2512.09278)|N/A|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930](http://arxiv.org/abs/2512.08930)|N/A|
 |**2025-12-09**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|N/A|
 |**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868](http://arxiv.org/abs/2512.06868)|N/A|
@@ -691,6 +692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics**|Nick Trinh et.al.|[2512.09071](http://arxiv.org/abs/2512.09071)|N/A|
 |**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|N/A|
 |**2025-12-06**|**Language-driven Fine-grained Retrieval**|Shijie Wang et.al.|[2512.06255](http://arxiv.org/abs/2512.06255)|N/A|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|N/A|
@@ -1123,6 +1125,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures**|Patrick Noras et.al.|[2512.09925](http://arxiv.org/abs/2512.09925)|N/A|
+|**2025-12-10**|**Splatent: Splatting Diffusion Latents for Novel View Synthesis**|Or Hirschorn et.al.|[2512.09923](http://arxiv.org/abs/2512.09923)|N/A|
+|**2025-12-10**|**ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat**|Nicolas Marticorena et.al.|[2512.09656](http://arxiv.org/abs/2512.09656)|N/A|
+|**2025-12-10**|**D $^2$ GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411](http://arxiv.org/abs/2512.09411)|N/A|
+|**2025-12-10**|**Log NeRF: Comparing Spaces for Learning Radiance Fields**|Sihe Chen et.al.|[2512.09375](http://arxiv.org/abs/2512.09375)|N/A|
+|**2025-12-10**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|N/A|
+|**2025-12-09**|**GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars**|Kelian Baert et.al.|[2512.09162](http://arxiv.org/abs/2512.09162)|N/A|
 |**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|N/A|
 |**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|N/A|
 |**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|N/A|
