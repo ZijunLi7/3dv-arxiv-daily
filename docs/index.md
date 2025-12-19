@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -469,7 +469,7 @@ layout: default
 |**2025-12-16**|**Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding**|Jiaheng Li et.al.|[2512.14028](http://arxiv.org/abs/2512.14028)|N/A|
 |**2025-12-15**|**StarryGazer: Leveraging Monocular Depth Estimation Models for Domain-Agnostic Single Depth Image Completion**|Sangmin Hong et.al.|[2512.13147](http://arxiv.org/abs/2512.13147)|N/A|
 |**2025-12-13**|**BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|N/A|
-|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|N/A|
+|**2025-12-17**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|N/A|
 |**2025-12-11**|**StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space**|Tjark Behrens et.al.|[2512.10959](http://arxiv.org/abs/2512.10959)|N/A|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|N/A|
 |**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|N/A|
@@ -1148,6 +1148,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|N/A|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|N/A|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|N/A|
+|**2025-12-17**|**MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance**|Kaizhe Zhang et.al.|[2512.15048](http://arxiv.org/abs/2512.15048)|N/A|
+|**2025-12-17**|**A Gaussian Parameterization for Direct Atomic Structure Identification in Electron Tomography**|Nalini M. Singh et.al.|[2512.15034](http://arxiv.org/abs/2512.15034)|N/A|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|N/A|
 |**2025-12-16**|**GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants**|Yang Yang et.al.|[2512.14087](http://arxiv.org/abs/2512.14087)|N/A|
 |**2025-12-16**|**ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization**|Meng Wei et.al.|[2512.14039](http://arxiv.org/abs/2512.14039)|N/A|

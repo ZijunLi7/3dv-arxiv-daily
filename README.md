@@ -1,4 +1,4 @@
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -468,7 +468,7 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -478,7 +478,7 @@
 |**2025-12-16**|**Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding**|Jiaheng Li et.al.|[2512.14028](http://arxiv.org/abs/2512.14028)|N/A|
 |**2025-12-15**|**StarryGazer: Leveraging Monocular Depth Estimation Models for Domain-Agnostic Single Depth Image Completion**|Sangmin Hong et.al.|[2512.13147](http://arxiv.org/abs/2512.13147)|N/A|
 |**2025-12-13**|**BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation**|Hangwei Zhang et.al.|[2512.12425](http://arxiv.org/abs/2512.12425)|N/A|
-|**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|N/A|
+|**2025-12-17**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](http://arxiv.org/abs/2512.11773)|N/A|
 |**2025-12-11**|**StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space**|Tjark Behrens et.al.|[2512.10959](http://arxiv.org/abs/2512.10959)|N/A|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](http://arxiv.org/abs/2512.10725)|N/A|
 |**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](http://arxiv.org/abs/2512.08700)|N/A|
@@ -714,7 +714,7 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -958,7 +958,7 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1157,12 +1157,17 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|N/A|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|N/A|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080](http://arxiv.org/abs/2512.15080)|N/A|
+|**2025-12-17**|**MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance**|Kaizhe Zhang et.al.|[2512.15048](http://arxiv.org/abs/2512.15048)|N/A|
+|**2025-12-17**|**A Gaussian Parameterization for Direct Atomic Structure Identification in Electron Tomography**|Nalini M. Singh et.al.|[2512.15034](http://arxiv.org/abs/2512.15034)|N/A|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|N/A|
 |**2025-12-16**|**GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants**|Yang Yang et.al.|[2512.14087](http://arxiv.org/abs/2512.14087)|N/A|
 |**2025-12-16**|**ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization**|Meng Wei et.al.|[2512.14039](http://arxiv.org/abs/2512.14039)|N/A|
@@ -1931,7 +1936,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
