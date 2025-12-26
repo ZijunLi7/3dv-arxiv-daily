@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](http://arxiv.org/abs/2512.20770)|N/A|
 |**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](http://arxiv.org/abs/2512.20531)|N/A|
 |**2025-12-23**|**Scaling Point-based Differentiable Rendering for Large-scale Reconstruction**|Hexu Zhao et.al.|[2512.20017](http://arxiv.org/abs/2512.20017)|N/A|
 |**2025-12-22**|**HyGE-Occ: Hybrid View-Transformation with 3D Gaussian and Edge Priors for 3D Panoptic Occupancy Prediction**|Jong Wook Kim et.al.|[2512.19871](http://arxiv.org/abs/2512.19871)|N/A|
@@ -726,6 +727,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|N/A|
+|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|N/A|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|N/A|
 |**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|N/A|
 |**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|N/A|
@@ -974,6 +977,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|N/A|
 |**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|N/A|
 |**2025-12-11**|**Self-Supervised Contrastive Embedding Adaptation for Endoscopic Image Matching**|Alberto Rota et.al.|[2512.10379](http://arxiv.org/abs/2512.10379)|N/A|
 |**2025-12-14**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|N/A|
@@ -1172,6 +1176,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|N/A|
+|**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|N/A|
 |**2025-12-23**|**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**|Linfei Li et.al.|[2512.20377](http://arxiv.org/abs/2512.20377)|N/A|
 |**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|N/A|
 |**2025-12-23**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|N/A|
