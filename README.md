@@ -1,4 +1,4 @@
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](http://arxiv.org/abs/2512.23437)|N/A|
+|**2025-12-28**|**3D Scene Change Modeling With Consistent Multi-View Aggregation**|Zirui Zhou et.al.|[2512.22830](http://arxiv.org/abs/2512.22830)|N/A|
+|**2025-12-28**|**Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation**|Yongzhen Hu et.al.|[2512.22745](http://arxiv.org/abs/2512.22745)|N/A|
+|**2025-12-27**|**SAM 3D for 3D Object Reconstruction from Remote Sensing Images**|Junsheng Yao et.al.|[2512.22452](http://arxiv.org/abs/2512.22452)|N/A|
+|**2025-12-26**|**PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation**|Darrin Bright et.al.|[2512.22304](http://arxiv.org/abs/2512.22304)|N/A|
+|**2025-12-25**|**Learning Dynamic Scene Reconstruction with Sinusoidal Geometric Priors**|Tian Guo et.al.|[2512.22295](http://arxiv.org/abs/2512.22295)|N/A|
 |**2025-12-25**|**MuS-Polar3D: A Benchmark Dataset for Computational Polarimetric 3D Imaging under Multi-Scattering Conditions**|Puyun Wang et.al.|[2512.21513](http://arxiv.org/abs/2512.21513)|N/A|
 |**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](http://arxiv.org/abs/2512.20770)|N/A|
 |**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](http://arxiv.org/abs/2512.20531)|N/A|
@@ -483,12 +489,14 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-28**|**Depth Anything in $360^\circ$ : Towards Scale Invariance in the Wild**|Hualie Jiang et.al.|[2512.22819](http://arxiv.org/abs/2512.22819)|N/A|
+|**2025-12-27**|**Visual Autoregressive Modelling for Monocular Depth Estimation**|Amir El-Ghoussani et.al.|[2512.22653](http://arxiv.org/abs/2512.22653)|N/A|
 |**2025-12-20**|**EndoStreamDepth: Temporally Consistent Monocular Depth Estimation for Endoscopic Video Streams**|Hao Li et.al.|[2512.18159](http://arxiv.org/abs/2512.18159)|N/A|
 |**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](http://arxiv.org/abs/2512.17908)|N/A|
 |**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[2512.17784](http://arxiv.org/abs/2512.17784)|N/A|
@@ -733,7 +741,7 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -741,7 +749,7 @@
 |---|---|---|---|---|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|N/A|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|N/A|
-|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|N/A|
+|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|N/A|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|N/A|
 |**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|N/A|
 |**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|N/A|
@@ -986,7 +994,7 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1065,7 +1073,7 @@
 |**2025-11-24**|**Inverse Rendering for High-Genus Surface Meshes from Multi-View Images**|Xiang Gao et.al.|[2511.18680](http://arxiv.org/abs/2511.18680)|N/A|
 |**2025-11-24**|**A Theory-Inspired Framework for Few-Shot Cross-Modal Sketch Person Re-Identification**|Yunpeng Gong et.al.|[2511.18677](http://arxiv.org/abs/2511.18677)|N/A|
 |**2025-11-23**|**DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition**|Raja Kumar et.al.|[2511.18305](http://arxiv.org/abs/2511.18305)|N/A|
-|**2025-11-21**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|N/A|
+|**2025-12-26**|**SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration**|Zhimin Shao et.al.|[2511.17750](http://arxiv.org/abs/2511.17750)|N/A|
 |**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre et.al.|[2511.17432](http://arxiv.org/abs/2511.17432)|N/A|
 |**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov et.al.|[2511.17411](http://arxiv.org/abs/2511.17411)|N/A|
 |**2025-11-21**|**ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP**|Linxiang Su et.al.|[2511.17362](http://arxiv.org/abs/2511.17362)|N/A|
@@ -1187,12 +1195,16 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Contour Information Aware 2D Gaussian Splatting for Image Representation**|Masaya Takabe et.al.|[2512.23255](http://arxiv.org/abs/2512.23255)|N/A|
+|**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|N/A|
+|**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](http://arxiv.org/abs/2512.22771)|N/A|
+|**2025-12-27**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|N/A|
 |**2025-12-25**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](http://arxiv.org/abs/2512.21692)|N/A|
 |**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|N/A|
 |**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|N/A|
@@ -1983,7 +1995,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
