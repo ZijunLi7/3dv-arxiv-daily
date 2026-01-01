@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](http://arxiv.org/abs/2512.24593)|N/A|
 |**2025-12-29**|**RealX3D: A Physically-Degraded 3D Benchmark for Multi-view Visual Restoration and Reconstruction**|Shuhong Liu et.al.|[2512.23437](http://arxiv.org/abs/2512.23437)|N/A|
 |**2025-12-28**|**3D Scene Change Modeling With Consistent Multi-View Aggregation**|Zirui Zhou et.al.|[2512.22830](http://arxiv.org/abs/2512.22830)|N/A|
 |**2025-12-28**|**Split4D: Decomposed 4D Scene Reconstruction Without Video Segmentation**|Yongzhen Hu et.al.|[2512.22745](http://arxiv.org/abs/2512.22745)|N/A|
@@ -486,6 +487,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-30**|**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**|Yongtao Chen et.al.|[2512.24111](http://arxiv.org/abs/2512.24111)|N/A|
+|**2025-12-29**|**Leveraging Synthetic Priors for Monocular Depth Estimation in Specular Surgical Environments**|Ankan Aich et.al.|[2512.23786](http://arxiv.org/abs/2512.23786)|N/A|
 |**2025-12-28**|**Depth Anything in $360^\circ$ : Towards Scale Invariance in the Wild**|Hualie Jiang et.al.|[2512.22819](http://arxiv.org/abs/2512.22819)|N/A|
 |**2025-12-27**|**Visual Autoregressive Modelling for Monocular Depth Estimation**|Amir El-Ghoussani et.al.|[2512.22653](http://arxiv.org/abs/2512.22653)|N/A|
 |**2025-12-20**|**EndoStreamDepth: Temporally Consistent Monocular Depth Estimation for Endoscopic Video Streams**|Hao Li et.al.|[2512.18159](http://arxiv.org/abs/2512.18159)|N/A|
@@ -736,6 +739,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|N/A|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|N/A|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|N/A|
 |**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|N/A|
@@ -1186,10 +1190,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression**|Xiang Liu et.al.|[2512.24742](http://arxiv.org/abs/2512.24742)|N/A|
+|**2025-12-30**|**Structure-Guided Allocation of 2D Gaussians for Image Representation and Compression**|Huanxiong Liang et.al.|[2512.24018](http://arxiv.org/abs/2512.24018)|N/A|
+|**2025-12-30**|**Improved 3D Gaussian Splatting of Unknown Spacecraft Structure Using Space Environment Illumination Knowledge**|Tae Ha Park et.al.|[2512.23998](http://arxiv.org/abs/2512.23998)|N/A|
 |**2025-12-29**|**Contour Information Aware 2D Gaussian Splatting for Image Representation**|Masaya Takabe et.al.|[2512.23255](http://arxiv.org/abs/2512.23255)|N/A|
 |**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|N/A|
 |**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](http://arxiv.org/abs/2512.22771)|N/A|
-|**2025-12-27**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|N/A|
+|**2025-12-30**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|N/A|
 |**2025-12-25**|**ShinyNeRF: Digitizing Anisotropic Appearance in Neural Radiance Fields**|Albert Barreiro et.al.|[2512.21692](http://arxiv.org/abs/2512.21692)|N/A|
 |**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|N/A|
 |**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|N/A|
