@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
