@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.01.09
+## Updated on 2026.01.10
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|N/A|
 |**2026-01-06**|**Making Infeasible Tasks Feasible: Planning to Reconfigure Disconnected 3D Environments with Movable Objects**|Samarth Kalluraya et.al.|[2601.02645](http://arxiv.org/abs/2601.02645)|N/A|
 |**2026-01-03**|**UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass**|Mengfei Li et.al.|[2601.01222](http://arxiv.org/abs/2601.01222)|N/A|
 |**2026-01-03**|**VISO: Robust Underwater Visual-Inertial-Sonar SLAM with Photometric Rendering for Dense 3D Reconstruction**|Shu Pan et.al.|[2601.01144](http://arxiv.org/abs/2601.01144)|N/A|
@@ -1210,6 +1211,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer**|Daniele Lizzio Bosco et.al.|[2601.05250](http://arxiv.org/abs/2601.05250)|N/A|
+|**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|N/A|
+|**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|N/A|
+|**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](http://arxiv.org/abs/2601.04754)|N/A|
+|**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla et.al.|[2601.04348](http://arxiv.org/abs/2601.04348)|N/A|
 |**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](http://arxiv.org/abs/2601.03869)|N/A|
 |**2026-01-07**|**IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting**|Wei Long et.al.|[2601.03824](http://arxiv.org/abs/2601.03824)|N/A|
 |**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](http://arxiv.org/abs/2601.03510)|N/A|
