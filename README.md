@@ -1,4 +1,4 @@
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**NeuralFur: Animal Fur Reconstruction From Multi-View Images**|Vanessa Sklyarova et.al.|[2601.12481](http://arxiv.org/abs/2601.12481)|N/A|
+|**2026-01-18**|**Soft Shadow Diffusion (SSD): Physics-inspired Learning for 3D Computational Periscopy**|Fadlullah Raji et.al.|[2601.12257](http://arxiv.org/abs/2601.12257)|N/A|
+|**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|N/A|
 |**2026-01-15**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|N/A|
 |**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|N/A|
 |**2026-01-14**|**V-DPM: 4D Video Reconstruction with Dynamic Point Maps**|Edgar Sucar et.al.|[2601.09499](http://arxiv.org/abs/2601.09499)|N/A|
@@ -503,13 +506,13 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-11**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|N/A|
+|**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|N/A|
 |**2026-01-09**|**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**|Weimin Liu et.al.|[2601.05839](http://arxiv.org/abs/2601.05839)|N/A|
 |**2026-01-07**|**Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection**|Samson Oseiwe Ajadalu et.al.|[2601.03617](http://arxiv.org/abs/2601.03617)|N/A|
 |**2026-01-06**|**Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views**|Xiang Zhang et.al.|[2601.03362](http://arxiv.org/abs/2601.03362)|N/A|
@@ -768,7 +771,7 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1032,12 +1035,13 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|N/A|
 |**2026-01-13**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Dongbo Xie et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|N/A|
 |**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei et.al.|[2512.21194](http://arxiv.org/abs/2512.21194)|N/A|
 |**2025-12-17**|**The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs**|Tejas Anvekar et.al.|[2512.15949](http://arxiv.org/abs/2512.15949)|N/A|
@@ -1234,12 +1238,14 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-17**|**Active Semantic Mapping of Horticultural Environments Using Gaussian Splatting**|Jose Cuaran et.al.|[2601.12122](http://arxiv.org/abs/2601.12122)|N/A|
+|**2026-01-16**|**studentSplat: Your Student Model Learns Single-view 3D Gaussian Splatting**|Yimu Pan et.al.|[2601.11772](http://arxiv.org/abs/2601.11772)|N/A|
 |**2026-01-16**|**IDDR-NGP: Incorporating Detectors for Distractor Removal with Instant Neural Radiance Field**|Xianliang Huang et.al.|[2601.11030](http://arxiv.org/abs/2601.11030)|N/A|
 |**2026-01-15**|**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**|Zhendong Wang et.al.|[2601.10075](http://arxiv.org/abs/2601.10075)|N/A|
 |**2026-01-14**|**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**|Sooyeun Yang et.al.|[2601.09291](http://arxiv.org/abs/2601.09291)|N/A|
@@ -2076,7 +2082,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
