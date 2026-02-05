@@ -1,4 +1,4 @@
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Jin-Chuan Shi et.al.|[2602.04672](http://arxiv.org/abs/2602.04672)|N/A|
+|**2026-02-04**|**S-MUSt3R: Sliding Multi-view 3D Reconstruction**|Leonid Antsfeld et.al.|[2602.04517](http://arxiv.org/abs/2602.04517)|N/A|
+|**2026-02-04**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439](http://arxiv.org/abs/2602.04439)|N/A|
+|**2026-02-04**|**JOintGS: Joint Optimization of Cameras, Bodies and 3D Gaussians for In-the-Wild Monocular Reconstruction**|Zihan Lou et.al.|[2602.04317](http://arxiv.org/abs/2602.04317)|N/A|
+|**2026-02-04**|**SuperPoint-E: local features for 3D reconstruction via tracking adaptation in endoscopy**|O. Leon Barbed et.al.|[2602.04108](http://arxiv.org/abs/2602.04108)|N/A|
+|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](http://arxiv.org/abs/2602.04053)|N/A|
+|**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|N/A|
 |**2026-02-03**|**Hand3R: Online 4D Hand-Scene Reconstruction in the Wild**|Wendi Hu et.al.|[2602.03200](http://arxiv.org/abs/2602.03200)|N/A|
 |**2026-02-02**|**3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM**|Pierre-Yves Lajoie et.al.|[2602.02430](http://arxiv.org/abs/2602.02430)|N/A|
 |**2026-02-02**|**Tail-Aware Post-Training Quantization for 3D Geometry Models**|Sicheng Pan et.al.|[2602.01741](http://arxiv.org/abs/2602.01741)|N/A|
@@ -530,7 +537,7 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -807,16 +814,18 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
+|**2026-02-04**|**Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement**|Zipeng Zhu et.al.|[2602.04304](http://arxiv.org/abs/2602.04304)|N/A|
 |**2026-02-03**|**LaVPR: Benchmarking Language and Vision for Place Recognition**|Ofer Idan et.al.|[2602.03253](http://arxiv.org/abs/2602.03253)|N/A|
 |**2026-02-02**|**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**|Tianyu Yang et.al.|[2602.01639](http://arxiv.org/abs/2602.01639)|N/A|
-|**2026-01-31**|**Invariance on Manifolds: Understanding Robust Visual Representations for Place Recognition**|Jintao Cheng et.al.|[2602.00841](http://arxiv.org/abs/2602.00841)|N/A|
-|**2026-01-31**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813](http://arxiv.org/abs/2602.00813)|N/A|
+|**2026-02-04**|**Invariance on Manifolds: Understanding Robust Visual Representations for Place Recognition**|Jintao Cheng et.al.|[2602.00841](http://arxiv.org/abs/2602.00841)|N/A|
+|**2026-02-03**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813](http://arxiv.org/abs/2602.00813)|N/A|
 |**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|N/A|
 |**2026-01-30**|**Compact Hypercube Embeddings for Fast Text-based Wildlife Observation Retrieval**|Ilyass Moummad et.al.|[2601.22783](http://arxiv.org/abs/2601.22783)|N/A|
 |**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|N/A|
@@ -1083,12 +1092,13 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
 |**2026-01-19**|**A Streamlined Attention-Based Network for Descriptor Extraction**|Mattia D'Urso et.al.|[2601.13126](http://arxiv.org/abs/2601.13126)|N/A|
 |**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|N/A|
 |**2026-01-13**|**Second-order Gaussian directional derivative representations for image high-resolution corner detection**|Dongbo Xie et.al.|[2601.08182](http://arxiv.org/abs/2601.08182)|N/A|
@@ -1287,12 +1297,17 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Nix and Fix: Targeting 1000x Compression of 3D Gaussian Splatting with Diffusion Models**|Cem Eteke et.al.|[2602.04549](http://arxiv.org/abs/2602.04549)|N/A|
+|**2026-02-03**|**AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting**|Joanna Kaleta et.al.|[2602.04043](http://arxiv.org/abs/2602.04043)|N/A|
+|**2026-02-02**|**Intellectual Property Protection for 3D Gaussian Splatting Assets: A Survey**|Longjie Zhao et.al.|[2602.03878](http://arxiv.org/abs/2602.03878)|N/A|
+|**2026-02-01**|**Split&Splat: Zero-Shot Panoptic Segmentation via Explicit Instance Modeling and 3D Gaussian Splatting**|Leonardo Monchieri et.al.|[2602.03809](http://arxiv.org/abs/2602.03809)|N/A|
+|**2026-02-03**|**Constrained Dynamic Gaussian Splatting**|Zihan Zheng et.al.|[2602.03538](http://arxiv.org/abs/2602.03538)|N/A|
 |**2026-02-03**|**Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization**|Manuel Hofer et.al.|[2602.03327](http://arxiv.org/abs/2602.03327)|N/A|
 |**2026-02-03**|**WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU**|Yudong Han et.al.|[2602.03207](http://arxiv.org/abs/2602.03207)|N/A|
 |**2026-02-03**|**SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation**|Zhanfeng Liao et.al.|[2602.02989](http://arxiv.org/abs/2602.02989)|N/A|
@@ -2173,7 +2188,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
