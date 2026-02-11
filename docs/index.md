@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications**|Chiara Lena et.al.|[2602.08397](http://arxiv.org/abs/2602.08397)|N/A|
+|**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|N/A|
+|**2026-02-08**|**Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video**|Zihui Gao et.al.|[2602.07891](http://arxiv.org/abs/2602.07891)|N/A|
 |**2026-02-08**|**Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images**|Fei Yu et.al.|[2602.07860](http://arxiv.org/abs/2602.07860)|N/A|
 |**2026-02-07**|**Perspective-aware fusion of incomplete depth maps and surface normals for accurate 3D reconstruction**|Ondrej Hlinka et.al.|[2602.07444](http://arxiv.org/abs/2602.07444)|N/A|
 |**2026-02-05**|**MetaSSP: Enhancing Semi-supervised Implicit 3D Reconstruction through Meta-adaptive EMA and SDF-aware Pseudo-label Evaluation**|Luoxi Zhang et.al.|[2602.06163](http://arxiv.org/abs/2602.06163)|N/A|
@@ -543,7 +546,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-06**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
+|**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|N/A|
+|**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|N/A|
 |**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](http://arxiv.org/abs/2602.03209)|N/A|
 |**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|N/A|
@@ -820,7 +824,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-08**|**WristMIR: Coarse-to-Fine Region-Aware Retrieval of Pediatric Wrist Radiographs with Radiology Report-Driven Learning**|Mert Sonmezer et.al.|[2602.07872](http://arxiv.org/abs/2602.07872)|N/A|
+|**2026-02-10**|**WristMIR: Coarse-to-Fine Region-Aware Retrieval of Pediatric Wrist Radiographs with Radiology Report-Driven Learning**|Mert Sonmezer et.al.|[2602.07872](http://arxiv.org/abs/2602.07872)|N/A|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|N/A|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
 |**2026-02-04**|**Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement**|Zipeng Zhu et.al.|[2602.04304](http://arxiv.org/abs/2602.04304)|N/A|
@@ -1098,6 +1102,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features**|Qiang Wang et.al.|[2602.08430](http://arxiv.org/abs/2602.08430)|N/A|
 |**2026-01-31**|**Gaussian-Constrained LeJEPA Representations for Unsupervised Scene Discovery and Pose Consistency**|Mohsen Mostafa et.al.|[2602.07016](http://arxiv.org/abs/2602.07016)|N/A|
 |**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|N/A|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
@@ -1303,6 +1308,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|N/A|
+|**2026-02-10**|**Stability and Concentration in Nonlinear Inverse Problems with Block-Structured Parameters: Lipschitz Geometry, Identifiability, and an Application to Gaussian Splatting**|Joe-Mei Feng et.al.|[2602.09415](http://arxiv.org/abs/2602.09415)|N/A|
+|**2026-02-10**|**Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields**|Weihan Luo et.al.|[2602.08958](http://arxiv.org/abs/2602.08958)|N/A|
+|**2026-02-09**|**Analysis of Converged 3D Gaussian Splatting Solutions: Density Effects and Prediction Limit**|Zhendong Wang et.al.|[2602.08909](http://arxiv.org/abs/2602.08909)|N/A|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|N/A|
+|**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|N/A|
+|**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|N/A|
+|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|N/A|
 |**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|N/A|
 |**2026-02-06**|**Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting**|Zinan Lv et.al.|[2602.07101](http://arxiv.org/abs/2602.07101)|N/A|
 |**2026-02-06**|**GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification**|Soonbin Lee et.al.|[2602.06830](http://arxiv.org/abs/2602.06830)|N/A|
