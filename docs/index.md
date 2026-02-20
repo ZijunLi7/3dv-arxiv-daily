@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Varun Burde et.al.|[2602.17101](http://arxiv.org/abs/2602.17101)|N/A|
 |**2026-02-17**|**MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction**|Qiang Zhang et.al.|[2602.15733](http://arxiv.org/abs/2602.15733)|N/A|
 |**2026-02-15**|**Exploiting Structure-from-Motion for Robust Vision-Based Map Matching for Aircraft Surface Movement**|Daniel Choate et.al.|[2602.14311](http://arxiv.org/abs/2602.14311)|N/A|
 |**2026-02-15**|**GeoFusionLRM: Geometry-Aware Self-Correction for Consistent 3D Reconstruction**|Ahmet Burak Yildirim et.al.|[2602.14119](http://arxiv.org/abs/2602.14119)|N/A|
@@ -555,6 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|N/A|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|N/A|
 |**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](http://arxiv.org/abs/2602.11066)|N/A|
 |**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|N/A|
@@ -1325,6 +1327,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|N/A|
+|**2026-02-19**|**3D Scene Rendering with Multimodal Gaussian Splatting**|Chi-Shiang Gau et.al.|[2602.17124](http://arxiv.org/abs/2602.17124)|N/A|
+|**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|N/A|
 |**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|N/A|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|N/A|
 |**2026-02-17**|**DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles**|Rong Fu et.al.|[2602.15355](http://arxiv.org/abs/2602.15355)|N/A|
