@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -556,6 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|N/A|
 |**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|N/A|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|N/A|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|N/A|
@@ -1329,6 +1330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering**|Yiran Qiao et.al.|[2602.19323](http://arxiv.org/abs/2602.19323)|N/A|
+|**2026-02-21**|**PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**|Dan Wang et.al.|[2602.18886](http://arxiv.org/abs/2602.18886)|N/A|
 |**2026-02-20**|**Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting**|Tianyi Song et.al.|[2602.18314](http://arxiv.org/abs/2602.18314)|N/A|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|N/A|
 |**2026-02-19**|**3D Scene Rendering with Multimodal Gaussian Splatting**|Chi-Shiang Gau et.al.|[2602.17124](http://arxiv.org/abs/2602.17124)|N/A|
