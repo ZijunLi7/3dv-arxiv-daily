@@ -1,4 +1,4 @@
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|N/A|
+|**2026-02-25**|**Pseudo-View Enhancement via Confidence Fusion for Unposed Sparse-View Reconstruction**|Beizhen Zhao et.al.|[2602.21535](http://arxiv.org/abs/2602.21535)|N/A|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|N/A|
 |**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|N/A|
 |**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|N/A|
 |**2026-02-23**|**TeHOR: Text-Guided 3D Human and Object Reconstruction with Textures**|Hyeongjin Nam et.al.|[2602.19679](http://arxiv.org/abs/2602.19679)|N/A|
@@ -562,12 +565,13 @@
 |**2019-04-17**|**Live Reconstruction of Large-Scale Dynamic Outdoor Worlds**|Ondrej Miksik et.al.|[1903.06708](http://arxiv.org/abs/1903.06708)|N/A|
 |**2018-12-03**|**Structure and Motion from Multiframes**|Mieczysław A. Kłopotek et.al.|[1811.12797](http://arxiv.org/abs/1811.12797)|N/A|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|N/A|
 |**2026-02-23**|**TactiVerse: Generalizing Multi-Point Tactile Sensing in Soft Robotics Using Single-Point Data**|Junhui Lee et.al.|[2602.19850](http://arxiv.org/abs/2602.19850)|N/A|
 |**2026-02-23**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|N/A|
 |**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|N/A|
@@ -852,12 +856,14 @@
 |**2022-07-20**|**MonoIndoor++:Towards Better Practice of Self-Supervised Monocular Depth Estimation for Indoor Environments**|Runze Li et.al.|[2207.08951](http://arxiv.org/abs/2207.08951)|N/A|
 |**2022-07-22**|**Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics**|Sen Zhang et.al.|[2207.04680](http://arxiv.org/abs/2207.04680)|N/A|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|N/A|
+|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|N/A|
 |**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|N/A|
 |**2026-02-12**|**DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition**|Ji Li et.al.|[2602.11875](http://arxiv.org/abs/2602.11875)|N/A|
 |**2026-02-11**|**DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories**|Chenlong Deng et.al.|[2602.10809](http://arxiv.org/abs/2602.10809)|N/A|
@@ -1135,7 +1141,7 @@
 |**2018-04-03**|**Geometry-Aware Learning of Maps for Camera Localization**|Samarth Brahmbhatt et.al.|[1712.03342](http://arxiv.org/abs/1712.03342)|N/A|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|N/A|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1344,12 +1350,16 @@
 |**2018-09-14**|**Deep Spectral Correspondence for Matching Disparate Image Pairs**|Arun CS Kumar et.al.|[1809.04642](http://arxiv.org/abs/1809.04642)|N/A|
 |**2017-11-06**|**Anisotropic-Scale Junction Detection and Matching for Indoor Images**|Nan Xue et.al.|[1703.05630](http://arxiv.org/abs/1703.05630)|N/A|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping**|Junmyeong Lee et.al.|[2602.21668](http://arxiv.org/abs/2602.21668)|N/A|
+|**2026-02-25**|**Lie Flow: Video Dynamic Fields Modeling and Predicting with Lie Algebra as Geometric Physics Principle**|Weidong Qiao et.al.|[2602.21645](http://arxiv.org/abs/2602.21645)|N/A|
+|**2026-02-24**|**BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting**|Jiaxing Yu et.al.|[2602.21105](http://arxiv.org/abs/2602.21105)|N/A|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|N/A|
 |**2026-02-24**|**Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting**|Shuangkang Fang et.al.|[2602.20933](http://arxiv.org/abs/2602.20933)|N/A|
 |**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|N/A|
 |**2026-02-24**|**WildGHand: Learning Anti-Perturbation Gaussian Hand Avatars from Monocular In-the-Wild Videos**|Hanhui Li et.al.|[2602.20556](http://arxiv.org/abs/2602.20556)|N/A|
@@ -2281,7 +2291,7 @@
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao et.al.|[2210.00379](http://arxiv.org/abs/2210.00379)|N/A|
 |**2022-04-28**|**NeRF-Supervision: Learning Dense Object Descriptors from Neural Radiance Fields**|Lin Yen-Chen et.al.|[2203.01913](http://arxiv.org/abs/2203.01913)|N/A|
 
-<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
