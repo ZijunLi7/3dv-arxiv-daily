@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-01**|**UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction**|Puyun Wang et.al.|[2603.00908](http://arxiv.org/abs/2603.00908)|N/A|
+|**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905](http://arxiv.org/abs/2603.00905)|N/A|
+|**2026-02-28**|**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**|Yuanhao Su et.al.|[2603.00412](http://arxiv.org/abs/2603.00412)|N/A|
 |**2026-02-27**|**EvalMVX: A Unified Benchmarking for Neural 3D Reconstruction under Diverse Multiview Setups**|Zaiyan Yang et.al.|[2602.24065](http://arxiv.org/abs/2602.24065)|N/A|
 |**2026-02-27**|**PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning**|Dongxu Zhang et.al.|[2602.23945](http://arxiv.org/abs/2602.23945)|N/A|
 |**2026-02-27**|**Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation**|Chongyang Xu et.al.|[2602.23814](http://arxiv.org/abs/2602.23814)|N/A|
@@ -859,6 +862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-28**|**Multimodal Adaptive Retrieval Augmented Generation through Internal Representation Learning**|Ruoshuang Du et.al.|[2603.00511](http://arxiv.org/abs/2603.00511)|N/A|
 |**2026-02-27**|**Altitude-Aware Visual Place Recognition in Top-Down View**|Xingyu Shao et.al.|[2602.23872](http://arxiv.org/abs/2602.23872)|N/A|
 |**2026-02-26**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029](http://arxiv.org/abs/2602.23029)|N/A|
 |**2026-02-26**|**Pix2Key: Controllable Open-Vocabulary Retrieval with Semantic Decomposition and Self-Supervised Visual Dictionary Learning**|Guoyizhe Wei et.al.|[2602.22510](http://arxiv.org/abs/2602.22510)|N/A|
@@ -1353,6 +1357,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-28**|**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**|Seemandhar Jain et.al.|[2603.00805](http://arxiv.org/abs/2603.00805)|N/A|
+|**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697](http://arxiv.org/abs/2603.00697)|N/A|
+|**2026-02-28**|**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**|Zilong Xie et.al.|[2603.00500](http://arxiv.org/abs/2603.00500)|N/A|
+|**2026-02-28**|**Station2Radar: query conditioned gaussian splatting for precipitation field**|Doyi Kim et.al.|[2603.00418](http://arxiv.org/abs/2603.00418)|N/A|
 |**2026-02-27**|**Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives**|Haoran Wang et.al.|[2602.24136](http://arxiv.org/abs/2602.24136)|N/A|
 |**2026-02-27**|**SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting**|Xiang Feng et.al.|[2602.24020](http://arxiv.org/abs/2602.24020)|N/A|
 |**2026-02-27**|**Evidential Neural Radiance Fields**|Ruxiao Duan et.al.|[2602.23574](http://arxiv.org/abs/2602.23574)|N/A|
