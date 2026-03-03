@@ -30,7 +30,8 @@ keywords:
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
                  "ti:Medical", "ti:Surgery", "ti:MRI", "ti:GS", "ti:Neural Fields",
-                 "ti:Endoscopic", "abs:GS", "abs:Gaussian Splatting", "ti:X-ray"]
+                 "ti:Endoscopic", "abs:GS", "abs:Gaussian Splatting", "ti:X-ray",  
+                 "ti:Generative", "ti:Diff", "ti:Generation"]
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation",
                   "Metric Depth", "Geometry Estimation"]
@@ -41,9 +42,10 @@ keywords:
     "Visual Localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Relocalization", "Visual Place Recognition",
-                  "Image Retrieval"]
+                  "Image Retrieval", "SLAM"]
         titles: ["ti:Localization", "ti:Place Recognition", "ti:localisation","ti:Retrieval",
-                 "ti:APR", "ti:Dof", "ti:Pose Estimation", "ti:Pose Regression", "ti:Coordinate"]
+                 "ti:APR", "ti:Dof", "ti:Pose Estimation", "ti:Pose Regression", "ti:Coordinate",
+                 "ti:SLAM"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:Medical", "ti:Object Pose"]
     "Image Matching":

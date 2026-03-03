@@ -487,6 +487,17 @@ def generate_subpages(json_file, docs_dir, date_range=None, show_badge=False):
         f.write("---\n")
         f.write("layout: default\n")
         f.write("---\n\n")
+
+        # Navigation bar (Home highlighted)
+        f.write('<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">\n')
+        f.write('  <a href="./" style="padding:4px 12px;border-radius:4px;background:#0366d6;color:#fff;text-decoration:none;font-weight:bold;">Home</a>\n')
+        for kw in all_keywords:
+            if not data[kw]:
+                continue
+            slug = slug_map[kw]
+            f.write(f'  <a href="{slug}/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">{kw}</a>\n')
+        f.write('</div>\n\n')
+
         f.write(f"## 3DV Arxiv Daily\n\n")
         f.write(f"_{date_display}_\n\n")
         f.write("### Topics\n\n")
