@@ -141,6 +141,40 @@ def get_daily_papers(topic,query="slam", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web
 
+def remove_old_papers(json_data, months=2):
+    """
+    Remove papers older than `months` months from json_data.
+    Also returns the (min_date, max_date) range of remaining papers.
+    @param json_data: dict  {keyword: {paper_id: content_str}}
+    @param months: int, papers older than this many months will be removed
+    @return: (cleaned json_data, min_date, max_date)
+    """
+    from dateutil.relativedelta import relativedelta
+    cutoff_date = datetime.date.today() - relativedelta(months=months)
+    date_pattern = re.compile(r'\|\*\*(\d{4}-\d{2}-\d{2})\*\*\|')
+    all_dates = []
+    for keyword in list(json_data.keys()):
+        papers = json_data[keyword]
+        to_remove = []
+        for paper_id, content in papers.items():
+            match = date_pattern.search(str(content))
+            if match:
+                paper_date = datetime.datetime.strptime(match.group(1), '%Y-%m-%d').date()
+                if paper_date < cutoff_date:
+                    to_remove.append(paper_id)
+                else:
+                    all_dates.append(paper_date)
+            else:
+                # Cannot parse date, keep the paper
+                all_dates.append(datetime.date.today())
+        for pid in to_remove:
+            del papers[pid]
+            logging.info(f'Removed old paper: {pid}')
+    min_date = min(all_dates) if all_dates else datetime.date.today()
+    max_date = max(all_dates) if all_dates else datetime.date.today()
+    return json_data, min_date, max_date
+
+
 def update_paper_links(filename):
     '''
     weekly update paper links in json file
@@ -213,7 +247,8 @@ def json_to_md(filename,md_filename,
                use_title = True,
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               date_range = None):
     """
     @param filename: str
     @param md_filename: str
@@ -236,6 +271,13 @@ def json_to_md(filename,md_filename,
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
+
+    if date_range is not None:
+        min_date, max_date = date_range
+        date_display = "Select paper in {} - {}".format(
+            str(min_date).replace('-','.'), str(max_date).replace('-','.'))
+    else:
+        date_display = "Select paper in " + DateNow
 
     with open(filename,"r") as f:
         content = f.read()
@@ -263,9 +305,9 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
+            f.write("## " + date_display + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> " + date_display + "\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -306,7 +348,7 @@ def json_to_md(filename,md_filename,
 
             #Add: back to top
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
+                top_info = f"#{date_display}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
@@ -330,6 +372,137 @@ def json_to_md(filename,md_filename,
                      f"cv-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
+
+def keyword_to_slug(keyword):
+    """Convert keyword name to URL-friendly slug.
+    e.g. '3D Reconstruction' -> '3d_reconstruction'
+         'NeRF & Gaussian' -> 'nerf_gaussian'
+    """
+    slug = keyword.lower()
+    slug = re.sub(r'[&]+', '', slug)
+    slug = re.sub(r'[^a-z0-9]+', '_', slug)
+    slug = slug.strip('_')
+    return slug
+
+def generate_subpages(json_file, docs_dir, date_range=None, show_badge=False):
+    """
+    Generate individual sub-pages under docs/ for each keyword topic.
+    Each sub-page is at docs/<slug>/index.md and contains a navigation bar.
+    Also generates a landing page at docs/index.md.
+    """
+    def pretty_math(s:str) -> str:
+        ret = ''
+        match = re.search(r"\$.*\$", s)
+        if match == None:
+            return s
+        math_start,math_end = match.span()
+        space_trail = space_leading = ''
+        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
+        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+        ret += s[:math_start]
+        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
+        ret += s[math_end:]
+        return ret
+
+    with open(json_file, "r") as f:
+        content = f.read()
+        data = json.loads(content) if content else {}
+
+    if not data:
+        logging.info("No data for subpages")
+        return []
+
+    # Build date display string
+    DateNow = str(datetime.date.today()).replace('-', '.')
+    if date_range is not None:
+        min_date, max_date = date_range
+        date_display = "Select paper in {} - {}".format(
+            str(min_date).replace('-', '.'), str(max_date).replace('-', '.'))
+    else:
+        date_display = "Select paper in " + DateNow
+
+    # Build slug mapping for all keywords
+    all_keywords = list(data.keys())
+    slug_map = {kw: keyword_to_slug(kw) for kw in all_keywords}
+
+    # Build navigation bar HTML
+    def make_nav_bar(current_keyword):
+        nav = '<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">\n'
+        # Link back to main page
+        nav += '  <a href="../" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">Home</a>\n'
+        for kw in all_keywords:
+            slug = slug_map[kw]
+            if kw == current_keyword:
+                nav += f'  <a href="../{slug}/" style="padding:4px 12px;border-radius:4px;background:#0366d6;color:#fff;text-decoration:none;font-weight:bold;">{kw}</a>\n'
+            else:
+                nav += f'  <a href="../{slug}/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">{kw}</a>\n'
+        nav += '</div>\n\n'
+        return nav
+
+    generated_files = []
+
+    # Generate sub-page for each keyword
+    for keyword in all_keywords:
+        day_content = data[keyword]
+        if not day_content:
+            continue
+
+        slug = slug_map[keyword]
+        subpage_dir = os.path.join(docs_dir, slug)
+        os.makedirs(subpage_dir, exist_ok=True)
+        md_path = os.path.join(subpage_dir, 'index.md')
+
+        with open(md_path, 'w') as f:
+            # Jekyll front matter
+            f.write("---\n")
+            f.write("layout: default\n")
+            f.write(f"title: {keyword}\n")
+            f.write("---\n\n")
+
+            # Navigation bar
+            f.write(make_nav_bar(keyword))
+
+            # Title
+            f.write(f"## {keyword}\n\n")
+            f.write(f"_{date_display}_\n\n")
+
+            # Table
+            f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+            f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+            # Sort papers by date
+            sorted_content = sort_papers(day_content)
+            for _, v in sorted_content.items():
+                if v is not None:
+                    f.write(pretty_math(v))
+
+            f.write("\n")
+
+        generated_files.append(md_path)
+        logging.info(f"Generated subpage: {md_path}")
+
+    # Generate landing page at docs/index.md
+    index_path = os.path.join(docs_dir, 'index.md')
+    with open(index_path, 'w') as f:
+        f.write("---\n")
+        f.write("layout: default\n")
+        f.write("---\n\n")
+        f.write(f"## 3DV Arxiv Daily\n\n")
+        f.write(f"_{date_display}_\n\n")
+        f.write("### Topics\n\n")
+        f.write('<div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px;">\n')
+        for kw in all_keywords:
+            if not data[kw]:
+                continue
+            slug = slug_map[kw]
+            paper_count = len(data[kw])
+            f.write(f'  <a href="{slug}/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">{kw} ({paper_count})</a>\n')
+        f.write('</div>\n')
+
+    generated_files.append(index_path)
+    logging.info("Generated landing page: " + index_path)
+
+    return generated_files
 
 def demo(**config):
     # TODO: use config
@@ -366,11 +539,18 @@ def demo(**config):
         else:
             # update json data
             update_json_file(json_file,data_collector)
+        # remove papers older than 6 months
+        with open(json_file,"r") as f:
+            content = f.read()
+            json_data = json.loads(content) if content else {}
+        json_data, min_date, max_date = remove_old_papers(json_data)
+        with open(json_file,"w") as f:
+            json.dump(json_data, f)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, date_range=(min_date, max_date))
 
-    # 2. update docs/index.md file (to gitpage)
+    # 2. update docs/index.md file (to gitpage) + generate sub-pages
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file   = config['md_gitpage_path']
@@ -379,9 +559,18 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+        # remove papers older than 6 months
+        with open(json_file,"r") as f:
+            content = f.read()
+            json_data = json.loads(content) if content else {}
+        json_data, min_date, max_date = remove_old_papers(json_data)
+        with open(json_file,"w") as f:
+            json.dump(json_data, f)
+        # Generate per-topic sub-pages + landing page
+        docs_dir = os.path.dirname(json_file)  # 'docs' directory
+        generate_subpages(json_file, docs_dir,
+                          date_range=(min_date, max_date),
+                          show_badge=show_badge)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -392,8 +581,16 @@ def demo(**config):
             update_paper_links(json_file)
         else:
             update_json_file(json_file, data_collector_web)
+        # remove papers older than 6 months
+        with open(json_file,"r") as f:
+            content = f.read()
+            json_data = json.loads(content) if content else {}
+        json_data, min_date, max_date = remove_old_papers(json_data)
+        with open(json_file,"w") as f:
+            json.dump(json_data, f)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= False, show_badge = show_badge, \
+            date_range=(min_date, max_date))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
