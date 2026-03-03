@@ -20,7 +20,7 @@ _Select paper in 2026.01.03 - 2026.03.02_
 <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px;">
   <a href="3d_reconstruction/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">3D Reconstruction (90)</a>
   <a href="depth_estimation/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">Depth Estimation (39)</a>
-  <a href="visual_localization/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">Visual Localization (35)</a>
+  <a href="visual_localization/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">Visual Localization (40)</a>
   <a href="image_matching/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">Image Matching (9)</a>
   <a href="nerf_gaussian/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">NeRF & Gaussian (152)</a>
 </div>
