@@ -481,7 +481,7 @@ def generate_subpages(json_file, docs_dir, date_range=None, show_badge=False):
         generated_files.append(md_path)
         logging.info(f"Generated subpage: {md_path}")
 
-    # Generate landing page at docs/index.md
+    # Generate landing page at docs/index.md (aggregated view with all topics)
     index_path = os.path.join(docs_dir, 'index.md')
     with open(index_path, 'w') as f:
         f.write("---\n")
@@ -498,17 +498,22 @@ def generate_subpages(json_file, docs_dir, date_range=None, show_badge=False):
             f.write(f'  <a href="{slug}/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">{kw}</a>\n')
         f.write('</div>\n\n')
 
-        f.write(f"## 3DV Arxiv Daily\n\n")
-        f.write(f"_{date_display}_\n\n")
-        f.write("### Topics\n\n")
-        f.write('<div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px;">\n')
-        for kw in all_keywords:
-            if not data[kw]:
+        f.write(f"## {date_display}\n\n")
+
+        # Render all topics with their paper tables
+        for keyword in all_keywords:
+            day_content = data[keyword]
+            if not day_content:
                 continue
-            slug = slug_map[kw]
-            paper_count = len(data[kw])
-            f.write(f'  <a href="{slug}/" style="padding:8px 16px;border-radius:6px;background:#0366d6;color:#fff;text-decoration:none;font-size:1.1em;">{kw} ({paper_count})</a>\n')
-        f.write('</div>\n')
+            f.write(f"## {keyword}\n\n")
+            f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+            f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+            sorted_content = sort_papers(day_content)
+            for _, v in sorted_content.items():
+                if v is not None:
+                    f.write(pretty_math(v))
+            f.write("\n")
 
     generated_files.append(index_path)
     logging.info("Generated landing page: " + index_path)
