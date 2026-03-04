@@ -9,6 +9,9 @@ github:
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
 
+# Disable auto-generated header navigation (we use our own button nav)
+header_pages: []
+
 # minima:
 skin: dark
 social_links:
