@@ -10,7 +10,8 @@ github:
 remote_theme: jekyll/minima@v2.5.1
 
 # Disable auto-generated header navigation (we use our own button nav)
-header_pages: []
+# Note: empty [] is treated as falsy by Liquid's default filter, so use a dummy entry
+header_pages: ["_none.md"]
 
 # minima:
 skin: dark
