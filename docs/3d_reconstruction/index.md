@@ -14,10 +14,16 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.05 - 2026.03.04_
+_Select paper in 2026.01.07 - 2026.03.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330](http://arxiv.org/abs/2603.05330)|N/A|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|N/A|
+|**2026-03-04**|**SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D**|Zirui Wang et.al.|[2603.04614](http://arxiv.org/abs/2603.04614)|N/A|
+|**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|N/A|
+|**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](http://arxiv.org/abs/2603.04254)|N/A|
+|**2026-03-05**|**NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction**|Weirong Chen et.al.|[2603.04179](http://arxiv.org/abs/2603.04179)|N/A|
 |**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|N/A|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|N/A|
 |**2026-03-03**|**SimRecon: SimReady Compositional Scene Reconstruction from Real Videos**|Chong Xia et.al.|[2603.02133](http://arxiv.org/abs/2603.02133)|N/A|
@@ -106,5 +112,4 @@ _Select paper in 2026.01.05 - 2026.03.04_
 |**2026-01-14**|**Affostruction: 3D Affordance Grounding with Generative Reconstruction**|Chunghyun Park et.al.|[2601.09211](http://arxiv.org/abs/2601.09211)|N/A|
 |**2026-01-09**|**InsSo3D: Inertial Navigation System and 3D Sonar SLAM for turbid environment inspection**|Simon Archieri et.al.|[2601.05805](http://arxiv.org/abs/2601.05805)|N/A|
 |**2026-01-12**|**MoE3D: A Mixture-of-Experts Module for 3D Reconstruction**|Zichen Wang et.al.|[2601.05208](http://arxiv.org/abs/2601.05208)|N/A|
-|**2026-01-06**|**Making Infeasible Tasks Feasible: Planning to Reconfigure Disconnected 3D Environments with Movable Objects**|Samarth Kalluraya et.al.|[2601.02645](http://arxiv.org/abs/2601.02645)|N/A|
 

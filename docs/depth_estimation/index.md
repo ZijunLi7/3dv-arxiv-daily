@@ -14,13 +14,13 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.01.05 - 2026.03.04_
+_Select paper in 2026.01.07 - 2026.03.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](http://arxiv.org/abs/2603.01999)|N/A|
 |**2026-03-02**|**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**|Joshua Knights et.al.|[2603.01475](http://arxiv.org/abs/2603.01475)|N/A|
-|**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|N/A|
+|**2026-03-05**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|N/A|
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|N/A|
 |**2026-02-23**|**TactiVerse: Generalizing Multi-Point Tactile Sensing in Soft Robotics Using Single-Point Data**|Junhui Lee et.al.|[2602.19850](http://arxiv.org/abs/2602.19850)|N/A|
 |**2026-02-27**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|N/A|
@@ -50,11 +50,5 @@ _Select paper in 2026.01.05 - 2026.03.04_
 |**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|N/A|
 |**2026-01-20**|**GeoSurDepth: Harnessing Foundation Model for Spatial Geometry Consistency-Oriented Self-Supervised Surround-View Depth Estimation**|Weimin Liu et.al.|[2601.05839](http://arxiv.org/abs/2601.05839)|N/A|
 |**2026-01-07**|**Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection**|Samson Oseiwe Ajadalu et.al.|[2601.03617](http://arxiv.org/abs/2601.03617)|N/A|
-|**2026-01-06**|**Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views**|Xiang Zhang et.al.|[2601.03362](http://arxiv.org/abs/2601.03362)|N/A|
-|**2026-01-06**|**InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields**|Hao Yu et.al.|[2601.03252](http://arxiv.org/abs/2601.03252)|N/A|
-|**2026-01-06**|**StableDPT: Temporal Stable Monocular Video Depth Estimation**|Ivan Sobko et.al.|[2601.02793](http://arxiv.org/abs/2601.02793)|N/A|
-|**2026-01-06**|**AnyDepth: Depth Estimation Made Easy**|Zeyu Ren et.al.|[2601.02760](http://arxiv.org/abs/2601.02760)|N/A|
-|**2026-01-05**|**Adapting Depth Anything to Adverse Imaging Conditions with Events**|Shihan Peng et.al.|[2601.02020](http://arxiv.org/abs/2601.02020)|N/A|
-|**2026-01-05**|**DisCo-FLoc: Using Dual-Level Visual-Geometric Contrasts to Disambiguate Depth-Aware Visual Floorplan Localization**|Shiyong Meng et.al.|[2601.01822](http://arxiv.org/abs/2601.01822)|N/A|
 |**2026-01-09**|**Language as Prior, Vision as Calibration: Metric Scale Recovery for Monocular Depth Estimation**|Mingxia Zhan et.al.|[2601.01457](http://arxiv.org/abs/2601.01457)|N/A|
 
