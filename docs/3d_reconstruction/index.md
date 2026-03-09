@@ -14,10 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.07 - 2026.03.05_
+_Select paper in 2026.01.09 - 2026.03.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](http://arxiv.org/abs/2603.06374)|N/A|
+|**2026-03-06**|**Hierarchical Collaborative Fusion for 3D Instance-aware Referring Expression Segmentation**|Keshen Zhou et.al.|[2603.06250](http://arxiv.org/abs/2603.06250)|N/A|
+|**2026-03-06**|**PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction**|Xiang Zhang et.al.|[2603.05888](http://arxiv.org/abs/2603.05888)|N/A|
+|**2026-03-06**|**VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction**|Muhua Zhu et.al.|[2603.05851](http://arxiv.org/abs/2603.05851)|N/A|
+|**2026-03-06**|**Spectral Probing of Feature Upsamplers in 2D-to-3D Scene Reconstruction**|Ling Xiao et.al.|[2603.05787](http://arxiv.org/abs/2603.05787)|N/A|
 |**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330](http://arxiv.org/abs/2603.05330)|N/A|
 |**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|N/A|
 |**2026-03-04**|**SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D**|Zirui Wang et.al.|[2603.04614](http://arxiv.org/abs/2603.04614)|N/A|
