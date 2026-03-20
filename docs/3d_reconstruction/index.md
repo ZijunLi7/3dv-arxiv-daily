@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.19 - 2026.03.18_
+_Select paper in 2026.01.20 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|N/A|
+|**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774](http://arxiv.org/abs/2603.18774)|N/A|
+|**2026-03-19**|**FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction**|Seonghyun Jin et.al.|[2603.18493](http://arxiv.org/abs/2603.18493)|N/A|
 |**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571](http://arxiv.org/abs/2603.17571)|N/A|
 |**2026-03-18**|**A 3D Reconstruction Benchmark for Asset Inspection**|James L. Gray et.al.|[2603.17358](http://arxiv.org/abs/2603.17358)|N/A|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868](http://arxiv.org/abs/2603.16868)|N/A|
@@ -138,6 +141,5 @@ _Select paper in 2026.01.19 - 2026.03.18_
 |**2026-01-29**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|N/A|
 |**2026-01-20**|**POCI-Diff: Position Objects Consistently and Interactively with 3D-Layout Guided Diffusion**|Andrea Rigo et.al.|[2601.14056](http://arxiv.org/abs/2601.14056)|N/A|
 |**2026-01-20**|**Criminator: An Easy-to-Use XR "Crime Animator" for Rapid Reconstruction and Analysis of Dynamic Crime Scenes**|Vahid Pooryousef et.al.|[2601.13689](http://arxiv.org/abs/2601.13689)|N/A|
-|**2026-01-19**|**Generalizable and Animatable 3D Full-Head Gaussian Avatar from a Single Image**|Shuling Zhao et.al.|[2601.12770](http://arxiv.org/abs/2601.12770)|N/A|
 |**2026-01-20**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|N/A|
 

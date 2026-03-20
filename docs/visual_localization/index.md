@@ -14,10 +14,11 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.01.19 - 2026.03.18_
+_Select paper in 2026.01.20 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**DROID-SLAM in the Wild**|Moyang Li et.al.|[2603.19076](http://arxiv.org/abs/2603.19076)|N/A|
 |**2026-03-18**|**MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval**|Xuri Ge et.al.|[2603.17360](http://arxiv.org/abs/2603.17360)|N/A|
 |**2026-03-18**|**Visual SLAM with DEM Anchoring for Lunar Surface Navigation**|Adam Dai et.al.|[2603.17229](http://arxiv.org/abs/2603.17229)|N/A|
 |**2026-03-17**|**FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**|Soudabeh Mohammadhashemi et.al.|[2603.17201](http://arxiv.org/abs/2603.17201)|N/A|
@@ -79,7 +80,6 @@ _Select paper in 2026.01.19 - 2026.03.18_
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|N/A|
 |**2026-01-21**|**LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval**|Chao Gao et.al.|[2601.14706](http://arxiv.org/abs/2601.14706)|N/A|
 |**2026-01-20**|**Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration**|Yongcong Ye et.al.|[2601.14060](http://arxiv.org/abs/2601.14060)|N/A|
-|**2026-01-19**|**DC-VLAQ: Query-Residual Aggregation for Robust Visual Place Recognition**|Hanyu Zhu et.al.|[2601.12729](http://arxiv.org/abs/2601.12729)|N/A|
 |**2026-01-22**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|N/A|
 |**2026-01-20**|**UniHash: Unifying Pointwise and Pairwise Hashing Paradigms for Seen and Unseen Category Retrieval**|Xiaoxu Ma et.al.|[2601.09828](http://arxiv.org/abs/2601.09828)|N/A|
 

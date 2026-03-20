@@ -14,14 +14,16 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.01.19 - 2026.03.18_
+_Select paper in 2026.01.20 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|N/A|
+|**2026-03-18**|**Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision**|Nikhil Gosala et.al.|[2603.18298](http://arxiv.org/abs/2603.18298)|N/A|
 |**2026-03-17**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|N/A|
 |**2026-03-17**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|N/A|
 |**2026-03-17**|**$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**|Ruizhi Wang et.al.|[2603.16362](http://arxiv.org/abs/2603.16362)|N/A|
-|**2026-03-17**|**Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation**|Xinhao Cai et.al.|[2603.16340](http://arxiv.org/abs/2603.16340)|N/A|
+|**2026-03-19**|**Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation**|Xinhao Cai et.al.|[2603.16340](http://arxiv.org/abs/2603.16340)|N/A|
 |**2026-03-17**|**PureCLIP-Depth: Prompt-Free and Decoder-Free Monocular Depth Estimation within CLIP Embedding Space**|Ryutaro Miya et.al.|[2603.16238](http://arxiv.org/abs/2603.16238)|N/A|
 |**2026-03-16**|**Spectral Rectification for Parameter-Efficient Adaptation of Foundation Models in Colonoscopy Depth Estimation**|Xiaoxian Zhang et.al.|[2603.15374](http://arxiv.org/abs/2603.15374)|N/A|
 |**2026-03-13**|**UE5-Forest: A Photorealistic Synthetic Stereo Dataset for UAV Forestry Depth Estimation**|Yida Lin et.al.|[2603.15304](http://arxiv.org/abs/2603.15304)|N/A|

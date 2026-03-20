@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.01.19 - 2026.03.18_
+_Select paper in 2026.01.20 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|N/A|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|N/A|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137](http://arxiv.org/abs/2603.19137)|N/A|
+|**2026-03-19**|**GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting**|Ahmed Tawfik Aboukhadra et.al.|[2603.18912](http://arxiv.org/abs/2603.18912)|N/A|
+|**2026-03-19**|**From ex(p) to poly: Gaussian Splatting with Polynomial Kernels**|Joerg H. Mueller et.al.|[2603.18707](http://arxiv.org/abs/2603.18707)|N/A|
+|**2026-03-19**|**OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting**|Hongjia Zhai et.al.|[2603.18510](http://arxiv.org/abs/2603.18510)|N/A|
+|**2026-03-19**|**Inst4DGS: Instance-Decomposed 4D Gaussian Splatting with Multi-Video Label Permutation Learning**|Yonghan Lee et.al.|[2603.18402](http://arxiv.org/abs/2603.18402)|N/A|
+|**2026-03-18**|**Fast and Generalizable NeRF Architecture Selection for Satellite Scene Reconstruction**|Devjyoti Chakraborty et.al.|[2603.18306](http://arxiv.org/abs/2603.18306)|N/A|
+|**2026-03-18**|**Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting**|Guillem Casadesus Vila et.al.|[2603.18218](http://arxiv.org/abs/2603.18218)|N/A|
 |**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|N/A|
 |**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|N/A|
 |**2026-03-18**|**ReLaGS: Relational Language Gaussian Splatting**|Yaxu Xie et.al.|[2603.17605](http://arxiv.org/abs/2603.17605)|N/A|
@@ -195,8 +204,4 @@ _Select paper in 2026.01.19 - 2026.03.18_
 |**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|N/A|
 |**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|N/A|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|N/A|
-|**2026-01-19**|**GaussExplorer: 3D Gaussian Splatting for Embodied Exploration and Reasoning**|Kim Yu-Ji et.al.|[2601.13132](http://arxiv.org/abs/2601.13132)|N/A|
-|**2026-01-19**|**TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement**|Belal Shaheen et.al.|[2601.12823](http://arxiv.org/abs/2601.12823)|N/A|
-|**2026-01-19**|**CSGaussian: Progressive Rate-Distortion Compression and Segmentation for 3D Gaussian Splatting**|Yu-Jen Tseng et.al.|[2601.12814](http://arxiv.org/abs/2601.12814)|N/A|
-|**2026-01-19**|**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**|Sooyeun Yang et.al.|[2601.09291](http://arxiv.org/abs/2601.09291)|N/A|
 
