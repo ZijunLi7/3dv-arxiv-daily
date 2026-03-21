@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.20 - 2026.03.19_
+_Select paper in 2026.01.21 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -139,7 +139,4 @@ _Select paper in 2026.01.20 - 2026.03.19_
 |**2026-01-25**|**Revisiting 3D Reconstruction Kernels as Low-Pass Filters**|Shengjun Zhang et.al.|[2601.17900](http://arxiv.org/abs/2601.17900)|N/A|
 |**2026-01-25**|**Agreement-Driven Multi-View 3D Reconstruction for Live Cattle Weight Estimation**|Rabin Dulal et.al.|[2601.17791](http://arxiv.org/abs/2601.17791)|N/A|
 |**2026-01-29**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|N/A|
-|**2026-01-20**|**POCI-Diff: Position Objects Consistently and Interactively with 3D-Layout Guided Diffusion**|Andrea Rigo et.al.|[2601.14056](http://arxiv.org/abs/2601.14056)|N/A|
-|**2026-01-20**|**Criminator: An Easy-to-Use XR "Crime Animator" for Rapid Reconstruction and Analysis of Dynamic Crime Scenes**|Vahid Pooryousef et.al.|[2601.13689](http://arxiv.org/abs/2601.13689)|N/A|
-|**2026-01-20**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](http://arxiv.org/abs/2601.10814)|N/A|
 

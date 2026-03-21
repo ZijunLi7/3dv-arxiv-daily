@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.01.20 - 2026.03.19_
+_Select paper in 2026.01.21 - 2026.03.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -66,5 +66,4 @@ _Select paper in 2026.01.20 - 2026.03.19_
 |**2026-01-24**|**Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales**|Kun Huang et.al.|[2601.17271](http://arxiv.org/abs/2601.17271)|N/A|
 |**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|N/A|
 |**2026-01-26**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|N/A|
-|**2026-01-20**|**GeoSurDepth: Harnessing Foundation Model for Spatial Geometry Consistency-Oriented Self-Supervised Surround-View Depth Estimation**|Weimin Liu et.al.|[2601.05839](http://arxiv.org/abs/2601.05839)|N/A|
 
