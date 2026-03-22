@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.01.21 - 2026.03.19
+## Select paper in 2026.01.22 - 2026.03.19
 
 ## 3D Reconstruction
 
@@ -256,7 +256,6 @@ layout: default
 |**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|N/A|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|N/A|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|N/A|
-|**2026-01-21**|**LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval**|Chao Gao et.al.|[2601.14706](http://arxiv.org/abs/2601.14706)|N/A|
 |**2026-01-22**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|N/A|
 
 ## Image Matching
@@ -458,7 +457,4 @@ layout: default
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|N/A|
 |**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|N/A|
 |**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|N/A|
-|**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|N/A|
-|**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|N/A|
-|**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|N/A|
 

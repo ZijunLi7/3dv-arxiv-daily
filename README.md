@@ -1,4 +1,4 @@
-## Select paper in 2026.01.21 - 2026.03.19
+## Select paper in 2026.01.22 - 2026.03.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -136,7 +136,7 @@
 |**2026-01-25**|**Agreement-Driven Multi-View 3D Reconstruction for Live Cattle Weight Estimation**|Rabin Dulal et.al.|[2601.17791](http://arxiv.org/abs/2601.17791)|N/A|
 |**2026-01-29**|**GR3EN: Generative Relighting for 3D Environments**|Xiaoyan Xing et.al.|[2601.16272](http://arxiv.org/abs/2601.16272)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260121---20260319>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260122---20260319>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -191,7 +191,7 @@
 |**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|N/A|
 |**2026-01-26**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260121---20260319>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260122---20260319>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -257,10 +257,9 @@
 |**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|N/A|
 |**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|N/A|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|N/A|
-|**2026-01-21**|**LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval**|Chao Gao et.al.|[2601.14706](http://arxiv.org/abs/2601.14706)|N/A|
 |**2026-01-22**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260121---20260319>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260122---20260319>back to top</a>)</p>
 
 ## Image Matching
 
@@ -275,7 +274,7 @@
 |**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|N/A|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260121---20260319>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260122---20260319>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -463,11 +462,8 @@
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|N/A|
 |**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|N/A|
 |**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|N/A|
-|**2026-01-21**|**Seeing through Light and Darkness: Sensor-Physics Grounded Deblurring HDR NeRF from Single-Exposure Images and Events**|Yunshan Qi et.al.|[2601.15475](http://arxiv.org/abs/2601.15475)|N/A|
-|**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|N/A|
-|**2026-01-21**|**GAT-NeRF: Geometry-Aware-Transformer Enhanced Neural Radiance Fields for High-Fidelity 4D Facial Avatars**|Zhe Chang et.al.|[2601.14875](http://arxiv.org/abs/2601.14875)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260121---20260319>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260122---20260319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
