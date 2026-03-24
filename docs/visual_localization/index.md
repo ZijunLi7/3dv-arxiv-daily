@@ -14,11 +14,16 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.01.23 - 2026.03.20_
+_Select paper in 2026.01.24 - 2026.03.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-20**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150](http://arxiv.org/abs/2603.20150)|N/A|
+|**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|N/A|
+|**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
+|**2026-03-21**|**SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval**|Qunjie Huang et.al.|[2603.20738](http://arxiv.org/abs/2603.20738)|N/A|
+|**2026-03-21**|**A Multihead Continual Learning Framework for Fine-Grained Fashion Image Retrieval with Contrastive Learning and Exponential Moving Average Distillation**|Ling Xiao et.al.|[2603.20648](http://arxiv.org/abs/2603.20648)|N/A|
+|**2026-03-20**|**TRGS-SLAM: IMU-Aided Gaussian Splatting SLAM for Blurry, Rolling Shutter, and Noisy Thermal Images**|Spencer Carmichael et.al.|[2603.20443](http://arxiv.org/abs/2603.20443)|N/A|
+|**2026-03-23**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150](http://arxiv.org/abs/2603.20150)|N/A|
 |**2026-03-20**|**IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1**|Jun Wang et.al.|[2603.19625](http://arxiv.org/abs/2603.19625)|N/A|
 |**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|N/A|
 |**2026-03-19**|**DROID-SLAM in the Wild**|Moyang Li et.al.|[2603.19076](http://arxiv.org/abs/2603.19076)|N/A|
@@ -79,5 +84,4 @@ _Select paper in 2026.01.23 - 2026.03.20_
 |**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|N/A|
 |**2026-01-30**|**Compact Hypercube Embeddings for Fast Text-based Wildlife Observation Retrieval**|Ilyass Moummad et.al.|[2601.22783](http://arxiv.org/abs/2601.22783)|N/A|
 |**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|N/A|
-|**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|N/A|
 

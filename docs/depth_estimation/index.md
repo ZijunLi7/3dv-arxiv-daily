@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.01.23 - 2026.03.20_
+_Select paper in 2026.01.24 - 2026.03.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|N/A|
 |**2026-03-20**|**SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification**|Xiaoying Wang et.al.|[2603.19547](http://arxiv.org/abs/2603.19547)|N/A|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|N/A|
 |**2026-03-18**|**Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision**|Nikhil Gosala et.al.|[2603.18298](http://arxiv.org/abs/2603.18298)|N/A|

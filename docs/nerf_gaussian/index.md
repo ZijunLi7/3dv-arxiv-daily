@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.01.23 - 2026.03.20_
+_Select paper in 2026.01.24 - 2026.03.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment**|Roy Amoyal et.al.|[2603.21936](http://arxiv.org/abs/2603.21936)|N/A|
+|**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|N/A|
+|**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|N/A|
+|**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|N/A|
+|**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|N/A|
+|**2026-03-22**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|N/A|
+|**2026-03-22**|**Two Experts Are Better Than One Generalist: Decoupling Geometry and Appearance for Feed-Forward 3D Gaussian Splatting**|Hwasik Jeong et.al.|[2603.21064](http://arxiv.org/abs/2603.21064)|N/A|
+|**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
+|**2026-03-21**|**Fast and Robust Deformable 3D Gaussian Splatting**|Han Jiao et.al.|[2603.20857](http://arxiv.org/abs/2603.20857)|N/A|
+|**2026-03-21**|**The Role and Relationship of Initialization and Densification in 3D Gaussian Splatting**|Ivan Desiatov et.al.|[2603.20714](http://arxiv.org/abs/2603.20714)|N/A|
 |**2026-03-20**|**Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives**|Wanqi Yuan et.al.|[2603.20128](http://arxiv.org/abs/2603.20128)|N/A|
 |**2026-03-20**|**Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields**|Mihnea-Bogdan Jurca et.al.|[2603.19834](http://arxiv.org/abs/2603.19834)|N/A|
 |**2026-03-20**|**3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction**|Takeshi Noda et.al.|[2603.19682](http://arxiv.org/abs/2603.19682)|N/A|
@@ -197,6 +207,4 @@ _Select paper in 2026.01.23 - 2026.03.20_
 |**2026-01-25**|**Geometry-Grounded Gaussian Splatting**|Baowen Zhang et.al.|[2601.17835](http://arxiv.org/abs/2601.17835)|N/A|
 |**2026-01-24**|**PocketGS: On-Device Training of 3D Gaussian Splatting for High Perceptual Modeling**|Wenzhi Guo et.al.|[2601.17354](http://arxiv.org/abs/2601.17354)|N/A|
 |**2026-01-24**|**NeRF-MIR: Towards High-Quality Restoration of Masked Images with Neural Radiance Fields**|Xianliang Huang et.al.|[2601.17350](http://arxiv.org/abs/2601.17350)|N/A|
-|**2026-01-23**|**LGDWT-GS: Local and Global Discrete Wavelet-Regularized 3D Gaussian Splatting for Sparse-View Scene Reconstruction**|Shima Salehi et.al.|[2601.17185](http://arxiv.org/abs/2601.17185)|N/A|
-|**2026-01-23**|**Multi-View Consistent Wound Segmentation With Neural Fields**|Remi Chierchia et.al.|[2601.16487](http://arxiv.org/abs/2601.16487)|N/A|
 
