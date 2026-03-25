@@ -14,15 +14,16 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.01.24 - 2026.03.23_
+_Select paper in 2026.01.25 - 2026.03.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|N/A|
 |**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|N/A|
 |**2026-03-20**|**SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification**|Xiaoying Wang et.al.|[2603.19547](http://arxiv.org/abs/2603.19547)|N/A|
 |**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943](http://arxiv.org/abs/2603.18943)|N/A|
 |**2026-03-18**|**Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision**|Nikhil Gosala et.al.|[2603.18298](http://arxiv.org/abs/2603.18298)|N/A|
-|**2026-03-17**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|N/A|
+|**2026-03-23**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|N/A|
 |**2026-03-17**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|N/A|
 |**2026-03-17**|**$D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation**|Ruizhi Wang et.al.|[2603.16362](http://arxiv.org/abs/2603.16362)|N/A|
 |**2026-03-19**|**Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation**|Xinhao Cai et.al.|[2603.16340](http://arxiv.org/abs/2603.16340)|N/A|
@@ -65,7 +66,6 @@ _Select paper in 2026.01.24 - 2026.03.23_
 |**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](http://arxiv.org/abs/2601.18929)|N/A|
 |**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Bin Tan et.al.|[2601.17895](http://arxiv.org/abs/2601.17895)|N/A|
 |**2026-01-25**|**SPACE-CLIP: Spatial Perception via Adaptive CLIP Embeddings for Monocular Depth Estimation**|Taewan Cho et.al.|[2601.17657](http://arxiv.org/abs/2601.17657)|N/A|
-|**2026-01-24**|**Cross360: 360° Monocular Depth Estimation via Cross Projections Across Scales**|Kun Huang et.al.|[2601.17271](http://arxiv.org/abs/2601.17271)|N/A|
 |**2026-01-28**|**Atomic Depth Estimation From Noisy Electron Microscopy Data Via Deep Learning**|Matan Leibovich et.al.|[2601.17046](http://arxiv.org/abs/2601.17046)|N/A|
 |**2026-01-26**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](http://arxiv.org/abs/2601.16532)|N/A|
 

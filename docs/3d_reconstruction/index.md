@@ -14,15 +14,20 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.24 - 2026.03.23_
+_Select paper in 2026.01.25 - 2026.03.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes**|Zhicheng Qiu et.al.|[2603.22893](http://arxiv.org/abs/2603.22893)|N/A|
+|**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|N/A|
+|**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631](http://arxiv.org/abs/2603.22631)|N/A|
+|**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|N/A|
+|**2026-03-23**|**Static Scene Reconstruction from Dynamic Egocentric Videos**|Qifei Cui et.al.|[2603.22450](http://arxiv.org/abs/2603.22450)|N/A|
 |**2026-03-22**|**PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences**|Lanbo Xu et.al.|[2603.21436](http://arxiv.org/abs/2603.21436)|N/A|
 |**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|N/A|
 |**2026-03-22**|**Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images**|Jiatong Xia et.al.|[2603.21166](http://arxiv.org/abs/2603.21166)|N/A|
 |**2026-03-21**|**RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction**|Feiran Wang et.al.|[2603.20588](http://arxiv.org/abs/2603.20588)|N/A|
-|**2026-03-21**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|N/A|
+|**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|N/A|
 |**2026-03-20**|**Memory Over Maps: 3D Object Localization Without Reconstruction**|Rui Zhou et.al.|[2603.20530](http://arxiv.org/abs/2603.20530)|N/A|
 |**2026-03-20**|**A Unified Platform and Quality Assurance Framework for 3D Ultrasound Reconstruction with Robotic, Optical, and Electromagnetic Tracking**|Lewis Howell et.al.|[2603.20077](http://arxiv.org/abs/2603.20077)|N/A|
 |**2026-03-20**|**SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images**|Jinyuan Qu et.al.|[2603.19926](http://arxiv.org/abs/2603.19926)|N/A|
