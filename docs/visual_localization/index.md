@@ -14,10 +14,12 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.01.26 - 2026.03.25_
+_Select paper in 2026.01.28 - 2026.03.26_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|N/A|
+|**2026-03-25**|**TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval**|David G. Shatwell et.al.|[2603.24749](http://arxiv.org/abs/2603.24749)|N/A|
 |**2026-03-24**|**SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts**|Khanh Binh Nguyen et.al.|[2603.22732](http://arxiv.org/abs/2603.22732)|N/A|
 |**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|N/A|
 |**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
@@ -84,5 +86,4 @@ _Select paper in 2026.01.26 - 2026.03.25_
 |**2026-02-03**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813](http://arxiv.org/abs/2602.00813)|N/A|
 |**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|N/A|
 |**2026-01-30**|**Compact Hypercube Embeddings for Fast Text-based Wildlife Observation Retrieval**|Ilyass Moummad et.al.|[2601.22783](http://arxiv.org/abs/2601.22783)|N/A|
-|**2026-01-27**|**Pixel-Grounded Retrieval for Knowledgeable Large Multimodal Models**|Jeonghwan Kim et.al.|[2601.19060](http://arxiv.org/abs/2601.19060)|N/A|
 

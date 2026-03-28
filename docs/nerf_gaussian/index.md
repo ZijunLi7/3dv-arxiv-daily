@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.01.26 - 2026.03.25_
+_Select paper in 2026.01.28 - 2026.03.26_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao et.al.|[2603.25745](http://arxiv.org/abs/2603.25745)|N/A|
+|**2026-03-26**|**Accurate Surface and Reflectance Modelling from 3D Radar Data with Neural Radiance Fields**|Judith Treffler et.al.|[2603.25623](http://arxiv.org/abs/2603.25623)|N/A|
+|**2026-03-26**|**ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis**|Moonyeon Jeong et.al.|[2603.25265](http://arxiv.org/abs/2603.25265)|N/A|
+|**2026-03-26**|**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting**|Minh-Quan Viet Bui et.al.|[2603.25129](http://arxiv.org/abs/2603.25129)|N/A|
+|**2026-03-26**|**Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos**|Xuankai Zhang et.al.|[2603.25058](http://arxiv.org/abs/2603.25058)|N/A|
+|**2026-03-26**|**MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes**|Wonjoon Lee et.al.|[2603.25042](http://arxiv.org/abs/2603.25042)|N/A|
+|**2026-03-26**|**Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields**|Thanh-Hai Le et.al.|[2603.25008](http://arxiv.org/abs/2603.25008)|N/A|
+|**2026-03-26**|**Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting**|Junoh Leea et.al.|[2603.24994](http://arxiv.org/abs/2603.24994)|N/A|
+|**2026-03-25**|**Confidence-Based Mesh Extraction from 3D Gaussians**|Lukas Radl et.al.|[2603.24725](http://arxiv.org/abs/2603.24725)|N/A|
 |**2026-03-25**|**FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting**|Yixian Wang et.al.|[2603.23891](http://arxiv.org/abs/2603.23891)|N/A|
 |**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Yiran Qiao et.al.|[2603.23686](http://arxiv.org/abs/2603.23686)|N/A|
 |**2026-03-24**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|N/A|
@@ -205,12 +214,5 @@ _Select paper in 2026.01.26 - 2026.03.25_
 |**2026-01-28**|**FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models**|Hongyu Zhou et.al.|[2601.20857](http://arxiv.org/abs/2601.20857)|N/A|
 |**2026-01-28**|**GRTX: Efficient Ray Tracing for 3D Gaussian-Based Rendering**|Junseo Lee et.al.|[2601.20429](http://arxiv.org/abs/2601.20429)|N/A|
 |**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|N/A|
-|**2026-01-27**|**Graphical X Splatting (GraphiXS): A Graphical Model for 4D Gaussian Splatting under Uncertainty**|Doga Yilmaz et.al.|[2601.19843](http://arxiv.org/abs/2601.19843)|N/A|
-|**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|N/A|
 |**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|N/A|
-|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|N/A|
-|**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Zeyu Xiao et.al.|[2601.19233](http://arxiv.org/abs/2601.19233)|N/A|
-|**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|N/A|
-|**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|N/A|
-|**2026-01-26**|**LoD-Structured 3D Gaussian Splatting for Streaming Video Reconstruction**|Xinhui Liu et.al.|[2601.18475](http://arxiv.org/abs/2601.18475)|N/A|
 
