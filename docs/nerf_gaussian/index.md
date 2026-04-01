@@ -14,11 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.01.31 - 2026.03.30_
+_Select paper in 2026.02.01 - 2026.03.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-30**|**GeoHCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting**|Xuan Deng et.al.|[2603.28431](http://arxiv.org/abs/2603.28431)|N/A|
+|**2026-03-31**|**AA-Splat: Anti-Aliased Feed-forward Gaussian Splatting**|Taewoo Suh et.al.|[2603.29394](http://arxiv.org/abs/2603.29394)|N/A|
+|**2026-03-31**|**MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting**|Haoran Zhou et.al.|[2603.29296](http://arxiv.org/abs/2603.29296)|N/A|
+|**2026-03-31**|**LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting**|Tianyu Huang et.al.|[2603.29209](http://arxiv.org/abs/2603.29209)|N/A|
+|**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185](http://arxiv.org/abs/2603.29185)|N/A|
+|**2026-03-31**|**LG-HCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting**|Xuan Deng et.al.|[2603.28431](http://arxiv.org/abs/2603.28431)|N/A|
 |**2026-03-30**|**SVGS: Single-View to 3D Object Editing via Gaussian Splatting**|Pengcheng Xue et.al.|[2603.28126](http://arxiv.org/abs/2603.28126)|N/A|
 |**2026-03-30**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|N/A|
 |**2026-03-30**|**Physically Inspired Gaussian Splatting for HDR Novel View Synthesis**|Huimin Zeng et.al.|[2603.28020](http://arxiv.org/abs/2603.28020)|N/A|
@@ -212,7 +216,4 @@ _Select paper in 2026.01.31 - 2026.03.30_
 |**2026-02-03**|**SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors**|Bing He et.al.|[2602.02000](http://arxiv.org/abs/2602.02000)|N/A|
 |**2026-02-02**|**VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR**|Hail Song et.al.|[2602.01674](http://arxiv.org/abs/2602.01674)|N/A|
 |**2026-02-01**|**Radioactive 3D Gaussian Ray Tracing for Tomographic Reconstruction**|Ling Chen et.al.|[2602.01057](http://arxiv.org/abs/2602.01057)|N/A|
-|**2026-01-31**|**HPC: Hierarchical Point-based Latent Representation for Streaming Dynamic Gaussian Splatting Compression**|Yangzhi Ma et.al.|[2602.00671](http://arxiv.org/abs/2602.00671)|N/A|
-|**2026-01-31**|**Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting**|Yian Zhao et.al.|[2602.00618](http://arxiv.org/abs/2602.00618)|N/A|
-|**2026-01-31**|**PSGS: Text-driven Panorama Sliding Scene Generation via Gaussian Splatting**|Xin Zhang et.al.|[2602.00463](http://arxiv.org/abs/2602.00463)|N/A|
 

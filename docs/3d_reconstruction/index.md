@@ -14,16 +14,19 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.01.31 - 2026.03.30_
+_Select paper in 2026.02.01 - 2026.03.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**|Wenyi Li et.al.|[2603.30038](http://arxiv.org/abs/2603.30038)|N/A|
+|**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|N/A|
+|**2026-03-30**|**Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses**|Ruxiao Duan et.al.|[2603.28896](http://arxiv.org/abs/2603.28896)|N/A|
 |**2026-03-30**|**TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K**|Mattia D'Urso et.al.|[2603.28287](http://arxiv.org/abs/2603.28287)|N/A|
 |**2026-03-29**|**E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences**|Biswadeep Sen et.al.|[2603.27757](http://arxiv.org/abs/2603.27757)|N/A|
 |**2026-03-29**|**MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction**|Jongmin Lee et.al.|[2603.27542](http://arxiv.org/abs/2603.27542)|N/A|
 |**2026-03-29**|**From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis**|Ranran Huang et.al.|[2603.27455](http://arxiv.org/abs/2603.27455)|N/A|
 |**2026-03-28**|**NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather**|Yanying Li et.al.|[2603.27228](http://arxiv.org/abs/2603.27228)|N/A|
-|**2026-03-28**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|N/A|
+|**2026-03-31**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|N/A|
 |**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/abs/2603.26837)|N/A|
 |**2026-03-27**|**GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation**|Xujing Tao et.al.|[2603.26260](http://arxiv.org/abs/2603.26260)|N/A|
 |**2026-03-27**|**FAST3DIS: Feed-forward Anchored Scene Transformer for 3D Instance Segmentation**|Changyang Li et.al.|[2603.25993](http://arxiv.org/abs/2603.25993)|N/A|
@@ -150,9 +153,5 @@ _Select paper in 2026.01.31 - 2026.03.30_
 |**2026-02-02**|**3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM**|Pierre-Yves Lajoie et.al.|[2602.02430](http://arxiv.org/abs/2602.02430)|N/A|
 |**2026-02-02**|**Tail-Aware Post-Training Quantization for 3D Geometry Models**|Sicheng Pan et.al.|[2602.01741](http://arxiv.org/abs/2602.01741)|N/A|
 |**2026-02-01**|**LightCity: An Urban Dataset for Outdoor Inverse Rendering and Reconstruction under Multi-illumination Conditions**|Jingjing Wang et.al.|[2602.01118](http://arxiv.org/abs/2602.01118)|N/A|
-|**2026-01-31**|**CLAMP: Contrastive Learning for 3D Multi-View Action-Conditioned Robotic Manipulation Pretraining**|I-Chun Arthur Liu et.al.|[2602.00937](http://arxiv.org/abs/2602.00937)|N/A|
-|**2026-01-31**|**Distill3R: A Pipeline for Democratizing 3D Foundation Models on Commodity Hardware**|Brandon Leblanc et.al.|[2602.00865](http://arxiv.org/abs/2602.00865)|N/A|
-|**2026-01-31**|**Improving Neuropathological Reconstruction Fidelity via AI Slice Imputation**|Marina Crespo Aguirre et.al.|[2602.00669](http://arxiv.org/abs/2602.00669)|N/A|
-|**2026-01-31**|**Stealthy Coverage Control for Human-enabled Real-Time 3D Reconstruction**|Reiji Terunuma et.al.|[2602.00466](http://arxiv.org/abs/2602.00466)|N/A|
 |**2026-02-02**|**Under-Canopy Terrain Reconstruction in Dense Forests Using RGB Imaging and Neural 3D Reconstruction**|Refael Sheffer et.al.|[2601.22861](http://arxiv.org/abs/2601.22861)|N/A|
 
