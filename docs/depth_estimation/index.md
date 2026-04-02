@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.01 - 2026.03.31_
+_Select paper in 2026.02.02 - 2026.04.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2604.01118](http://arxiv.org/abs/2604.01118)|N/A|
 |**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|N/A|
 |**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|N/A|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|N/A|
@@ -60,5 +61,4 @@ _Select paper in 2026.02.01 - 2026.03.31_
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|N/A|
 |**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](http://arxiv.org/abs/2602.03209)|N/A|
-|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|N/A|
 
