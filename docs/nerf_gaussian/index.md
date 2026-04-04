@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.03 - 2026.04.02_
+_Select paper in 2026.02.04 - 2026.04.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -221,10 +221,5 @@ _Select paper in 2026.02.03 - 2026.04.02_
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|N/A|
 |**2026-02-04**|**QuantumGS: Quantum Encoding Framework for Gaussian Splatting**|Grzegorz Wilczyński et.al.|[2602.05047](http://arxiv.org/abs/2602.05047)|N/A|
 |**2026-02-04**|**Nix and Fix: Targeting 1000x Compression of 3D Gaussian Splatting with Diffusion Models**|Cem Eteke et.al.|[2602.04549](http://arxiv.org/abs/2602.04549)|N/A|
-|**2026-02-03**|**AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting**|Joanna Kaleta et.al.|[2602.04043](http://arxiv.org/abs/2602.04043)|N/A|
-|**2026-02-03**|**Constrained Dynamic Gaussian Splatting**|Zihan Zheng et.al.|[2602.03538](http://arxiv.org/abs/2602.03538)|N/A|
-|**2026-02-03**|**Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization**|Manuel Hofer et.al.|[2602.03327](http://arxiv.org/abs/2602.03327)|N/A|
-|**2026-02-03**|**WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU**|Yudong Han et.al.|[2602.03207](http://arxiv.org/abs/2602.03207)|N/A|
 |**2026-02-05**|**SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation**|Zhanfeng Liao et.al.|[2602.02989](http://arxiv.org/abs/2602.02989)|N/A|
-|**2026-02-03**|**SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors**|Bing He et.al.|[2602.02000](http://arxiv.org/abs/2602.02000)|N/A|
 

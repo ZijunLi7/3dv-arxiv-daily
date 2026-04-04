@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.03 - 2026.04.02_
+_Select paper in 2026.02.04 - 2026.04.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -63,5 +63,4 @@ _Select paper in 2026.02.03 - 2026.04.02_
 |**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|N/A|
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|N/A|
-|**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](http://arxiv.org/abs/2602.03209)|N/A|
 

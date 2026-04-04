@@ -1,4 +1,4 @@
-## Select paper in 2026.02.03 - 2026.04.02
+## Select paper in 2026.02.04 - 2026.04.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -150,11 +150,8 @@
 |**2026-02-05**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439](http://arxiv.org/abs/2602.04439)|N/A|
 |**2026-02-04**|**JOintGS: Joint Optimization of Cameras, Bodies and 3D Gaussians for In-the-Wild Monocular Reconstruction**|Zihan Lou et.al.|[2602.04317](http://arxiv.org/abs/2602.04317)|N/A|
 |**2026-02-04**|**SuperPoint-E: local features for 3D reconstruction via tracking adaptation in endoscopy**|O. Leon Barbed et.al.|[2602.04108](http://arxiv.org/abs/2602.04108)|N/A|
-|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](http://arxiv.org/abs/2602.04053)|N/A|
-|**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|N/A|
-|**2026-02-03**|**Hand3R: Online 4D Hand-Scene Reconstruction in the Wild**|Wendi Hu et.al.|[2602.03200](http://arxiv.org/abs/2602.03200)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260203---20260402>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260204---20260402>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -205,9 +202,8 @@
 |**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|N/A|
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](http://arxiv.org/abs/2602.05730)|N/A|
-|**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](http://arxiv.org/abs/2602.03209)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260203---20260402>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260204---20260402>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -284,11 +280,9 @@
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|N/A|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
 |**2026-02-04**|**Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement**|Zipeng Zhu et.al.|[2602.04304](http://arxiv.org/abs/2602.04304)|N/A|
-|**2026-02-03**|**LaVPR: Benchmarking Language and Vision for Place Recognition**|Ofer Idan et.al.|[2602.03253](http://arxiv.org/abs/2602.03253)|N/A|
 |**2026-02-05**|**Invariance on Manifolds: Understanding Robust Visual Representations for Place Recognition**|Jintao Cheng et.al.|[2602.00841](http://arxiv.org/abs/2602.00841)|N/A|
-|**2026-02-03**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813](http://arxiv.org/abs/2602.00813)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260203---20260402>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260204---20260402>back to top</a>)</p>
 
 ## Image Matching
 
@@ -303,7 +297,7 @@
 |**2026-02-05**|**SOMA-1M: A Large-Scale SAR-Optical Multi-resolution Alignment Dataset for Multi-Task Remote Sensing**|Peihao Wu et.al.|[2602.05480](http://arxiv.org/abs/2602.05480)|N/A|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260203---20260402>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260204---20260402>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -512,14 +506,9 @@
 |**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](http://arxiv.org/abs/2602.05423)|N/A|
 |**2026-02-04**|**QuantumGS: Quantum Encoding Framework for Gaussian Splatting**|Grzegorz Wilczyński et.al.|[2602.05047](http://arxiv.org/abs/2602.05047)|N/A|
 |**2026-02-04**|**Nix and Fix: Targeting 1000x Compression of 3D Gaussian Splatting with Diffusion Models**|Cem Eteke et.al.|[2602.04549](http://arxiv.org/abs/2602.04549)|N/A|
-|**2026-02-03**|**AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting**|Joanna Kaleta et.al.|[2602.04043](http://arxiv.org/abs/2602.04043)|N/A|
-|**2026-02-03**|**Constrained Dynamic Gaussian Splatting**|Zihan Zheng et.al.|[2602.03538](http://arxiv.org/abs/2602.03538)|N/A|
-|**2026-02-03**|**Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization**|Manuel Hofer et.al.|[2602.03327](http://arxiv.org/abs/2602.03327)|N/A|
-|**2026-02-03**|**WebSplatter: Enabling Cross-Device Efficient Gaussian Splatting in Web Browsers via WebGPU**|Yudong Han et.al.|[2602.03207](http://arxiv.org/abs/2602.03207)|N/A|
 |**2026-02-05**|**SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation**|Zhanfeng Liao et.al.|[2602.02989](http://arxiv.org/abs/2602.02989)|N/A|
-|**2026-02-03**|**SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors**|Bing He et.al.|[2602.02000](http://arxiv.org/abs/2602.02000)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260203---20260402>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260204---20260402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

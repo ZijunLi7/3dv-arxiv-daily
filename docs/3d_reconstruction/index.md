@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.03 - 2026.04.02_
+_Select paper in 2026.02.04 - 2026.04.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -154,7 +154,4 @@ _Select paper in 2026.02.03 - 2026.04.02_
 |**2026-02-05**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439](http://arxiv.org/abs/2602.04439)|N/A|
 |**2026-02-04**|**JOintGS: Joint Optimization of Cameras, Bodies and 3D Gaussians for In-the-Wild Monocular Reconstruction**|Zihan Lou et.al.|[2602.04317](http://arxiv.org/abs/2602.04317)|N/A|
 |**2026-02-04**|**SuperPoint-E: local features for 3D reconstruction via tracking adaptation in endoscopy**|O. Leon Barbed et.al.|[2602.04108](http://arxiv.org/abs/2602.04108)|N/A|
-|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](http://arxiv.org/abs/2602.04053)|N/A|
-|**2026-02-03**|**EventNeuS: 3D Mesh Reconstruction from a Single Event Camera**|Shreyas Sachan et.al.|[2602.03847](http://arxiv.org/abs/2602.03847)|N/A|
-|**2026-02-03**|**Hand3R: Online 4D Hand-Scene Reconstruction in the Wild**|Wendi Hu et.al.|[2602.03200](http://arxiv.org/abs/2602.03200)|N/A|
 
