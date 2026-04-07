@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.06 - 2026.04.03_
+_Select paper in 2026.02.07 - 2026.04.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**AvatarPointillist: AutoRegressive 4D Gaussian Avatarization**|Hongyu Liu et.al.|[2604.04787](http://arxiv.org/abs/2604.04787)|N/A|
+|**2026-04-06**|**3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction**|Beiyuan Zhang et.al.|[2604.04693](http://arxiv.org/abs/2604.04693)|N/A|
+|**2026-04-06**|**GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction**|Yedong Shen et.al.|[2604.04331](http://arxiv.org/abs/2604.04331)|N/A|
+|**2026-04-05**|**4C4D: 4 Camera 4D Gaussian Splatting**|Junsheng Zhou et.al.|[2604.04063](http://arxiv.org/abs/2604.04063)|N/A|
+|**2026-04-05**|**HOIGS: Human-Object Interaction Gaussian Splatting**|Taewoo Kim et.al.|[2604.04016](http://arxiv.org/abs/2604.04016)|N/A|
+|**2026-04-04**|**M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting**|Xingyu Miao et.al.|[2604.03773](http://arxiv.org/abs/2604.03773)|N/A|
+|**2026-04-04**|**CGHair: Compact Gaussian Hair Reconstruction with Card Clustering**|Haimin Luo et.al.|[2604.03716](http://arxiv.org/abs/2604.03716)|N/A|
+|**2026-04-03**|**SpectralSplat: Appearance-Disentangled Feed-Forward Gaussian Splatting for Driving Scenes**|Quentin Herau et.al.|[2604.03462](http://arxiv.org/abs/2604.03462)|N/A|
 |**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|N/A|
 |**2026-04-03**|**SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction**|Zicheng Zhang et.al.|[2604.03069](http://arxiv.org/abs/2604.03069)|N/A|
 |**2026-04-03**|**Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting**|Weiquan Wang et.al.|[2604.02996](http://arxiv.org/abs/2604.02996)|N/A|
@@ -223,7 +231,4 @@ _Select paper in 2026.02.06 - 2026.04.03_
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|N/A|
 |**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|N/A|
 |**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|N/A|
-|**2026-02-06**|**Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting**|Zinan Lv et.al.|[2602.07101](http://arxiv.org/abs/2602.07101)|N/A|
-|**2026-02-06**|**GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification**|Soonbin Lee et.al.|[2602.06830](http://arxiv.org/abs/2602.06830)|N/A|
-|**2026-02-06**|**Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering**|Weiquan Wang et.al.|[2602.06343](http://arxiv.org/abs/2602.06343)|N/A|
 
