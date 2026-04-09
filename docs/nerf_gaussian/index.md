@@ -14,10 +14,14 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.08 - 2026.04.07_
+_Select paper in 2026.02.09 - 2026.04.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|N/A|
+|**2026-04-08**|**Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets**|Muhammad Fahim Tajwar et.al.|[2604.07177](http://arxiv.org/abs/2604.07177)|N/A|
+|**2026-04-08**|**DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2604.06739](http://arxiv.org/abs/2604.06739)|N/A|
+|**2026-04-07**|**GS-Surrogate: Deformable Gaussian Splatting for Parameter Space Exploration of Ensemble Simulations**|Ziwei Li et.al.|[2604.06358](http://arxiv.org/abs/2604.06358)|N/A|
 |**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|N/A|
 |**2026-04-07**|**GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance**|Weiqi Zhang et.al.|[2604.05721](http://arxiv.org/abs/2604.05721)|N/A|
 |**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|N/A|
@@ -234,5 +238,4 @@ _Select paper in 2026.02.08 - 2026.04.07_
 |**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|N/A|
 |**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|N/A|
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|N/A|
-|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|N/A|
 

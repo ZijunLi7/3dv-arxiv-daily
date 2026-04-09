@@ -1,4 +1,4 @@
-## Select paper in 2026.02.08 - 2026.04.07
+## Select paper in 2026.02.09 - 2026.04.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|N/A|
+|**2026-04-08**|**AnchorSplat: Feed-Forward 3D Gaussian SplattingWith 3D Geometric Priors**|Xiaoxue Zhang et.al.|[2604.07053](http://arxiv.org/abs/2604.07053)|N/A|
+|**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|N/A|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|N/A|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|N/A|
 |**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|N/A|
@@ -140,17 +143,17 @@
 |**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|N/A|
 |**2026-02-10**|**SARS: A Novel Face and Body Shape and Appearance Aware 3D Reconstruction System extends Morphable Models**|Gulraiz Khan et.al.|[2602.09918](http://arxiv.org/abs/2602.09918)|N/A|
 |**2026-02-09**|**RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications**|Chiara Lena et.al.|[2602.08397](http://arxiv.org/abs/2602.08397)|N/A|
-|**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|N/A|
-|**2026-02-08**|**Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video**|Zihui Gao et.al.|[2602.07891](http://arxiv.org/abs/2602.07891)|N/A|
-|**2026-02-08**|**Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images**|Fei Yu et.al.|[2602.07860](http://arxiv.org/abs/2602.07860)|N/A|
 |**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260208---20260407>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260209---20260408>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency**|Timothy K Johnsen et.al.|[2604.07286](http://arxiv.org/abs/2604.07286)|N/A|
+|**2026-04-08**|**VDPP: Video Depth Post-Processing for Speed and Scalability**|Daewon Yoon et.al.|[2604.06665](http://arxiv.org/abs/2604.06665)|N/A|
+|**2026-04-08**|**LiftFormer: Lifting and Frame Theory Based Monocular Depth Estimation Using Depth and Edge Oriented Subspace Representation**|Shuai Li et.al.|[2604.06576](http://arxiv.org/abs/2604.06576)|N/A|
 |**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667](http://arxiv.org/abs/2604.04667)|N/A|
 |**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|N/A|
 |**2026-04-06**|**NAIMA: Semantics Aware RGB Guided Depth Super-Resolution**|Tayyab Nasir et.al.|[2604.04407](http://arxiv.org/abs/2604.04407)|N/A|
@@ -203,12 +206,15 @@
 |**2026-02-10**|**RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes**|Michael Baltaxe et.al.|[2602.09532](http://arxiv.org/abs/2602.09532)|N/A|
 |**2026-02-09**|**Forest canopy height estimation from satellite RGB imagery using large-scale airborne LiDAR-derived training data and monocular depth estimation**|Yongkang Lai et.al.|[2602.06503](http://arxiv.org/abs/2602.06503)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260208---20260407>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260209---20260408>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|N/A|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|N/A|
+|**2026-04-06**|**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale**|Jichao Fang et.al.|[2604.06245](http://arxiv.org/abs/2604.06245)|N/A|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|N/A|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|N/A|
 |**2026-04-07**|**Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval**|Yuxin Yang et.al.|[2604.05393](http://arxiv.org/abs/2604.05393)|N/A|
@@ -286,12 +292,13 @@
 |**2026-02-11**|**DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories**|Chenlong Deng et.al.|[2602.10809](http://arxiv.org/abs/2602.10809)|N/A|
 |**2026-02-10**|**WristMIR: Coarse-to-Fine Region-Aware Retrieval of Pediatric Wrist Radiographs with Radiology Report-Driven Learning**|Mert Sonmezer et.al.|[2602.07872](http://arxiv.org/abs/2602.07872)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260208---20260407>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260209---20260408>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|N/A|
 |**2026-03-23**|**EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching**|Rahul Deshmukh et.al.|[2603.21463](http://arxiv.org/abs/2603.21463)|N/A|
 |**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690](http://arxiv.org/abs/2603.12690)|N/A|
 |**2026-03-26**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063](http://arxiv.org/abs/2603.08063)|N/A|
@@ -299,12 +306,16 @@
 |**2026-02-13**|**Matching of SAR and optical images based on transformation to shared modality**|Alexey Borisov et.al.|[2602.12515](http://arxiv.org/abs/2602.12515)|N/A|
 |**2026-03-12**|**Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features**|Qiang Wang et.al.|[2602.08430](http://arxiv.org/abs/2602.08430)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260208---20260407>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260209---20260408>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-08**|**From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians**|Diego Gomez et.al.|[2604.07337](http://arxiv.org/abs/2604.07337)|N/A|
+|**2026-04-08**|**Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets**|Muhammad Fahim Tajwar et.al.|[2604.07177](http://arxiv.org/abs/2604.07177)|N/A|
+|**2026-04-08**|**DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting**|Hantang Li et.al.|[2604.06739](http://arxiv.org/abs/2604.06739)|N/A|
+|**2026-04-07**|**GS-Surrogate: Deformable Gaussian Splatting for Parameter Space Exploration of Ensemble Simulations**|Ziwei Li et.al.|[2604.06358](http://arxiv.org/abs/2604.06358)|N/A|
 |**2026-04-07**|**Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction**|Yangyi Xiao et.al.|[2604.05908](http://arxiv.org/abs/2604.05908)|N/A|
 |**2026-04-07**|**GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance**|Weiqi Zhang et.al.|[2604.05721](http://arxiv.org/abs/2604.05721)|N/A|
 |**2026-04-07**|**In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting**|Wenhui Xiao et.al.|[2604.05715](http://arxiv.org/abs/2604.05715)|N/A|
@@ -521,9 +532,8 @@
 |**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|N/A|
 |**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|N/A|
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|N/A|
-|**2026-02-08**|**Dynamic Black-hole Emission Tomography with Physics-informed Neural Fields**|Berthy T. Feng et.al.|[2602.08029](http://arxiv.org/abs/2602.08029)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260208---20260407>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260209---20260408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

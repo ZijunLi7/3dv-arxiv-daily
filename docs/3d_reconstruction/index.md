@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.08 - 2026.04.07_
+_Select paper in 2026.02.09 - 2026.04.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training**|Changkun Liu et.al.|[2604.07279](http://arxiv.org/abs/2604.07279)|N/A|
+|**2026-04-08**|**AnchorSplat: Feed-Forward 3D Gaussian SplattingWith 3D Geometric Priors**|Xiaoxue Zhang et.al.|[2604.07053](http://arxiv.org/abs/2604.07053)|N/A|
+|**2026-04-08**|**Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning**|Jiahua Chen et.al.|[2604.06725](http://arxiv.org/abs/2604.06725)|N/A|
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|N/A|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|N/A|
 |**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|N/A|
@@ -144,8 +147,5 @@ _Select paper in 2026.02.08 - 2026.04.07_
 |**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|N/A|
 |**2026-02-10**|**SARS: A Novel Face and Body Shape and Appearance Aware 3D Reconstruction System extends Morphable Models**|Gulraiz Khan et.al.|[2602.09918](http://arxiv.org/abs/2602.09918)|N/A|
 |**2026-02-09**|**RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications**|Chiara Lena et.al.|[2602.08397](http://arxiv.org/abs/2602.08397)|N/A|
-|**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|N/A|
-|**2026-02-08**|**Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video**|Zihui Gao et.al.|[2602.07891](http://arxiv.org/abs/2602.07891)|N/A|
-|**2026-02-08**|**Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images**|Fei Yu et.al.|[2602.07860](http://arxiv.org/abs/2602.07860)|N/A|
 |**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|N/A|
 

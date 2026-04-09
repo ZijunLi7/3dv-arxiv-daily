@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.02.08 - 2026.04.07_
+_Select paper in 2026.02.09 - 2026.04.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|N/A|
+|**2026-04-08**|**VGGT-SLAM++**|Avilasha Mandal et.al.|[2604.06830](http://arxiv.org/abs/2604.06830)|N/A|
+|**2026-04-06**|**CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale**|Jichao Fang et.al.|[2604.06245](http://arxiv.org/abs/2604.06245)|N/A|
 |**2026-04-07**|**WRF4CIR: Weight-Regularized Fine-Tuning Network for Composed Image Retrieval**|Yizhuo Xu et.al.|[2604.05583](http://arxiv.org/abs/2604.05583)|N/A|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402](http://arxiv.org/abs/2604.05402)|N/A|
 |**2026-04-07**|**Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval**|Yuxin Yang et.al.|[2604.05393](http://arxiv.org/abs/2604.05393)|N/A|
