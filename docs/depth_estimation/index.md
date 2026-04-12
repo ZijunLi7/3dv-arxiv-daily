@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.11 - 2026.04.09_
+_Select paper in 2026.02.12 - 2026.04.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -69,8 +69,4 @@ _Select paper in 2026.02.11 - 2026.04.09_
 |**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|N/A|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](http://arxiv.org/abs/2602.17785)|N/A|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|N/A|
-|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|N/A|
-|**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](http://arxiv.org/abs/2602.11066)|N/A|
-|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](http://arxiv.org/abs/2602.11005)|N/A|
-|**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|N/A|
 

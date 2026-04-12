@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.11 - 2026.04.09_
+_Select paper in 2026.02.12 - 2026.04.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -149,5 +149,4 @@ _Select paper in 2026.02.11 - 2026.04.09_
 |**2026-02-20**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|N/A|
 |**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|N/A|
 |**2026-02-13**|**Monocular Reconstruction of Neural Tactile Fields**|Pavan Mantripragada et.al.|[2602.12508](http://arxiv.org/abs/2602.12508)|N/A|
-|**2026-02-11**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](http://arxiv.org/abs/2602.06032)|N/A|
 

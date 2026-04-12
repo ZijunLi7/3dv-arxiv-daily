@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.11 - 2026.04.09_
+_Select paper in 2026.02.12 - 2026.04.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
