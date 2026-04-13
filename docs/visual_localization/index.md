@@ -14,10 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.02.12 - 2026.04.09_
+_Select paper in 2026.02.13 - 2026.04.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2604.09445](http://arxiv.org/abs/2604.09445)|N/A|
+|**2026-04-10**|**FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval**|François Gardères et.al.|[2604.09114](http://arxiv.org/abs/2604.09114)|N/A|
+|**2026-04-10**|**Towards Lifelong Aerial Autonomy: Geometric Memory Management for Continual Visual Place Recognition in Dynamic Environments**|Xingyu Shao et.al.|[2604.09038](http://arxiv.org/abs/2604.09038)|N/A|
+|**2026-04-09**|**Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring**|Xinmiao Xiong et.al.|[2604.08718](http://arxiv.org/abs/2604.08718)|N/A|
 |**2026-04-09**|**Bag of Bags: Adaptive Visual Vocabularies for Genizah Join Image Retrieval**|Sharva Gogawale et.al.|[2604.08138](http://arxiv.org/abs/2604.08138)|N/A|
 |**2026-04-09**|**SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving**|Felix Embacher et.al.|[2604.08008](http://arxiv.org/abs/2604.08008)|N/A|
 |**2026-04-08**|**An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments**|Wei Zhang et.al.|[2604.07151](http://arxiv.org/abs/2604.07151)|N/A|
@@ -96,5 +100,4 @@ _Select paper in 2026.02.12 - 2026.04.09_
 |**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|N/A|
 |**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|N/A|
 |**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|N/A|
-|**2026-02-12**|**DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition**|Ji Li et.al.|[2602.11875](http://arxiv.org/abs/2602.11875)|N/A|
 

@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.12 - 2026.04.09_
+_Select paper in 2026.02.13 - 2026.04.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation**|Aytaç Sekmen et.al.|[2604.09352](http://arxiv.org/abs/2604.09352)|N/A|
 |**2026-04-09**|**SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations**|Yunnan Wang et.al.|[2604.07990](http://arxiv.org/abs/2604.07990)|N/A|
 |**2026-04-09**|**Adaptive Depth-converted-Scale Convolution for Self-supervised Monocular Depth Estimation**|Yanbo Gao et.al.|[2604.07665](http://arxiv.org/abs/2604.07665)|N/A|
 |**2026-04-09**|**Monocular Depth Estimation From the Perspective of Feature Restoration: A Diffusion Enhanced Depth Restoration Approach**|Huibin Bai et.al.|[2604.07664](http://arxiv.org/abs/2604.07664)|N/A|

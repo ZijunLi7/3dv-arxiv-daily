@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.12 - 2026.04.09_
+_Select paper in 2026.02.13 - 2026.04.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches**|Langzhe Gu et.al.|[2604.08945](http://arxiv.org/abs/2604.08945)|N/A|
+|**2026-04-10**|**MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation**|Yibo Zhao et.al.|[2604.08916](http://arxiv.org/abs/2604.08916)|N/A|
+|**2026-04-08**|**A Semi-Automated Framework for 3D Reconstruction of Medieval Manuscript Miniatures**|Riccardo Pallotto et.al.|[2604.08610](http://arxiv.org/abs/2604.08610)|N/A|
 |**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|N/A|
 |**2026-04-09**|**Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning**|Emanuele Balloni et.al.|[2604.08068](http://arxiv.org/abs/2604.08068)|N/A|
 |**2026-04-09**|**Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments**|Yun Zhu et.al.|[2604.07997](http://arxiv.org/abs/2604.07997)|N/A|
