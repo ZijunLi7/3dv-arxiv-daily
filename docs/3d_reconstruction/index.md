@@ -14,10 +14,14 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.13 - 2026.04.10_
+_Select paper in 2026.02.14 - 2026.04.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|N/A|
+|**2026-04-12**|**Point2Pose: Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects Via 2D Point Trackers**|Tzu-Yuan Lin et.al.|[2604.10415](http://arxiv.org/abs/2604.10415)|N/A|
+|**2026-04-11**|**A Comparison of Multi-View Stereo Methods for Photogrammetric 3D Reconstruction: From Traditional to Learning-Based Approaches**|Yawen Li et.al.|[2604.10246](http://arxiv.org/abs/2604.10246)|N/A|
+|**2026-04-10**|**FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views**|Chaoyi Zhou et.al.|[2604.09862](http://arxiv.org/abs/2604.09862)|N/A|
 |**2026-04-10**|**TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches**|Langzhe Gu et.al.|[2604.08945](http://arxiv.org/abs/2604.08945)|N/A|
 |**2026-04-10**|**MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation**|Yibo Zhao et.al.|[2604.08916](http://arxiv.org/abs/2604.08916)|N/A|
 |**2026-04-08**|**A Semi-Automated Framework for 3D Reconstruction of Medieval Manuscript Miniatures**|Riccardo Pallotto et.al.|[2604.08610](http://arxiv.org/abs/2604.08610)|N/A|
@@ -150,6 +154,4 @@ _Select paper in 2026.02.13 - 2026.04.10_
 |**2026-02-15**|**GeoFusionLRM: Geometry-Aware Self-Correction for Consistent 3D Reconstruction**|Ahmet Burak Yildirim et.al.|[2602.14119](http://arxiv.org/abs/2602.14119)|N/A|
 |**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021](http://arxiv.org/abs/2602.14021)|N/A|
 |**2026-02-20**|**Sim2Radar: Toward Bridging the Radar Sim-to-Real Gap with VLM-Guided Scene Reconstruction**|Emily Bejerano et.al.|[2602.13314](http://arxiv.org/abs/2602.13314)|N/A|
-|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|N/A|
-|**2026-02-13**|**Monocular Reconstruction of Neural Tactile Fields**|Pavan Mantripragada et.al.|[2602.12508](http://arxiv.org/abs/2602.12508)|N/A|
 
