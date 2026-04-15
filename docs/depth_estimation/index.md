@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.14 - 2026.04.13_
+_Select paper in 2026.02.15 - 2026.04.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|N/A|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|N/A|
 |**2026-04-13**|**CDPR: Cross-modal Diffusion with Polarization for Reliable Monocular Depth Estimation**|Rongjia Yu et.al.|[2604.11097](http://arxiv.org/abs/2604.11097)|N/A|
 |**2026-04-10**|**LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation**|Aytaç Sekmen et.al.|[2604.09352](http://arxiv.org/abs/2604.09352)|N/A|
