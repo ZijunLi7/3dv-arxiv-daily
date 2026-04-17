@@ -14,10 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.02.16 - 2026.04.15_
+_Select paper in 2026.02.17 - 2026.04.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Dual Pose-Graph Semantic Localization for Vision-Based Autonomous Drone Racing**|David Perez-Saura et.al.|[2604.15168](http://arxiv.org/abs/2604.15168)|N/A|
+|**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052](http://arxiv.org/abs/2604.15052)|N/A|
+|**2026-04-16**|**Keep It CALM: Toward Calibration-Free Kilometer-Level SLAM with Visual Geometry Foundation Models via an Assistant Eye**|Tianjun Zhang et.al.|[2604.14795](http://arxiv.org/abs/2604.14795)|N/A|
+|**2026-04-16**|**G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval**|Jiyoung Lim et.al.|[2604.14710](http://arxiv.org/abs/2604.14710)|N/A|
 |**2026-04-14**|**Indexing Multimodal Language Models for Large-scale Image Retrieval**|Bahey Tharwat et.al.|[2604.13268](http://arxiv.org/abs/2604.13268)|N/A|
 |**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|N/A|
 |**2026-04-14**|**A Sanity Check on Composed Image Retrieval**|Yikun Liu et.al.|[2604.12904](http://arxiv.org/abs/2604.12904)|N/A|

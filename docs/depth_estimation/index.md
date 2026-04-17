@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.16 - 2026.04.15_
+_Select paper in 2026.02.17 - 2026.04.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al.|[2604.14781](http://arxiv.org/abs/2604.14781)|N/A|
 |**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|N/A|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|N/A|
 |**2026-04-13**|**CDPR: Cross-modal Diffusion with Polarization for Reliable Monocular Depth Estimation**|Rongjia Yu et.al.|[2604.11097](http://arxiv.org/abs/2604.11097)|N/A|

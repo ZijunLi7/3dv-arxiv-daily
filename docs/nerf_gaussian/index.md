@@ -14,10 +14,14 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.16 - 2026.04.15_
+_Select paper in 2026.02.17 - 2026.04.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens**|Roni Itkin et.al.|[2604.15284](http://arxiv.org/abs/2604.15284)|N/A|
+|**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[2604.15239](http://arxiv.org/abs/2604.15239)|N/A|
+|**2026-04-16**|**Hybrid Latents -- Geometry-Appearance-Aware Surfel Splatting**|Neel Kelkar et.al.|[2604.14928](http://arxiv.org/abs/2604.14928)|N/A|
+|**2026-04-16**|**NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation**|Yi He et.al.|[2604.14706](http://arxiv.org/abs/2604.14706)|N/A|
 |**2026-04-15**|**PartNerFace: Part-based Neural Radiance Fields for Animatable Facial Avatar Reconstruction**|Xianggang Yu et.al.|[2604.13918](http://arxiv.org/abs/2604.13918)|N/A|
 |**2026-04-15**|**ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction**|Jie Liang et.al.|[2604.13746](http://arxiv.org/abs/2604.13746)|N/A|
 |**2026-04-15**|**Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis**|Yuchao Chen et.al.|[2604.13589](http://arxiv.org/abs/2604.13589)|N/A|
@@ -244,5 +248,4 @@ _Select paper in 2026.02.16 - 2026.04.15_
 |**2026-02-17**|**NeRFscopy: Neural Radiance Fields for in-vivo Time-Varying Tissues from Endoscopy**|Laura Salort-Benejam et.al.|[2602.15775](http://arxiv.org/abs/2602.15775)|N/A|
 |**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|N/A|
 |**2026-02-17**|**DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles**|Rong Fu et.al.|[2602.15355](http://arxiv.org/abs/2602.15355)|N/A|
-|**2026-02-16**|**Gaussian Mesh Renderer for Lightweight Differentiable Rendering**|Xinpeng Liu et.al.|[2602.14493](http://arxiv.org/abs/2602.14493)|N/A|
 

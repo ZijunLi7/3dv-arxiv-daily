@@ -14,11 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.16 - 2026.04.15_
+_Select paper in 2026.02.17 - 2026.04.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-15**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|N/A|
+|**2026-04-16**|**M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection**|Haotian Wu et.al.|[2604.14574](http://arxiv.org/abs/2604.14574)|N/A|
+|**2026-04-16**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|N/A|
 |**2026-04-15**|**Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself**|Yuhang Dai et.al.|[2604.14048](http://arxiv.org/abs/2604.14048)|N/A|
 |**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|N/A|
 |**2026-04-14**|**Neural 3D Reconstruction of Planetary Surfaces from Descent-Phase Wide-Angle Imagery**|Melonie de Almeida et.al.|[2604.13235](http://arxiv.org/abs/2604.13235)|N/A|
