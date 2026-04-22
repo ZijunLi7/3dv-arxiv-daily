@@ -14,10 +14,17 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.21 - 2026.04.20_
+_Select paper in 2026.02.22 - 2026.04.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|N/A|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|N/A|
+|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|N/A|
+|**2026-04-21**|**Paparazzo: Active Mapping of Moving 3D Objects**|Davide Allegro et.al.|[2604.19556](http://arxiv.org/abs/2604.19556)|N/A|
+|**2026-04-21**|**Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images**|Hongyuan Liu et.al.|[2604.19257](http://arxiv.org/abs/2604.19257)|N/A|
+|**2026-04-21**|**RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices**|Seok Joon Kim et.al.|[2604.19025](http://arxiv.org/abs/2604.19025)|N/A|
+|**2026-04-20**|**Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation**|Tianshi Cao et.al.|[2604.18468](http://arxiv.org/abs/2604.18468)|N/A|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|N/A|
 |**2026-04-16**|**M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection**|Haotian Wu et.al.|[2604.14574](http://arxiv.org/abs/2604.14574)|N/A|
 |**2026-04-16**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|N/A|

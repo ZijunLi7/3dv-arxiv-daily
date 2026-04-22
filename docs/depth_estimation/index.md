@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.02.21 - 2026.04.20_
+_Select paper in 2026.02.22 - 2026.04.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**URoPE: Universal Relative Position Embedding across Geometric Spaces**|Yichen Xie et.al.|[2604.18747](http://arxiv.org/abs/2604.18747)|N/A|
 |**2026-04-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al.|[2604.14781](http://arxiv.org/abs/2604.14781)|N/A|
 |**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|N/A|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|N/A|
@@ -70,5 +71,4 @@ _Select paper in 2026.02.21 - 2026.04.20_
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|N/A|
 |**2026-02-23**|**TactiVerse: Generalizing Multi-Point Tactile Sensing in Soft Robotics Using Single-Point Data**|Junhui Lee et.al.|[2602.19850](http://arxiv.org/abs/2602.19850)|N/A|
 |**2026-02-27**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|N/A|
-|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|N/A|
 

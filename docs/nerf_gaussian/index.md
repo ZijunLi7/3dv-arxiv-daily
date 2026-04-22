@@ -14,10 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.21 - 2026.04.20_
+_Select paper in 2026.02.22 - 2026.04.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**An Object-Centered Data Acquisition Method for 3D Gaussian Splatting using Mobile Phones**|Yuezhe Zhang et.al.|[2604.19216](http://arxiv.org/abs/2604.19216)|N/A|
+|**2026-04-21**|**SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting**|Bo Li et.al.|[2604.19202](http://arxiv.org/abs/2604.19202)|N/A|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|N/A|
+|**2026-04-21**|**AdaGScale: Viewpoint-Adaptive Gaussian Scaling in 3D Gaussian Splatting to Reduce Gaussian-Tile Pairs**|Joongho Jo et.al.|[2604.18980](http://arxiv.org/abs/2604.18980)|N/A|
+|**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|N/A|
 |**2026-04-20**|**GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting**|Mingyu Shi et.al.|[2604.18047](http://arxiv.org/abs/2604.18047)|N/A|
 |**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|N/A|
 |**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](http://arxiv.org/abs/2604.17965)|N/A|
@@ -252,5 +257,4 @@ _Select paper in 2026.02.21 - 2026.04.20_
 |**2026-02-23**|**Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**|Yixin Yang et.al.|[2602.19916](http://arxiv.org/abs/2602.19916)|N/A|
 |**2026-02-23**|**RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing**|Kaifa Yang et.al.|[2602.19753](http://arxiv.org/abs/2602.19753)|N/A|
 |**2026-02-22**|**DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering**|Yiran Qiao et.al.|[2602.19323](http://arxiv.org/abs/2602.19323)|N/A|
-|**2026-02-21**|**PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**|Dan Wang et.al.|[2602.18886](http://arxiv.org/abs/2602.18886)|N/A|
 

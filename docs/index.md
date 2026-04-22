@@ -11,12 +11,19 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.02.21 - 2026.04.20
+## Select paper in 2026.02.22 - 2026.04.21
 
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|N/A|
+|**2026-04-21**|**InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**|Nikita Kister et.al.|[2604.19673](http://arxiv.org/abs/2604.19673)|N/A|
+|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|N/A|
+|**2026-04-21**|**Paparazzo: Active Mapping of Moving 3D Objects**|Davide Allegro et.al.|[2604.19556](http://arxiv.org/abs/2604.19556)|N/A|
+|**2026-04-21**|**Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images**|Hongyuan Liu et.al.|[2604.19257](http://arxiv.org/abs/2604.19257)|N/A|
+|**2026-04-21**|**RoomRecon: High-Quality Textured Room Layout Reconstruction on Mobile Devices**|Seok Joon Kim et.al.|[2604.19025](http://arxiv.org/abs/2604.19025)|N/A|
+|**2026-04-20**|**Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation**|Tianshi Cao et.al.|[2604.18468](http://arxiv.org/abs/2604.18468)|N/A|
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|N/A|
 |**2026-04-16**|**M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection**|Haotian Wu et.al.|[2604.14574](http://arxiv.org/abs/2604.14574)|N/A|
 |**2026-04-16**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|N/A|
@@ -159,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**URoPE: Universal Relative Position Embedding across Geometric Spaces**|Yichen Xie et.al.|[2604.18747](http://arxiv.org/abs/2604.18747)|N/A|
 |**2026-04-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al.|[2604.14781](http://arxiv.org/abs/2604.14781)|N/A|
 |**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|N/A|
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|N/A|
@@ -211,12 +219,12 @@ layout: default
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](http://arxiv.org/abs/2602.21740)|N/A|
 |**2026-02-23**|**TactiVerse: Generalizing Multi-Point Tactile Sensing in Soft Robotics Using Single-Point Data**|Junhui Lee et.al.|[2602.19850](http://arxiv.org/abs/2602.19850)|N/A|
 |**2026-02-27**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](http://arxiv.org/abs/2602.19766)|N/A|
-|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](http://arxiv.org/abs/2602.18906)|N/A|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|N/A|
 |**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|N/A|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|N/A|
 |**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|N/A|
@@ -341,6 +349,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**An Object-Centered Data Acquisition Method for 3D Gaussian Splatting using Mobile Phones**|Yuezhe Zhang et.al.|[2604.19216](http://arxiv.org/abs/2604.19216)|N/A|
+|**2026-04-21**|**SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting**|Bo Li et.al.|[2604.19202](http://arxiv.org/abs/2604.19202)|N/A|
+|**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|N/A|
+|**2026-04-21**|**AdaGScale: Viewpoint-Adaptive Gaussian Scaling in 3D Gaussian Splatting to Reduce Gaussian-Tile Pairs**|Joongho Jo et.al.|[2604.18980](http://arxiv.org/abs/2604.18980)|N/A|
+|**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|N/A|
 |**2026-04-20**|**GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting**|Mingyu Shi et.al.|[2604.18047](http://arxiv.org/abs/2604.18047)|N/A|
 |**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|N/A|
 |**2026-04-20**|**MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene**|Wenjie Mu et.al.|[2604.17965](http://arxiv.org/abs/2604.17965)|N/A|
@@ -575,5 +588,4 @@ layout: default
 |**2026-02-23**|**Augmented Radiance Field: A General Framework for Enhanced Gaussian Splatting**|Yixin Yang et.al.|[2602.19916](http://arxiv.org/abs/2602.19916)|N/A|
 |**2026-02-23**|**RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing**|Kaifa Yang et.al.|[2602.19753](http://arxiv.org/abs/2602.19753)|N/A|
 |**2026-02-22**|**DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering**|Yiran Qiao et.al.|[2602.19323](http://arxiv.org/abs/2602.19323)|N/A|
-|**2026-02-21**|**PhysConvex: Physics-Informed 3D Dynamic Convex Radiance Fields for Reconstruction and Simulation**|Dan Wang et.al.|[2602.18886](http://arxiv.org/abs/2602.18886)|N/A|
 
