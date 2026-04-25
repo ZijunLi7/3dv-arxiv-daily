@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.02.24 - 2026.04.23_
+_Select paper in 2026.02.25 - 2026.04.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -125,5 +125,4 @@ _Select paper in 2026.02.24 - 2026.04.23_
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|N/A|
 |**2026-02-27**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](http://arxiv.org/abs/2602.21644)|N/A|
 |**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|N/A|
-|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|N/A|
 

@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.02.24 - 2026.04.23
+## Select paper in 2026.02.25 - 2026.04.23
 
 ## 3D Reconstruction
 
@@ -160,8 +160,6 @@ layout: default
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|N/A|
 |**2026-02-25**|**Pseudo-View Enhancement via Confidence Fusion for Unposed Sparse-View Reconstruction**|Beizhen Zhao et.al.|[2602.21535](http://arxiv.org/abs/2602.21535)|N/A|
 |**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|N/A|
-|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|N/A|
-|**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|N/A|
 
 ## Depth Estimation
 
@@ -332,7 +330,6 @@ layout: default
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](http://arxiv.org/abs/2602.21967)|N/A|
 |**2026-02-27**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](http://arxiv.org/abs/2602.21644)|N/A|
 |**2026-02-25**|**Automatic Map Density Selection for Locally-Performant Visual Place Recognition**|Somayeh Hussaini et.al.|[2602.21473](http://arxiv.org/abs/2602.21473)|N/A|
-|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|N/A|
 
 ## Image Matching
 
@@ -589,9 +586,5 @@ layout: default
 |**2026-02-25**|**AeroDGS: Physically Consistent Dynamic Gaussian Splatting for Single-Sequence Aerial 4D Reconstruction**|Hanyang Liu et.al.|[2602.22376](http://arxiv.org/abs/2602.22376)|N/A|
 |**2026-02-25**|**Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping**|Junmyeong Lee et.al.|[2602.21668](http://arxiv.org/abs/2602.21668)|N/A|
 |**2026-02-25**|**Lie Flow: Video Dynamic Fields Modeling and Predicting with Lie Algebra as Geometric Physics Principle**|Weidong Qiao et.al.|[2602.21645](http://arxiv.org/abs/2602.21645)|N/A|
-|**2026-02-24**|**BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting**|Jiaxing Yu et.al.|[2602.21105](http://arxiv.org/abs/2602.21105)|N/A|
 |**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|N/A|
-|**2026-02-24**|**Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting**|Shuangkang Fang et.al.|[2602.20933](http://arxiv.org/abs/2602.20933)|N/A|
-|**2026-02-24**|**RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction**|Yangfan Zhao et.al.|[2602.20807](http://arxiv.org/abs/2602.20807)|N/A|
-|**2026-02-24**|**WildGHand: Learning Anti-Perturbation Gaussian Hand Avatars from Monocular In-the-Wild Videos**|Hanhui Li et.al.|[2602.20556](http://arxiv.org/abs/2602.20556)|N/A|
 

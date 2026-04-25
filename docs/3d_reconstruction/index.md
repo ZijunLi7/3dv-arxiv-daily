@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.24 - 2026.04.23_
+_Select paper in 2026.02.25 - 2026.04.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -161,6 +161,4 @@ _Select paper in 2026.02.24 - 2026.04.23_
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|N/A|
 |**2026-02-25**|**Pseudo-View Enhancement via Confidence Fusion for Unposed Sparse-View Reconstruction**|Beizhen Zhao et.al.|[2602.21535](http://arxiv.org/abs/2602.21535)|N/A|
 |**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|N/A|
-|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|N/A|
-|**2026-02-24**|**Long-Term Multi-Session 3D Reconstruction Under Substantial Appearance Change**|Beverley Gorry et.al.|[2602.20584](http://arxiv.org/abs/2602.20584)|N/A|
 
