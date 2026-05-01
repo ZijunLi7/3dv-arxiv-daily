@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.02.28 - 2026.04.29_
+_Select paper in 2026.03.01 - 2026.04.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Generalizable Sparse-View 3D Reconstruction from Unconstrained Images**|Vinayak Gupta et.al.|[2604.28193](http://arxiv.org/abs/2604.28193)|N/A|
+|**2026-04-30**|**3D Reconstruction Techniques in the Manufacturing Domain: Applications, Research Opportunities and Use Cases**|Chialoon Cheng et.al.|[2604.28064](http://arxiv.org/abs/2604.28064)|N/A|
 |**2026-04-29**|**AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision**|Xiaoya Cheng et.al.|[2604.26567](http://arxiv.org/abs/2604.26567)|N/A|
 |**2026-04-29**|**Last-Layer-Centric Feature Recombination: Unleashing 3D Geometric Knowledge in DINOv3 for Monocular Depth Estimation**|Gongshu Wang et.al.|[2604.26454](http://arxiv.org/abs/2604.26454)|N/A|
 |**2026-04-28**|**Improving Sensing Coverage and Compliance of 3D-Printed Artificial Skins Through Multi-Modal Sensing and Soft Materials**|Carson Kohlbrenner et.al.|[2604.25563](http://arxiv.org/abs/2604.25563)|N/A|
@@ -157,6 +159,5 @@ _Select paper in 2026.02.28 - 2026.04.29_
 |**2026-03-01**|**MLRecon: Robust Markerless Freehand 3D Ultrasound Reconstruction via Coarse-to-Fine Pose Estimation**|Yi Zhang et.al.|[2603.00990](http://arxiv.org/abs/2603.00990)|N/A|
 |**2026-03-01**|**UD-SfPNet: An Underwater Descattering Shape-from-Polarization Network for 3D Normal Reconstruction**|Puyun Wang et.al.|[2603.00908](http://arxiv.org/abs/2603.00908)|N/A|
 |**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905](http://arxiv.org/abs/2603.00905)|N/A|
-|**2026-02-28**|**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**|Yuanhao Su et.al.|[2603.00412](http://arxiv.org/abs/2603.00412)|N/A|
 |**2026-03-04**|**EvalMVX: A Unified Benchmarking for Neural 3D Reconstruction under Diverse Multiview Setups**|Zaiyan Yang et.al.|[2602.24065](http://arxiv.org/abs/2602.24065)|N/A|
 

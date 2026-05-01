@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.02.28 - 2026.04.29_
+_Select paper in 2026.03.01 - 2026.04.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy**|Andrea Dunn Beltran et.al.|[2604.28179](http://arxiv.org/abs/2604.28179)|N/A|
+|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|N/A|
+|**2026-04-30**|**Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification**|Linjie Lyu et.al.|[2604.28016](http://arxiv.org/abs/2604.28016)|N/A|
+|**2026-04-30**|**RayFormer: Modeling Inter- and Intra-Ray Similarity for NeRF-Based Video Snapshot Compressive Imaging**|Yubo Dong et.al.|[2604.27702](http://arxiv.org/abs/2604.27702)|N/A|
+|**2026-04-30**|**SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes**|Yilin Wang et.al.|[2604.27572](http://arxiv.org/abs/2604.27572)|N/A|
+|**2026-04-30**|**Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.|[2604.27552](http://arxiv.org/abs/2604.27552)|N/A|
+|**2026-04-30**|**Softmax-GS: Generalized Gaussians Learning When to Blend or Bound**|Chen Ziwen et.al.|[2604.27437](http://arxiv.org/abs/2604.27437)|N/A|
+|**2026-04-30**|**Sparse-View 3D Gaussian Splatting in the Wild**|Wongi Park et.al.|[2604.27422](http://arxiv.org/abs/2604.27422)|N/A|
 |**2026-04-29**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](http://arxiv.org/abs/2604.26899)|N/A|
 |**2026-04-29**|**MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching**|Shuzhao Xie et.al.|[2604.26799](http://arxiv.org/abs/2604.26799)|N/A|
 |**2026-04-29**|**EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors**|Rui Song et.al.|[2604.26238](http://arxiv.org/abs/2604.26238)|N/A|
@@ -250,8 +258,4 @@ _Select paper in 2026.02.28 - 2026.04.29_
 |**2026-03-02**|**Radiometrically Consistent Gaussian Surfels for Inverse Rendering**|Kyu Beom Han et.al.|[2603.01491](http://arxiv.org/abs/2603.01491)|N/A|
 |**2026-03-01**|**HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views**|Jiashu Li et.al.|[2603.01099](http://arxiv.org/abs/2603.01099)|N/A|
 |**2026-03-01**|**Decoupling Motion and Geometry in 4D Gaussian Splatting**|Yi Zhang et.al.|[2603.00952](http://arxiv.org/abs/2603.00952)|N/A|
-|**2026-02-28**|**NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code**|Seemandhar Jain et.al.|[2603.00805](http://arxiv.org/abs/2603.00805)|N/A|
-|**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697](http://arxiv.org/abs/2603.00697)|N/A|
-|**2026-02-28**|**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**|Zilong Xie et.al.|[2603.00500](http://arxiv.org/abs/2603.00500)|N/A|
-|**2026-02-28**|**Station2Radar: query conditioned gaussian splatting for precipitation field**|Doyi Kim et.al.|[2603.00418](http://arxiv.org/abs/2603.00418)|N/A|
 
