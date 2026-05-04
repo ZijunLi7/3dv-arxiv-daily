@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.03 - 2026.04.30_
+_Select paper in 2026.03.04 - 2026.05.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -27,7 +27,7 @@ _Select paper in 2026.03.03 - 2026.04.30_
 |**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686](http://arxiv.org/abs/2604.22686)|N/A|
 |**2026-04-24**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Jing Ou et.al.|[2604.22482](http://arxiv.org/abs/2604.22482)|N/A|
 |**2026-04-24**|**ArchSym: Detecting 3D-Grounded Architectural Symmetries in the Wild**|Hanyu Chen et.al.|[2604.22202](http://arxiv.org/abs/2604.22202)|N/A|
-|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](http://arxiv.org/abs/2604.21960)|N/A|
+|**2026-05-01**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](http://arxiv.org/abs/2604.21960)|N/A|
 |**2026-04-22**|**FurnSet: Exploiting Repeats for 3D Scene Reconstruction**|Paul Dobre et.al.|[2604.20093](http://arxiv.org/abs/2604.20093)|N/A|
 |**2026-04-21**|**UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video**|Tanuj Sur et.al.|[2604.19923](http://arxiv.org/abs/2604.19923)|N/A|
 |**2026-04-21**|**AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model**|Yutian Chen et.al.|[2604.19747](http://arxiv.org/abs/2604.19747)|N/A|
@@ -149,9 +149,5 @@ _Select paper in 2026.03.03 - 2026.04.30_
 |**2026-03-04**|**ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training**|Haian Jin et.al.|[2603.04385](http://arxiv.org/abs/2603.04385)|N/A|
 |**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](http://arxiv.org/abs/2603.04254)|N/A|
 |**2026-03-05**|**NOVA3R: Non-pixel-aligned Visual Transformer for Amodal 3D Reconstruction**|Weirong Chen et.al.|[2603.04179](http://arxiv.org/abs/2603.04179)|N/A|
-|**2026-03-03**|**LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory**|Junyi Zhang et.al.|[2603.03269](http://arxiv.org/abs/2603.03269)|N/A|
-|**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|N/A|
-|**2026-03-03**|**SimRecon: SimReady Compositional Scene Reconstruction from Real Videos**|Chong Xia et.al.|[2603.02133](http://arxiv.org/abs/2603.02133)|N/A|
-|**2026-03-03**|**PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts**|Xianqi Wang et.al.|[2603.01650](http://arxiv.org/abs/2603.01650)|N/A|
 |**2026-03-04**|**EvalMVX: A Unified Benchmarking for Neural 3D Reconstruction under Diverse Multiview Setups**|Zaiyan Yang et.al.|[2602.24065](http://arxiv.org/abs/2602.24065)|N/A|
 
