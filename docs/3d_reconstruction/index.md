@@ -14,11 +14,14 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.07 - 2026.05.06_
+_Select paper in 2026.03.09 - 2026.05.07_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-06**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|N/A|
+|**2026-05-07**|**Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction**|Zecheng Tang et.al.|[2605.06270](http://arxiv.org/abs/2605.06270)|N/A|
+|**2026-05-07**|**Ray-Aware Pointer Memory with Adaptive Updates for Streaming 3D Reconstruction**|Feifei Li et.al.|[2605.05749](http://arxiv.org/abs/2605.05749)|N/A|
+|**2026-05-07**|**Sparse-to-Complete: From Sparse Image Captures to Complete 3D Scenes**|Yiyang Shen et.al.|[2605.05664](http://arxiv.org/abs/2605.05664)|N/A|
+|**2026-05-07**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|N/A|
 |**2026-05-05**|**UniCorrn: Unified Correspondence Transformer Across 2D and 3D**|Prajnan Goswami et.al.|[2605.04044](http://arxiv.org/abs/2605.04044)|N/A|
 |**2026-05-05**|**First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction**|Remi Chierchia et.al.|[2605.03463](http://arxiv.org/abs/2605.03463)|N/A|
 |**2026-05-03**|**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**|Lilika Makabe et.al.|[2605.01852](http://arxiv.org/abs/2605.01852)|N/A|
@@ -138,8 +141,4 @@ _Select paper in 2026.03.07 - 2026.05.06_
 |**2026-03-10**|**NLiPsCalib: An Efficient Calibration Framework for High-Fidelity 3D Reconstruction of Curved Visuotactile Sensors**|Xuhao Qin et.al.|[2603.09319](http://arxiv.org/abs/2603.09319)|N/A|
 |**2026-03-09**|**Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations**|Jiangye Yuan et.al.|[2603.08592](http://arxiv.org/abs/2603.08592)|N/A|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055](http://arxiv.org/abs/2603.08055)|N/A|
-|**2026-03-08**|**GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion**|Yufei Liu et.al.|[2603.07624](http://arxiv.org/abs/2603.07624)|N/A|
-|**2026-03-08**|**ACCURATE: Arbitrary-shaped Continuum Reconstruction Under Robust Adaptive Two-view Estimation**|Yaozhi Zhang et.al.|[2603.07533](http://arxiv.org/abs/2603.07533)|N/A|
-|**2026-03-08**|**DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting**|Shufan Sun et.al.|[2603.07441](http://arxiv.org/abs/2603.07441)|N/A|
-|**2026-03-07**|**SurgCUT3R: Surgical Scene-Aware Continuous Understanding of Temporal 3D Representation**|Kaiyuan Xu et.al.|[2603.06971](http://arxiv.org/abs/2603.06971)|N/A|
 
