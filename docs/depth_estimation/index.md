@@ -14,18 +14,20 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.03.13 - 2026.05.12_
+_Select paper in 2026.03.14 - 2026.05.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|N/A|
 |**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027](http://arxiv.org/abs/2605.12027)|N/A|
 |**2026-05-12**|**Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation**|Zhangcheng Hou et.al.|[2605.11840](http://arxiv.org/abs/2605.11840)|N/A|
 |**2026-05-12**|**Focusable Monocular Depth Estimation**|Yuxin Du et.al.|[2605.11756](http://arxiv.org/abs/2605.11756)|N/A|
 |**2026-05-12**|**The Midas Touch for Metric Depth**|Yu Ma et.al.|[2605.11578](http://arxiv.org/abs/2605.11578)|N/A|
 |**2026-05-11**|**Neuromorphic Monocular Depth Estimation with Uncertainty Modeling**|Viktor Bergkvist et.al.|[2605.10675](http://arxiv.org/abs/2605.10675)|N/A|
-|**2026-05-12**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|N/A|
+|**2026-05-13**|**GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth**|Yuecheng Liu et.al.|[2605.10525](http://arxiv.org/abs/2605.10525)|N/A|
 |**2026-05-11**|**Efficient Hybrid CNN-GNN Architecture for Monocular Depth Estimation**|Ishan Narayan et.al.|[2605.10251](http://arxiv.org/abs/2605.10251)|N/A|
 |**2026-05-08**|**Geometric Flood Depth Estimation: Fusing Transformer-Based Segmentation with Digital Elevation Models**|Nhut Le et.al.|[2605.08521](http://arxiv.org/abs/2605.08521)|N/A|
+|**2026-05-08**|**Improved monocular depth prediction using distance transform over pre-semantic contours with self-supervised neural networks**|Marwane Hariat et.al.|[2605.08320](http://arxiv.org/abs/2605.08320)|N/A|
 |**2026-05-08**|**Learning Image-Adaptive Scale Fields for Metric Depth Recovery**|Yuanyan Li et.al.|[2605.07418](http://arxiv.org/abs/2605.07418)|N/A|
 |**2026-05-04**|**AnchorD: Metric Grounding of Monocular Depth Using Factor Graphs**|Simon Dorer et.al.|[2605.02667](http://arxiv.org/abs/2605.02667)|N/A|
 |**2026-05-01**|**Foundation AI Models for Aerosol Optical Depth Estimation from PACE Satellite Data**|Zahid Hassan Tushar et.al.|[2605.00678](http://arxiv.org/abs/2605.00678)|N/A|
@@ -72,7 +74,6 @@ _Select paper in 2026.03.13 - 2026.05.12_
 |**2026-03-19**|**Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation**|Xinhao Cai et.al.|[2603.16340](http://arxiv.org/abs/2603.16340)|N/A|
 |**2026-03-17**|**PureCLIP-Depth: Prompt-Free and Decoder-Free Monocular Depth Estimation within CLIP Embedding Space**|Ryutaro Miya et.al.|[2603.16238](http://arxiv.org/abs/2603.16238)|N/A|
 |**2026-03-16**|**Spectral Rectification for Parameter-Efficient Adaptation of Foundation Models in Colonoscopy Depth Estimation**|Xiaoxian Zhang et.al.|[2603.15374](http://arxiv.org/abs/2603.15374)|N/A|
-|**2026-03-13**|**UE5-Forest: A Photorealistic Synthetic Stereo Dataset for UAV Forestry Depth Estimation**|Yida Lin et.al.|[2603.15304](http://arxiv.org/abs/2603.15304)|N/A|
 |**2026-03-16**|**Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3**|Hürkan Şahin et.al.|[2603.14998](http://arxiv.org/abs/2603.14998)|N/A|
 |**2026-03-16**|**Fractal Autoregressive Depth Estimation with Continuous Token Diffusion**|Jinchang Zhang et.al.|[2603.14702](http://arxiv.org/abs/2603.14702)|N/A|
 |**2026-03-16**|**AURORA-KITTI: Any-Weather Depth Completion and Denoising in the Wild**|Yiting Wang et.al.|[2603.14701](http://arxiv.org/abs/2603.14701)|N/A|
