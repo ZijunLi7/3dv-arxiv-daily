@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.03.15 - 2026.05.14_
+_Select paper in 2026.03.16 - 2026.05.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -247,8 +247,4 @@ _Select paper in 2026.03.15 - 2026.05.14_
 |**2026-03-16**|**NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**|Jiahang Liu et.al.|[2603.15186](http://arxiv.org/abs/2603.15186)|N/A|
 |**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|N/A|
 |**2026-03-16**|**E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction**|Yunsoo Kim et.al.|[2603.14684](http://arxiv.org/abs/2603.14684)|N/A|
-|**2026-03-15**|**Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting**|Shuai Guo et.al.|[2603.14316](http://arxiv.org/abs/2603.14316)|N/A|
-|**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309](http://arxiv.org/abs/2603.14309)|N/A|
-|**2026-03-15**|**4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding**|Mohamed Rayan Barhdadi et.al.|[2603.14301](http://arxiv.org/abs/2603.14301)|N/A|
-|**2026-03-15**|**S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction**|Renhe Zhang et.al.|[2603.14232](http://arxiv.org/abs/2603.14232)|N/A|
 

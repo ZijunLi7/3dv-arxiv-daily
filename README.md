@@ -1,4 +1,4 @@
-## Select paper in 2026.03.15 - 2026.05.14
+## Select paper in 2026.03.16 - 2026.05.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -138,9 +138,8 @@
 |**2026-03-16**|**MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction**|Jiacheng Dong et.al.|[2603.15330](http://arxiv.org/abs/2603.15330)|N/A|
 |**2026-03-16**|**ILV: Iterative Latent Volumes for Fast and Accurate Sparse-View CT Reconstruction**|Seungryong Lee et.al.|[2603.14915](http://arxiv.org/abs/2603.14915)|N/A|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|N/A|
-|**2026-03-15**|**RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer**|Jiuming Liu et.al.|[2603.14290](http://arxiv.org/abs/2603.14290)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260315---20260514>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260316---20260514>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -207,7 +206,7 @@
 |**2026-03-16**|**Fractal Autoregressive Depth Estimation with Continuous Token Diffusion**|Jinchang Zhang et.al.|[2603.14702](http://arxiv.org/abs/2603.14702)|N/A|
 |**2026-03-16**|**AURORA-KITTI: Any-Weather Depth Completion and Denoising in the Wild**|Yiting Wang et.al.|[2603.14701](http://arxiv.org/abs/2603.14701)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260315---20260514>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260316---20260514>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -317,7 +316,7 @@
 |**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844](http://arxiv.org/abs/2603.16844)|N/A|
 |**2026-03-17**|**Retrieving Counterfactuals Improves Visual In-Context Learning**|Guangzhi Xiong et.al.|[2603.16737](http://arxiv.org/abs/2603.16737)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260315---20260514>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260316---20260514>back to top</a>)</p>
 
 ## Image Matching
 
@@ -337,7 +336,7 @@
 |**2026-03-23**|**EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching**|Rahul Deshmukh et.al.|[2603.21463](http://arxiv.org/abs/2603.21463)|N/A|
 |**2026-03-26**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063](http://arxiv.org/abs/2603.08063)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260315---20260514>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260316---20260514>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -572,12 +571,8 @@
 |**2026-03-16**|**NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**|Jiahang Liu et.al.|[2603.15186](http://arxiv.org/abs/2603.15186)|N/A|
 |**2026-03-16**|**LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision**|Yiming Huang et.al.|[2603.14763](http://arxiv.org/abs/2603.14763)|N/A|
 |**2026-03-16**|**E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction**|Yunsoo Kim et.al.|[2603.14684](http://arxiv.org/abs/2603.14684)|N/A|
-|**2026-03-15**|**Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting**|Shuai Guo et.al.|[2603.14316](http://arxiv.org/abs/2603.14316)|N/A|
-|**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309](http://arxiv.org/abs/2603.14309)|N/A|
-|**2026-03-15**|**4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding**|Mohamed Rayan Barhdadi et.al.|[2603.14301](http://arxiv.org/abs/2603.14301)|N/A|
-|**2026-03-15**|**S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction**|Renhe Zhang et.al.|[2603.14232](http://arxiv.org/abs/2603.14232)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260315---20260514>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260316---20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

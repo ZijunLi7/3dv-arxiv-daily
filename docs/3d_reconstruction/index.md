@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.15 - 2026.05.14_
+_Select paper in 2026.03.16 - 2026.05.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -142,5 +142,4 @@ _Select paper in 2026.03.15 - 2026.05.14_
 |**2026-03-16**|**MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction**|Jiacheng Dong et.al.|[2603.15330](http://arxiv.org/abs/2603.15330)|N/A|
 |**2026-03-16**|**ILV: Iterative Latent Volumes for Fast and Accurate Sparse-View CT Reconstruction**|Seungryong Lee et.al.|[2603.14915](http://arxiv.org/abs/2603.14915)|N/A|
 |**2026-03-16**|**SSR: A Training-Free Approach for Streaming 3D Reconstruction**|Hui Deng et.al.|[2603.14765](http://arxiv.org/abs/2603.14765)|N/A|
-|**2026-03-15**|**RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer**|Jiuming Liu et.al.|[2603.14290](http://arxiv.org/abs/2603.14290)|N/A|
 
