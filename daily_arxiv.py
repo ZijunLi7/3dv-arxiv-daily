@@ -7,7 +7,9 @@ import logging
 import argparse
 import calendar
 import datetime
+import random
 import requests
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -23,6 +25,13 @@ AND = ' AND '
 ANDNOT = ' ANDNOT '
 LEFT = '('
 RIGHT = ')'
+ARXIV_CLIENT_DELAY_SECONDS = 10.0
+ARXIV_CLIENT_RETRIES = 1
+ARXIV_FETCH_ATTEMPTS = 6
+ARXIV_RETRY_BASE_SECONDS = 30
+ARXIV_RETRY_MAX_SECONDS = 300
+ARXIV_TOPIC_DELAY_SECONDS = 15
+TRANSIENT_HTTP_STATUS_CODES = {429, 500, 502, 503, 504}
 
 def key_connecter(key_list:list) -> str:
     ret = ''
@@ -96,7 +105,11 @@ def iter_arxiv_results(search_engine, max_results):
     """
     if hasattr(arxiv, "Client"):
         page_size = min(max(int(max_results or 1), 1), 100)
-        client = arxiv.Client(page_size=page_size, delay_seconds=3.0, num_retries=5)
+        client = arxiv.Client(
+            page_size=page_size,
+            delay_seconds=ARXIV_CLIENT_DELAY_SECONDS,
+            num_retries=ARXIV_CLIENT_RETRIES
+        )
         return client.results(search_engine)
     if hasattr(search_engine, "results"):
         return search_engine.results()
@@ -104,6 +117,47 @@ def iter_arxiv_results(search_engine, max_results):
         "The installed arxiv package supports neither Client.results() nor "
         "Search.results(). Please update the arxiv dependency."
     )
+
+def get_http_status(error):
+    for attr in ("status", "status_code", "code"):
+        status = getattr(error, attr, None)
+        if isinstance(status, int):
+            return status
+
+    match = re.search(r'HTTP\s+(\d{3})', str(error))
+    if match is None:
+        return None
+    return int(match.group(1))
+
+def is_transient_arxiv_error(error):
+    status = get_http_status(error)
+    return status in TRANSIENT_HTTP_STATUS_CODES
+
+def collect_arxiv_results(search_engine, max_results, topic):
+    for attempt in range(1, ARXIV_FETCH_ATTEMPTS + 1):
+        try:
+            return list(iter_arxiv_results(search_engine, max_results))
+        except Exception as err:
+            if not is_transient_arxiv_error(err):
+                raise
+
+            status = get_http_status(err)
+            if attempt == ARXIV_FETCH_ATTEMPTS:
+                logging.error(
+                    f"Skip topic after repeated arXiv HTTP {status} errors: {topic}"
+                )
+                return []
+
+            sleep_seconds = min(
+                ARXIV_RETRY_BASE_SECONDS * (2 ** (attempt - 1)),
+                ARXIV_RETRY_MAX_SECONDS
+            ) + random.uniform(0, 5)
+            logging.warning(
+                f"arXiv HTTP {status} for topic '{topic}' "
+                f"(attempt {attempt}/{ARXIV_FETCH_ATTEMPTS}); "
+                f"retrying in {sleep_seconds:.1f}s"
+            )
+            time.sleep(sleep_seconds)
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -120,7 +174,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in iter_arxiv_results(search_engine, max_results):
+    results = collect_arxiv_results(search_engine, max_results, topic)
+    if not results:
+        logging.warning(f"No new arXiv papers fetched for topic: {topic}")
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -568,13 +626,16 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
+        topic_count = len(keywords)
+        for topic_index, (topic, keyword) in enumerate(keywords.items()):
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
+            if topic_index < topic_count - 1:
+                time.sleep(ARXIV_TOPIC_DELAY_SECONDS)
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
