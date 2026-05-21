@@ -5,6 +5,7 @@ import arxiv
 import yaml
 import logging
 import argparse
+import calendar
 import datetime
 import requests
 
@@ -82,9 +83,27 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output
-import requests
 
 # Removed get_code_link function since code functionality is disabled
+
+def iter_arxiv_results(search_engine, max_results):
+    """
+    Iterate arXiv search results with both new and old arxiv.py releases.
+
+    Search.results() was deprecated and then removed from arxiv.py. Client.results()
+    is the supported API in current releases, while the fallback keeps older pinned
+    environments working.
+    """
+    if hasattr(arxiv, "Client"):
+        page_size = min(max(int(max_results or 1), 1), 100)
+        client = arxiv.Client(page_size=page_size, delay_seconds=3.0, num_retries=5)
+        return client.results(search_engine)
+    if hasattr(search_engine, "results"):
+        return search_engine.results()
+    raise RuntimeError(
+        "The installed arxiv package supports neither Client.results() nor "
+        "Search.results(). Please update the arxiv dependency."
+    )
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -101,7 +120,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in iter_arxiv_results(search_engine, max_results):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -141,6 +160,22 @@ def get_daily_papers(topic,query="slam", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web
 
+def subtract_months(day, months):
+    month = day.month - months
+    year = day.year + (month - 1) // 12
+    month = (month - 1) % 12 + 1
+    day_of_month = min(day.day, calendar.monthrange(year, month)[1])
+    return datetime.date(year, month, day_of_month)
+
+def extract_paper_date(content):
+    match = re.search(r'\d{4}-\d{2}-\d{2}', str(content))
+    if match is None:
+        return None
+    try:
+        return datetime.datetime.strptime(match.group(0), '%Y-%m-%d').date()
+    except ValueError:
+        return None
+
 def remove_old_papers(json_data, months=2):
     """
     Remove papers older than `months` months from json_data.
@@ -149,24 +184,21 @@ def remove_old_papers(json_data, months=2):
     @param months: int, papers older than this many months will be removed
     @return: (cleaned json_data, min_date, max_date)
     """
-    from dateutil.relativedelta import relativedelta
-    cutoff_date = datetime.date.today() - relativedelta(months=months)
-    date_pattern = re.compile(r'\|\*\*(\d{4}-\d{2}-\d{2})\*\*\|')
+    cutoff_date = subtract_months(datetime.date.today(), months)
     all_dates = []
     for keyword in list(json_data.keys()):
         papers = json_data[keyword]
         to_remove = []
         for paper_id, content in papers.items():
-            match = date_pattern.search(str(content))
-            if match:
-                paper_date = datetime.datetime.strptime(match.group(1), '%Y-%m-%d').date()
+            paper_date = extract_paper_date(content)
+            if paper_date is not None:
                 if paper_date < cutoff_date:
                     to_remove.append(paper_id)
                 else:
                     all_dates.append(paper_date)
             else:
                 # Cannot parse date, keep the paper
-                all_dates.append(datetime.date.today())
+                logging.warning(f'Cannot parse paper date, keeping paper: {paper_id}')
         for pid in to_remove:
             del papers[pid]
             logging.info(f'Removed old paper: {pid}')

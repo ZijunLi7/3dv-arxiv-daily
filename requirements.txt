@@ -1,4 +1,3 @@
 requests
-arxiv
+arxiv>=2.1.3,<5
 pyyaml
-python-dateutil
