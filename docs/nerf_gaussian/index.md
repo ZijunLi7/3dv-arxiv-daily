@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.03.22 - 2026.05.21_
+_Select paper in 2026.03.23 - 2026.05.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -232,8 +232,4 @@ _Select paper in 2026.03.22 - 2026.05.21_
 |**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|N/A|
 |**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|N/A|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|N/A|
-|**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|N/A|
-|**2026-03-22**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|N/A|
-|**2026-03-22**|**Two Experts Are Better Than One Generalist: Decoupling Geometry and Appearance for Feed-Forward 3D Gaussian Splatting**|Hwasik Jeong et.al.|[2603.21064](http://arxiv.org/abs/2603.21064)|N/A|
-|**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
 

@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.03.22 - 2026.05.21_
+_Select paper in 2026.03.23 - 2026.05.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -69,7 +69,6 @@ _Select paper in 2026.03.22 - 2026.05.21_
 |**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|N/A|
 |**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|N/A|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|N/A|
-|**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|N/A|
 |**2026-03-23**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|N/A|
 |**2026-03-27**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|N/A|
 

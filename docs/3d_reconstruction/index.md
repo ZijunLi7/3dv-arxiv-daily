@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.22 - 2026.05.21_
+_Select paper in 2026.03.23 - 2026.05.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -130,8 +130,5 @@ _Select paper in 2026.03.22 - 2026.05.21_
 |**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631](http://arxiv.org/abs/2603.22631)|N/A|
 |**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|N/A|
 |**2026-03-23**|**Static Scene Reconstruction from Dynamic Egocentric Videos**|Qifei Cui et.al.|[2603.22450](http://arxiv.org/abs/2603.22450)|N/A|
-|**2026-03-22**|**PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences**|Lanbo Xu et.al.|[2603.21436](http://arxiv.org/abs/2603.21436)|N/A|
-|**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|N/A|
-|**2026-03-22**|**Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images**|Jiatong Xia et.al.|[2603.21166](http://arxiv.org/abs/2603.21166)|N/A|
 |**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|N/A|
 

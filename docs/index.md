@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.03.22 - 2026.05.21
+## Select paper in 2026.03.23 - 2026.05.21
 
 ## 3D Reconstruction
 
@@ -129,9 +129,6 @@ layout: default
 |**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631](http://arxiv.org/abs/2603.22631)|N/A|
 |**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|N/A|
 |**2026-03-23**|**Static Scene Reconstruction from Dynamic Egocentric Videos**|Qifei Cui et.al.|[2603.22450](http://arxiv.org/abs/2603.22450)|N/A|
-|**2026-03-22**|**PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences**|Lanbo Xu et.al.|[2603.21436](http://arxiv.org/abs/2603.21436)|N/A|
-|**2026-03-22**|**FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction**|Yuqiu Liu et.al.|[2603.21356](http://arxiv.org/abs/2603.21356)|N/A|
-|**2026-03-22**|**Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images**|Jiatong Xia et.al.|[2603.21166](http://arxiv.org/abs/2603.21166)|N/A|
 |**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|N/A|
 
 ## Depth Estimation
@@ -189,7 +186,6 @@ layout: default
 |**2026-03-28**|**UniDAC: Universal Metric Depth Estimation for Any Camera**|Girish Chandar Ganesan et.al.|[2603.27105](http://arxiv.org/abs/2603.27105)|N/A|
 |**2026-03-27**|**Zero-Shot Depth from Defocus**|Yiming Zuo et.al.|[2603.26658](http://arxiv.org/abs/2603.26658)|N/A|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488](http://arxiv.org/abs/2603.23488)|N/A|
-|**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|N/A|
 |**2026-03-23**|**LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience**|Nafis Fuad et.al.|[2603.17108](http://arxiv.org/abs/2603.17108)|N/A|
 |**2026-03-27**|**WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation**|Muhammad Aamir et.al.|[2603.16816](http://arxiv.org/abs/2603.16816)|N/A|
 
@@ -298,7 +294,6 @@ layout: default
 |**2026-03-28**|**TIGeR: A Unified Framework for Time, Images and Geo-location Retrieval**|David G. Shatwell et.al.|[2603.24749](http://arxiv.org/abs/2603.24749)|N/A|
 |**2026-03-24**|**SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts**|Khanh Binh Nguyen et.al.|[2603.22732](http://arxiv.org/abs/2603.22732)|N/A|
 |**2026-03-23**|**ADaFuSE: Adaptive Diffusion-generated Image and Text Fusion for Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2603.21886](http://arxiv.org/abs/2603.21886)|N/A|
-|**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
 |**2026-03-25**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150](http://arxiv.org/abs/2603.20150)|N/A|
 |**2026-03-24**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609](http://arxiv.org/abs/2603.19609)|N/A|
 
@@ -538,8 +533,4 @@ layout: default
 |**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|N/A|
 |**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|N/A|
 |**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|N/A|
-|**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|N/A|
-|**2026-03-22**|**F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting**|Injae Kim et.al.|[2603.21304](http://arxiv.org/abs/2603.21304)|N/A|
-|**2026-03-22**|**Two Experts Are Better Than One Generalist: Decoupling Geometry and Appearance for Feed-Forward 3D Gaussian Splatting**|Hwasik Jeong et.al.|[2603.21064](http://arxiv.org/abs/2603.21064)|N/A|
-|**2026-03-22**|**SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM**|Pengchong Hu et.al.|[2603.21055](http://arxiv.org/abs/2603.21055)|N/A|
 
