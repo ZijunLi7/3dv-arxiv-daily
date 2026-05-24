@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.23 - 2026.05.21_
+_Select paper in 2026.03.24 - 2026.05.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -127,8 +127,5 @@ _Select paper in 2026.03.23 - 2026.05.21_
 |**2026-03-25**|**SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents**|Rocktim Jyoti Das et.al.|[2603.23973](http://arxiv.org/abs/2603.23973)|N/A|
 |**2026-03-26**|**SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes**|Zhicheng Qiu et.al.|[2603.22893](http://arxiv.org/abs/2603.22893)|N/A|
 |**2026-03-24**|**UniQueR: Unified Query-based Feedforward 3D Reconstruction**|Chensheng Peng et.al.|[2603.22851](http://arxiv.org/abs/2603.22851)|N/A|
-|**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631](http://arxiv.org/abs/2603.22631)|N/A|
-|**2026-03-23**|**FullCircle: Effortless 3D Reconstruction from Casual 360 $^\circ$ Captures**|Yalda Foroutan et.al.|[2603.22572](http://arxiv.org/abs/2603.22572)|N/A|
-|**2026-03-23**|**Static Scene Reconstruction from Dynamic Egocentric Videos**|Qifei Cui et.al.|[2603.22450](http://arxiv.org/abs/2603.22450)|N/A|
 |**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|N/A|
 

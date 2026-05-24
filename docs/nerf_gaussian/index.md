@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.03.23 - 2026.05.21_
+_Select paper in 2026.03.24 - 2026.05.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -223,13 +223,7 @@ _Select paper in 2026.03.23 - 2026.05.21_
 |**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Yiran Qiao et.al.|[2603.23686](http://arxiv.org/abs/2603.23686)|N/A|
 |**2026-03-24**|**Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting**|Peiyu Xu et.al.|[2603.23637](http://arxiv.org/abs/2603.23637)|N/A|
 |**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|N/A|
-|**2026-03-23**|**Drop-In Perceptual Optimization for 3D Gaussian Splatting**|Ezgi Ozyilkan et.al.|[2603.23297](http://arxiv.org/abs/2603.23297)|N/A|
 |**2026-03-24**|**GTLR-GS: Geometry-Texture Aware LiDAR-Regularized 3D Gaussian Splatting for Realistic Scene Reconstruction**|Yan Fang et.al.|[2603.23192](http://arxiv.org/abs/2603.23192)|N/A|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792](http://arxiv.org/abs/2603.22792)|N/A|
 |**2026-03-24**|**Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis**|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](http://arxiv.org/abs/2603.22786)|N/A|
-|**2026-03-23**|**FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario**|Hang Dai et.al.|[2603.22102](http://arxiv.org/abs/2603.22102)|N/A|
-|**2026-03-23**|**Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment**|Roy Amoyal et.al.|[2603.21936](http://arxiv.org/abs/2603.21936)|N/A|
-|**2026-03-23**|**Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence**|Peter Fasogbon et.al.|[2603.21933](http://arxiv.org/abs/2603.21933)|N/A|
-|**2026-03-23**|**SatGeo-NeRF: Geometrically Regularized NeRF for Satellite Imagery**|Valentin Wagner et.al.|[2603.21931](http://arxiv.org/abs/2603.21931)|N/A|
-|**2026-03-23**|**RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing**|Yiming Shao et.al.|[2603.21695](http://arxiv.org/abs/2603.21695)|N/A|
 
