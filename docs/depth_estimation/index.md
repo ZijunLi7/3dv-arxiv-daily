@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.03.25 - 2026.05.22_
+_Select paper in 2026.03.26 - 2026.05.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**WideDepth: Millimeter-Accurate Benchmark for Fisheye Depth Estimation**|Ilia Indyk et.al.|[2605.24074](http://arxiv.org/abs/2605.24074)|N/A|
 |**2026-05-22**|**DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection**|Jie Zhu et.al.|[2605.23281](http://arxiv.org/abs/2605.23281)|N/A|
 |**2026-05-21**|**UfM*: Uncertainty from Motion* for DNN Depth Estimation Using Gaussians**|Soumya Sudhakar et.al.|[2605.23098](http://arxiv.org/abs/2605.23098)|N/A|
 |**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|N/A|
