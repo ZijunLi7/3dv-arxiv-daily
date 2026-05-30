@@ -14,10 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.29 - 2026.05.28_
+_Select paper in 2026.03.30 - 2026.05.28_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|N/A|
+|**2026-05-28**|**Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning**|Chun-Hsiao Yeh et.al.|[2605.30231](http://arxiv.org/abs/2605.30231)|N/A|
+|**2026-05-28**|**Déjà View: Looping Transformers for Multi-View 3D Reconstruction**|Alessandro Burzio et.al.|[2605.30215](http://arxiv.org/abs/2605.30215)|N/A|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|N/A|
+|**2026-05-27**|**Seeing through boxes: Non-Line-of-Sight 3D Reconstruction from Radar Signals**|Jiachen Lu et.al.|[2605.29098](http://arxiv.org/abs/2605.29098)|N/A|
 |**2026-05-26**|**Joint 2D-3D Segmentation and Association in Street-level Imaging**|Amir Melnikov et.al.|[2605.26725](http://arxiv.org/abs/2605.26725)|N/A|
 |**2026-05-26**|**$R^3$ : 3D Reconstruction via Relative Regression**|Congrong Xu et.al.|[2605.26519](http://arxiv.org/abs/2605.26519)|N/A|
 |**2026-05-25**|**Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction**|Jin Hyeon Kim et.al.|[2605.26230](http://arxiv.org/abs/2605.26230)|N/A|
@@ -121,8 +126,5 @@ _Select paper in 2026.03.29 - 2026.05.28_
 |**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|N/A|
 |**2026-03-30**|**Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses**|Ruxiao Duan et.al.|[2603.28896](http://arxiv.org/abs/2603.28896)|N/A|
 |**2026-03-30**|**TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K**|Mattia D'Urso et.al.|[2603.28287](http://arxiv.org/abs/2603.28287)|N/A|
-|**2026-03-29**|**E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences**|Biswadeep Sen et.al.|[2603.27757](http://arxiv.org/abs/2603.27757)|N/A|
-|**2026-03-29**|**MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction**|Jongmin Lee et.al.|[2603.27542](http://arxiv.org/abs/2603.27542)|N/A|
-|**2026-03-29**|**From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis**|Ranran Huang et.al.|[2603.27455](http://arxiv.org/abs/2603.27455)|N/A|
 |**2026-03-31**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|N/A|
 
