@@ -1,4 +1,4 @@
-## Select paper in 2026.03.30 - 2026.05.28
+## Select paper in 2026.03.31 - 2026.05.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -120,11 +120,9 @@
 |**2026-04-02**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|N/A|
 |**2026-03-31**|**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**|Wenyi Li et.al.|[2603.30038](http://arxiv.org/abs/2603.30038)|N/A|
 |**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|N/A|
-|**2026-03-30**|**Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses**|Ruxiao Duan et.al.|[2603.28896](http://arxiv.org/abs/2603.28896)|N/A|
-|**2026-03-30**|**TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K**|Mattia D'Urso et.al.|[2603.28287](http://arxiv.org/abs/2603.28287)|N/A|
 |**2026-03-31**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260330---20260528>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260331---20260528>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -186,7 +184,7 @@
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 |**2026-04-01**|**Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2604.01118](http://arxiv.org/abs/2604.01118)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260330---20260528>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260331---20260528>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -292,7 +290,7 @@
 |**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|N/A|
 |**2026-03-31**|**MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network**|Guozhi Qiu et.al.|[2603.29291](http://arxiv.org/abs/2603.29291)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260330---20260528>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260331---20260528>back to top</a>)</p>
 
 ## Image Matching
 
@@ -311,7 +309,7 @@
 |**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|N/A|
 |**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260330---20260528>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260331---20260528>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -522,12 +520,8 @@
 |**2026-03-31**|**LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting**|Tianyu Huang et.al.|[2603.29209](http://arxiv.org/abs/2603.29209)|N/A|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185](http://arxiv.org/abs/2603.29185)|N/A|
 |**2026-03-31**|**LG-HCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting**|Xuan Deng et.al.|[2603.28431](http://arxiv.org/abs/2603.28431)|N/A|
-|**2026-03-30**|**SVGS: Single-View to 3D Object Editing via Gaussian Splatting**|Pengcheng Xue et.al.|[2603.28126](http://arxiv.org/abs/2603.28126)|N/A|
-|**2026-03-30**|**To View Transform or Not to View Transform: NeRF-based Pre-training Perspective**|Hyeonjun Jeong et.al.|[2603.28090](http://arxiv.org/abs/2603.28090)|N/A|
-|**2026-03-30**|**Physically Inspired Gaussian Splatting for HDR Novel View Synthesis**|Huimin Zeng et.al.|[2603.28020](http://arxiv.org/abs/2603.28020)|N/A|
-|**2026-03-30**|**RehearsalNeRF: Decoupling Intrinsic Neural Fields of Dynamic Illuminations for Scene Editing**|Changyeon Won et.al.|[2603.27948](http://arxiv.org/abs/2603.27948)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260330---20260528>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260331---20260528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

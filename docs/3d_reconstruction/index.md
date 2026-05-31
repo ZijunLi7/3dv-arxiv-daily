@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.03.30 - 2026.05.28_
+_Select paper in 2026.03.31 - 2026.05.28_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -124,7 +124,5 @@ _Select paper in 2026.03.30 - 2026.05.28_
 |**2026-04-02**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|N/A|
 |**2026-03-31**|**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**|Wenyi Li et.al.|[2603.30038](http://arxiv.org/abs/2603.30038)|N/A|
 |**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|N/A|
-|**2026-03-30**|**Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses**|Ruxiao Duan et.al.|[2603.28896](http://arxiv.org/abs/2603.28896)|N/A|
-|**2026-03-30**|**TerraSky3D: Multi-View Reconstructions of European Landmarks in 4K**|Mattia D'Urso et.al.|[2603.28287](http://arxiv.org/abs/2603.28287)|N/A|
 |**2026-03-31**|**SceneExpander: Expanding 3D Scenes with Free-Form Inserted Views**|Zijian He et.al.|[2603.27084](http://arxiv.org/abs/2603.27084)|N/A|
 
