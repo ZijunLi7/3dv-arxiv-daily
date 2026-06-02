@@ -11,12 +11,19 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.04.01 - 2026.05.29
+## Select paper in 2026.04.02 - 2026.06.01
 
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|N/A|
+|**2026-06-01**|**From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data**|Yuming Zhao et.al.|[2606.02268](http://arxiv.org/abs/2606.02268)|N/A|
+|**2026-06-01**|**WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos**|Jongmin Park et.al.|[2606.02096](http://arxiv.org/abs/2606.02096)|N/A|
+|**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|N/A|
+|**2026-05-31**|**ActMVS: Active Scene Reconstruction with Monocular Multi-View Stereo**|Guo Pu et.al.|[2606.01367](http://arxiv.org/abs/2606.01367)|N/A|
+|**2026-05-31**|**3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code**|Yipeng Gao et.al.|[2606.01057](http://arxiv.org/abs/2606.01057)|N/A|
+|**2026-05-31**|**Reasmory: 3D Reconstruction as Explicit Memory for VLMs Spatial Reasoning**|Jixuan He et.al.|[2606.00963](http://arxiv.org/abs/2606.00963)|N/A|
 |**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|N/A|
 |**2026-05-29**|**Feature-Optimized Vision for Adaptive 3D Scene Reconstruction**|Eric Liang et.al.|[2605.31534](http://arxiv.org/abs/2605.31534)|N/A|
 |**2026-05-29**|**VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching**|Tuan Duc Ngo et.al.|[2605.31466](http://arxiv.org/abs/2605.31466)|N/A|
@@ -122,14 +129,13 @@ layout: default
 |**2026-04-02**|**Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception**|Haoyuan Li et.al.|[2604.01747](http://arxiv.org/abs/2604.01747)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 |**2026-04-02**|**ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction**|Yanzhe Liang et.al.|[2604.01561](http://arxiv.org/abs/2604.01561)|N/A|
-|**2026-04-01**|**Learning Quantised Structure-Preserving Motion Representations for Dance Fingerprinting**|Arina Kharlamova et.al.|[2604.00927](http://arxiv.org/abs/2604.00927)|N/A|
-|**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548](http://arxiv.org/abs/2604.00548)|N/A|
 |**2026-04-02**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|N/A|
 
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation**|Siyuan Bian et.al.|[2606.02552](http://arxiv.org/abs/2606.02552)|N/A|
 |**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|N/A|
 |**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|N/A|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|N/A|
@@ -184,12 +190,16 @@ layout: default
 |**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|N/A|
 |**2026-04-02**|**PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency**|Leezy Han et.al.|[2604.01791](http://arxiv.org/abs/2604.01791)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
-|**2026-04-01**|**Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2604.01118](http://arxiv.org/abs/2604.01118)|N/A|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|N/A|
+|**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](http://arxiv.org/abs/2606.00936)|N/A|
+|**2026-05-30**|**CR-JEPA: Cross-Modal Joint-Embedding Predictive Learning for Remote Sensing Image Retrieval**|Md Aminur Hossain et.al.|[2606.00706](http://arxiv.org/abs/2606.00706)|N/A|
+|**2026-05-30**|**Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation**|Zhijie Yan et.al.|[2606.00576](http://arxiv.org/abs/2606.00576)|N/A|
+|**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307](http://arxiv.org/abs/2606.00307)|N/A|
 |**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|N/A|
 |**2026-05-29**|**DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2605.30769](http://arxiv.org/abs/2605.30769)|N/A|
 |**2026-05-28**|**CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems**|Zhihao Cao et.al.|[2605.30488](http://arxiv.org/abs/2605.30488)|N/A|
@@ -289,14 +299,13 @@ layout: default
 |**2026-04-06**|**MPTF-Net: Multi-view Pyramid Transformer Fusion Network for LiDAR-based Place Recognition**|Shuyuan Li et.al.|[2604.04513](http://arxiv.org/abs/2604.04513)|N/A|
 |**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|N/A|
 |**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|N/A|
-|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852](http://arxiv.org/abs/2604.00852)|N/A|
-|**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|N/A|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|N/A|
+|**2026-05-30**|**BEVIO: Efficient Bird's-Eye-View based Sparse-Update Visual-Inertial Odometry for Lunar Day-Night Navigation**|Mohit Singh et.al.|[2606.00709](http://arxiv.org/abs/2606.00709)|N/A|
+|**2026-06-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|N/A|
 |**2026-05-22**|**MASt3R-Nav: WayPixel Navigation in Relative 3D Maps**|Vansh Garg et.al.|[2605.24111](http://arxiv.org/abs/2605.24111)|N/A|
 |**2026-05-11**|**3DReflecNet: A Large-Scale Dataset for 3D Reconstruction of Reflective, Transparent, and Low-Texture Objects**|Zhicheng Liang et.al.|[2605.10204](http://arxiv.org/abs/2605.10204)|N/A|
 |**2026-04-28**|**GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching**|Tung-Duong Le-Duc et.al.|[2604.25390](http://arxiv.org/abs/2604.25390)|N/A|
@@ -314,6 +323,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-01**|**VEDAL: Variational Error-Driven Asynchronous Learning for 3D Gaussian Splatting Pruning**|Aoduo Li et.al.|[2606.02346](http://arxiv.org/abs/2606.02346)|N/A|
+|**2026-06-01**|**Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects**|Jens U. Kreber et.al.|[2606.01950](http://arxiv.org/abs/2606.01950)|N/A|
+|**2026-06-01**|**$\text{VG}^2$ GT: Voxel-Gaussian Splatting Visual Geometry Grounded Transformer**|Yibin Zhao et.al.|[2606.01573](http://arxiv.org/abs/2606.01573)|N/A|
+|**2026-05-31**|**LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World**|Hojune Kim et.al.|[2606.01458](http://arxiv.org/abs/2606.01458)|N/A|
+|**2026-05-30**|**Directed Distance Fields for Constant-Time Ray Queries on Gaussian Splatting**|Subhankar MIshra et.al.|[2606.00817](http://arxiv.org/abs/2606.00817)|N/A|
+|**2026-05-30**|**Beyond Static Gaussians: An Empirical Investigation of Architectural Paradigms for Dynamic 3D Scene Reconstruction**|Adrian Ramlal et.al.|[2606.00452](http://arxiv.org/abs/2606.00452)|N/A|
+|**2026-05-30**|**Optimizing 3D Gaussian Splatting via Point Cloud Upsampling**|Adrian Ramlal et.al.|[2606.00450](http://arxiv.org/abs/2606.00450)|N/A|
+|**2026-05-30**|**Real-Time Physics Simulation with Dynamic Mesh-Gaussian Reconstructions**|Adrian Ramlal et.al.|[2606.00444](http://arxiv.org/abs/2606.00444)|N/A|
+|**2026-05-29**|**HiGS: A Hierarchical Rendering Architecture for Real-Time 3D Gaussian Splatting**|Dawid Pająk et.al.|[2606.00352](http://arxiv.org/abs/2606.00352)|N/A|
 |**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|N/A|
 |**2026-05-29**|**LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting**|Hannah Schieber et.al.|[2605.31376](http://arxiv.org/abs/2605.31376)|N/A|
 |**2026-05-29**|**Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes**|Finn Dröge et.al.|[2605.30987](http://arxiv.org/abs/2605.30987)|N/A|
@@ -511,12 +529,4 @@ layout: default
 |**2026-04-02**|**Director: Instance-aware Gaussian Splatting for Dynamic Scene Modeling and Understanding**|Yuheng Jiang et.al.|[2604.01678](http://arxiv.org/abs/2604.01678)|N/A|
 |**2026-04-02**|**F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling**|Morui Zhu et.al.|[2604.01605](http://arxiv.org/abs/2604.01605)|N/A|
 |**2026-04-02**|**ColorGradedGaussians: Palette-Based Color Grading for 3D Gaussian Splatting via View-Space Sparse Decomposition**|Cheng-Kang Ted Chao et.al.|[2604.01551](http://arxiv.org/abs/2604.01551)|N/A|
-|**2026-04-01**|**Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars**|Derek Austin et.al.|[2604.01447](http://arxiv.org/abs/2604.01447)|N/A|
-|**2026-04-01**|**Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization**|Yueh-Cheng Liu et.al.|[2604.01030](http://arxiv.org/abs/2604.01030)|N/A|
-|**2026-04-01**|**Autoregressive Appearance Prediction for 3D Gaussian Avatars**|Michael Steiner et.al.|[2604.00928](http://arxiv.org/abs/2604.00928)|N/A|
-|**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|N/A|
-|**2026-04-01**|**DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization**|Zhengxian Yang et.al.|[2604.00648](http://arxiv.org/abs/2604.00648)|N/A|
-|**2026-04-01**|**TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting**|Suwoong Yeom et.al.|[2604.00538](http://arxiv.org/abs/2604.00538)|N/A|
-|**2026-04-01**|**RT-GS: Gaussian Splatting with Reflection and Transmittance Primitives**|Kunnong Zeng et.al.|[2604.00509](http://arxiv.org/abs/2604.00509)|N/A|
-|**2026-04-01**|**ARGS: Auto-Regressive Gaussian Splatting via Parallel Progressive Next-Scale Prediction**|Quanyuan Ruan et.al.|[2604.00494](http://arxiv.org/abs/2604.00494)|N/A|
 
