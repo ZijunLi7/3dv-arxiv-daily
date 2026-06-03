@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.04.02 - 2026.06.01_
+_Select paper in 2026.04.03 - 2026.06.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**SparseStreet: Sparse Gaussian Splatting for Real-Time Street Scene Simulation**|Qingpo Wuwu et.al.|[2606.03909](http://arxiv.org/abs/2606.03909)|N/A|
+|**2026-06-02**|**MLP Splatting: Object-Centric Neural Fields**|Shinjeong Kim et.al.|[2606.03877](http://arxiv.org/abs/2606.03877)|N/A|
+|**2026-06-02**|**PersistGS: Differentiable Physics for Object Permanence in 4D Gaussian Splatting**|Adrian Ramlal et.al.|[2606.03479](http://arxiv.org/abs/2606.03479)|N/A|
+|**2026-06-02**|**FreeStreamGS: Online Feed-forward 3D Gaussian Splatting from Unposed Streaming Inputs**|Ruiyang Chen et.al.|[2606.03254](http://arxiv.org/abs/2606.03254)|N/A|
+|**2026-06-02**|**KC-3DGS: Kurtosis-Constrained Gaussian Splatting for High-Fidelity View Synthesis**|Vivekjyoti Banerjee et.al.|[2606.03120](http://arxiv.org/abs/2606.03120)|N/A|
+|**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937](http://arxiv.org/abs/2606.02937)|N/A|
 |**2026-06-01**|**VEDAL: Variational Error-Driven Asynchronous Learning for 3D Gaussian Splatting Pruning**|Aoduo Li et.al.|[2606.02346](http://arxiv.org/abs/2606.02346)|N/A|
 |**2026-06-01**|**Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects**|Jens U. Kreber et.al.|[2606.01950](http://arxiv.org/abs/2606.01950)|N/A|
 |**2026-06-01**|**$\text{VG}^2$ GT: Voxel-Gaussian Splatting Visual Geometry Grounded Transformer**|Yibin Zhao et.al.|[2606.01573](http://arxiv.org/abs/2606.01573)|N/A|
@@ -216,12 +222,4 @@ _Select paper in 2026.04.02 - 2026.06.01_
 |**2026-04-03**|**Streaming Real-Time Rendered Scenes as 3D Gaussians**|Matti Siekkinen et.al.|[2604.02851](http://arxiv.org/abs/2604.02851)|N/A|
 |**2026-04-03**|**Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices**|Kim Jun-Seong et.al.|[2604.02836](http://arxiv.org/abs/2604.02836)|N/A|
 |**2026-04-03**|**VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping**|Yuhan Zhu et.al.|[2604.02696](http://arxiv.org/abs/2604.02696)|N/A|
-|**2026-04-02**|**TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction**|Daheng Yin et.al.|[2604.02586](http://arxiv.org/abs/2604.02586)|N/A|
-|**2026-04-02**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|N/A|
-|**2026-04-02**|**ProDiG: Progressive Diffusion-Guided Gaussian Splatting for Aerial to Ground Reconstruction**|Sirshapan Mitra et.al.|[2604.02003](http://arxiv.org/abs/2604.02003)|N/A|
-|**2026-04-02**|**GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting**|Xianben Yang et.al.|[2604.01884](http://arxiv.org/abs/2604.01884)|N/A|
-|**2026-04-02**|**FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting**|Pawel Tomasz Pieta et.al.|[2604.01844](http://arxiv.org/abs/2604.01844)|N/A|
-|**2026-04-02**|**Director: Instance-aware Gaussian Splatting for Dynamic Scene Modeling and Understanding**|Yuheng Jiang et.al.|[2604.01678](http://arxiv.org/abs/2604.01678)|N/A|
-|**2026-04-02**|**F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling**|Morui Zhu et.al.|[2604.01605](http://arxiv.org/abs/2604.01605)|N/A|
-|**2026-04-02**|**ColorGradedGaussians: Palette-Based Color Grading for 3D Gaussian Splatting via View-Space Sparse Decomposition**|Cheng-Kang Ted Chao et.al.|[2604.01551](http://arxiv.org/abs/2604.01551)|N/A|
 

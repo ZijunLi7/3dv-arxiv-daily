@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.04.02 - 2026.06.01_
+_Select paper in 2026.04.03 - 2026.06.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|N/A|
+|**2026-05-31**|**Sparse-View Lung Nodule Volumetry from Digitally Reconstructed Radiographs via AReT: Anatomy-Regularized TensoRF**|Spoorthi M et.al.|[2606.02639](http://arxiv.org/abs/2606.02639)|N/A|
 |**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|N/A|
 |**2026-06-01**|**From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data**|Yuming Zhao et.al.|[2606.02268](http://arxiv.org/abs/2606.02268)|N/A|
 |**2026-06-01**|**WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos**|Jongmin Park et.al.|[2606.02096](http://arxiv.org/abs/2606.02096)|N/A|
@@ -125,10 +127,5 @@ _Select paper in 2026.04.02 - 2026.06.01_
 |**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|N/A|
 |**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878](http://arxiv.org/abs/2604.03878)|N/A|
 |**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|N/A|
-|**2026-04-02**|**FusionBERT: Multi-View Image-3D Retrieval via Cross-Attention Visual Fusion and Normal-Aware 3D Encoder**|Wei Li et.al.|[2604.02583](http://arxiv.org/abs/2604.02583)|N/A|
-|**2026-04-02**|**A3R: Agentic Affordance Reasoning via Cross-Dimensional Evidence in 3D Gaussian Scenes**|Di Li et.al.|[2604.01882](http://arxiv.org/abs/2604.01882)|N/A|
-|**2026-04-02**|**Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception**|Haoyuan Li et.al.|[2604.01747](http://arxiv.org/abs/2604.01747)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
-|**2026-04-02**|**ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction**|Yanzhe Liang et.al.|[2604.01561](http://arxiv.org/abs/2604.01561)|N/A|
-|**2026-04-02**|**Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding**|Haibo Wang et.al.|[2604.00528](http://arxiv.org/abs/2604.00528)|N/A|
 

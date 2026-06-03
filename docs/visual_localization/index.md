@@ -14,10 +14,11 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.04.02 - 2026.06.01_
+_Select paper in 2026.04.03 - 2026.06.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|N/A|
 |**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|N/A|
 |**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](http://arxiv.org/abs/2606.00936)|N/A|
 |**2026-05-30**|**CR-JEPA: Cross-Modal Joint-Embedding Predictive Learning for Remote Sensing Image Retrieval**|Md Aminur Hossain et.al.|[2606.00706](http://arxiv.org/abs/2606.00706)|N/A|

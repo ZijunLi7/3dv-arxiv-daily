@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.04.02 - 2026.06.01_
+_Select paper in 2026.04.03 - 2026.06.02_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](http://arxiv.org/abs/2606.03989)|N/A|
+|**2026-06-01**|**Depth from Dual Differential Defocus and Stereo Consensus**|Junjie Luo et.al.|[2606.02906](http://arxiv.org/abs/2606.02906)|N/A|
 |**2026-06-01**|**Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation**|Siyuan Bian et.al.|[2606.02552](http://arxiv.org/abs/2606.02552)|N/A|
 |**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|N/A|
 |**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|N/A|
@@ -70,7 +72,5 @@ _Select paper in 2026.04.02 - 2026.06.01_
 |**2026-04-03**|**Hierarchical Awareness Adapters with Hybrid Pyramid Feature Fusion for Dense Depth Prediction**|Wuqi Su et.al.|[2604.03339](http://arxiv.org/abs/2604.03339)|N/A|
 |**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|N/A|
 |**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|N/A|
-|**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|N/A|
-|**2026-04-02**|**PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency**|Leezy Han et.al.|[2604.01791](http://arxiv.org/abs/2604.01791)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 
