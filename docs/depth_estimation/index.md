@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.04.03 - 2026.06.02_
+_Select paper in 2026.04.04 - 2026.06.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -69,8 +69,5 @@ _Select paper in 2026.04.03 - 2026.06.02_
 |**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|N/A|
 |**2026-04-06**|**NAIMA: Semantics Aware RGB Guided Depth Super-Resolution**|Tayyab Nasir et.al.|[2604.04407](http://arxiv.org/abs/2604.04407)|N/A|
 |**2026-04-06**|**3D-Fixer: Coarse-to-Fine In-place Completion for 3D Scenes from a Single Image**|Ze-Xin Yin et.al.|[2604.04406](http://arxiv.org/abs/2604.04406)|N/A|
-|**2026-04-03**|**Hierarchical Awareness Adapters with Hybrid Pyramid Feature Fusion for Dense Depth Prediction**|Wuqi Su et.al.|[2604.03339](http://arxiv.org/abs/2604.03339)|N/A|
-|**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|N/A|
-|**2026-04-03**|**Cross-Vehicle 3D Geometric Consistency for Self-Supervised Surround Depth Estimation on Articulated Vehicles**|Weimin Liu et.al.|[2604.02639](http://arxiv.org/abs/2604.02639)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 
