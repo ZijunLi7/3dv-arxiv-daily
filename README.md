@@ -1,4 +1,4 @@
-## Select paper in 2026.04.04 - 2026.06.03
+## Select paper in 2026.04.05 - 2026.06.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](http://arxiv.org/abs/2606.06039)|N/A|
+|**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](http://arxiv.org/abs/2606.05998)|N/A|
 |**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](http://arxiv.org/abs/2606.05035)|N/A|
 |**2026-06-02**|**PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification**|Charlie Gauthier et.al.|[2606.04226](http://arxiv.org/abs/2606.04226)|N/A|
 |**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|N/A|
@@ -123,10 +125,9 @@
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|N/A|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|N/A|
 |**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|N/A|
-|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878](http://arxiv.org/abs/2604.03878)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260404---20260603>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260405---20260604>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -185,7 +186,7 @@
 |**2026-04-06**|**3D-Fixer: Coarse-to-Fine In-place Completion for 3D Scenes from a Single Image**|Ze-Xin Yin et.al.|[2604.04406](http://arxiv.org/abs/2604.04406)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260404---20260603>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260405---20260604>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -300,7 +301,7 @@
 |**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642](http://arxiv.org/abs/2604.04642)|N/A|
 |**2026-04-06**|**MPTF-Net: Multi-view Pyramid Transformer Fusion Network for LiDAR-based Place Recognition**|Shuyuan Li et.al.|[2604.04513](http://arxiv.org/abs/2604.04513)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260404---20260603>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260405---20260604>back to top</a>)</p>
 
 ## Image Matching
 
@@ -322,12 +323,14 @@
 |**2026-04-08**|**Mathematical Analysis of Image Matching Techniques**|Oleh Samoilenko et.al.|[2604.07574](http://arxiv.org/abs/2604.07574)|N/A|
 |**2026-04-08**|**Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency**|Ke Jin et.al.|[2604.06713](http://arxiv.org/abs/2604.06713)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260404---20260603>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260405---20260604>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds**|Rajrup Ghosh et.al.|[2606.05650](http://arxiv.org/abs/2606.05650)|N/A|
+|**2026-06-03**|**Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers**|Jean Cordonnier et.al.|[2606.05491](http://arxiv.org/abs/2606.05491)|N/A|
 |**2026-06-03**|**Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting**|Hongyu Zhou et.al.|[2606.05124](http://arxiv.org/abs/2606.05124)|N/A|
 |**2026-06-03**|**ZipSplat: Fewer Gaussians, Better Splats**|Alexander Veicht et.al.|[2606.05102](http://arxiv.org/abs/2606.05102)|N/A|
 |**2026-06-02**|**SparseStreet: Sparse Gaussian Splatting for Real-Time Street Scene Simulation**|Qingpo Wuwu et.al.|[2606.03909](http://arxiv.org/abs/2606.03909)|N/A|
@@ -524,10 +527,8 @@
 |**2026-04-06**|**GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction**|Yedong Shen et.al.|[2604.04331](http://arxiv.org/abs/2604.04331)|N/A|
 |**2026-04-05**|**4C4D: 4 Camera 4D Gaussian Splatting**|Junsheng Zhou et.al.|[2604.04063](http://arxiv.org/abs/2604.04063)|N/A|
 |**2026-04-05**|**HOIGS: Human-Object Interaction Gaussian Splatting**|Taewoo Kim et.al.|[2604.04016](http://arxiv.org/abs/2604.04016)|N/A|
-|**2026-04-04**|**M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting**|Xingyu Miao et.al.|[2604.03773](http://arxiv.org/abs/2604.03773)|N/A|
-|**2026-04-04**|**CGHair: Compact Gaussian Hair Reconstruction with Card Clustering**|Haimin Luo et.al.|[2604.03716](http://arxiv.org/abs/2604.03716)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260404---20260603>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260405---20260604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.04.04 - 2026.06.03_
+_Select paper in 2026.04.05 - 2026.06.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](http://arxiv.org/abs/2606.06039)|N/A|
+|**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](http://arxiv.org/abs/2606.05998)|N/A|
 |**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](http://arxiv.org/abs/2606.05035)|N/A|
 |**2026-06-02**|**PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification**|Charlie Gauthier et.al.|[2606.04226](http://arxiv.org/abs/2606.04226)|N/A|
 |**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|N/A|
@@ -127,6 +129,5 @@ _Select paper in 2026.04.04 - 2026.06.03_
 |**2026-04-07**|**Human Interaction-Aware 3D Reconstruction from a Single Image**|Gwanghyun Kim et.al.|[2604.05436](http://arxiv.org/abs/2604.05436)|N/A|
 |**2026-04-06**|**LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows**|Zhengqin Li et.al.|[2604.05182](http://arxiv.org/abs/2604.05182)|N/A|
 |**2026-04-05**|**NTIRE 2026 3D Restoration and Reconstruction in Real-world Adverse Conditions: RealX3D Challenge Results**|Shuhong Liu et.al.|[2604.04135](http://arxiv.org/abs/2604.04135)|N/A|
-|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878](http://arxiv.org/abs/2604.03878)|N/A|
 |**2026-04-05**|**MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label**|Junyoung Jung et.al.|[2604.01646](http://arxiv.org/abs/2604.01646)|N/A|
 

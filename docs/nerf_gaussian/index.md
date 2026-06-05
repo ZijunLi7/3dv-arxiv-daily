@@ -14,10 +14,12 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.04.04 - 2026.06.03_
+_Select paper in 2026.04.05 - 2026.06.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds**|Rajrup Ghosh et.al.|[2606.05650](http://arxiv.org/abs/2606.05650)|N/A|
+|**2026-06-03**|**Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers**|Jean Cordonnier et.al.|[2606.05491](http://arxiv.org/abs/2606.05491)|N/A|
 |**2026-06-03**|**Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting**|Hongyu Zhou et.al.|[2606.05124](http://arxiv.org/abs/2606.05124)|N/A|
 |**2026-06-03**|**ZipSplat: Fewer Gaussians, Better Splats**|Alexander Veicht et.al.|[2606.05102](http://arxiv.org/abs/2606.05102)|N/A|
 |**2026-06-02**|**SparseStreet: Sparse Gaussian Splatting for Real-Time Street Scene Simulation**|Qingpo Wuwu et.al.|[2606.03909](http://arxiv.org/abs/2606.03909)|N/A|
@@ -214,6 +216,4 @@ _Select paper in 2026.04.04 - 2026.06.03_
 |**2026-04-06**|**GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction**|Yedong Shen et.al.|[2604.04331](http://arxiv.org/abs/2604.04331)|N/A|
 |**2026-04-05**|**4C4D: 4 Camera 4D Gaussian Splatting**|Junsheng Zhou et.al.|[2604.04063](http://arxiv.org/abs/2604.04063)|N/A|
 |**2026-04-05**|**HOIGS: Human-Object Interaction Gaussian Splatting**|Taewoo Kim et.al.|[2604.04016](http://arxiv.org/abs/2604.04016)|N/A|
-|**2026-04-04**|**M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting**|Xingyu Miao et.al.|[2604.03773](http://arxiv.org/abs/2604.03773)|N/A|
-|**2026-04-04**|**CGHair: Compact Gaussian Hair Reconstruction with Card Clustering**|Haimin Luo et.al.|[2604.03716](http://arxiv.org/abs/2604.03716)|N/A|
 
