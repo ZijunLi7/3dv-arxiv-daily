@@ -1,4 +1,4 @@
-## Select paper in 2026.04.12 - 2026.06.11
+## Select paper in 2026.04.13 - 2026.06.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -114,10 +114,8 @@
 |**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|N/A|
 |**2026-04-14**|**Neural 3D Reconstruction of Planetary Surfaces from Descent-Phase Wide-Angle Imagery**|Melonie de Almeida et.al.|[2604.13235](http://arxiv.org/abs/2604.13235)|N/A|
 |**2026-04-14**|**SyncFix: Fixing 3D Reconstructions via Multi-View Synchronization**|Deming Li et.al.|[2604.11797](http://arxiv.org/abs/2604.11797)|N/A|
-|**2026-04-12**|**ReplicateAnyScene: Zero-Shot Video-to-3D Composition via Textual-Visual-Spatial Alignment**|Mingyu Dong et.al.|[2604.10789](http://arxiv.org/abs/2604.10789)|N/A|
-|**2026-04-12**|**Point2Pose: Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects Via 2D Point Trackers**|Tzu-Yuan Lin et.al.|[2604.10415](http://arxiv.org/abs/2604.10415)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260412---20260611>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260413---20260611>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -166,7 +164,7 @@
 |**2026-04-13**|**GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth**|Krishna Jaganathan et.al.|[2604.11585](http://arxiv.org/abs/2604.11585)|N/A|
 |**2026-04-13**|**CDPR: Cross-modal Diffusion with Polarization for Reliable Monocular Depth Estimation**|Rongjia Yu et.al.|[2604.11097](http://arxiv.org/abs/2604.11097)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260412---20260611>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260413---20260611>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -272,10 +270,9 @@
 |**2026-04-13**|**Privacy-Preserving Structureless Visual Localization via Image Obfuscation**|Vojtech Panek et.al.|[2604.12068](http://arxiv.org/abs/2604.12068)|N/A|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992](http://arxiv.org/abs/2604.11992)|N/A|
 |**2026-04-13**|**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions**|Seongyu Kim et.al.|[2604.11579](http://arxiv.org/abs/2604.11579)|N/A|
-|**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593](http://arxiv.org/abs/2604.10593)|N/A|
 |**2026-04-13**|**Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring**|Xinmiao Xiong et.al.|[2604.08718](http://arxiv.org/abs/2604.08718)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260412---20260611>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260413---20260611>back to top</a>)</p>
 
 ## Image Matching
 
@@ -295,7 +292,7 @@
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|N/A|
 |**2026-05-01**|**Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?**|Isaac Corley et.al.|[2604.10217](http://arxiv.org/abs/2604.10217)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260412---20260611>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260413---20260611>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -486,9 +483,8 @@
 |**2026-04-13**|**GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors**|Qilin Zhang et.al.|[2604.11401](http://arxiv.org/abs/2604.11401)|N/A|
 |**2026-04-13**|**LumiMotion: Improving Gaussian Relighting with Scene Dynamics**|Joanna Kaleta et.al.|[2604.10994](http://arxiv.org/abs/2604.10994)|N/A|
 |**2026-04-14**|**STGV: Spatio-Temporal Hash Encoding for Gaussian-based Video Representation**|Jierun Lin et.al.|[2604.10910](http://arxiv.org/abs/2604.10910)|N/A|
-|**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593](http://arxiv.org/abs/2604.10593)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260412---20260611>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260413---20260611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
