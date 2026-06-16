@@ -14,10 +14,12 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.04.15 - 2026.06.12_
+_Select paper in 2026.04.16 - 2026.06.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|N/A|
+|**2026-06-13**|**FD-SLAM: Fast Dense Radar-Inertial SLAM with Frequency-Domain Loop Closure and Pose Graph Optimization**|Nader J. Abu-Alrub et.al.|[2606.15491](http://arxiv.org/abs/2606.15491)|N/A|
 |**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|N/A|
 |**2026-06-11**|**VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits**|Hoang-Nguyen Cao et.al.|[2606.13427](http://arxiv.org/abs/2606.13427)|N/A|
 |**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|N/A|

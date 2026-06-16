@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.04.15 - 2026.06.12_
+_Select paper in 2026.04.16 - 2026.06.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|N/A|
+|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
 |**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|N/A|
 |**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|N/A|
 |**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|N/A|

@@ -14,10 +14,17 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.04.15 - 2026.06.12_
+_Select paper in 2026.04.16 - 2026.06.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Local-GS: Accelerating 3D Gaussian Splatting via Tile-Local Warp Coherence**|Yang Luo et.al.|[2606.16566](http://arxiv.org/abs/2606.16566)|N/A|
+|**2026-06-15**|**RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos**|Zhenhua Wu et.al.|[2606.16278](http://arxiv.org/abs/2606.16278)|N/A|
+|**2026-06-15**|**PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation**|Jihoon Hong et.al.|[2606.16232](http://arxiv.org/abs/2606.16232)|N/A|
+|**2026-06-15**|**Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing**|Yuhan Chen et.al.|[2606.16168](http://arxiv.org/abs/2606.16168)|N/A|
+|**2026-06-15**|**Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation**|Yuhan Chen et.al.|[2606.16163](http://arxiv.org/abs/2606.16163)|N/A|
+|**2026-06-15**|**Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.16159](http://arxiv.org/abs/2606.16159)|N/A|
+|**2026-06-14**|**TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization**|Zheng Dong et.al.|[2606.15924](http://arxiv.org/abs/2606.15924)|N/A|
 |**2026-06-12**|**SplatlessDF: Continuous Distance Field Mapping with Non-Splatting Gaussians**|Monisha Mushtary Uttsha et.al.|[2606.13990](http://arxiv.org/abs/2606.13990)|N/A|
 |**2026-06-11**|**Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection**|Yuto Furutani et.al.|[2606.11894](http://arxiv.org/abs/2606.11894)|N/A|
 |**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|N/A|
@@ -188,8 +195,4 @@ _Select paper in 2026.04.15 - 2026.06.12_
 |**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[2604.15239](http://arxiv.org/abs/2604.15239)|N/A|
 |**2026-04-17**|**Hybrid Latents: Geometry-Appearance-Aware Surfel Splatting**|Neel Kelkar et.al.|[2604.14928](http://arxiv.org/abs/2604.14928)|N/A|
 |**2026-04-16**|**NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation**|Yi He et.al.|[2604.14706](http://arxiv.org/abs/2604.14706)|N/A|
-|**2026-04-15**|**PartNerFace: Part-based Neural Radiance Fields for Animatable Facial Avatar Reconstruction**|Xianggang Yu et.al.|[2604.13918](http://arxiv.org/abs/2604.13918)|N/A|
-|**2026-04-15**|**ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction**|Jie Liang et.al.|[2604.13746](http://arxiv.org/abs/2604.13746)|N/A|
-|**2026-04-15**|**Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis**|Yuchao Chen et.al.|[2604.13589](http://arxiv.org/abs/2604.13589)|N/A|
-|**2026-04-15**|**RadarSplat-RIO: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment**|Pou-Chun Kung et.al.|[2604.13492](http://arxiv.org/abs/2604.13492)|N/A|
 

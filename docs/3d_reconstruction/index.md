@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.04.15 - 2026.06.12_
+_Select paper in 2026.04.16 - 2026.06.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
+|**2026-06-12**|**S23DR 2026: End-to-End 3D Wireframe Prediction via DETR-Style Set Prediction with Contrastive Denoising**|Nitiz Khanal et.al.|[2606.14811](http://arxiv.org/abs/2606.14811)|N/A|
 |**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|N/A|
 |**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](http://arxiv.org/abs/2606.14307)|N/A|
 |**2026-06-09**|**TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions**|Or Perel et.al.|[2606.11314](http://arxiv.org/abs/2606.11314)|N/A|
@@ -116,6 +118,4 @@ _Select paper in 2026.04.15 - 2026.06.12_
 |**2026-04-17**|**PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems**|Weijie Wang et.al.|[2604.16540](http://arxiv.org/abs/2604.16540)|N/A|
 |**2026-04-16**|**M3D-Net: Multi-Modal 3D Facial Feature Reconstruction Network for Deepfake Detection**|Haotian Wu et.al.|[2604.14574](http://arxiv.org/abs/2604.14574)|N/A|
 |**2026-04-16**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Lin-Zhuo Chen et.al.|[2604.14141](http://arxiv.org/abs/2604.14141)|N/A|
-|**2026-04-15**|**Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself**|Yuhang Dai et.al.|[2604.14048](http://arxiv.org/abs/2604.14048)|N/A|
-|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|N/A|
 
