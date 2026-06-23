@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.04.22 - 2026.06.18_
+_Select paper in 2026.04.23 - 2026.06.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|N/A|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|N/A|
 |**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|N/A|
 |**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|

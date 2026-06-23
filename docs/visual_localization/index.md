@@ -14,10 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.04.22 - 2026.06.18_
+_Select paper in 2026.04.23 - 2026.06.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](http://arxiv.org/abs/2606.22756)|N/A|
+|**2026-06-20**|**GeoFlow-SLAM++: A Robust Multi-Camera Visual-Inertial SLAM System with Relocalization**|Wei Fen et.al.|[2606.22051](http://arxiv.org/abs/2606.22051)|N/A|
+|**2026-06-19**|**Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM**|Edward Beng Wai Tan et.al.|[2606.21258](http://arxiv.org/abs/2606.21258)|N/A|
+|**2026-06-19**|**Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation for Intelligent Transportation Systems**|Yihong Tian et.al.|[2606.21223](http://arxiv.org/abs/2606.21223)|N/A|
 |**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](http://arxiv.org/abs/2606.19874)|N/A|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|N/A|
 |**2026-06-17**|**Sensor Configuration Matters: A Systematic Evaluation of Multimodal SLAM on Quadruped Robots**|Roberto Corlito et.al.|[2606.19067](http://arxiv.org/abs/2606.19067)|N/A|
@@ -104,7 +108,4 @@ _Select paper in 2026.04.22 - 2026.06.18_
 |**2026-04-23**|**SNGR: Selective Non-Gaussian Refinement for Ambiguous SLAM Factor Graphs**|Anushka Kulkarni et.al.|[2604.22065](http://arxiv.org/abs/2604.22065)|N/A|
 |**2026-04-24**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|N/A|
 |**2026-04-23**|**SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations**|Ilir Gusija et.al.|[2604.21693](http://arxiv.org/abs/2604.21693)|N/A|
-|**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|N/A|
-|**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|N/A|
-|**2026-04-22**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|N/A|
 

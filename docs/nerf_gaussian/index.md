@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.04.22 - 2026.06.18_
+_Select paper in 2026.04.23 - 2026.06.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|N/A|
+|**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|N/A|
+|**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](http://arxiv.org/abs/2606.22525)|N/A|
+|**2026-06-21**|**Lighting-Consistent Object Transfer Across Radiance Fields**|Nicolás Violante et.al.|[2606.22481](http://arxiv.org/abs/2606.22481)|N/A|
+|**2026-06-20**|**Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation**|Rui Wang et.al.|[2606.22197](http://arxiv.org/abs/2606.22197)|N/A|
+|**2026-06-20**|**ACEsplat: Accelerated 3D Gaussian Scene Regression via RGB and Poses Only**|Mingkai Liu et.al.|[2606.22091](http://arxiv.org/abs/2606.22091)|N/A|
+|**2026-06-19**|**Single-Event Upsets in 3D Gaussian Splatting Rendering: Bit-Level Criticality, Spatial Extent, and a Parallel Support Guard**|Faruk Alpay et.al.|[2606.21791](http://arxiv.org/abs/2606.21791)|N/A|
+|**2026-06-19**|**Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats**|Xiaoyang Liu et.al.|[2606.21753](http://arxiv.org/abs/2606.21753)|N/A|
+|**2026-06-19**|**LOGOS: LiDAR-Only Gaussian Elevation Splatting for Unified Tiny Obstacle Segmentation**|Nan Ming et.al.|[2606.21527](http://arxiv.org/abs/2606.21527)|N/A|
+|**2026-06-19**|**Spectral GS-SLAM: Observability-Aware, Degeneracy-Robust Tracking for Real-Time 3D Gaussian Splatting SLAM**|Edward Beng Wai Tan et.al.|[2606.21258](http://arxiv.org/abs/2606.21258)|N/A|
 |**2026-06-18**|**LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping**|Shikuan Shi et.al.|[2606.20424](http://arxiv.org/abs/2606.20424)|N/A|
 |**2026-06-18**|**Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration**|Kyoleen Kwak et.al.|[2606.20103](http://arxiv.org/abs/2606.20103)|N/A|
 |**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](http://arxiv.org/abs/2606.19874)|N/A|
@@ -187,6 +197,5 @@ _Select paper in 2026.04.22 - 2026.06.18_
 |**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|N/A|
 |**2026-04-24**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|N/A|
 |**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|N/A|
-|**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|N/A|
 |**2026-04-23**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|N/A|
 
