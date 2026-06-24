@@ -14,17 +14,18 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.04.23 - 2026.06.22_
+_Select paper in 2026.04.24 - 2026.06.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](http://arxiv.org/abs/2606.24829)|N/A|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|N/A|
 |**2026-06-22**|**Visual Geometry Transformer in the Wild: Distractor-Free 3D Reconstruction**|Tianbo Pan et.al.|[2606.22787](http://arxiv.org/abs/2606.22787)|N/A|
 |**2026-06-20**|**Dual-Stream EEG Decoding for 3D Visual Perception**|Ninon Lizé Masclef et.al.|[2606.22182](http://arxiv.org/abs/2606.22182)|N/A|
 |**2026-06-19**|**$φ$ -Scene: Physically Grounded Image-to-3D Scene Reconstruction**|Haodong Li et.al.|[2606.21596](http://arxiv.org/abs/2606.21596)|N/A|
 |**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](http://arxiv.org/abs/2606.20322)|N/A|
 |**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](http://arxiv.org/abs/2606.19915)|N/A|
-|**2026-06-20**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
+|**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|N/A|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|N/A|
 |**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|

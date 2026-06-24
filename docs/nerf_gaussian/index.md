@@ -14,10 +14,13 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.04.23 - 2026.06.22_
+_Select paper in 2026.04.24 - 2026.06.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation**|Haorui Ji et.al.|[2606.24874](http://arxiv.org/abs/2606.24874)|N/A|
+|**2026-06-23**|**ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos**|Pranjal Mishra et.al.|[2606.24628](http://arxiv.org/abs/2606.24628)|N/A|
+|**2026-06-23**|**Geometry-Aware Style Transfer in 3D Gaussian Splatting**|Min Hyeok Bang et.al.|[2606.24144](http://arxiv.org/abs/2606.24144)|N/A|
 |**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|N/A|
 |**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|N/A|
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](http://arxiv.org/abs/2606.22525)|N/A|
@@ -194,8 +197,5 @@ _Select paper in 2026.04.23 - 2026.06.22_
 |**2026-04-28**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|N/A|
 |**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|N/A|
 |**2026-04-24**|**PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement**|David Recasens et.al.|[2604.22129](http://arxiv.org/abs/2604.22129)|N/A|
-|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|N/A|
 |**2026-04-24**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|N/A|
-|**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|N/A|
-|**2026-04-23**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|N/A|
 
