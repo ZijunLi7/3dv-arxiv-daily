@@ -14,12 +14,13 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.05.01 - 2026.06.30_
+_Select paper in 2026.05.02 - 2026.07.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|N/A|
 |**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|N/A|
-|**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|N/A|
+|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|N/A|
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
 |**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|N/A|
 |**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|N/A|
@@ -58,5 +59,4 @@ _Select paper in 2026.05.01 - 2026.06.30_
 |**2026-05-08**|**Improved monocular depth prediction using distance transform over pre-semantic contours with self-supervised neural networks**|Marwane Hariat et.al.|[2605.08320](http://arxiv.org/abs/2605.08320)|N/A|
 |**2026-05-08**|**Learning Image-Adaptive Scale Fields for Metric Depth Recovery**|Yuanyan Li et.al.|[2605.07418](http://arxiv.org/abs/2605.07418)|N/A|
 |**2026-05-04**|**AnchorD: Metric Grounding of Monocular Depth Using Factor Graphs**|Simon Dorer et.al.|[2605.02667](http://arxiv.org/abs/2605.02667)|N/A|
-|**2026-05-01**|**Foundation AI Models for Aerosol Optical Depth Estimation from PACE Satellite Data**|Zahid Hassan Tushar et.al.|[2605.00678](http://arxiv.org/abs/2605.00678)|N/A|
 

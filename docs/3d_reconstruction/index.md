@@ -14,11 +14,14 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.05.01 - 2026.06.30_
+_Select paper in 2026.05.02 - 2026.07.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-30**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|N/A|
+|**2026-07-01**|**EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization**|Mattia D'Urso et.al.|[2607.00579](http://arxiv.org/abs/2607.00579)|N/A|
+|**2026-07-01**|**EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction**|Qiyan Luo et.al.|[2607.00417](http://arxiv.org/abs/2607.00417)|N/A|
+|**2026-07-01**|**LIST3R: Long-sequence Instance-aware 3D Reconstruction**|Jing Gao et.al.|[2607.00375](http://arxiv.org/abs/2607.00375)|N/A|
+|**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|N/A|
 |**2026-06-30**|**WarpHammer: Densifying Scene Warps with 3D Object Priors for Extreme View Synthesis**|Michael Green et.al.|[2606.31258](http://arxiv.org/abs/2606.31258)|N/A|
 |**2026-06-30**|**CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction**|Yuzhou Ji et.al.|[2606.31086](http://arxiv.org/abs/2606.31086)|N/A|
 |**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|N/A|
@@ -119,5 +122,4 @@ _Select paper in 2026.05.01 - 2026.06.30_
 |**2026-05-05**|**UniCorrn: Unified Correspondence Transformer Across 2D and 3D**|Prajnan Goswami et.al.|[2605.04044](http://arxiv.org/abs/2605.04044)|N/A|
 |**2026-05-05**|**First Shape, Then Meaning: Efficient Geometry and Semantics Learning for Indoor Reconstruction**|Remi Chierchia et.al.|[2605.03463](http://arxiv.org/abs/2605.03463)|N/A|
 |**2026-05-03**|**DP-SfM: Dual-Pixel Structure-from-Motion without Scale Ambiguity**|Lilika Makabe et.al.|[2605.01852](http://arxiv.org/abs/2605.01852)|N/A|
-|**2026-05-01**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Luis Barba et.al.|[2604.21960](http://arxiv.org/abs/2604.21960)|N/A|
 

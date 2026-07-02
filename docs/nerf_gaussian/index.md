@@ -14,10 +14,13 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.05.01 - 2026.06.30_
+_Select paper in 2026.05.02 - 2026.07.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight**|Tscholl Dario et.al.|[2607.01200](http://arxiv.org/abs/2607.01200)|N/A|
+|**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|N/A|
+|**2026-07-01**|**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**|Siwoo Lim et.al.|[2607.00595](http://arxiv.org/abs/2607.00595)|N/A|
 |**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|N/A|
 |**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|N/A|
 |**2026-06-30**|**AugSplat: Radiance Field-Informed Gaussian Splatting for Sparse-View Settings**|Lorenzo Lazzaroni et.al.|[2606.31556](http://arxiv.org/abs/2606.31556)|N/A|
@@ -196,8 +199,4 @@ _Select paper in 2026.05.01 - 2026.06.30_
 |**2026-05-03**|**From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving**|Ali Nouri et.al.|[2605.01995](http://arxiv.org/abs/2605.01995)|N/A|
 |**2026-05-03**|**Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning**|Sixian Zhang et.al.|[2605.01736](http://arxiv.org/abs/2605.01736)|N/A|
 |**2026-05-02**|**SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion**|Zhaoyang Li et.al.|[2605.01466](http://arxiv.org/abs/2605.01466)|N/A|
-|**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|N/A|
-|**2026-05-01**|**GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space**|Yonghao Zhao et.al.|[2605.00498](http://arxiv.org/abs/2605.00498)|N/A|
-|**2026-05-01**|**Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting**|Zhenhua Ning et.al.|[2605.00408](http://arxiv.org/abs/2605.00408)|N/A|
-|**2026-05-01**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|N/A|
 
