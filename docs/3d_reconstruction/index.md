@@ -14,11 +14,97 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
+<<<<<<< HEAD
 _Select paper in 2026.05.03 - 2026.05.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-14**|**VGGT-Ω**|Jianyuan Wang et.al.|[2605.15195](http://arxiv.org/abs/2605.15195)|N/A|
+=======
+_Select paper in 2026.05.02 - 2026.07.01_
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization**|Mattia D'Urso et.al.|[2607.00579](http://arxiv.org/abs/2607.00579)|N/A|
+|**2026-07-01**|**EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction**|Qiyan Luo et.al.|[2607.00417](http://arxiv.org/abs/2607.00417)|N/A|
+|**2026-07-01**|**LIST3R: Long-sequence Instance-aware 3D Reconstruction**|Jing Gao et.al.|[2607.00375](http://arxiv.org/abs/2607.00375)|N/A|
+|**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|N/A|
+|**2026-06-30**|**WarpHammer: Densifying Scene Warps with 3D Object Priors for Extreme View Synthesis**|Michael Green et.al.|[2606.31258](http://arxiv.org/abs/2606.31258)|N/A|
+|**2026-06-30**|**CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction**|Yuzhou Ji et.al.|[2606.31086](http://arxiv.org/abs/2606.31086)|N/A|
+|**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|N/A|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047](http://arxiv.org/abs/2606.30047)|N/A|
+|**2026-06-26**|**ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures**|Haoran Xu et.al.|[2606.28060](http://arxiv.org/abs/2606.28060)|N/A|
+|**2026-06-26**|**Scene and Human in One World: Reconstruction in a Feedforward Pass**|Boao Shi et.al.|[2606.27720](http://arxiv.org/abs/2606.27720)|N/A|
+|**2026-06-25**|**SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models**|Jingfeng Mao et.al.|[2606.27444](http://arxiv.org/abs/2606.27444)|N/A|
+|**2026-06-25**|**PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views**|Zhisong Xu et.al.|[2606.27071](http://arxiv.org/abs/2606.27071)|N/A|
+|**2026-06-24**|**Neural Voxel Dynamics: Learning Implicit 3D Physics via Volumetric Feature Advection**|Zican Wang et.al.|[2606.26410](http://arxiv.org/abs/2606.26410)|N/A|
+|**2026-06-24**|**Beyond a Shadow of a Doubt: Close Proximity Geometry Reconstruction Using FMCW Radar Shadow Effects**|Felix de Trogoff du Boisguezennec et.al.|[2606.25829](http://arxiv.org/abs/2606.25829)|N/A|
+|**2026-06-24**|**PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling**|Zhijie Zheng et.al.|[2606.25430](http://arxiv.org/abs/2606.25430)|N/A|
+|**2026-06-24**|**CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection**|Ke Xu et.al.|[2606.25273](http://arxiv.org/abs/2606.25273)|N/A|
+|**2026-06-23**|**GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction**|Chenrui Fan et.al.|[2606.24829](http://arxiv.org/abs/2606.24829)|N/A|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|N/A|
+|**2026-06-22**|**Visual Geometry Transformer in the Wild: Distractor-Free 3D Reconstruction**|Tianbo Pan et.al.|[2606.22787](http://arxiv.org/abs/2606.22787)|N/A|
+|**2026-06-20**|**Dual-Stream EEG Decoding for 3D Visual Perception**|Ninon Lizé Masclef et.al.|[2606.22182](http://arxiv.org/abs/2606.22182)|N/A|
+|**2026-06-19**|**$φ$ -Scene: Physically Grounded Image-to-3D Scene Reconstruction**|Haodong Li et.al.|[2606.21596](http://arxiv.org/abs/2606.21596)|N/A|
+|**2026-06-18**|**Towards 3D karst underwater scene reconstruction from rotating sonar data**|Georgios Evangelos Margaritis et.al.|[2606.20322](http://arxiv.org/abs/2606.20322)|N/A|
+|**2026-06-18**|**SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision**|Jiayu Tang et.al.|[2606.19915](http://arxiv.org/abs/2606.19915)|N/A|
+|**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|N/A|
+|**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|N/A|
+|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
+|**2026-06-12**|**S23DR 2026: End-to-End 3D Wireframe Prediction via DETR-Style Set Prediction with Contrastive Denoising**|Nitiz Khanal et.al.|[2606.14811](http://arxiv.org/abs/2606.14811)|N/A|
+|**2026-06-12**|**A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens**|Anna Bicchi et.al.|[2606.14534](http://arxiv.org/abs/2606.14534)|N/A|
+|**2026-06-12**|**Pano3D: Unified 3D Reconstruction and Panoptic Segmentation**|Victor Barberteguy et.al.|[2606.14307](http://arxiv.org/abs/2606.14307)|N/A|
+|**2026-06-09**|**TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions**|Or Perel et.al.|[2606.11314](http://arxiv.org/abs/2606.11314)|N/A|
+|**2026-06-09**|**3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis**|Yuhao Wang et.al.|[2606.10478](http://arxiv.org/abs/2606.10478)|N/A|
+|**2026-06-08**|**Beyond Spherical Harmonics: Rethinking Appearance Models for Radiance Reconstruction**|Ewa Miazga et.al.|[2606.09794](http://arxiv.org/abs/2606.09794)|N/A|
+|**2026-06-08**|**Minimal Solvers for Full-DoF Motion Estimation from Asynchronous Differential SfM**|Shuo Pan et.al.|[2606.09218](http://arxiv.org/abs/2606.09218)|N/A|
+|**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|N/A|
+|**2026-06-06**|**GVC-Seg: Training-Free 3D Instance Segmentation via Geometric Visual Correspondence**|Liang Xu et.al.|[2606.08014](http://arxiv.org/abs/2606.08014)|N/A|
+|**2026-06-05**|**C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance**|Ethan Luk et.al.|[2606.07891](http://arxiv.org/abs/2606.07891)|N/A|
+|**2026-06-04**|**Texture-preserving implicit neural representation for Cone beam CT truncated reconstruction**|Genyuan Zhang et.al.|[2606.06039](http://arxiv.org/abs/2606.06039)|N/A|
+|**2026-06-04**|**Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images**|Jihun Cho et.al.|[2606.05998](http://arxiv.org/abs/2606.05998)|N/A|
+|**2026-06-03**|**Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping**|Peilin Tao et.al.|[2606.05035](http://arxiv.org/abs/2606.05035)|N/A|
+|**2026-06-02**|**PerceptTwin: Semantic Scene Reconstruction for Iterative LLM Planning and Verification**|Charlie Gauthier et.al.|[2606.04226](http://arxiv.org/abs/2606.04226)|N/A|
+|**2026-06-02**|**SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image**|Inhee Lee et.al.|[2606.03994](http://arxiv.org/abs/2606.03994)|N/A|
+|**2026-05-31**|**Sparse-View Lung Nodule Volumetry from Digitally Reconstructed Radiographs via AReT: Anatomy-Regularized TensoRF**|Spoorthi M et.al.|[2606.02639](http://arxiv.org/abs/2606.02639)|N/A|
+|**2026-06-01**|**Edge Prediction for Roof Wireframe Reconstruction with Transformers**|Gustav Hanning et.al.|[2606.02406](http://arxiv.org/abs/2606.02406)|N/A|
+|**2026-06-01**|**From Extrinsic to Intrinsic: Geodesic-Guided Representation Learning for 3D Geometric Data**|Yuming Zhao et.al.|[2606.02268](http://arxiv.org/abs/2606.02268)|N/A|
+|**2026-06-01**|**WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos**|Jongmin Park et.al.|[2606.02096](http://arxiv.org/abs/2606.02096)|N/A|
+|**2026-06-01**|**Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization**|Jingyun Liang et.al.|[2606.02000](http://arxiv.org/abs/2606.02000)|N/A|
+|**2026-05-31**|**ActMVS: Active Scene Reconstruction with Monocular Multi-View Stereo**|Guo Pu et.al.|[2606.01367](http://arxiv.org/abs/2606.01367)|N/A|
+|**2026-05-31**|**3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code**|Yipeng Gao et.al.|[2606.01057](http://arxiv.org/abs/2606.01057)|N/A|
+|**2026-05-31**|**Reasmory: 3D Reconstruction as Explicit Memory for VLMs Spatial Reasoning**|Jixuan He et.al.|[2606.00963](http://arxiv.org/abs/2606.00963)|N/A|
+|**2026-05-29**|**Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**|Mungyeom Kim et.al.|[2605.31595](http://arxiv.org/abs/2605.31595)|N/A|
+|**2026-05-29**|**Feature-Optimized Vision for Adaptive 3D Scene Reconstruction**|Eric Liang et.al.|[2605.31534](http://arxiv.org/abs/2605.31534)|N/A|
+|**2026-05-29**|**VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching**|Tuan Duc Ngo et.al.|[2605.31466](http://arxiv.org/abs/2605.31466)|N/A|
+|**2026-05-28**|**CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems**|Zhihao Cao et.al.|[2605.30488](http://arxiv.org/abs/2605.30488)|N/A|
+|**2026-05-28**|**GMOS: Grounding Moving Object Segmentation in 3D Space and Time**|Junyu Xie et.al.|[2605.30352](http://arxiv.org/abs/2605.30352)|N/A|
+|**2026-05-28**|**Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning**|Chun-Hsiao Yeh et.al.|[2605.30231](http://arxiv.org/abs/2605.30231)|N/A|
+|**2026-05-29**|**Déjà View: Looping Transformers for Multi-View 3D Reconstruction**|Alessandro Burzio et.al.|[2605.30215](http://arxiv.org/abs/2605.30215)|N/A|
+|**2026-05-29**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879](http://arxiv.org/abs/2605.29879)|N/A|
+|**2026-05-27**|**Seeing through boxes: Non-Line-of-Sight 3D Reconstruction from Radar Signals**|Jiachen Lu et.al.|[2605.29098](http://arxiv.org/abs/2605.29098)|N/A|
+|**2026-05-26**|**Joint 2D-3D Segmentation and Association in Street-level Imaging**|Amir Melnikov et.al.|[2605.26725](http://arxiv.org/abs/2605.26725)|N/A|
+|**2026-05-26**|**$R^3$ : 3D Reconstruction via Relative Regression**|Congrong Xu et.al.|[2605.26519](http://arxiv.org/abs/2605.26519)|N/A|
+|**2026-05-25**|**Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction**|Jin Hyeon Kim et.al.|[2605.26230](http://arxiv.org/abs/2605.26230)|N/A|
+|**2026-05-25**|**TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**|Weijie Wang et.al.|[2605.26115](http://arxiv.org/abs/2605.26115)|N/A|
+|**2026-05-26**|**Global Structure-from-Motion Meets Feedforward Reconstruction**|Linfei Pan et.al.|[2605.26103](http://arxiv.org/abs/2605.26103)|N/A|
+|**2026-05-24**|**Three-Step Conditional Diffusion 3D Reconstruction for Light-Field Microscopy**|Qihong Zhao et.al.|[2605.24959](http://arxiv.org/abs/2605.24959)|N/A|
+|**2026-05-22**|**HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction**|Chong Cheng et.al.|[2605.23889](http://arxiv.org/abs/2605.23889)|N/A|
+|**2026-05-21**|**Scene Reconstruction as Mapping Priors for 3D Detection**|Yang Fu et.al.|[2605.22997](http://arxiv.org/abs/2605.22997)|N/A|
+|**2026-05-21**|**Diffusion-guided Generalizable Enhancer for Urban Scene Reconstruction**|Henry Che et.al.|[2605.22420](http://arxiv.org/abs/2605.22420)|N/A|
+|**2026-05-21**|**GazePrior: Zero-Shot AR/VR Eye Tracking via Learned 3D Gaze Reconstruction**|Corentin Dumery et.al.|[2605.22359](http://arxiv.org/abs/2605.22359)|N/A|
+|**2026-05-20**|**Towards Physically Consistent 4D Scene Reconstruction for Closed-loop Autonomous Driving Simulation**|Bowyn Tan et.al.|[2605.21032](http://arxiv.org/abs/2605.21032)|N/A|
+|**2026-05-20**|**3D Reconstruction and Knowledge Distillation to Improve Multi-View Image Models to Explore Spike Volume Estimation in Wheat**|Olivia Zumsteg et.al.|[2605.20940](http://arxiv.org/abs/2605.20940)|N/A|
+|**2026-05-20**|**HyDAR-Pano3D: A Hybrid Disentangled Anatomical Recovery Framework for Panoramic-to-3D Reconstruction**|Yaoyao Yue et.al.|[2605.20827](http://arxiv.org/abs/2605.20827)|N/A|
+|**2026-05-19**|**Trust It or Not: Evidential Uncertainty for Feed-Forward 3D Reconstruction with Trust3R**|Zihao Zhu et.al.|[2605.19539](http://arxiv.org/abs/2605.19539)|N/A|
+|**2026-05-19**|**UAVFF3D: A Geometry-Aware Benchmark for Feed-Forward UAV 3D Reconstruction**|Xiang Yang et.al.|[2605.17942](http://arxiv.org/abs/2605.17942)|N/A|
+|**2026-05-17**|**Motion-Uncertainty-Aware Next-Best-View Planning for Moving Object Reconstruction**|Karen Li et.al.|[2605.17593](http://arxiv.org/abs/2605.17593)|N/A|
+|**2026-05-16**|**RHINO: Reconstructing Human Interactions with Novel Objects from Monocular Videos**|Lixin Xue et.al.|[2605.17014](http://arxiv.org/abs/2605.17014)|N/A|
+|**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981](http://arxiv.org/abs/2605.16981)|N/A|
+|**2026-05-16**|**HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction**|Xi Liu et.al.|[2605.16873](http://arxiv.org/abs/2605.16873)|N/A|
+|**2026-05-16**|**DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion**|Yuhan Ping et.al.|[2605.16807](http://arxiv.org/abs/2605.16807)|N/A|
+>>>>>>> 03c8d678a87858829323e0caa8f69092bce54965
 |**2026-05-14**|**VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction**|Kaixin Zhu et.al.|[2605.15186](http://arxiv.org/abs/2605.15186)|N/A|
 |**2026-05-14**|**TurboVGGT: Fast Visual Geometry Reconstruction with Adaptive Alternating Attention**|David Huang et.al.|[2605.14315](http://arxiv.org/abs/2605.14315)|N/A|
 |**2026-05-13**|**OCH3R: Object-Centric Holistic 3D Reconstruction**|Yi Du et.al.|[2605.13018](http://arxiv.org/abs/2605.13018)|N/A|

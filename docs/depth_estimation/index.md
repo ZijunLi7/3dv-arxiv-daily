@@ -14,10 +14,42 @@ title: Depth Estimation
 
 ## Depth Estimation
 
+<<<<<<< HEAD
 _Select paper in 2026.05.03 - 2026.05.14_
+=======
+_Select paper in 2026.05.02 - 2026.07.01_
+>>>>>>> 03c8d678a87858829323e0caa8f69092bce54965
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|N/A|
+|**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|N/A|
+|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|N/A|
+|**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
+|**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|N/A|
+|**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|N/A|
+|**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|N/A|
+|**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|N/A|
+|**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|N/A|
+|**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|N/A|
+|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
+|**2026-06-12**|**Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks**|Qinlin He et.al.|[2606.14504](http://arxiv.org/abs/2606.14504)|N/A|
+|**2026-06-11**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368](http://arxiv.org/abs/2606.12368)|N/A|
+|**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628](http://arxiv.org/abs/2606.10628)|N/A|
+|**2026-06-02**|**PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation**|Shinjeong Kim et.al.|[2606.03989](http://arxiv.org/abs/2606.03989)|N/A|
+|**2026-06-01**|**Depth from Dual Differential Defocus and Stereo Consensus**|Junjie Luo et.al.|[2606.02906](http://arxiv.org/abs/2606.02906)|N/A|
+|**2026-06-01**|**Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation**|Siyuan Bian et.al.|[2606.02552](http://arxiv.org/abs/2606.02552)|N/A|
+|**2026-05-28**|**Large Depth Completion Model from Sparse Observations**|Zhu Yu et.al.|[2605.30115](http://arxiv.org/abs/2605.30115)|N/A|
+|**2026-05-27**|**SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping**|Hongyu Wen et.al.|[2605.28735](http://arxiv.org/abs/2605.28735)|N/A|
+|**2026-06-11**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477](http://arxiv.org/abs/2605.28477)|N/A|
+|**2026-05-25**|**RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields**|Chuhan Chen et.al.|[2605.26328](http://arxiv.org/abs/2605.26328)|N/A|
+|**2026-05-22**|**WideDepth: Millimeter-Accurate Benchmark for Fisheye Depth Estimation**|Ilia Indyk et.al.|[2605.24074](http://arxiv.org/abs/2605.24074)|N/A|
+|**2026-05-22**|**DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection**|Jie Zhu et.al.|[2605.23281](http://arxiv.org/abs/2605.23281)|N/A|
+|**2026-05-21**|**UfM*: Uncertainty from Motion* for DNN Depth Estimation Using Gaussians**|Soumya Sudhakar et.al.|[2605.23098](http://arxiv.org/abs/2605.23098)|N/A|
+|**2026-05-19**|**Understanding Model Behavior in Monocular Polyp Sizing**|Xinqi Xiong et.al.|[2605.20461](http://arxiv.org/abs/2605.20461)|N/A|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|N/A|
+|**2026-05-15**|**SCARED-C: Corrected Camera Poses for Endoscopic Depth Estimation**|John J. Han et.al.|[2605.16628](http://arxiv.org/abs/2605.16628)|N/A|
+|**2026-05-20**|**Unlocking Dense Metric Depth Estimation in VLMs**|Hanxun Yu et.al.|[2605.15876](http://arxiv.org/abs/2605.15876)|N/A|
 |**2026-05-14**|**Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach**|Kanglin Ning et.al.|[2605.14601](http://arxiv.org/abs/2605.14601)|N/A|
 |**2026-05-13**|**CoGE: Sim-to-Real Online Geometric Estimation for Monocular Colonoscopy**|Liangjing Shao et.al.|[2605.13038](http://arxiv.org/abs/2605.13038)|N/A|
 |**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027](http://arxiv.org/abs/2605.12027)|N/A|
