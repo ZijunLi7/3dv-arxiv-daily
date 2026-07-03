@@ -38,7 +38,7 @@ def key_connecter(key_list:list) -> str:
     for idx in range(0,len(key_list)):
         words = key_list[idx]
         if ':' in words:
-            prefix, words = words.split(':')
+            prefix, words = words.split(':', 1)
             ret += prefix + ':'
         if len(words.split()) > 1:
             ret += (EXCAPE + words + EXCAPE)
@@ -56,8 +56,9 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        def parse_filters(dicts:dict):
+        def parse_filters(topic_config:dict):
             ret = ''
+            dicts = topic_config.copy()
             if 'filters' in dicts.keys():
                 ret += LEFT + key_connecter(dicts['filters']) + RIGHT
                 dicts.pop('filters')
@@ -77,6 +78,40 @@ def load_config(config_file:str) -> dict:
         config['kv'] = pretty_filters(**config)
         logging.info(f'config = {config}')
     return config
+
+def parse_rule_term(rule):
+    if ':' not in rule:
+        return None, rule
+    prefix, term = rule.split(':', 1)
+    return prefix.lower(), term
+
+def term_matches(text, term):
+    text = text or ''
+    term = term.strip().strip('"')
+    if not term:
+        return False
+
+    escaped = re.escape(term)
+    if len(term) <= 3 or term.upper() == term:
+        pattern = r'(?<![A-Za-z0-9])' + escaped + r'(?![A-Za-z0-9])'
+    else:
+        pattern = escaped
+    return re.search(pattern, text, re.IGNORECASE) is not None
+
+def is_inverted_paper(title, abstract, rules):
+    invert_rules = rules.get('invert', []) if rules else []
+    for rule in invert_rules:
+        field, term = parse_rule_term(rule)
+        if field == 'ti':
+            haystacks = [title]
+        elif field == 'abs':
+            haystacks = [abstract]
+        else:
+            haystacks = [title, abstract]
+
+        if any(term_matches(haystack, term) for haystack in haystacks):
+            return True, rule
+    return False, None
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -159,7 +194,7 @@ def collect_arxiv_results(search_engine, max_results, topic):
             )
             time.sleep(sleep_seconds)
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=2, rules=None):
     """
     @param topic: str
     @param query: str
@@ -190,6 +225,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+
+        inverted, matched_rule = is_inverted_paper(paper_title, paper_abstract, rules)
+        if inverted:
+            logging.info(
+                f"Skip inverted paper by {matched_rule}: "
+                f"Time = {update_time} title = {paper_title}"
+            )
+            continue
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
@@ -263,6 +306,40 @@ def remove_old_papers(json_data, months=2):
     min_date = min(all_dates) if all_dates else datetime.date.today()
     max_date = max(all_dates) if all_dates else datetime.date.today()
     return json_data, min_date, max_date
+
+def extract_paper_title_from_content(content):
+    content = str(content)
+    parts = content.split("|")
+    if len(parts) > 3:
+        return parts[2].replace("**", "").strip()
+
+    match = re.search(r'\*\*(.*?)\*\*', content)
+    if match is not None:
+        return match.group(1).strip()
+    return content
+
+def remove_inverted_papers(json_data, keyword_rules):
+    for keyword in list(json_data.keys()):
+        rules = keyword_rules.get(keyword)
+        if not rules:
+            continue
+
+        papers = json_data[keyword]
+        to_remove = []
+        for paper_id, content in papers.items():
+            title = extract_paper_title_from_content(content)
+            inverted, matched_rule = is_inverted_paper(title, '', rules)
+            if inverted:
+                to_remove.append((paper_id, matched_rule, title))
+
+        for paper_id, matched_rule, title in to_remove:
+            del papers[paper_id]
+            logging.info(
+                f"Removed inverted paper by {matched_rule}: "
+                f"{paper_id} {title}"
+            )
+
+    return json_data
 
 
 def update_paper_links(filename):
@@ -616,6 +693,7 @@ def demo(**config):
     data_collector_web= []
 
     keywords = config['kv']
+    keyword_rules = config.get('keywords', {})
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
@@ -630,7 +708,8 @@ def demo(**config):
         for topic_index, (topic, keyword) in enumerate(keywords.items()):
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                            max_results = max_results,
+                                            rules = keyword_rules.get(topic))
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
@@ -652,6 +731,7 @@ def demo(**config):
         with open(json_file,"r") as f:
             content = f.read()
             json_data = json.loads(content) if content else {}
+        json_data = remove_inverted_papers(json_data, keyword_rules)
         json_data, min_date, max_date = remove_old_papers(json_data)
         with open(json_file,"w") as f:
             json.dump(json_data, f)
@@ -672,6 +752,7 @@ def demo(**config):
         with open(json_file,"r") as f:
             content = f.read()
             json_data = json.loads(content) if content else {}
+        json_data = remove_inverted_papers(json_data, keyword_rules)
         json_data, min_date, max_date = remove_old_papers(json_data)
         with open(json_file,"w") as f:
             json.dump(json_data, f)
@@ -694,6 +775,7 @@ def demo(**config):
         with open(json_file,"r") as f:
             content = f.read()
             json_data = json.loads(content) if content else {}
+        json_data = remove_inverted_papers(json_data, keyword_rules)
         json_data, min_date, max_date = remove_old_papers(json_data)
         with open(json_file,"w") as f:
             json.dump(json_data, f)

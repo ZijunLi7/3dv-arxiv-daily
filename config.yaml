@@ -24,14 +24,21 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "3D Reconstruction":
         filters: ["SFM", "Structure from Motion", "Structure and Motion",
-                  "3D Reconstruction", "Scene Reconstruction", "3D Geometric"]
+                  "3D Reconstruction", "Scene Reconstruction", "3D Geometric",
+                  "VGGT"]
         titles: ["ti:SFM", "ti:Structure from Motion", "ti:Structure and Motion",
-                  "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D"]
+                  "ti:Reconstruction", "ti:Scene Reconstruction", "ti:3D",
+                  "ti:VGGT"]
         categories: ["cat:cs.CV", "cat:cs.GR", "cat:cs.RO"]
         invert: ["ti:NeRF", "ti:Neural Radiance Field", "ti:Gaussian Splatting", "ti:NGP",
-                 "ti:Medical", "ti:Surgery", "ti:MRI", "ti:GS", "ti:Neural Fields",
-                 "ti:Endoscopic", "abs:GS", "abs:Gaussian Splatting", "ti:X-ray",  
-                 "ti:Generative", "ti:Diff", "ti:Generation"]
+                 "ti:GS", "ti:Neural Fields", "abs:GS", "abs:Gaussian Splatting",
+                 "ti:Generative", "ti:Diff", "ti:Generation",
+                 "ti:Medical", "ti:Surgery", "ti:Surgical", "ti:MRI", "ti:Endoscopic",
+                 "ti:X-ray", "ti:PET", "ti:CT", "ti:CBCT", "ti:Ultrasound",
+                 "ti:Tomography", "ti:Bronchoscopy", "ti:EEG", "ti:Brain",
+                 "abs:Medical", "abs:Surgery", "abs:Surgical", "abs:MRI", "abs:Endoscopic",
+                 "abs:X-ray", "abs:PET", "abs:CT", "abs:CBCT", "abs:Ultrasound",
+                 "abs:Tomography", "abs:Bronchoscopy", "abs:EEG", "abs:Brain"]
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation",
                   "Metric Depth", "Geometry Estimation"]
