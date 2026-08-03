@@ -14,11 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-<<<<<<< HEAD
-_Select paper in 2026.05.03 - 2026.05.14_
-=======
 _Select paper in 2026.05.02 - 2026.07.01_
->>>>>>> 03c8d678a87858829323e0caa8f69092bce54965
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -202,8 +198,5 @@ _Select paper in 2026.05.02 - 2026.07.01_
 |**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|N/A|
 |**2026-05-03**|**From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving**|Ali Nouri et.al.|[2605.01995](http://arxiv.org/abs/2605.01995)|N/A|
 |**2026-05-03**|**Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning**|Sixian Zhang et.al.|[2605.01736](http://arxiv.org/abs/2605.01736)|N/A|
-<<<<<<< HEAD
-=======
 |**2026-05-02**|**SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion**|Zhaoyang Li et.al.|[2605.01466](http://arxiv.org/abs/2605.01466)|N/A|
->>>>>>> 03c8d678a87858829323e0caa8f69092bce54965
 

@@ -14,11 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-<<<<<<< HEAD
-_Select paper in 2026.05.03 - 2026.05.14_
-=======
 _Select paper in 2026.05.02 - 2026.07.01_
->>>>>>> 03c8d678a87858829323e0caa8f69092bce54965
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
