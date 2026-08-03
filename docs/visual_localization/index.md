@@ -14,10 +14,20 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.05.02 - 2026.07.01_
+_Select paper in 2026.06.03 - 2026.07.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|N/A|
+|**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|N/A|
+|**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|N/A|
+|**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|N/A|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|N/A|
+|**2026-07-27**|**SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces**|Tianyuan Du et.al.|[2607.23901](http://arxiv.org/abs/2607.23901)|N/A|
+|**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|N/A|
+|**2026-07-24**|**Mag4D-SLAM Dataset: A Repeated-Traversal Multi-Modal 4D Geomagnetic Dataset for Localization and Mapping**|Bibhutibhusan Nayak et.al.|[2607.21986](http://arxiv.org/abs/2607.21986)|N/A|
+|**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|N/A|
+|**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|N/A|
 |**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|N/A|
 |**2026-06-30**|**Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition**|Zhiyao Shu et.al.|[2607.00090](http://arxiv.org/abs/2607.00090)|N/A|
 |**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](http://arxiv.org/abs/2606.31164)|N/A|
@@ -65,52 +75,4 @@ _Select paper in 2026.05.02 - 2026.07.01_
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|N/A|
 |**2026-06-03**|**BPDA-GMM: Bayesian Probabilistic Data Association via Gaussian Mixture Models for Semantic SLAM**|Thanh Nguyen Canh et.al.|[2606.04618](http://arxiv.org/abs/2606.04618)|N/A|
 |**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|N/A|
-|**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|N/A|
-|**2026-06-01**|**Adversarial Attacks on Robot Localization Systems via Deep Feature Perturbation**|Zhenyu Li et.al.|[2606.01892](http://arxiv.org/abs/2606.01892)|N/A|
-|**2026-05-31**|**One Channel to Rule Them All: Rethinking Input Representation for Visual Place Recognition**|Timur Ismagilov et.al.|[2606.00936](http://arxiv.org/abs/2606.00936)|N/A|
-|**2026-05-30**|**CR-JEPA: Cross-Modal Joint-Embedding Predictive Learning for Remote Sensing Image Retrieval**|Md Aminur Hossain et.al.|[2606.00706](http://arxiv.org/abs/2606.00706)|N/A|
-|**2026-05-30**|**Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation**|Zhijie Yan et.al.|[2606.00576](http://arxiv.org/abs/2606.00576)|N/A|
-|**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307](http://arxiv.org/abs/2606.00307)|N/A|
-|**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|N/A|
-|**2026-05-29**|**DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2605.30769](http://arxiv.org/abs/2605.30769)|N/A|
-|**2026-05-28**|**CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems**|Zhihao Cao et.al.|[2605.30488](http://arxiv.org/abs/2605.30488)|N/A|
-|**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172](http://arxiv.org/abs/2605.28172)|N/A|
-|**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](http://arxiv.org/abs/2605.28048)|N/A|
-|**2026-05-26**|**Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models**|Aaron Branson Cigres Li et.al.|[2605.27243](http://arxiv.org/abs/2605.27243)|N/A|
-|**2026-05-25**|**G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation**|Dongzhihan Wang et.al.|[2605.25646](http://arxiv.org/abs/2605.25646)|N/A|
-|**2026-05-24**|**FusionCore: A 23-State Unscented Kalman Filter for IMU, Wheel Encoder, GPS, and Visual SLAM Fusion in ROS 2**|Manan Kharwar et.al.|[2605.25239](http://arxiv.org/abs/2605.25239)|N/A|
-|**2026-05-24**|**A Decentralized LiDAR-SLAM System with Certifiably Optimal Pose Graph Optimization**|Baoshan Song et.al.|[2605.25051](http://arxiv.org/abs/2605.25051)|N/A|
-|**2026-05-26**|**Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction**|Amsisan Tran et.al.|[2605.24634](http://arxiv.org/abs/2605.24634)|N/A|
-|**2026-05-23**|**Benchmarking Composed Image Retrieval for Applied Earth Observation**|Bill Psomas et.al.|[2605.24442](http://arxiv.org/abs/2605.24442)|N/A|
-|**2026-05-21**|**FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning**|Haokun Wen et.al.|[2605.22552](http://arxiv.org/abs/2605.22552)|N/A|
-|**2026-05-23**|**DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval**|Xingtian Pei et.al.|[2605.22478](http://arxiv.org/abs/2605.22478)|N/A|
-|**2026-05-20**|**STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval**|Miaoge Li et.al.|[2605.21261](http://arxiv.org/abs/2605.21261)|N/A|
-|**2026-05-19**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551](http://arxiv.org/abs/2605.20551)|N/A|
-|**2026-05-19**|**Enhancing Graph-Based SLAM in GNSS-Denied environments by leveraging leg odometry**|Léon Perruchot-Triboulet et.al.|[2605.20484](http://arxiv.org/abs/2605.20484)|N/A|
-|**2026-05-19**|**Multi-Session Ground Texture SLAM in Low-Dynamic Environments**|Kyle M. Hart et.al.|[2605.19701](http://arxiv.org/abs/2605.19701)|N/A|
-|**2026-05-19**|**KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision**|Maya Yanko et.al.|[2605.19435](http://arxiv.org/abs/2605.19435)|N/A|
-|**2026-05-19**|**PRISM-SLAM: Probabilistic Ray-Grounded Inference for Scale-aware Metric SLAM**|Eunsoo Im et.al.|[2605.19257](http://arxiv.org/abs/2605.19257)|N/A|
-|**2026-05-18**|**Towards Ubiquitous Mapping and Localization for Dynamic Indoor Environments**|Halim Djerroud et.al.|[2605.18385](http://arxiv.org/abs/2605.18385)|N/A|
-|**2026-05-21**|**FUSE: A Framework for Unified State Estimation in Vehicular and Robotic SLAM Systems**|Wei Wu et.al.|[2605.18047](http://arxiv.org/abs/2605.18047)|N/A|
-|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777](http://arxiv.org/abs/2605.17777)|N/A|
-|**2026-05-17**|**Memory-Augmented Query Intent Understanding for Efficient Chat-based Image Retrieval**|Xianke Chen et.al.|[2605.17365](http://arxiv.org/abs/2605.17365)|N/A|
-|**2026-05-14**|**Do Composed Image Retrieval Benchmarks Require Multimodal Composition?**|Matteo Attimonelli et.al.|[2605.14787](http://arxiv.org/abs/2605.14787)|N/A|
-|**2026-05-12**|**WildPose: A Unified Framework for Robust Pose Estimation in the Wild**|Jianhao Zheng et.al.|[2605.12774](http://arxiv.org/abs/2605.12774)|N/A|
-|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|N/A|
-|**2026-05-12**|**Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration**|Mingtao Xian et.al.|[2605.11591](http://arxiv.org/abs/2605.11591)|N/A|
-|**2026-05-11**|**MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction**|Zhihao Cao et.al.|[2605.10760](http://arxiv.org/abs/2605.10760)|N/A|
-|**2026-05-11**|**BGG: Bridging the Geometric Gap between Cross-View images by Vision Foundation Model Adaptation for Geo-Localization**|Wei Wang et.al.|[2605.10345](http://arxiv.org/abs/2605.10345)|N/A|
-|**2026-05-11**|**Hystar: Hypernetwork-driven Style-adaptive Retrieval via Dynamic SVD Modulation**|Yujia Cai et.al.|[2605.10009](http://arxiv.org/abs/2605.10009)|N/A|
-|**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|N/A|
-|**2026-05-10**|**Above and Below: Heterogeneous Multi-robot SLAM Across Surface and Underwater Domains**|John McConnell et.al.|[2605.09811](http://arxiv.org/abs/2605.09811)|N/A|
-|**2026-05-08**|**Decoupling Endpoint and Semantic Transition Learning for Zero-Shot Composed Image Retrieval**|Mingyu Liu et.al.|[2605.08389](http://arxiv.org/abs/2605.08389)|N/A|
-|**2026-05-08**|**AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM**|Yannick Burkhardt et.al.|[2605.07885](http://arxiv.org/abs/2605.07885)|N/A|
-|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351](http://arxiv.org/abs/2605.07351)|N/A|
-|**2026-05-08**|**Zero-Shot Satellite Image Retrieval through Joint Embeddings: Application to Crisis Response**|James Walsh et.al.|[2605.05405](http://arxiv.org/abs/2605.05405)|N/A|
-|**2026-05-06**|**Open-SAT: LLM-Guided Query Embedding Refinement for Open-Vocabulary Object Retrieval in Satellite Imagery**|Md Adnan Arefeen et.al.|[2605.05344](http://arxiv.org/abs/2605.05344)|N/A|
-|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|N/A|
-|**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|N/A|
-|**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|N/A|
-|**2026-05-04**|**DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation**|Danil Tokhchukov et.al.|[2605.02759](http://arxiv.org/abs/2605.02759)|N/A|
-|**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|N/A|
 
