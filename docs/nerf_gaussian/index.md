@@ -14,10 +14,13 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.05 - 2026.08.04_
+_Select paper in 2026.06.06 - 2026.08.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|N/A|
+|**2026-08-05**|**ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields**|Seunghyeon Song et.al.|[2608.04581](http://arxiv.org/abs/2608.04581)|N/A|
+|**2026-08-05**|**OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes**|Xia Yan et.al.|[2608.04560](http://arxiv.org/abs/2608.04560)|N/A|
 |**2026-08-04**|**3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment**|Yuke Xing et.al.|[2608.03279](http://arxiv.org/abs/2608.03279)|N/A|
 |**2026-08-04**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437](http://arxiv.org/abs/2608.02437)|N/A|
 |**2026-08-03**|**CLEAR: Conflict-aware Learning via Evidence-guided Adaptive Routing for Unified Sparse-View 3D Gaussian Super-Resolution**|Hantang Li et.al.|[2608.02206](http://arxiv.org/abs/2608.02206)|N/A|
@@ -113,5 +116,4 @@ _Select paper in 2026.06.05 - 2026.08.04_
 |**2026-06-08**|**Leveraging NeRF-Rendered Images for 3D Gaussian Splatting**|Mizuki Morikawa et.al.|[2606.09034](http://arxiv.org/abs/2606.09034)|N/A|
 |**2026-06-08**|**MaterialClusterGS: Palette-Based Material Decomposition and Physically-Based Relighting with 2D Gaussian Splatting**|Hao Zhang et.al.|[2606.09018](http://arxiv.org/abs/2606.09018)|N/A|
 |**2026-06-06**|**LEGS: Laplacian-Enhanced Gaussian Splatting with a Nonlinear Weighted Loss**|Yongfei Guo et.al.|[2606.07932](http://arxiv.org/abs/2606.07932)|N/A|
-|**2026-06-05**|**EvoGS: Constructing Continuous-Layered Gaussian Splatting with Evolution Tree for Scalable 3D Streaming**|Yuang Shi et.al.|[2606.07179](http://arxiv.org/abs/2606.07179)|N/A|
 

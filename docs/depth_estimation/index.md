@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.06.05 - 2026.08.04_
+_Select paper in 2026.06.06 - 2026.08.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|N/A|
+|**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737](http://arxiv.org/abs/2608.04737)|N/A|
 |**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|N/A|
 |**2026-08-03**|**GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation**|Xianghui Fan et.al.|[2608.02068](http://arxiv.org/abs/2608.02068)|N/A|
 |**2026-08-02**|**FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity**|Ganghyeon Lee et.al.|[2608.01129](http://arxiv.org/abs/2608.01129)|N/A|
