@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.10 - 2026.08.07_
+_Select paper in 2026.06.11 - 2026.08.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|N/A|
+|**2026-08-09**|**JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views**|Jinhua Cui et.al.|[2608.08659](http://arxiv.org/abs/2608.08659)|N/A|
+|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|N/A|
+|**2026-08-09**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](http://arxiv.org/abs/2608.08381)|N/A|
+|**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|N/A|
+|**2026-08-07**|**XClipGS: Exact Half-Space Clipping for Medical Volume Gaussian Splatting**|Zhongpai Gao et.al.|[2608.07760](http://arxiv.org/abs/2608.07760)|N/A|
 |**2026-08-07**|**InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding**|Minchao Jiang et.al.|[2608.07144](http://arxiv.org/abs/2608.07144)|N/A|
 |**2026-08-06**|**G $^2$ ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation**|Puyuan Zhang et.al.|[2608.05704](http://arxiv.org/abs/2608.05704)|N/A|
 |**2026-08-06**|**CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer**|Wentao Sun et.al.|[2608.05482](http://arxiv.org/abs/2608.05482)|N/A|
@@ -109,6 +115,4 @@ _Select paper in 2026.06.10 - 2026.08.07_
 |**2026-06-14**|**TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization**|Zheng Dong et.al.|[2606.15924](http://arxiv.org/abs/2606.15924)|N/A|
 |**2026-06-12**|**SplatlessDF: Continuous Distance Field Mapping with Non-Splatting Gaussians**|Monisha Mushtary Uttsha et.al.|[2606.13990](http://arxiv.org/abs/2606.13990)|N/A|
 |**2026-06-11**|**Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection**|Yuto Furutani et.al.|[2606.11894](http://arxiv.org/abs/2606.11894)|N/A|
-|**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|N/A|
-|**2026-06-10**|**Seeing What Matters: Perceptual Wrapper with Common Randomness for 3D Gaussian Splatting**|He-Bi Yang et.al.|[2606.11782](http://arxiv.org/abs/2606.11782)|N/A|
 

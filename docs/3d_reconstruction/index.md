@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.06.10 - 2026.08.07_
+_Select paper in 2026.06.11 - 2026.08.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
+|**2026-08-08**|**When Does An Extra View Help? Adapting Single-View 3D Reconstruction with Extra Imagery**|Y Huynh et.al.|[2608.08132](http://arxiv.org/abs/2608.08132)|N/A|
+|**2026-08-08**|**DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea**|Jiaming Chen et.al.|[2608.08025](http://arxiv.org/abs/2608.08025)|N/A|
 |**2026-08-07**|**Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs**|Kai Li et.al.|[2608.07012](http://arxiv.org/abs/2608.07012)|N/A|
 |**2026-08-06**|**OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction**|Taiting Lu et.al.|[2608.05539](http://arxiv.org/abs/2608.05539)|N/A|
 |**2026-08-05**|**Beyond Reprojection Error: Camera Calibration with 3D Targets**|Dennis Ruppel et.al.|[2608.05066](http://arxiv.org/abs/2608.05066)|N/A|

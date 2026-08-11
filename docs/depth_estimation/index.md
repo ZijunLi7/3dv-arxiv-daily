@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.06.10 - 2026.08.07_
+_Select paper in 2026.06.11 - 2026.08.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation**|Nafis Fuad et.al.|[2608.07562](http://arxiv.org/abs/2608.07562)|N/A|
 |**2026-08-07**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|N/A|
 |**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737](http://arxiv.org/abs/2608.04737)|N/A|
 |**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|N/A|
