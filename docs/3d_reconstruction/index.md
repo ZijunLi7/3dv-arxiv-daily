@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.06.14 - 2026.08.13_
+_Select paper in 2026.06.15 - 2026.08.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -68,5 +68,4 @@ _Select paper in 2026.06.14 - 2026.08.13_
 |**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|N/A|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|N/A|
-|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
 

@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.06.14 - 2026.08.13_
+_Select paper in 2026.06.15 - 2026.08.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|

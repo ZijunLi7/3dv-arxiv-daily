@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.14 - 2026.08.13_
+_Select paper in 2026.06.15 - 2026.08.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -125,5 +125,4 @@ _Select paper in 2026.06.14 - 2026.08.13_
 |**2026-06-15**|**Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing**|Yuhan Chen et.al.|[2606.16168](http://arxiv.org/abs/2606.16168)|N/A|
 |**2026-06-15**|**Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation**|Yuhan Chen et.al.|[2606.16163](http://arxiv.org/abs/2606.16163)|N/A|
 |**2026-06-15**|**Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.16159](http://arxiv.org/abs/2606.16159)|N/A|
-|**2026-06-14**|**TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization**|Zheng Dong et.al.|[2606.15924](http://arxiv.org/abs/2606.15924)|N/A|
 

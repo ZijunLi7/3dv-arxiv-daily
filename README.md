@@ -1,4 +1,4 @@
-## Select paper in 2026.06.14 - 2026.08.13
+## Select paper in 2026.06.15 - 2026.08.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -64,9 +64,8 @@
 |**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|N/A|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|N/A|
-|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260614---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -103,9 +102,8 @@
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|N/A|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|N/A|
 |**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|N/A|
-|**2026-06-14**|**3D Consistency Optimization for Self-Supervised Monocular Video Depth Estimation**|Yuanye Liu et.al.|[2606.15681](http://arxiv.org/abs/2606.15681)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260614---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -174,7 +172,7 @@
 |**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534](http://arxiv.org/abs/2606.17534)|N/A|
 |**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260614---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
 
 ## Image Matching
 
@@ -195,7 +193,7 @@
 |**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|N/A|
 |**2026-07-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260614---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -308,9 +306,8 @@
 |**2026-06-15**|**Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing**|Yuhan Chen et.al.|[2606.16168](http://arxiv.org/abs/2606.16168)|N/A|
 |**2026-06-15**|**Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation**|Yuhan Chen et.al.|[2606.16163](http://arxiv.org/abs/2606.16163)|N/A|
 |**2026-06-15**|**Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.16159](http://arxiv.org/abs/2606.16159)|N/A|
-|**2026-06-14**|**TurboGS: Accelerating 3D Gaussian Splatting via Error-Guided Sparse Pixel Sampling and Optimization**|Zheng Dong et.al.|[2606.15924](http://arxiv.org/abs/2606.15924)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260614---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
