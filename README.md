@@ -1,4 +1,4 @@
-## Select paper in 2026.06.15 - 2026.08.13
+## Select paper in 2026.06.16 - 2026.08.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -65,7 +65,7 @@
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250](http://arxiv.org/abs/2606.18250)|N/A|
 |**2026-06-16**|**Neural Tree Reconstruction for the Open Forest Observatory**|Marissa Ramirez de Chanlatte et.al.|[2606.18153](http://arxiv.org/abs/2606.18153)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260616---20260813>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -101,9 +101,8 @@
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|N/A|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|N/A|
 |**2026-06-16**|**SP-TransientBench: A Real-Captured Single Photon Perception Benchmark**|Hongzhou Dong et.al.|[2606.18952](http://arxiv.org/abs/2606.18952)|N/A|
-|**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260616---20260813>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -170,9 +169,8 @@
 |**2026-06-18**|**A High-accuracy Event-based Underwater SLAM System**|Yifan Peng et.al.|[2606.18951](http://arxiv.org/abs/2606.18951)|N/A|
 |**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|N/A|
 |**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534](http://arxiv.org/abs/2606.17534)|N/A|
-|**2026-06-15**|**SGM-SLAM: Scene Graph Matching for Data-Efficient Distributed SLAM**|Yewei Huang et.al.|[2606.16881](http://arxiv.org/abs/2606.16881)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260616---20260813>back to top</a>)</p>
 
 ## Image Matching
 
@@ -193,7 +191,7 @@
 |**2026-06-18**|**Evaluation of Image Matching for Art Skills Assessment**|Asaad Alghamdi et.al.|[2606.20199](http://arxiv.org/abs/2606.20199)|N/A|
 |**2026-07-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260616---20260813>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -299,15 +297,8 @@
 |**2026-06-16**|**GSPan: A Continuous Gaussian Primitive Representation for Arbitrary-Scale Pansharpening**|Fangyi Li et.al.|[2606.17722](http://arxiv.org/abs/2606.17722)|N/A|
 |**2026-06-16**|**GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments**|Jiawei Zhang et.al.|[2606.17520](http://arxiv.org/abs/2606.17520)|N/A|
 |**2026-06-16**|**Edit3DGS: Unified Framework for Dynamic Head Editing via 2D Instruction-Guided Diffusion and 3D Gaussian Splatting**|Duy-Dat Tran et.al.|[2606.17432](http://arxiv.org/abs/2606.17432)|N/A|
-|**2026-06-15**|**Renderable Partial Representations for Dynamic Gaussian Splatting under Incomplete Delivery**|Faruk Alpay et.al.|[2606.17212](http://arxiv.org/abs/2606.17212)|N/A|
-|**2026-06-15**|**Local-GS: Accelerating 3D Gaussian Splatting via Tile-Local Warp Coherence**|Yang Luo et.al.|[2606.16566](http://arxiv.org/abs/2606.16566)|N/A|
-|**2026-06-15**|**RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos**|Zhenhua Wu et.al.|[2606.16278](http://arxiv.org/abs/2606.16278)|N/A|
-|**2026-06-15**|**PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation**|Jihoon Hong et.al.|[2606.16232](http://arxiv.org/abs/2606.16232)|N/A|
-|**2026-06-15**|**Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing**|Yuhan Chen et.al.|[2606.16168](http://arxiv.org/abs/2606.16168)|N/A|
-|**2026-06-15**|**Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation**|Yuhan Chen et.al.|[2606.16163](http://arxiv.org/abs/2606.16163)|N/A|
-|**2026-06-15**|**Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.16159](http://arxiv.org/abs/2606.16159)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260615---20260813>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260616---20260813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
