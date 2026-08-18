@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.17 - 2026.08.14_
+_Select paper in 2026.06.18 - 2026.08.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|N/A|
+|**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](http://arxiv.org/abs/2608.16324)|N/A|
+|**2026-08-17**|**TR-GS: High-Fidelity Sparse-View CT Volumetric Rendering via t-Distribution Gaussian Splatting and Ray-Confidence Modeling**|Zedong Xiao et.al.|[2608.16042](http://arxiv.org/abs/2608.16042)|N/A|
+|**2026-08-16**|**RoofGS: Roofline-Guided End-to-End Acceleration of 3D Gaussian Splatting**|Yang Luo et.al.|[2608.15785](http://arxiv.org/abs/2608.15785)|N/A|
+|**2026-08-16**|**Gaussian-JEPA: Joint-Embedding Predictive Learning for 3D Gaussian Splats**|Bin Ren et.al.|[2608.15651](http://arxiv.org/abs/2608.15651)|N/A|
+|**2026-08-15**|**HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions**|Benjamin T. Hughes et.al.|[2608.15420](http://arxiv.org/abs/2608.15420)|N/A|
+|**2026-08-15**|**MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM**|Zhiqiang Hu et.al.|[2608.15024](http://arxiv.org/abs/2608.15024)|N/A|
+|**2026-08-15**|**GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation**|Zhiqiang Hu et.al.|[2608.14986](http://arxiv.org/abs/2608.14986)|N/A|
+|**2026-08-14**|**Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM**|Thai Luu et.al.|[2608.14902](http://arxiv.org/abs/2608.14902)|N/A|
 |**2026-08-14**|**HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting**|Wei Zhang et.al.|[2608.14136](http://arxiv.org/abs/2608.14136)|N/A|
 |**2026-08-13**|**GS $^{2}$ CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors**|Yanming Yang et.al.|[2608.13502](http://arxiv.org/abs/2608.13502)|N/A|
 |**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](http://arxiv.org/abs/2608.13159)|N/A|
@@ -108,9 +117,4 @@ _Select paper in 2026.06.17 - 2026.08.14_
 |**2026-06-18**|**LIT-GS: LiDAR-Inertial-Thermal Gaussian Splatting for Illumination-Robust Mapping**|Shikuan Shi et.al.|[2606.20424](http://arxiv.org/abs/2606.20424)|N/A|
 |**2026-06-18**|**Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration**|Kyoleen Kwak et.al.|[2606.20103](http://arxiv.org/abs/2606.20103)|N/A|
 |**2026-06-18**|**MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM**|Fan Zhu et.al.|[2606.19874](http://arxiv.org/abs/2606.19874)|N/A|
-|**2026-06-17**|**NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field**|Chong Bao et.al.|[2606.19316](http://arxiv.org/abs/2606.19316)|N/A|
-|**2026-06-17**|**Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos**|Jeongmin Bae et.al.|[2606.19156](http://arxiv.org/abs/2606.19156)|N/A|
-|**2026-06-17**|**EDoF-NeRF: extended depth-of-field neural radiance fields using a coded aperture camera**|Yoshiyuki Shirasaki et.al.|[2606.18826](http://arxiv.org/abs/2606.18826)|N/A|
-|**2026-06-17**|**Intrinsic 4D Gaussian Segmentation from Scene Cues**|Hasan Yazar et.al.|[2606.18623](http://arxiv.org/abs/2606.18623)|N/A|
-|**2026-06-17**|**Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication**|Wenqi Jia et.al.|[2606.18588](http://arxiv.org/abs/2606.18588)|N/A|
 
