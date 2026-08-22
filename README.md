@@ -1,4 +1,4 @@
-## Select paper in 2026.06.21 - 2026.08.20
+## Select paper in 2026.06.22 - 2026.08.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -66,7 +66,7 @@
 |**2026-06-22**|**Visual Geometry Transformer in the Wild: Distractor-Free 3D Reconstruction**|Tianbo Pan et.al.|[2606.22787](http://arxiv.org/abs/2606.22787)|N/A|
 |**2026-06-23**|**PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation**|Yuhang Huang et.al.|[2606.18375](http://arxiv.org/abs/2606.18375)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260621---20260820>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260622---20260820>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -103,7 +103,7 @@
 |**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|N/A|
 |**2026-06-22**|**ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments**|Jakub Gregorek et.al.|[2606.23152](http://arxiv.org/abs/2606.23152)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260621---20260820>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260622---20260820>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -170,7 +170,7 @@
 |**2026-06-22**|**HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration**|Sandilya Sai Garimella et.al.|[2606.22756](http://arxiv.org/abs/2606.22756)|N/A|
 |**2026-06-24**|**GeoFlow-SLAM++: A Robust Multi-Camera Visual-Inertial SLAM System with Relocalization**|Wei Feng et.al.|[2606.22051](http://arxiv.org/abs/2606.22051)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260621---20260820>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260622---20260820>back to top</a>)</p>
 
 ## Image Matching
 
@@ -191,7 +191,7 @@
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856](http://arxiv.org/abs/2606.22856)|N/A|
 |**2026-07-01**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597](http://arxiv.org/abs/2605.31597)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260621---20260820>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260622---20260820>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -292,10 +292,8 @@
 |**2026-06-23**|**Geometry-Aware Style Transfer in 3D Gaussian Splatting**|Min Hyeok Bang et.al.|[2606.24144](http://arxiv.org/abs/2606.24144)|N/A|
 |**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|N/A|
 |**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|N/A|
-|**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](http://arxiv.org/abs/2606.22525)|N/A|
-|**2026-06-21**|**Lighting-Consistent Object Transfer Across Radiance Fields**|Nicolás Violante et.al.|[2606.22481](http://arxiv.org/abs/2606.22481)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260621---20260820>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260622---20260820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
