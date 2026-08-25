@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.24 - 2026.08.21_
+_Select paper in 2026.06.25 - 2026.08.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](http://arxiv.org/abs/2608.22906)|N/A|
+|**2026-08-24**|**NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction**|Xiaopeng Guo et.al.|[2608.22888](http://arxiv.org/abs/2608.22888)|N/A|
+|**2026-08-24**|**LagrangeGS: Non-Conservative Lagrangian System on Dynamic 3D Gaussian Splatting**|Shogo Sato et.al.|[2608.22773](http://arxiv.org/abs/2608.22773)|N/A|
+|**2026-08-24**|**Seeing the Unseen: Semantic-in-Gaussian for Sparse-View 3D Generalization**|Zeyang Bai et.al.|[2608.22740](http://arxiv.org/abs/2608.22740)|N/A|
+|**2026-08-23**|**M $^3$ ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression**|Xinhui Liu et.al.|[2608.22465](http://arxiv.org/abs/2608.22465)|N/A|
+|**2026-08-23**|**Fast and Compact 3D Gaussian Splatting with Polarized Opacity Prior**|Zi-Ming Wang et.al.|[2608.22344](http://arxiv.org/abs/2608.22344)|N/A|
+|**2026-08-22**|**Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos**|Xiaoyang Liu et.al.|[2608.22102](http://arxiv.org/abs/2608.22102)|N/A|
+|**2026-08-22**|**GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors**|Xinhui Liu et.al.|[2608.21849](http://arxiv.org/abs/2608.21849)|N/A|
+|**2026-08-22**|**Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering**|Ankit Dhiman et.al.|[2608.21828](http://arxiv.org/abs/2608.21828)|N/A|
+|**2026-08-21**|**In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee**|Hudson Kim et.al.|[2608.21685](http://arxiv.org/abs/2608.21685)|N/A|
 |**2026-08-21**|**TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction**|Chuanjin Fan et.al.|[2608.20687](http://arxiv.org/abs/2608.20687)|N/A|
 |**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li et.al.|[2608.20602](http://arxiv.org/abs/2608.20602)|N/A|
 |**2026-08-19**|**GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting**|Yechan Park et.al.|[2608.19066](http://arxiv.org/abs/2608.19066)|N/A|
@@ -109,5 +119,4 @@ _Select paper in 2026.06.24 - 2026.08.21_
 |**2026-06-25**|**SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting**|Jiyong Kim et.al.|[2606.27223](http://arxiv.org/abs/2606.27223)|N/A|
 |**2026-06-25**|**Vis4GS: A Visual Analytic Tool for 3D Gaussian Splatting Reconstruction**|Kai-Yuan Lin et.al.|[2606.26985](http://arxiv.org/abs/2606.26985)|N/A|
 |**2026-06-25**|**Capacity-Controlled Multi-View Stylization of 3D Gaussian Splatting**|Zhihao Wen et.al.|[2606.26754](http://arxiv.org/abs/2606.26754)|N/A|
-|**2026-06-24**|**Rendering Novel Views of MRI Using 3D Gaussian Splatting**|Robin Y. Park et.al.|[2606.26236](http://arxiv.org/abs/2606.26236)|N/A|
 

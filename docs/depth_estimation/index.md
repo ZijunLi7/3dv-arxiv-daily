@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.06.24 - 2026.08.21_
+_Select paper in 2026.06.25 - 2026.08.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
@@ -46,5 +47,4 @@ _Select paper in 2026.06.24 - 2026.08.21_
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
 |**2026-06-29**|**AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World**|Zhongqiang Song et.al.|[2606.29716](http://arxiv.org/abs/2606.29716)|N/A|
 |**2026-06-28**|**One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models**|Xiaohao Xu et.al.|[2606.29600](http://arxiv.org/abs/2606.29600)|N/A|
-|**2026-06-24**|**AISPO: Enhancing Depth Reliability for Robotic Manipulation of Non-Lambertian Objects via Affine-Invariant Shape Prior**|Zhiming Chen et.al.|[2606.25503](http://arxiv.org/abs/2606.25503)|N/A|
 

@@ -14,10 +14,11 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.06.24 - 2026.08.21_
+_Select paper in 2026.06.25 - 2026.08.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
 |**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](http://arxiv.org/abs/2608.09519)|N/A|

@@ -14,12 +14,19 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.06.24 - 2026.08.21_
+_Select paper in 2026.06.25 - 2026.08.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|N/A|
+|**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|N/A|
+|**2026-08-24**|**Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning**|Simon Hakenes et.al.|[2608.23055](http://arxiv.org/abs/2608.23055)|N/A|
+|**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](http://arxiv.org/abs/2608.22906)|N/A|
+|**2026-08-24**|**SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation**|Shibo Zhao et.al.|[2608.22896](http://arxiv.org/abs/2608.22896)|N/A|
+|**2026-08-23**|**Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval**|Boseung Jeong et.al.|[2608.22500](http://arxiv.org/abs/2608.22500)|N/A|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289](http://arxiv.org/abs/2608.22289)|N/A|
 |**2026-08-19**|**Composed Historical Image Retrieval by Modeling Temporal Representations**|Adrià Molina Rodríguez et.al.|[2608.18694](http://arxiv.org/abs/2608.18694)|N/A|
-|**2026-08-19**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|N/A|
+|**2026-08-24**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|N/A|
 |**2026-08-18**|**Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM**|Sebastian Barbas Laina et.al.|[2608.17553](http://arxiv.org/abs/2608.17553)|N/A|
 |**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](http://arxiv.org/abs/2608.17033)|N/A|
 |**2026-08-15**|**MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM**|Zhiqiang Hu et.al.|[2608.15024](http://arxiv.org/abs/2608.15024)|N/A|
@@ -70,8 +77,4 @@ _Select paper in 2026.06.24 - 2026.08.21_
 |**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607](http://arxiv.org/abs/2606.28607)|N/A|
 |**2026-06-26**|**Improvement of Robot's Simultaneous Localization and Mapping Using an Effective Transformation to Achieve Linear Model**|Seyed Farzad Bahreinian et.al.|[2606.28475](http://arxiv.org/abs/2606.28475)|N/A|
 |**2026-06-26**|**LXD-SLAM: LiDAR+X Dense SLAM with $\sum_{i=0}^{5}C_5^i$ Configurable Sensor Combinations**|Zhong Wang et.al.|[2606.27811](http://arxiv.org/abs/2606.27811)|N/A|
-|**2026-06-24**|**RoboAtlas: Contextual Active SLAM**|Alexander Schperberg et.al.|[2606.26046](http://arxiv.org/abs/2606.26046)|N/A|
-|**2026-06-24**|**DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild**|Ahmad Kourani et.al.|[2606.25953](http://arxiv.org/abs/2606.25953)|N/A|
-|**2026-06-24**|**OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos**|Oussema Dhaouadi et.al.|[2606.25245](http://arxiv.org/abs/2606.25245)|N/A|
-|**2026-06-24**|**GeoFlow-SLAM++: A Robust Multi-Camera Visual-Inertial SLAM System with Relocalization**|Wei Feng et.al.|[2606.22051](http://arxiv.org/abs/2606.22051)|N/A|
 
