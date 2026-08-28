@@ -11,12 +11,13 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.06.27 - 2026.08.26
+## Select paper in 2026.06.28 - 2026.08.27
 
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al.|[2608.26752](http://arxiv.org/abs/2608.26752)|N/A|
 |**2026-08-26**|**GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation**|Yuqing Jiang et.al.|[2608.25659](http://arxiv.org/abs/2608.25659)|N/A|
 |**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|N/A|
 |**2026-08-22**|**Robust Global Structure-from-Motion via View Graph Pruning**|Jiamin Xu et.al.|[2608.22054](http://arxiv.org/abs/2608.22054)|N/A|
@@ -67,6 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589](http://arxiv.org/abs/2608.26589)|N/A|
 |**2026-08-24**|**DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models**|Jeong-gi Kwak et.al.|[2608.23850](http://arxiv.org/abs/2608.23850)|N/A|
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
@@ -102,6 +104,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
+|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|N/A|
+|**2026-08-27**|**PailitaoGR: Latent Think-with-Images for Generative Image Retrieval**|Xiaomeng Fan et.al.|[2608.26658](http://arxiv.org/abs/2608.26658)|N/A|
 |**2026-08-26**|**MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval**|Zihao Zhang et.al.|[2608.25305](http://arxiv.org/abs/2608.25305)|N/A|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|N/A|
 |**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|N/A|
@@ -157,12 +162,12 @@ layout: default
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
 |**2026-06-28**|**VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM**|Raman Jha et.al.|[2606.29494](http://arxiv.org/abs/2606.29494)|N/A|
 |**2026-06-28**|**PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping**|Jiawei Xia et.al.|[2606.29259](http://arxiv.org/abs/2606.29259)|N/A|
-|**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|N/A|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
@@ -182,6 +187,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS**|Kangmin Seo et.al.|[2608.26951](http://arxiv.org/abs/2608.26951)|N/A|
+|**2026-08-27**|**KISS-GS: 3D Gaussian Splatting Compression Kept Simple**|Wieland Morgenstern et.al.|[2608.26948](http://arxiv.org/abs/2608.26948)|N/A|
+|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|N/A|
 |**2026-08-26**|**4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting**|Yueen Ma et.al.|[2608.25956](http://arxiv.org/abs/2608.25956)|N/A|
 |**2026-08-26**|**Gaussian Splatting Underwater: A Controlled Cross-Regime Study**|Olaya Álvarez-Tuñón et.al.|[2608.25483](http://arxiv.org/abs/2608.25483)|N/A|
 |**2026-08-26**|**PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting**|Jiarui Ge et.al.|[2608.25472](http://arxiv.org/abs/2608.25472)|N/A|

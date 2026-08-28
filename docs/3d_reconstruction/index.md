@@ -14,10 +14,11 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.06.27 - 2026.08.26_
+_Select paper in 2026.06.28 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al.|[2608.26752](http://arxiv.org/abs/2608.26752)|N/A|
 |**2026-08-26**|**GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation**|Yuqing Jiang et.al.|[2608.25659](http://arxiv.org/abs/2608.25659)|N/A|
 |**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|N/A|
 |**2026-08-22**|**Robust Global Structure-from-Motion via View Graph Pruning**|Jiamin Xu et.al.|[2608.22054](http://arxiv.org/abs/2608.22054)|N/A|

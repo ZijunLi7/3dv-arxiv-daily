@@ -14,10 +14,11 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.06.27 - 2026.08.26_
+_Select paper in 2026.06.28 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|

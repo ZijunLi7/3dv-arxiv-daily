@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.06.27 - 2026.08.26_
+_Select paper in 2026.06.28 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
+|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|N/A|
+|**2026-08-27**|**PailitaoGR: Latent Think-with-Images for Generative Image Retrieval**|Xiaomeng Fan et.al.|[2608.26658](http://arxiv.org/abs/2608.26658)|N/A|
 |**2026-08-26**|**MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval**|Zihao Zhang et.al.|[2608.25305](http://arxiv.org/abs/2608.25305)|N/A|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|N/A|
 |**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|N/A|
@@ -73,5 +76,4 @@ _Select paper in 2026.06.27 - 2026.08.26_
 |**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
 |**2026-06-28**|**VCS-SLAM: Geometry-Validated Semantic Evidence Fusion for 3D Gaussian SLAM**|Raman Jha et.al.|[2606.29494](http://arxiv.org/abs/2606.29494)|N/A|
 |**2026-06-28**|**PL-LIT: A LiDAR-Inertial-Thermal SLAM Using Point-Line Features and Thermographic Mapping**|Jiawei Xia et.al.|[2606.29259](http://arxiv.org/abs/2606.29259)|N/A|
-|**2026-06-27**|**J-LAW: Joint Localization and Actionable World Modeling via Coupled Latent Factor Graphs**|Guanqun Cao et.al.|[2606.28712](http://arxiv.org/abs/2606.28712)|N/A|
 

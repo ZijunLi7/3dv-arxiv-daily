@@ -14,10 +14,13 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.27 - 2026.08.26_
+_Select paper in 2026.06.28 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS**|Kangmin Seo et.al.|[2608.26951](http://arxiv.org/abs/2608.26951)|N/A|
+|**2026-08-27**|**KISS-GS: 3D Gaussian Splatting Compression Kept Simple**|Wieland Morgenstern et.al.|[2608.26948](http://arxiv.org/abs/2608.26948)|N/A|
+|**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|N/A|
 |**2026-08-26**|**4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting**|Yueen Ma et.al.|[2608.25956](http://arxiv.org/abs/2608.25956)|N/A|
 |**2026-08-26**|**Gaussian Splatting Underwater: A Controlled Cross-Regime Study**|Olaya Álvarez-Tuñón et.al.|[2608.25483](http://arxiv.org/abs/2608.25483)|N/A|
 |**2026-08-26**|**PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting**|Jiarui Ge et.al.|[2608.25472](http://arxiv.org/abs/2608.25472)|N/A|

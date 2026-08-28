@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.06.27 - 2026.08.26_
+_Select paper in 2026.06.28 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589](http://arxiv.org/abs/2608.26589)|N/A|
 |**2026-08-24**|**DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models**|Jeong-gi Kwak et.al.|[2608.23850](http://arxiv.org/abs/2608.23850)|N/A|
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
