@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.06.29 - 2026.08.27_
+_Select paper in 2026.06.30 - 2026.08.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -105,17 +105,4 @@ _Select paper in 2026.06.29 - 2026.08.27_
 |**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|N/A|
 |**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|N/A|
 |**2026-06-30**|**AugSplat: Radiance Field-Informed Gaussian Splatting for Sparse-View Settings**|Lorenzo Lazzaroni et.al.|[2606.31556](http://arxiv.org/abs/2606.31556)|N/A|
-|**2026-06-29**|**GRay: Ray Tracing 3D Gaussians Near the Speed of Splats**|Yohan Poirier-Ginter et.al.|[2606.30869](http://arxiv.org/abs/2606.30869)|N/A|
-|**2026-06-29**|**Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields**|Yohan Poirier-Ginter et.al.|[2606.30861](http://arxiv.org/abs/2606.30861)|N/A|
-|**2026-06-29**|**GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping**|Annika Thomas et.al.|[2606.30809](http://arxiv.org/abs/2606.30809)|N/A|
-|**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638](http://arxiv.org/abs/2606.30638)|N/A|
-|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|N/A|
-|**2026-06-29**|**Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes**|Sicheng Yu et.al.|[2606.30436](http://arxiv.org/abs/2606.30436)|N/A|
-|**2026-06-29**|**IBRSteG: Learning a Generalizable Steganography Framework for 3D Gaussian Splatting**|Fanye Kong et.al.|[2606.30024](http://arxiv.org/abs/2606.30024)|N/A|
-|**2026-06-29**|**Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting**|Xiaobiao Du et.al.|[2606.30017](http://arxiv.org/abs/2606.30017)|N/A|
-|**2026-06-29**|**Shell-Supervised Gaussian Splatting for Urban Real-to-Sim Reconstruction**|Yuan Yang et.al.|[2606.30014](http://arxiv.org/abs/2606.30014)|N/A|
-|**2026-06-29**|**Learning Efficient 4D Gaussian Representations from Monocular Videos with Flow Splatting**|Shengjun Zhang et.al.|[2606.29976](http://arxiv.org/abs/2606.29976)|N/A|
-|**2026-06-29**|**UniTriSplat: A Unified 3D Gaussian Splatting Framework with Uniform Spherical Rasterization for Universal Cameras**|Yipeng Zhu et.al.|[2606.29794](http://arxiv.org/abs/2606.29794)|N/A|
-|**2026-06-29**|**Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration**|Jaewon Lee et.al.|[2606.29782](http://arxiv.org/abs/2606.29782)|N/A|
-|**2026-06-29**|**MyGO-Splat: Multi-Objective Closed-Loop Geometric Feedback for RGB-Only Gaussian SLAM**|Fan Zhu et.al.|[2606.29738](http://arxiv.org/abs/2606.29738)|N/A|
 
