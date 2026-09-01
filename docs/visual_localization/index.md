@@ -14,11 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.06.30 - 2026.08.28_
+_Select paper in 2026.07.01 - 2026.08.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-28**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
+|**2026-08-31**|**Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions**|Abhay Skaria Thomas et.al.|[2608.30690](http://arxiv.org/abs/2608.30690)|N/A|
+|**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|N/A|
+|**2026-08-29**|**RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos**|Wenting Wang et.al.|[2608.29003](http://arxiv.org/abs/2608.29003)|N/A|
+|**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 |**2026-08-27**|**Image Augmentation as Test Generation for Deep Learning-Based Image Retrieval Systems**|Yehan De Silva et.al.|[2608.27502](http://arxiv.org/abs/2608.27502)|N/A|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
 |**2026-08-27**|**CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction**|Jean-Daniel de Ambrogi et.al.|[2608.26868](http://arxiv.org/abs/2608.26868)|N/A|
@@ -70,6 +73,4 @@ _Select paper in 2026.06.30 - 2026.08.28_
 |**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|N/A|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|N/A|
 |**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|N/A|
-|**2026-06-30**|**Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition**|Zhiyao Shu et.al.|[2607.00090](http://arxiv.org/abs/2607.00090)|N/A|
-|**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](http://arxiv.org/abs/2606.31164)|N/A|
 

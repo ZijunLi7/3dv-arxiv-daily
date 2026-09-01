@@ -14,12 +14,20 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.06.30 - 2026.08.28_
+_Select paper in 2026.07.01 - 2026.08.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-30**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|N/A|
+|**2026-08-30**|**GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame**|Zhe Dong et.al.|[2608.29680](http://arxiv.org/abs/2608.29680)|N/A|
+|**2026-08-29**|**LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing**|Haonan Zhou et.al.|[2608.29269](http://arxiv.org/abs/2608.29269)|N/A|
+|**2026-08-29**|**Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction**|Angel Daruna et.al.|[2608.29211](http://arxiv.org/abs/2608.29211)|N/A|
+|**2026-08-29**|**Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding**|Boyu Cai et.al.|[2608.29177](http://arxiv.org/abs/2608.29177)|N/A|
+|**2026-08-29**|**Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models**|Shuangkang Fang et.al.|[2608.29137](http://arxiv.org/abs/2608.29137)|N/A|
+|**2026-08-28**|**Reconstruction-Aware Cryo-EM Particle Picking**|Riku Itsuji et.al.|[2608.28838](http://arxiv.org/abs/2608.28838)|N/A|
+|**2026-08-28**|**RoboPhys-3D: A Comprehensive Embodied World Model Evaluation via 3D Reconstruction**|Tianyi Wang et.al.|[2608.28718](http://arxiv.org/abs/2608.28718)|N/A|
 |**2026-08-28**|**Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction**|Mrudul Mittal et.al.|[2608.28343](http://arxiv.org/abs/2608.28343)|N/A|
-|**2026-08-28**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
+|**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 |**2026-08-28**|**3D-USE: From Image-Level to Scene-Level Underwater Enhancement**|Jieyu Yuan et.al.|[2608.28020](http://arxiv.org/abs/2608.28020)|N/A|
 |**2026-08-27**|**Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction**|Jiarong Han et.al.|[2608.27529](http://arxiv.org/abs/2608.27529)|N/A|
 |**2026-08-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al.|[2608.26752](http://arxiv.org/abs/2608.26752)|N/A|
@@ -64,7 +72,4 @@ _Select paper in 2026.06.30 - 2026.08.28_
 |**2026-07-01**|**EO-VGGT: Orbital Ray-Conditioned 3D Foundation Models for Satellite Multi-View Reconstruction**|Qiyan Luo et.al.|[2607.00417](http://arxiv.org/abs/2607.00417)|N/A|
 |**2026-07-01**|**LIST3R: Long-sequence Instance-aware 3D Reconstruction**|Jing Gao et.al.|[2607.00375](http://arxiv.org/abs/2607.00375)|N/A|
 |**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979](http://arxiv.org/abs/2606.31979)|N/A|
-|**2026-06-30**|**WarpHammer: Densifying Scene Warps with 3D Object Priors for Extreme View Synthesis**|Michael Green et.al.|[2606.31258](http://arxiv.org/abs/2606.31258)|N/A|
-|**2026-06-30**|**CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction**|Yuzhou Ji et.al.|[2606.31086](http://arxiv.org/abs/2606.31086)|N/A|
-|**2026-06-30**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el Amine Boudjoghra et.al.|[2606.30608](http://arxiv.org/abs/2606.30608)|N/A|
 

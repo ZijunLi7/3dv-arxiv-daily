@@ -14,16 +14,18 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.06.30 - 2026.08.28_
+_Select paper in 2026.07.01 - 2026.08.31_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|N/A|
+|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|N/A|
 |**2026-08-28**|**From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation**|Rit Gangopadhyay et.al.|[2608.27860](http://arxiv.org/abs/2608.27860)|N/A|
 |**2026-08-27**|**Depth-Aware Pothole Detection Using YOLO and RT-DETR at the Edge**|Md Monjurul Ahsan Prodhan et.al.|[2608.27633](http://arxiv.org/abs/2608.27633)|N/A|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589](http://arxiv.org/abs/2608.26589)|N/A|
 |**2026-08-24**|**DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models**|Jeong-gi Kwak et.al.|[2608.23850](http://arxiv.org/abs/2608.23850)|N/A|
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
-|**2026-08-17**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
+|**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
@@ -46,6 +48,5 @@ _Select paper in 2026.06.30 - 2026.08.28_
 |**2026-07-21**|**MoGe-3: Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement**|Lingyu Kong et.al.|[2607.17967](http://arxiv.org/abs/2607.17967)|N/A|
 |**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|N/A|
 |**2026-07-01**|**Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation**|Zhaowen Zhu et.al.|[2607.00736](http://arxiv.org/abs/2607.00736)|N/A|
-|**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|N/A|
 |**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|N/A|
 
