@@ -14,10 +14,11 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.07.15 - 2026.09.04_
+_Select paper in 2026.07.15 - 2026.09.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|N/A|
 |**2026-09-04**|**ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization**|Hyeongsik Kim et.al.|[2609.04965](http://arxiv.org/abs/2609.04965)|N/A|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|N/A|
 |**2026-09-04**|**XDG: Accelerated Visual Disambiguation**|Gonglin Chen et.al.|[2608.29733](http://arxiv.org/abs/2608.29733)|N/A|

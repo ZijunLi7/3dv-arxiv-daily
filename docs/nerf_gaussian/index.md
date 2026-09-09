@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.15 - 2026.09.04_
+_Select paper in 2026.07.15 - 2026.09.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**CVT-GS: Learning to Simplify 3D Gaussian Splatting with Centroidal Voronoi Tessellation**|Bingxian Li et.al.|[2609.08730](http://arxiv.org/abs/2609.08730)|N/A|
+|**2026-09-08**|**GSComplete: Gaussian Splat Completion with 2D Diffusion Priors**|Elias Brugger et.al.|[2609.08449](http://arxiv.org/abs/2609.08449)|N/A|
+|**2026-09-08**|**EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction**|Yuzhong Wang et.al.|[2609.08332](http://arxiv.org/abs/2609.08332)|N/A|
+|**2026-09-07**|**TV-SGS: Gaussian Splatting with Geometric Information Propagation via Tensor Voting under sparse views**|Harish N Sathishchandra et.al.|[2609.07734](http://arxiv.org/abs/2609.07734)|N/A|
+|**2026-09-07**|**Zero-Shot 3D Plant Organ Segmentation with SAM3 and Semantic NeRFs**|Andreas Gilson et.al.|[2609.07724](http://arxiv.org/abs/2609.07724)|N/A|
+|**2026-09-07**|**Heat Kernel Textures: the Geodesic Gaussians That Do Not Splat**|Simone Foti et.al.|[2609.07557](http://arxiv.org/abs/2609.07557)|N/A|
+|**2026-09-07**|**From Explicit References to Scene Manifolds: Distributional Fidelity and Realism for Radiance Field Quality Assessment**|Saeed Mahmoudpour et.al.|[2609.07346](http://arxiv.org/abs/2609.07346)|N/A|
+|**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
+|**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231](http://arxiv.org/abs/2609.07231)|N/A|
+|**2026-09-06**|**MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting**|Chengkai Wang et.al.|[2609.06874](http://arxiv.org/abs/2609.06874)|N/A|
 |**2026-09-04**|**Compact Neural Appearance Models for Efficient Gaussian Splatting**|Florian Hahlbohm et.al.|[2609.05255](http://arxiv.org/abs/2609.05255)|N/A|
 |**2026-09-04**|**GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation**|Nina Vesseron et.al.|[2609.05127](http://arxiv.org/abs/2609.05127)|N/A|
 |**2026-09-04**|**Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction**|Tianle Du et.al.|[2609.04984](http://arxiv.org/abs/2609.04984)|N/A|
