@@ -14,13 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.15 - 2026.09.08_
+_Select paper in 2026.07.15 - 2026.09.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491](http://arxiv.org/abs/2609.09491)|N/A|
 |**2026-09-08**|**FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute**|Hongchi Xia et.al.|[2609.08848](http://arxiv.org/abs/2609.08848)|N/A|
 |**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493](http://arxiv.org/abs/2609.08493)|N/A|
-|**2026-09-07**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
+|**2026-09-09**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
 |**2026-09-05**|**Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction**|Kevin Zhang et.al.|[2609.06261](http://arxiv.org/abs/2609.06261)|N/A|
 |**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Yuankun Yang et.al.|[2609.06099](http://arxiv.org/abs/2609.06099)|N/A|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|N/A|

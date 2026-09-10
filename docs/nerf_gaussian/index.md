@@ -14,10 +14,14 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.15 - 2026.09.08_
+_Select paper in 2026.07.15 - 2026.09.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction**|Pranav Poudel et.al.|[2609.10376](http://arxiv.org/abs/2609.10376)|N/A|
+|**2026-09-09**|**View-Structured Conformal Prediction for 3D Gaussian Splatting**|Junzheng Chu et.al.|[2609.10307](http://arxiv.org/abs/2609.10307)|N/A|
+|**2026-09-09**|**LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting**|Donghun Ryu et.al.|[2609.10095](http://arxiv.org/abs/2609.10095)|N/A|
+|**2026-09-09**|**RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting**|YuanHang Wang et.al.|[2609.09606](http://arxiv.org/abs/2609.09606)|N/A|
 |**2026-09-08**|**CVT-GS: Learning to Simplify 3D Gaussian Splatting with Centroidal Voronoi Tessellation**|Bingxian Li et.al.|[2609.08730](http://arxiv.org/abs/2609.08730)|N/A|
 |**2026-09-08**|**GSComplete: Gaussian Splat Completion with 2D Diffusion Priors**|Elias Brugger et.al.|[2609.08449](http://arxiv.org/abs/2609.08449)|N/A|
 |**2026-09-08**|**EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction**|Yuzhong Wang et.al.|[2609.08332](http://arxiv.org/abs/2609.08332)|N/A|

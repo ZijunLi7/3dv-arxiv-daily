@@ -1,4 +1,4 @@
-## Select paper in 2026.07.15 - 2026.09.08
+## Select paper in 2026.07.15 - 2026.09.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491](http://arxiv.org/abs/2609.09491)|N/A|
 |**2026-09-08**|**FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute**|Hongchi Xia et.al.|[2609.08848](http://arxiv.org/abs/2609.08848)|N/A|
 |**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493](http://arxiv.org/abs/2609.08493)|N/A|
-|**2026-09-07**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
+|**2026-09-09**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
 |**2026-09-05**|**Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction**|Kevin Zhang et.al.|[2609.06261](http://arxiv.org/abs/2609.06261)|N/A|
 |**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Yuankun Yang et.al.|[2609.06099](http://arxiv.org/abs/2609.06099)|N/A|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|N/A|
@@ -77,7 +79,7 @@
 |**2026-07-27**|**MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction**|Dehao Hao et.al.|[2607.24436](http://arxiv.org/abs/2607.24436)|N/A|
 |**2026-07-27**|**Quality-Adaptive Multi-UAV 3D Reconstruction with Sparse Workload Redistribution**|Benjamin Sportich et.al.|[2607.24233](http://arxiv.org/abs/2607.24233)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260715---20260908>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260715---20260909>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -118,7 +120,7 @@
 |**2026-07-21**|**MoGe-3: Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement**|Lingyu Kong et.al.|[2607.17967](http://arxiv.org/abs/2607.17967)|N/A|
 |**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260715---20260908>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260715---20260909>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -189,12 +191,13 @@
 |**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|N/A|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260715---20260908>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260715---20260909>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
 |**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|N/A|
 |**2026-09-04**|**ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization**|Hyeongsik Kim et.al.|[2609.04965](http://arxiv.org/abs/2609.04965)|N/A|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|N/A|
@@ -212,12 +215,16 @@
 |**2026-07-21**|**NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion**|Sanket Sharma et.al.|[2607.18936](http://arxiv.org/abs/2607.18936)|N/A|
 |**2026-07-15**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260715---20260908>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260715---20260909>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction**|Pranav Poudel et.al.|[2609.10376](http://arxiv.org/abs/2609.10376)|N/A|
+|**2026-09-09**|**View-Structured Conformal Prediction for 3D Gaussian Splatting**|Junzheng Chu et.al.|[2609.10307](http://arxiv.org/abs/2609.10307)|N/A|
+|**2026-09-09**|**LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting**|Donghun Ryu et.al.|[2609.10095](http://arxiv.org/abs/2609.10095)|N/A|
+|**2026-09-09**|**RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting**|YuanHang Wang et.al.|[2609.09606](http://arxiv.org/abs/2609.09606)|N/A|
 |**2026-09-08**|**CVT-GS: Learning to Simplify 3D Gaussian Splatting with Centroidal Voronoi Tessellation**|Bingxian Li et.al.|[2609.08730](http://arxiv.org/abs/2609.08730)|N/A|
 |**2026-09-08**|**GSComplete: Gaussian Splat Completion with 2D Diffusion Priors**|Elias Brugger et.al.|[2609.08449](http://arxiv.org/abs/2609.08449)|N/A|
 |**2026-09-08**|**EdMCGS: Event-Driven Markov Chain Gaussian Splatting for Extreme-Low-Frame-Rate Dynamic Scene Reconstruction**|Yuzhong Wang et.al.|[2609.08332](http://arxiv.org/abs/2609.08332)|N/A|
@@ -336,7 +343,7 @@
 |**2026-07-29**|**SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM**|Jingxuan Su et.al.|[2607.26595](http://arxiv.org/abs/2607.26595)|N/A|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260715---20260908>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260715---20260909>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
