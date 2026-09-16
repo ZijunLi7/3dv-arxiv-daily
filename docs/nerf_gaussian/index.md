@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.15 - 2026.09.10_
+_Select paper in 2026.07.19 - 2026.09.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
+|**2026-09-15**|**Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement**|Yuetong Wang et.al.|[2609.17039](http://arxiv.org/abs/2609.17039)|N/A|
+|**2026-09-15**|**HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|N/A|
+|**2026-09-14**|**Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections**|Deyu Meng et.al.|[2609.15550](http://arxiv.org/abs/2609.15550)|N/A|
+|**2026-09-12**|**Deformable 2D Gaussian Splatting for Efficient 4K Video Compression**|Chenhao Zhang et.al.|[2609.14129](http://arxiv.org/abs/2609.14129)|N/A|
+|**2026-09-12**|**SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences**|Zhuoxiao Li et.al.|[2609.13903](http://arxiv.org/abs/2609.13903)|N/A|
+|**2026-09-11**|**NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis**|Shaurya Pavan A et.al.|[2609.12682](http://arxiv.org/abs/2609.12682)|N/A|
+|**2026-09-11**|**VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views**|Yunsu Jeong et.al.|[2609.12343](http://arxiv.org/abs/2609.12343)|N/A|
 |**2026-09-10**|**3D Point Splatting for mmWave Radar Novel View Synthesis**|Adnan Armouti et.al.|[2609.11894](http://arxiv.org/abs/2609.11894)|N/A|
 |**2026-09-10**|**Hologram Representation via Quadratic Phase Gaussian Splatting**|Haolong Wang et.al.|[2609.11434](http://arxiv.org/abs/2609.11434)|N/A|
 |**2026-09-10**|**Tri-DehazeGS: Scene--Medium Decoupled Gaussian Splatting with Transmittance-Aware Optimization**|Kui Jiang et.al.|[2609.11223](http://arxiv.org/abs/2609.11223)|N/A|

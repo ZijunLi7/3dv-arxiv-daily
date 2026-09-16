@@ -14,10 +14,16 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.15 - 2026.09.10_
+_Select paper in 2026.07.19 - 2026.09.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|N/A|
+|**2026-09-15**|**Evaluating Mesh Reconstruction Methods for Crop Phenotyping**|Karanvir Singh et.al.|[2609.16926](http://arxiv.org/abs/2609.16926)|N/A|
+|**2026-09-15**|**MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking**|Sifan Zhou et.al.|[2609.16695](http://arxiv.org/abs/2609.16695)|N/A|
+|**2026-09-15**|**Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos**|Hyunjun Kim et.al.|[2609.16672](http://arxiv.org/abs/2609.16672)|N/A|
+|**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183](http://arxiv.org/abs/2609.14183)|N/A|
+|**2026-09-11**|**RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction**|Tingjun Huang et.al.|[2609.13504](http://arxiv.org/abs/2609.13504)|N/A|
 |**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|N/A|
 |**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
 |**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491](http://arxiv.org/abs/2609.09491)|N/A|
