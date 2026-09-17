@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.19 - 2026.09.15_
+_Select paper in 2026.07.19 - 2026.09.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|N/A|
+|**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|N/A|
 |**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|N/A|
 |**2026-09-15**|**Evaluating Mesh Reconstruction Methods for Crop Phenotyping**|Karanvir Singh et.al.|[2609.16926](http://arxiv.org/abs/2609.16926)|N/A|
 |**2026-09-15**|**MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking**|Sifan Zhou et.al.|[2609.16695](http://arxiv.org/abs/2609.16695)|N/A|

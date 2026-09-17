@@ -14,10 +14,11 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.07.19 - 2026.09.15_
+_Select paper in 2026.07.19 - 2026.09.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893](http://arxiv.org/abs/2609.18893)|N/A|
 |**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
 |**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|N/A|
 |**2026-09-13**|**SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild**|Kumaran Karthik et.al.|[2609.14634](http://arxiv.org/abs/2609.14634)|N/A|

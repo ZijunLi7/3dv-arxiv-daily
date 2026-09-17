@@ -14,10 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.19 - 2026.09.15_
+_Select paper in 2026.07.19 - 2026.09.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[2609.18898](http://arxiv.org/abs/2609.18898)|N/A|
+|**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|N/A|
+|**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|N/A|
+|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473](http://arxiv.org/abs/2609.18473)|N/A|
+|**2026-09-15**|**Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting**|Weiying Chen et.al.|[2609.17810](http://arxiv.org/abs/2609.17810)|N/A|
 |**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
 |**2026-09-15**|**Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement**|Yuetong Wang et.al.|[2609.17039](http://arxiv.org/abs/2609.17039)|N/A|
 |**2026-09-15**|**HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|N/A|
