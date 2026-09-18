@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.07.19 - 2026.09.16_
+_Select paper in 2026.07.19 - 2026.09.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control**|Yuheng Zhou et.al.|[2609.20731](http://arxiv.org/abs/2609.20731)|N/A|
 |**2026-09-02**|**EMCStereo: Attention-Enhanced Stereo Matching for Thin-Structure Depth Estimation with a Synthetic Tree-Branch Benchmark**|Yida Lin et.al.|[2609.13233](http://arxiv.org/abs/2609.13233)|N/A|
 |**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|N/A|
 |**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|N/A|

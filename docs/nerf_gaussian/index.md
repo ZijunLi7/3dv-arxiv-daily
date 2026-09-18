@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.19 - 2026.09.16_
+_Select paper in 2026.07.19 - 2026.09.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions**|Rinto Yagawa et.al.|[2609.20623](http://arxiv.org/abs/2609.20623)|N/A|
+|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|N/A|
+|**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Zhikun Zhou et.al.|[2609.20586](http://arxiv.org/abs/2609.20586)|N/A|
+|**2026-09-17**|**EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute**|Björn Ellensohn et.al.|[2609.20348](http://arxiv.org/abs/2609.20348)|N/A|
+|**2026-09-17**|**GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets**|Jieting Xu et.al.|[2609.19907](http://arxiv.org/abs/2609.19907)|N/A|
+|**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|N/A|
+|**2026-09-16**|**ParticleSplat: Self-supervised Object-centric Latent Particle Splatting**|Lyuxing He et.al.|[2609.19463](http://arxiv.org/abs/2609.19463)|N/A|
+|**2026-09-16**|**RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects**|Xiaobiao Du et.al.|[2609.19421](http://arxiv.org/abs/2609.19421)|N/A|
+|**2026-09-16**|**SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps**|Amirhossein Mollaei Khass et.al.|[2609.19330](http://arxiv.org/abs/2609.19330)|N/A|
 |**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[2609.18898](http://arxiv.org/abs/2609.18898)|N/A|
 |**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|N/A|
 |**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|N/A|

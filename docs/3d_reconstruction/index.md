@@ -14,10 +14,11 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.19 - 2026.09.16_
+_Select paper in 2026.07.19 - 2026.09.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012](http://arxiv.org/abs/2609.20012)|N/A|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|N/A|
 |**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|N/A|
 |**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|N/A|
