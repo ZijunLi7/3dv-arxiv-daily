@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.07.19 - 2026.09.17_
+_Select paper in 2026.07.21 - 2026.09.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -55,5 +55,4 @@ _Select paper in 2026.07.19 - 2026.09.17_
 |**2026-07-23**|**Boosting Robustness for All-Weather Self-Supervised Depth Estimation in Autonomous Driving**|Mengshi Qi et.al.|[2607.21526](http://arxiv.org/abs/2607.21526)|N/A|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438](http://arxiv.org/abs/2607.21438)|N/A|
 |**2026-07-21**|**MoGe-3: Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement**|Lingyu Kong et.al.|[2607.17967](http://arxiv.org/abs/2607.17967)|N/A|
-|**2026-07-19**|**DepthART: Scaling Foundation Monocular Depth to Tiny Models**|Feng Xue et.al.|[2607.17099](http://arxiv.org/abs/2607.17099)|N/A|
 
