@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.21 - 2026.09.17_
+_Select paper in 2026.07.21 - 2026.09.18_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498](http://arxiv.org/abs/2609.21498)|N/A|
+|**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[2609.21391](http://arxiv.org/abs/2609.21391)|N/A|
+|**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|N/A|
+|**2026-09-18**|**AirSplan: Risk-Aware Motion Planning for Quadrotors in Cluttered 3D Gaussian Splats**|Seth Isaacson et.al.|[2609.21226](http://arxiv.org/abs/2609.21226)|N/A|
+|**2026-09-18**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|N/A|
+|**2026-09-17**|**Demonstration Synthesis from a Single Scan via Gaussian Splatting for Visuomotor Policy Learning**|Beichen Wang et.al.|[2609.21112](http://arxiv.org/abs/2609.21112)|N/A|
 |**2026-09-17**|**PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions**|Rinto Yagawa et.al.|[2609.20623](http://arxiv.org/abs/2609.20623)|N/A|
 |**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|N/A|
 |**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Zhikun Zhou et.al.|[2609.20586](http://arxiv.org/abs/2609.20586)|N/A|
