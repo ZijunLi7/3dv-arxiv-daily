@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.21 - 2026.09.18_
+_Select paper in 2026.07.22 - 2026.09.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|N/A|
+|**2026-09-20**|**GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting**|Huiwen Xue et.al.|[2609.23509](http://arxiv.org/abs/2609.23509)|N/A|
+|**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|N/A|
+|**2026-09-20**|**GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting**|Hongfei Zhu et.al.|[2609.23436](http://arxiv.org/abs/2609.23436)|N/A|
+|**2026-09-20**|**LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting**|Zhiwei Li et.al.|[2609.23380](http://arxiv.org/abs/2609.23380)|N/A|
+|**2026-09-19**|**GrapeSplat: Geometry-Grounded Reconstruction via Amalgamated Pose-Free Encoding for Feed-Forward 3D Gaussian Splatting**|Si-Yu Lu et.al.|[2609.23182](http://arxiv.org/abs/2609.23182)|N/A|
+|**2026-09-19**|**Splat-CBF: Safe Next-Best-View Control in 3D Gaussian-Splat Maps**|Amirhossein Mollaei Khass et.al.|[2609.23100](http://arxiv.org/abs/2609.23100)|N/A|
+|**2026-09-19**|**VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction**|Haolin Yu et.al.|[2609.23049](http://arxiv.org/abs/2609.23049)|N/A|
+|**2026-09-19**|**Compressing 3D Gaussian Splatting via Cross-Representation Priors**|Yezheng Zhang et.al.|[2609.23005](http://arxiv.org/abs/2609.23005)|N/A|
+|**2026-09-19**|**D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction**|Yunqi Gao et.al.|[2609.22941](http://arxiv.org/abs/2609.22941)|N/A|
 |**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498](http://arxiv.org/abs/2609.21498)|N/A|
 |**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[2609.21391](http://arxiv.org/abs/2609.21391)|N/A|
 |**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|N/A|

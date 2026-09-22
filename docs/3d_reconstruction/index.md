@@ -14,10 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.21 - 2026.09.18_
+_Select paper in 2026.07.22 - 2026.09.21_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|N/A|
+|**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|N/A|
+|**2026-09-20**|**Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds**|Rishabh Jain et.al.|[2609.23915](http://arxiv.org/abs/2609.23915)|N/A|
+|**2026-09-20**|**VGGT-Prime: Compute-Adaptive Mixture-of-Heads for Efficient Visual Geometry Transformers**|Abteen Arab et.al.|[2609.23733](http://arxiv.org/abs/2609.23733)|N/A|
+|**2026-09-19**|**PanoSeg3R: Feed-Forward 3D Semantic Segmentation for Panoramic Images with an Automatic Data Curation Pipeline**|Heechan Yoon et.al.|[2609.22687](http://arxiv.org/abs/2609.22687)|N/A|
 |**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938](http://arxiv.org/abs/2609.21938)|N/A|
 |**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Jingke Zhou et.al.|[2609.21437](http://arxiv.org/abs/2609.21437)|N/A|
 |**2026-09-18**|**VGGT-CAD: Reconstructing Parametric CAD 3D Model with Geometric Grounding**|Chunan Yu et.al.|[2609.21225](http://arxiv.org/abs/2609.21225)|N/A|
