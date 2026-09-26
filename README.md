@@ -1,4 +1,4 @@
-## Select paper in 2026.07.25 - 2026.09.24
+## Select paper in 2026.07.27 - 2026.09.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -99,7 +99,7 @@
 |**2026-07-27**|**MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction**|Dehao Hao et.al.|[2607.24436](http://arxiv.org/abs/2607.24436)|N/A|
 |**2026-07-27**|**Quality-Adaptive Multi-UAV 3D Reconstruction with Sparse Workload Redistribution**|Benjamin Sportich et.al.|[2607.24233](http://arxiv.org/abs/2607.24233)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260725---20260924>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260727---20260924>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -145,7 +145,7 @@
 |**2026-07-29**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|N/A|
 |**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249](http://arxiv.org/abs/2607.24249)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260725---20260924>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260727---20260924>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -249,9 +249,8 @@
 |**2026-07-27**|**NSL-SLAM: High-Fidelity Neural Structured-Light Depth for Practical SLAM and Reconstruction**|Jiaheng Li et.al.|[2607.24495](http://arxiv.org/abs/2607.24495)|N/A|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|N/A|
 |**2026-07-27**|**SHARE: Towards Head-Mounted AR with User-Centric SLAM in Shared Human-Robot Workspaces**|Tianyuan Du et.al.|[2607.23901](http://arxiv.org/abs/2607.23901)|N/A|
-|**2026-07-25**|**Semantic Semi-Incremental Data-Association-Free Object SLAM**|Yihao Zhang et.al.|[2607.23384](http://arxiv.org/abs/2607.23384)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260725---20260924>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260727---20260924>back to top</a>)</p>
 
 ## Image Matching
 
@@ -273,7 +272,7 @@
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|N/A|
 |**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260725---20260924>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260727---20260924>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -455,7 +454,7 @@
 |**2026-07-29**|**SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM**|Jingxuan Su et.al.|[2607.26595](http://arxiv.org/abs/2607.26595)|N/A|
 |**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260725---20260924>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260727---20260924>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
