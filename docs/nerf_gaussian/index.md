@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.27 - 2026.09.24_
+_Select paper in 2026.07.28 - 2026.09.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**OC-GS: Gaussian Splatting for Irregular Turntable Capture**|Jae Joong Lee et.al.|[2609.31572](http://arxiv.org/abs/2609.31572)|N/A|
+|**2026-09-25**|**ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos**|Xuanzhi Liu et.al.|[2609.31509](http://arxiv.org/abs/2609.31509)|N/A|
+|**2026-09-25**|**ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization**|Tobias Batik et.al.|[2609.31339](http://arxiv.org/abs/2609.31339)|N/A|
+|**2026-09-25**|**Gauss What You Need: Compact Gaussian Splatting Across Scene Scales**|Afif Boudaoud et.al.|[2609.31248](http://arxiv.org/abs/2609.31248)|N/A|
+|**2026-09-25**|**Spackle: Completing Large View Single Image NVS with Adaptive Gaussians**|Xuanzhi Liu et.al.|[2609.30941](http://arxiv.org/abs/2609.30941)|N/A|
+|**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|N/A|
+|**2026-09-25**|**From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching**|Hongfei Zhu et.al.|[2609.30741](http://arxiv.org/abs/2609.30741)|N/A|
+|**2026-09-24**|**LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting**|Vivek Pandey et.al.|[2609.30393](http://arxiv.org/abs/2609.30393)|N/A|
 |**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|N/A|
 |**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|N/A|
 |**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|N/A|
