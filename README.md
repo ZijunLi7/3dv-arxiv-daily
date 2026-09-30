@@ -1,4 +1,4 @@
-## Select paper in 2026.07.29 - 2026.09.28
+## Select paper in 2026.07.30 - 2026.09.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
+|**2026-09-29**|**Collision-Aware and Observation-Aligned Object-Centric Scene Reconstruction from Point Cloud**|Yuxuan Xie et.al.|[2609.37260](http://arxiv.org/abs/2609.37260)|N/A|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
+|**2026-09-29**|**Does the VGGT Family Need All Its Layers?**|Fengyi Zhang et.al.|[2609.36842](http://arxiv.org/abs/2609.36842)|N/A|
+|**2026-09-28**|**LEGO-Anything: Coding Agents for 3D Scene Reconstruction**|Xirui Li et.al.|[2609.36380](http://arxiv.org/abs/2609.36380)|N/A|
 |**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Qiaoge Li et.al.|[2609.35658](http://arxiv.org/abs/2609.35658)|N/A|
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
@@ -99,14 +104,15 @@
 |**2026-07-30**|**MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians**|Pouya Ardekhani et.al.|[2607.28300](http://arxiv.org/abs/2607.28300)|N/A|
 |**2026-08-02**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|N/A|
 |**2026-07-30**|**Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images**|Juheon Hwang et.al.|[2607.28132](http://arxiv.org/abs/2607.28132)|N/A|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260729---20260928>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260730---20260929>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
+|**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
 |**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 |**2026-09-25**|**Depth Any Seen: Which Surfaces and How Far?**|Xiaohao Xu et.al.|[2609.32027](http://arxiv.org/abs/2609.32027)|N/A|
 |**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|N/A|
@@ -146,15 +152,16 @@
 |**2026-08-01**|**Breaking the Horizontal Prior: From Long-Tailed Orientation Bias to Roll-Robust Monocular Depth Estimation**|Kaihua Tang et.al.|[2608.00678](http://arxiv.org/abs/2608.00678)|N/A|
 |**2026-08-01**|**Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment**|Liangjing Shao et.al.|[2608.00415](http://arxiv.org/abs/2608.00415)|N/A|
 |**2026-07-30**|**Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions**|Junrui Zhang et.al.|[2607.28285](http://arxiv.org/abs/2607.28285)|N/A|
-|**2026-07-29**|**JEPADepth: Masked Predictive Representation Learning for Self-Supervised Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2607.26600](http://arxiv.org/abs/2607.26600)|N/A|
-|**2026-07-29**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260729---20260928>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260730---20260929>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
+|**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|N/A|
+|**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|N/A|
 |**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|N/A|
 |**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|N/A|
 |**2026-09-26**|**World SLAM Model: Joint World Modeling for SLAM and Navigation**|Minghui Qin et.al.|[2609.32626](http://arxiv.org/abs/2609.32626)|N/A|
@@ -256,12 +263,13 @@
 |**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|N/A|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260729---20260928>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260730---20260929>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 |**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|N/A|
 |**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
 |**2026-09-06**|**Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching**|Yuanxin Ye et.al.|[2609.06343](http://arxiv.org/abs/2609.06343)|N/A|
@@ -277,14 +285,18 @@
 |**2026-08-04**|**Double Down on Defense: Strengthening Deep Perceptual Hashes against Evasion Attacks without Retraining**|Bangjie Sun et.al.|[2608.03101](http://arxiv.org/abs/2608.03101)|N/A|
 |**2026-07-30**|**Can Synthetic Data Overcome the Generalization Limits of AI-Based Flower and Pod Detection Across Cowpea Breeding Genotypes and Environments?**|Hamid Kamangir et.al.|[2607.28796](http://arxiv.org/abs/2607.28796)|N/A|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|N/A|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260729---20260928>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260730---20260929>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors**|Noé Lallouet et.al.|[2609.37816](http://arxiv.org/abs/2609.37816)|N/A|
+|**2026-09-29**|**NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting**|Pratik Singh Bisht et.al.|[2609.37115](http://arxiv.org/abs/2609.37115)|N/A|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|N/A|
+|**2026-09-29**|**DispFlow-GS: Displacement Flow Supervision with Motion Disentangling for Monocular Deformable 3D Gaussian Splatting**|Thai Duy Nguyen et.al.|[2609.36940](http://arxiv.org/abs/2609.36940)|N/A|
+|**2026-09-29**|**AESplat: Advancing Pose-Free Feed-Forward 3D Gaussian Splatting via Decoupled Appearance Modeling**|Shiwei Ren et.al.|[2609.36693](http://arxiv.org/abs/2609.36693)|N/A|
 |**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|N/A|
 |**2026-09-28**|**EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation**|Sungho Moon et.al.|[2609.34853](http://arxiv.org/abs/2609.34853)|N/A|
 |**2026-09-28**|**Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting**|Yulong Cheng et.al.|[2609.34367](http://arxiv.org/abs/2609.34367)|N/A|
@@ -474,11 +486,8 @@
 |**2026-07-30**|**TSOG: A Format For Temporally And Spatially Ordered Gaussians**|Shady Gmira et.al.|[2607.28049](http://arxiv.org/abs/2607.28049)|N/A|
 |**2026-07-30**|**Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars**|MD Wahiduzzaman Khan et.al.|[2607.28032](http://arxiv.org/abs/2607.28032)|N/A|
 |**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|N/A|
-|**2026-07-29**|**StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction**|Gahye Lee et.al.|[2607.26889](http://arxiv.org/abs/2607.26889)|N/A|
-|**2026-07-29**|**SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM**|Jingxuan Su et.al.|[2607.26595](http://arxiv.org/abs/2607.26595)|N/A|
-|**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260729---20260928>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260730---20260929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.07.29 - 2026.09.28_
+_Select paper in 2026.07.30 - 2026.09.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
+|**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
 |**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 |**2026-09-25**|**Depth Any Seen: Which Surfaces and How Far?**|Xiaohao Xu et.al.|[2609.32027](http://arxiv.org/abs/2609.32027)|N/A|
 |**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|N/A|
@@ -57,6 +59,4 @@ _Select paper in 2026.07.29 - 2026.09.28_
 |**2026-08-01**|**Breaking the Horizontal Prior: From Long-Tailed Orientation Bias to Roll-Robust Monocular Depth Estimation**|Kaihua Tang et.al.|[2608.00678](http://arxiv.org/abs/2608.00678)|N/A|
 |**2026-08-01**|**Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment**|Liangjing Shao et.al.|[2608.00415](http://arxiv.org/abs/2608.00415)|N/A|
 |**2026-07-30**|**Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions**|Junrui Zhang et.al.|[2607.28285](http://arxiv.org/abs/2607.28285)|N/A|
-|**2026-07-29**|**JEPADepth: Masked Predictive Representation Learning for Self-Supervised Monocular Depth Estimation**|Ionuţ Grigore et.al.|[2607.26600](http://arxiv.org/abs/2607.26600)|N/A|
-|**2026-07-29**|**WHTMix: Efficient Stereo Depth Estimation via Walsh-Hadamard Token Mixing**|Prathyush Sajith et.al.|[2607.25234](http://arxiv.org/abs/2607.25234)|N/A|
 

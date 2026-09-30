@@ -14,10 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.07.29 - 2026.09.28_
+_Select paper in 2026.07.30 - 2026.09.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**Pow3R-SLAM: Real-Time RGB-D SLAM with 3D Reconstruction Priors**|Christopher Kolios et.al.|[2609.38054](http://arxiv.org/abs/2609.38054)|N/A|
+|**2026-09-29**|**Collision-Aware and Observation-Aligned Object-Centric Scene Reconstruction from Point Cloud**|Yuxuan Xie et.al.|[2609.37260](http://arxiv.org/abs/2609.37260)|N/A|
+|**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
+|**2026-09-29**|**Does the VGGT Family Need All Its Layers?**|Fengyi Zhang et.al.|[2609.36842](http://arxiv.org/abs/2609.36842)|N/A|
+|**2026-09-28**|**LEGO-Anything: Coding Agents for 3D Scene Reconstruction**|Xirui Li et.al.|[2609.36380](http://arxiv.org/abs/2609.36380)|N/A|
 |**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Qiaoge Li et.al.|[2609.35658](http://arxiv.org/abs/2609.35658)|N/A|
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
@@ -103,5 +108,4 @@ _Select paper in 2026.07.29 - 2026.09.28_
 |**2026-07-30**|**MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians**|Pouya Ardekhani et.al.|[2607.28300](http://arxiv.org/abs/2607.28300)|N/A|
 |**2026-08-02**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|N/A|
 |**2026-07-30**|**Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images**|Juheon Hwang et.al.|[2607.28132](http://arxiv.org/abs/2607.28132)|N/A|
-|**2026-07-29**|**VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion**|Zador Pataki et.al.|[2607.27194](http://arxiv.org/abs/2607.27194)|N/A|
 

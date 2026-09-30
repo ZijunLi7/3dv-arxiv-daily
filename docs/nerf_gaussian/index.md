@@ -14,10 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.29 - 2026.09.28_
+_Select paper in 2026.07.30 - 2026.09.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-29**|**WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors**|Noé Lallouet et.al.|[2609.37816](http://arxiv.org/abs/2609.37816)|N/A|
+|**2026-09-29**|**NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting**|Pratik Singh Bisht et.al.|[2609.37115](http://arxiv.org/abs/2609.37115)|N/A|
+|**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|N/A|
+|**2026-09-29**|**DispFlow-GS: Displacement Flow Supervision with Motion Disentangling for Monocular Deformable 3D Gaussian Splatting**|Thai Duy Nguyen et.al.|[2609.36940](http://arxiv.org/abs/2609.36940)|N/A|
+|**2026-09-29**|**AESplat: Advancing Pose-Free Feed-Forward 3D Gaussian Splatting via Decoupled Appearance Modeling**|Shiwei Ren et.al.|[2609.36693](http://arxiv.org/abs/2609.36693)|N/A|
 |**2026-09-28**|**Remote Sensing Sparse-View 3D Gaussian Splatting via Depth Image-Based Rendering**|Jiaming Kang et.al.|[2609.35612](http://arxiv.org/abs/2609.35612)|N/A|
 |**2026-09-28**|**EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation**|Sungho Moon et.al.|[2609.34853](http://arxiv.org/abs/2609.34853)|N/A|
 |**2026-09-28**|**Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting**|Yulong Cheng et.al.|[2609.34367](http://arxiv.org/abs/2609.34367)|N/A|
@@ -207,7 +212,4 @@ _Select paper in 2026.07.29 - 2026.09.28_
 |**2026-07-30**|**TSOG: A Format For Temporally And Spatially Ordered Gaussians**|Shady Gmira et.al.|[2607.28049](http://arxiv.org/abs/2607.28049)|N/A|
 |**2026-07-30**|**Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars**|MD Wahiduzzaman Khan et.al.|[2607.28032](http://arxiv.org/abs/2607.28032)|N/A|
 |**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|N/A|
-|**2026-07-29**|**StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction**|Gahye Lee et.al.|[2607.26889](http://arxiv.org/abs/2607.26889)|N/A|
-|**2026-07-29**|**SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM**|Jingxuan Su et.al.|[2607.26595](http://arxiv.org/abs/2607.26595)|N/A|
-|**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|N/A|
 
