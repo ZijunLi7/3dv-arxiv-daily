@@ -14,10 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.07.30 - 2026.09.29_
+_Select paper in 2026.08.01 - 2026.09.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**EffGS: Efficient and High-Fidelity Gaussian Splatting**|Changbai Li et.al.|[2609.39553](http://arxiv.org/abs/2609.39553)|N/A|
+|**2026-09-30**|**UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting**|Zhihao Guo et.al.|[2609.39089](http://arxiv.org/abs/2609.39089)|N/A|
+|**2026-09-29**|**StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images**|Boyuan Tian et.al.|[2609.38592](http://arxiv.org/abs/2609.38592)|N/A|
+|**2026-09-29**|**Gaussian Stippling: Efficient Sorting-Free 3D Gaussian Rendering through Hybrid Sampling and Spatiotemporal Reconstruction**|Zijian Huang et.al.|[2609.38488](http://arxiv.org/abs/2609.38488)|N/A|
+|**2026-09-29**|**PneuTac: Tactile Manipulation with Soft Pneumatic Robots via Unified MPM-Gaussian Splatting Simulation**|Shaohong Zhong et.al.|[2609.38418](http://arxiv.org/abs/2609.38418)|N/A|
 |**2026-09-29**|**WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors**|Noé Lallouet et.al.|[2609.37816](http://arxiv.org/abs/2609.37816)|N/A|
 |**2026-09-29**|**NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting**|Pratik Singh Bisht et.al.|[2609.37115](http://arxiv.org/abs/2609.37115)|N/A|
 |**2026-09-29**|**Prior-Driven Enhancements in 3D Gaussian Splatting: Normals and Depths Regularization**|Gyeonggwan Lee et.al.|[2609.36969](http://arxiv.org/abs/2609.36969)|N/A|
@@ -205,11 +210,4 @@ _Select paper in 2026.07.30 - 2026.09.29_
 |**2026-08-03**|**G-Skin: Learning to Bind 3D Gaussians with Generative Visual Priors**|Yuxin Yao et.al.|[2608.01726](http://arxiv.org/abs/2608.01726)|N/A|
 |**2026-08-03**|**StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting**|Changhao Song et.al.|[2608.01659](http://arxiv.org/abs/2608.01659)|N/A|
 |**2026-08-03**|**D^2-4DGS: Dual-Depth Guided Sparse-Camera 4D Gaussian Splatting**|Jijian Zhao et.al.|[2608.01588](http://arxiv.org/abs/2608.01588)|N/A|
-|**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|N/A|
-|**2026-07-31**|**FillGS: Filling Observation Gaps in 4D Gaussian Splatting via Viewpoint-Time Selection and Generative Refinement**|Takashi Otonari et.al.|[2607.29284](http://arxiv.org/abs/2607.29284)|N/A|
-|**2026-07-30**|**FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets**|Yiqun Pan et.al.|[2607.28834](http://arxiv.org/abs/2607.28834)|N/A|
-|**2026-07-30**|**S-Avatar: Diffusion-Guided Gaussian Head Avatars from a Single Image**|Hail Song et.al.|[2607.28164](http://arxiv.org/abs/2607.28164)|N/A|
-|**2026-07-30**|**TSOG: A Format For Temporally And Spatially Ordered Gaussians**|Shady Gmira et.al.|[2607.28049](http://arxiv.org/abs/2607.28049)|N/A|
-|**2026-07-30**|**Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars**|MD Wahiduzzaman Khan et.al.|[2607.28032](http://arxiv.org/abs/2607.28032)|N/A|
-|**2026-07-30**|**Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction**|Gousia Habib et.al.|[2607.27825](http://arxiv.org/abs/2607.27825)|N/A|
 
