@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.01 - 2026.09.30_
+_Select paper in 2026.08.02 - 2026.10.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation**|Tongyu Wu et.al.|[2610.01876](http://arxiv.org/abs/2610.01876)|N/A|
+|**2026-10-01**|**MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation**|Liwei Liao et.al.|[2610.01707](http://arxiv.org/abs/2610.01707)|N/A|
+|**2026-10-01**|**Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation**|Masaya Takabe et.al.|[2610.01114](http://arxiv.org/abs/2610.01114)|N/A|
+|**2026-09-30**|**TRACE: Privacy-Preserving Next-Best-View Selection over Distributed 3D Gaussian-Splat Maps**|Amirhossein Mollaei Khass et.al.|[2610.00822](http://arxiv.org/abs/2610.00822)|N/A|
+|**2026-09-30**|**What Builds the Scene? Luminance Dominates Geometry Formation in 3D Gaussian Splatting**|Rezvan Joshaghani et.al.|[2610.00749](http://arxiv.org/abs/2610.00749)|N/A|
+|**2026-09-30**|**Dirichlet Splatting: Differentiable Rendering for Wave-Based Inverse Problems**|Xingyu Chen et.al.|[2610.00618](http://arxiv.org/abs/2610.00618)|N/A|
 |**2026-09-30**|**EffGS: Efficient and High-Fidelity Gaussian Splatting**|Changbai Li et.al.|[2609.39553](http://arxiv.org/abs/2609.39553)|N/A|
 |**2026-09-30**|**UGOD: Uncertainty-Guided Opacity and Dropout for Sparse-View 3D Gaussian Splatting**|Zhihao Guo et.al.|[2609.39089](http://arxiv.org/abs/2609.39089)|N/A|
 |**2026-09-29**|**StereoGaussians: Feed-Forward 3D Gaussian Splatting from Stereo Images**|Boyuan Tian et.al.|[2609.38592](http://arxiv.org/abs/2609.38592)|N/A|
