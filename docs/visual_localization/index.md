@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.02 - 2026.10.01_
+_Select paper in 2026.08.03 - 2026.10.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -118,6 +118,4 @@ _Select paper in 2026.08.02 - 2026.10.01_
 |**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|N/A|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|N/A|
 |**2026-08-03**|**UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization**|Inha Lee et.al.|[2608.01706](http://arxiv.org/abs/2608.01706)|N/A|
-|**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|N/A|
-|**2026-08-02**|**Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM**|Zhuang Xiong et.al.|[2608.00925](http://arxiv.org/abs/2608.00925)|N/A|
 

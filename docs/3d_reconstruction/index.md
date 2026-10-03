@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.02 - 2026.10.01_
+_Select paper in 2026.08.03 - 2026.10.01_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -113,5 +113,4 @@ _Select paper in 2026.08.02 - 2026.10.01_
 |**2026-08-03**|**VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification**|Chao Ji et.al.|[2608.02598](http://arxiv.org/abs/2608.02598)|N/A|
 |**2026-08-03**|**Loggia dei Lanzi: AI Thermography Enhancement Comparisons through 3D Photogrammetry**|Scott McAvoy et.al.|[2608.02404](http://arxiv.org/abs/2608.02404)|N/A|
 |**2026-08-03**|**Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling**|Kaiyi Zhang et.al.|[2608.02016](http://arxiv.org/abs/2608.02016)|N/A|
-|**2026-08-02**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|N/A|
 

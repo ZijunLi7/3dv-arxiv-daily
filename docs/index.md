@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.08.02 - 2026.10.01
+## Select paper in 2026.08.03 - 2026.10.01
 
 ## 3D Reconstruction
 
@@ -112,7 +112,6 @@ layout: default
 |**2026-08-03**|**VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification**|Chao Ji et.al.|[2608.02598](http://arxiv.org/abs/2608.02598)|N/A|
 |**2026-08-03**|**Loggia dei Lanzi: AI Thermography Enhancement Comparisons through 3D Photogrammetry**|Scott McAvoy et.al.|[2608.02404](http://arxiv.org/abs/2608.02404)|N/A|
 |**2026-08-03**|**Beyond Global Latents: Chunk-Based Sparse Grid VAE for Scalable 3D Modeling**|Kaiyi Zhang et.al.|[2608.02016](http://arxiv.org/abs/2608.02016)|N/A|
-|**2026-08-02**|**TARS: Timestep-Aware Data Scaling for 3D-Free Video Re-Shooting**|Jiwen Liu et.al.|[2607.28261](http://arxiv.org/abs/2607.28261)|N/A|
 
 ## Depth Estimation
 
@@ -152,12 +151,10 @@ layout: default
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
-|**2026-08-02**|**Mechanistic Interpretability-Guided Selective Fine-Tuning of Vision-Language Models for Centimeter-Level Flood Depth Estimation**|Nafis Fuad et.al.|[2608.07562](http://arxiv.org/abs/2608.07562)|N/A|
 |**2026-08-07**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|N/A|
 |**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737](http://arxiv.org/abs/2608.04737)|N/A|
 |**2026-08-04**|**XiDepth: a Lightweight and Efficient Network for Self-supervised Monocular Depth Estimation**|Elena Izzo et.al.|[2608.03666](http://arxiv.org/abs/2608.03666)|N/A|
 |**2026-08-03**|**GIFT: Geometry-Invariant Fine-Tuning for Non-Lambertian Monocular Depth Estimation**|Xianghui Fan et.al.|[2608.02068](http://arxiv.org/abs/2608.02068)|N/A|
-|**2026-08-02**|**FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity**|Ganghyeon Lee et.al.|[2608.01129](http://arxiv.org/abs/2608.01129)|N/A|
 
 ## Visual Localization
 
@@ -263,8 +260,6 @@ layout: default
 |**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|N/A|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914](http://arxiv.org/abs/2608.01914)|N/A|
 |**2026-08-03**|**UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization**|Inha Lee et.al.|[2608.01706](http://arxiv.org/abs/2608.01706)|N/A|
-|**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|N/A|
-|**2026-08-02**|**Look Up and Look Back: Hidden Attention and Latent Orientation in a Frozen Foundation Model for Panoramic SLAM**|Zhuang Xiong et.al.|[2608.00925](http://arxiv.org/abs/2608.00925)|N/A|
 
 ## Image Matching
 
