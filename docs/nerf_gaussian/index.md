@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.05 - 2026.10.02_
+_Select paper in 2026.08.06 - 2026.10.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting**|Boaz Keren-Gil et.al.|[2610.06688](http://arxiv.org/abs/2610.06688)|N/A|
+|**2026-10-05**|**MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks**|Eunji Kim et.al.|[2610.06472](http://arxiv.org/abs/2610.06472)|N/A|
+|**2026-10-05**|**Casual Flash Lighting for Gaussian Splat Inverse Rendering**|Jiamin Xu et.al.|[2610.06035](http://arxiv.org/abs/2610.06035)|N/A|
+|**2026-10-04**|**SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering**|Felix Windisch et.al.|[2610.05576](http://arxiv.org/abs/2610.05576)|N/A|
+|**2026-10-04**|**Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting**|Xiaobiao Du et.al.|[2610.05289](http://arxiv.org/abs/2610.05289)|N/A|
+|**2026-10-03**|**Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance**|Shengqi Wang et.al.|[2610.04606](http://arxiv.org/abs/2610.04606)|N/A|
+|**2026-10-03**|**LoCoSplat: Real-Time Feed-Forward 3D Gaussian Splatting with Minimal 3D Reasoning**|Sinan Wang et.al.|[2610.04351](http://arxiv.org/abs/2610.04351)|N/A|
+|**2026-10-03**|**A differentiable Lagrangian-coupled 3D Gaussian Splatting-SPH model for forward simulation and inverse analysis in solid mechanics**|Tian Xu et.al.|[2610.04336](http://arxiv.org/abs/2610.04336)|N/A|
+|**2026-10-03**|**Sparse-GS2Mesh: 3D Gaussian Splatting Guided by Novel Stereo Views and 2DGS for Sparse View Surface Reconstruction}**|Younghyun Noh et.al.|[2610.04203](http://arxiv.org/abs/2610.04203)|N/A|
+|**2026-10-03**|**CellSplat4D: PSF-Aware 4D Gaussian Splatting for Sparse Robotic Live-Cell Imaging**|Yingda Tao et.al.|[2610.04199](http://arxiv.org/abs/2610.04199)|N/A|
 |**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|N/A|
 |**2026-10-02**|**PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio**|Wenzhi Guo et.al.|[2610.03192](http://arxiv.org/abs/2610.03192)|N/A|
 |**2026-10-02**|**Budgeted-GS: Real-Time Large-Scale Gaussian Splatting via Factoring LOD**|Haipeng Wang et.al.|[2610.03162](http://arxiv.org/abs/2610.03162)|N/A|
@@ -207,6 +217,4 @@ _Select paper in 2026.08.05 - 2026.10.02_
 |**2026-08-06**|**G $^2$ ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation**|Puyuan Zhang et.al.|[2608.05704](http://arxiv.org/abs/2608.05704)|N/A|
 |**2026-08-06**|**CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer**|Wentao Sun et.al.|[2608.05482](http://arxiv.org/abs/2608.05482)|N/A|
 |**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|N/A|
-|**2026-08-05**|**ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields**|Seunghyeon Song et.al.|[2608.04581](http://arxiv.org/abs/2608.04581)|N/A|
-|**2026-08-05**|**OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes**|Xia Yan et.al.|[2608.04560](http://arxiv.org/abs/2608.04560)|N/A|
 

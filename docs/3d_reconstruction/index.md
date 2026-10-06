@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.05 - 2026.10.02_
+_Select paper in 2026.08.06 - 2026.10.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models**|Zhimin Shao et.al.|[2610.06813](http://arxiv.org/abs/2610.06813)|N/A|
+|**2026-10-05**|**VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges**|Sungjae Choi et.al.|[2610.06594](http://arxiv.org/abs/2610.06594)|N/A|
+|**2026-10-05**|**Structural Foundations of Nonlinear Systems with Unknown Inputs: The UID-Induced Normal Form and Minimal-Sensing Structure-from-Motion**|Agostino Martinelli et.al.|[2610.05939](http://arxiv.org/abs/2610.05939)|N/A|
 |**2026-10-02**|**GeoScaffold: Learning Compact Geometric Latents via Reconstruction for Efficient Vision-Language Navigation**|Yixuan Jiang et.al.|[2610.02697](http://arxiv.org/abs/2610.02697)|N/A|
 |**2026-10-01**|**Physical AI Smart Spaces: A Large-Scale Benchmark for Multi-Camera 3D Perception in Smart Spaces**|Yuxing Wang et.al.|[2610.02580](http://arxiv.org/abs/2610.02580)|N/A|
 |**2026-10-01**|**CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction**|Moyang Li et.al.|[2610.01927](http://arxiv.org/abs/2610.01927)|N/A|
@@ -110,5 +113,4 @@ _Select paper in 2026.08.05 - 2026.10.02_
 |**2026-08-08**|**DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea**|Jiaming Chen et.al.|[2608.08025](http://arxiv.org/abs/2608.08025)|N/A|
 |**2026-08-07**|**Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs**|Kai Li et.al.|[2608.07012](http://arxiv.org/abs/2608.07012)|N/A|
 |**2026-08-06**|**OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction**|Taiting Lu et.al.|[2608.05539](http://arxiv.org/abs/2608.05539)|N/A|
-|**2026-08-05**|**Beyond Reprojection Error: Camera Calibration with 3D Targets**|Dennis Ruppel et.al.|[2608.05066](http://arxiv.org/abs/2608.05066)|N/A|
 

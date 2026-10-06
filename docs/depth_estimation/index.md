@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.05 - 2026.10.02_
+_Select paper in 2026.08.06 - 2026.10.05_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|N/A|
+|**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|N/A|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|N/A|
 |**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439](http://arxiv.org/abs/2610.03439)|N/A|
 |**2026-10-01**|**Semantic RGB--Depth Based Surgical Skill Assessment in Microscopic Stereo Videos**|Jecia Z. Y. Mao et.al.|[2610.01205](http://arxiv.org/abs/2610.01205)|N/A|
@@ -55,5 +57,4 @@ _Select paper in 2026.08.05 - 2026.10.02_
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 |**2026-08-07**|**An active-learning framework for real-time depth perception from monocular vision streams**|Xiaorong Zeng et.al.|[2608.04917](http://arxiv.org/abs/2608.04917)|N/A|
-|**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737](http://arxiv.org/abs/2608.04737)|N/A|
 
