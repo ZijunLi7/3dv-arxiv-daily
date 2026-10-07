@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.06 - 2026.10.05_
+_Select paper in 2026.08.07 - 2026.10.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|N/A|
 |**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|N/A|
 |**2026-10-03**|**EagleDepth: Efficient Fine-Grained Depth Estimation via Pixel Diffusion Decoder**|Bowen Chai et.al.|[2610.04554](http://arxiv.org/abs/2610.04554)|N/A|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|N/A|
