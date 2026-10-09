@@ -14,11 +14,17 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.08 - 2026.10.07_
+_Select paper in 2026.08.09 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-07**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|N/A|
+|**2026-10-08**|**2DGS-Planner: Rasterization-based Path Planning in 2D Gaussian Splatting Map**|Jiwon Park et.al.|[2610.11752](http://arxiv.org/abs/2610.11752)|N/A|
+|**2026-10-08**|**PAM-ToD: Plug-and-Play Appearance Modeling for Cross-Time-of-Day 3D Gaussian Splatting**|Kota Shimomura et.al.|[2610.11572](http://arxiv.org/abs/2610.11572)|N/A|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|N/A|
+|**2026-10-08**|**FlyMark: Training-Free Invisible Watermarking of 3D Gaussian Splatting via a Fruit Fly Connectome**|Ziyuan Luo et.al.|[2610.11364](http://arxiv.org/abs/2610.11364)|N/A|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](http://arxiv.org/abs/2610.11198)|N/A|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|N/A|
+|**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|N/A|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|N/A|
 |**2026-10-07**|**DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting**|Chanung Park et.al.|[2610.09853](http://arxiv.org/abs/2610.09853)|N/A|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|N/A|
@@ -219,5 +225,4 @@ _Select paper in 2026.08.08 - 2026.10.07_
 |**2026-08-09**|**JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views**|Jinhua Cui et.al.|[2608.08659](http://arxiv.org/abs/2608.08659)|N/A|
 |**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|N/A|
 |**2026-08-09**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](http://arxiv.org/abs/2608.08381)|N/A|
-|**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|N/A|
 

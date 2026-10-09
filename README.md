@@ -1,4 +1,4 @@
-## Select paper in 2026.08.08 - 2026.10.07
+## Select paper in 2026.08.09 - 2026.10.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|N/A|
+|**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857](http://arxiv.org/abs/2610.11857)|N/A|
+|**2026-10-08**|**VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving**|Zhaoyang Liu et.al.|[2610.11161](http://arxiv.org/abs/2610.11161)|N/A|
 |**2026-10-07**|**Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies**|Yihan Li et.al.|[2610.10479](http://arxiv.org/abs/2610.10479)|N/A|
 |**2026-10-06**|**StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing**|Ehsan Garaaghaji et.al.|[2610.09200](http://arxiv.org/abs/2610.09200)|N/A|
 |**2026-10-06**|**S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens**|Fang Li et.al.|[2610.08978](http://arxiv.org/abs/2610.08978)|N/A|
@@ -110,10 +113,8 @@
 |**2026-08-11**|**Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction**|Hang Li et.al.|[2608.11077](http://arxiv.org/abs/2608.11077)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
-|**2026-08-08**|**When Does An Extra View Help? Adapting Single-View 3D Reconstruction with Extra Imagery**|Y Huynh et.al.|[2608.08132](http://arxiv.org/abs/2608.08132)|N/A|
-|**2026-08-08**|**DA-NBV: A Direction-Aware Next-Best-View Planner for Efficient 3D Reconstruction of Ships at Sea**|Jiaming Chen et.al.|[2608.08025](http://arxiv.org/abs/2608.08025)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260808---20261007>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260809---20261008>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -160,12 +161,16 @@
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260808---20261007>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260809---20261008>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|N/A|
+|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|N/A|
+|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|N/A|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|N/A|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|N/A|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|N/A|
 |**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|N/A|
@@ -264,7 +269,7 @@
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
 |**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260808---20261007>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260809---20261008>back to top</a>)</p>
 
 ## Image Matching
 
@@ -286,13 +291,19 @@
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
 |**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](http://arxiv.org/abs/2608.09519)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260808---20261007>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260809---20261008>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-07**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|N/A|
+|**2026-10-08**|**2DGS-Planner: Rasterization-based Path Planning in 2D Gaussian Splatting Map**|Jiwon Park et.al.|[2610.11752](http://arxiv.org/abs/2610.11752)|N/A|
+|**2026-10-08**|**PAM-ToD: Plug-and-Play Appearance Modeling for Cross-Time-of-Day 3D Gaussian Splatting**|Kota Shimomura et.al.|[2610.11572](http://arxiv.org/abs/2610.11572)|N/A|
+|**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|N/A|
+|**2026-10-08**|**FlyMark: Training-Free Invisible Watermarking of 3D Gaussian Splatting via a Fruit Fly Connectome**|Ziyuan Luo et.al.|[2610.11364](http://arxiv.org/abs/2610.11364)|N/A|
+|**2026-10-08**|**3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting**|Kunxin Guang et.al.|[2610.11198](http://arxiv.org/abs/2610.11198)|N/A|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011](http://arxiv.org/abs/2610.11011)|N/A|
+|**2026-10-08**|**Gaussian Density Splatting Network**|Miao Shang et.al.|[2610.10396](http://arxiv.org/abs/2610.10396)|N/A|
 |**2026-10-07**|**NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building**|Nillan Nimal et.al.|[2610.10387](http://arxiv.org/abs/2610.10387)|N/A|
 |**2026-10-07**|**DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting**|Chanung Park et.al.|[2610.09853](http://arxiv.org/abs/2610.09853)|N/A|
 |**2026-10-07**|**TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting**|Jingxing Li et.al.|[2610.09343](http://arxiv.org/abs/2610.09343)|N/A|
@@ -493,9 +504,8 @@
 |**2026-08-09**|**JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views**|Jinhua Cui et.al.|[2608.08659](http://arxiv.org/abs/2608.08659)|N/A|
 |**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|N/A|
 |**2026-08-09**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](http://arxiv.org/abs/2608.08381)|N/A|
-|**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260808---20261007>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260809---20261008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

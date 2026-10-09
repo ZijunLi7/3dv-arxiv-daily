@@ -14,10 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.08 - 2026.10.07_
+_Select paper in 2026.08.09 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|N/A|
+|**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|N/A|
+|**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|N/A|
+|**2026-10-07**|**Region-Aware CLS Token Augmentation for Fine-Grained Image Retrieval**|Ian de Holanda Cavalcanti Bezerra et.al.|[2610.10991](http://arxiv.org/abs/2610.10991)|N/A|
 |**2026-10-07**|**Towards Accurate End-Effector Localization for UMI-Style Robotic Manipulation Teaching**|Junjie Zhang et.al.|[2610.09857](http://arxiv.org/abs/2610.09857)|N/A|
 |**2026-10-07**|**Fast and Robust Teach-and-Repeat Navigation Using MixVPR Visual Place Recognition***|Václav Truhlařík et.al.|[2610.09631](http://arxiv.org/abs/2610.09631)|N/A|
 |**2026-10-05**|**What Words Keep of a Place: Zero-Shot Language Reasoning for Cross-View Geo-Localization**|Ayesh Abu Lehyeh et.al.|[2610.07269](http://arxiv.org/abs/2610.07269)|N/A|
