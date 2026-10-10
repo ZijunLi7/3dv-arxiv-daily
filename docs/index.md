@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.08.09 - 2026.10.08
+## Select paper in 2026.08.10 - 2026.10.08
 
 ## 3D Reconstruction
 
@@ -266,7 +266,6 @@ layout: default
 |**2026-08-11**|**Rethinking Text-Based Image Retrieval in Specific Domain**|Jingyang Tan et.al.|[2608.10524](http://arxiv.org/abs/2608.10524)|N/A|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|N/A|
 |**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
-|**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|N/A|
 
 ## Image Matching
 
@@ -495,8 +494,4 @@ layout: default
 |**2026-08-11**|**Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization**|Ke Jiaxin et.al.|[2608.10602](http://arxiv.org/abs/2608.10602)|N/A|
 |**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|N/A|
 |**2026-08-10**|**LEGO: Leveled Language Gaussian Splatting**|Yuning Peng et.al.|[2608.10057](http://arxiv.org/abs/2608.10057)|N/A|
-|**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|N/A|
-|**2026-08-09**|**JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views**|Jinhua Cui et.al.|[2608.08659](http://arxiv.org/abs/2608.08659)|N/A|
-|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|N/A|
-|**2026-08-09**|**DoRF++: Spherical Representation Learning over Doppler Radiance Fields for Robust Wi-Fi Sensing**|Navid Hasanzadeh et.al.|[2608.08381](http://arxiv.org/abs/2608.08381)|N/A|
 
