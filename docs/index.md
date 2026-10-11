@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.08.10 - 2026.10.08
+## Select paper in 2026.08.11 - 2026.10.08
 
 ## 3D Reconstruction
 
@@ -115,7 +115,6 @@ layout: default
 |**2026-08-12**|**Surfsvr: 2D Surface Priors as 3D Geometric Regularizers for Sparse Voxel Reconstruction**|Yan Di et.al.|[2608.11938](http://arxiv.org/abs/2608.11938)|N/A|
 |**2026-08-11**|**Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction**|Hang Li et.al.|[2608.11077](http://arxiv.org/abs/2608.11077)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
-|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
 
 ## Depth Estimation
 
@@ -264,8 +263,6 @@ layout: default
 |**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|N/A|
 |**2026-08-11**|**Rethinking Text-Based Image Retrieval in Specific Domain**|Jingyang Tan et.al.|[2608.10524](http://arxiv.org/abs/2608.10524)|N/A|
-|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|N/A|
-|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
 
 ## Image Matching
 
@@ -285,7 +282,6 @@ layout: default
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 |**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
-|**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](http://arxiv.org/abs/2608.09519)|N/A|
 
 ## NeRF & Gaussian
 
@@ -493,5 +489,4 @@ layout: default
 |**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Junhong Lin et.al.|[2608.10682](http://arxiv.org/abs/2608.10682)|N/A|
 |**2026-08-11**|**Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization**|Ke Jiaxin et.al.|[2608.10602](http://arxiv.org/abs/2608.10602)|N/A|
 |**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|N/A|
-|**2026-08-10**|**LEGO: Leveled Language Gaussian Splatting**|Yuning Peng et.al.|[2608.10057](http://arxiv.org/abs/2608.10057)|N/A|
 

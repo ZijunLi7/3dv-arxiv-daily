@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.10 - 2026.10.08_
+_Select paper in 2026.08.11 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -220,5 +220,4 @@ _Select paper in 2026.08.10 - 2026.10.08_
 |**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Junhong Lin et.al.|[2608.10682](http://arxiv.org/abs/2608.10682)|N/A|
 |**2026-08-11**|**Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization**|Ke Jiaxin et.al.|[2608.10602](http://arxiv.org/abs/2608.10602)|N/A|
 |**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|N/A|
-|**2026-08-10**|**LEGO: Leveled Language Gaussian Splatting**|Yuning Peng et.al.|[2608.10057](http://arxiv.org/abs/2608.10057)|N/A|
 

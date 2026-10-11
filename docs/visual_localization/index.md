@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.10 - 2026.10.08_
+_Select paper in 2026.08.11 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -116,6 +116,4 @@ _Select paper in 2026.08.10 - 2026.10.08_
 |**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|N/A|
 |**2026-08-11**|**Rethinking Text-Based Image Retrieval in Specific Domain**|Jingyang Tan et.al.|[2608.10524](http://arxiv.org/abs/2608.10524)|N/A|
-|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620](http://arxiv.org/abs/2608.09620)|N/A|
-|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
 

@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.10 - 2026.10.08_
+_Select paper in 2026.08.11 - 2026.10.08_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -116,5 +116,4 @@ _Select paper in 2026.08.10 - 2026.10.08_
 |**2026-08-12**|**Surfsvr: 2D Surface Priors as 3D Geometric Regularizers for Sparse Voxel Reconstruction**|Yan Di et.al.|[2608.11938](http://arxiv.org/abs/2608.11938)|N/A|
 |**2026-08-11**|**Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction**|Hang Li et.al.|[2608.11077](http://arxiv.org/abs/2608.11077)|N/A|
 |**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
-|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146](http://arxiv.org/abs/2608.09146)|N/A|
 
