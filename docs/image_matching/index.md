@@ -14,10 +14,11 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.08.11 - 2026.10.08_
+_Select paper in 2026.08.12 - 2026.10.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|N/A|
 |**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|N/A|
 |**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167](http://arxiv.org/abs/2610.03167)|N/A|
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|N/A|
@@ -31,5 +32,4 @@ _Select paper in 2026.08.11 - 2026.10.08_
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
-|**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
 

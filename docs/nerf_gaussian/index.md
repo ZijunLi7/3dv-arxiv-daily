@@ -14,10 +14,17 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.11 - 2026.10.08_
+_Select paper in 2026.08.12 - 2026.10.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|N/A|
+|**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|N/A|
+|**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|N/A|
+|**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|N/A|
+|**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|N/A|
+|**2026-10-09**|**CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction**|Bing He et.al.|[2610.13177](http://arxiv.org/abs/2610.13177)|N/A|
+|**2026-10-09**|**Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection**|Yi Zhang et.al.|[2610.13143](http://arxiv.org/abs/2610.13143)|N/A|
 |**2026-10-08**|**2DGS-Planner: Rasterization-based Path Planning in 2D Gaussian Splatting Map**|Jiwon Park et.al.|[2610.11752](http://arxiv.org/abs/2610.11752)|N/A|
 |**2026-10-08**|**PAM-ToD: Plug-and-Play Appearance Modeling for Cross-Time-of-Day 3D Gaussian Splatting**|Kota Shimomura et.al.|[2610.11572](http://arxiv.org/abs/2610.11572)|N/A|
 |**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|N/A|
@@ -213,11 +220,4 @@ _Select paper in 2026.08.11 - 2026.10.08_
 |**2026-08-13**|**LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting**|Wenyu Li et.al.|[2608.12825](http://arxiv.org/abs/2608.12825)|N/A|
 |**2026-08-12**|**Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding**|Zongjian Ding et.al.|[2608.11928](http://arxiv.org/abs/2608.11928)|N/A|
 |**2026-08-12**|**CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting**|Jiayu Ding et.al.|[2608.11150](http://arxiv.org/abs/2608.11150)|N/A|
-|**2026-08-11**|**WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes**|Nienke Driessen et.al.|[2608.11100](http://arxiv.org/abs/2608.11100)|N/A|
-|**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
-|**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Huosen Ou et.al.|[2608.10756](http://arxiv.org/abs/2608.10756)|N/A|
-|**2026-08-11**|**Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging**|Tim-Felix Fassch et.al.|[2608.10712](http://arxiv.org/abs/2608.10712)|N/A|
-|**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Junhong Lin et.al.|[2608.10682](http://arxiv.org/abs/2608.10682)|N/A|
-|**2026-08-11**|**Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization**|Ke Jiaxin et.al.|[2608.10602](http://arxiv.org/abs/2608.10602)|N/A|
-|**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|N/A|
 

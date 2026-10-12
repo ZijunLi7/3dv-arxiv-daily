@@ -1,4 +1,4 @@
-## Select paper in 2026.08.11 - 2026.10.08
+## Select paper in 2026.08.12 - 2026.10.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Yuchen Wang et.al.|[2610.13681](http://arxiv.org/abs/2610.13681)|N/A|
+|**2026-10-08**|**Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction**|Ehsan Agha Ebrahimi et.al.|[2610.12786](http://arxiv.org/abs/2610.12786)|N/A|
+|**2026-10-08**|**Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction**|Utkarsh Saxena et.al.|[2610.12727](http://arxiv.org/abs/2610.12727)|N/A|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|N/A|
 |**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857](http://arxiv.org/abs/2610.11857)|N/A|
 |**2026-10-08**|**VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving**|Zhaoyang Liu et.al.|[2610.11161](http://arxiv.org/abs/2610.11161)|N/A|
@@ -110,10 +113,8 @@
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|N/A|
 |**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|N/A|
 |**2026-08-12**|**Surfsvr: 2D Surface Priors as 3D Geometric Regularizers for Sparse Voxel Reconstruction**|Yan Di et.al.|[2608.11938](http://arxiv.org/abs/2608.11938)|N/A|
-|**2026-08-11**|**Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction**|Hang Li et.al.|[2608.11077](http://arxiv.org/abs/2608.11077)|N/A|
-|**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260811---20261008>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260812---20261009>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -158,9 +159,8 @@
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
-|**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260811---20261008>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260812---20261009>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -260,17 +260,15 @@
 |**2026-08-14**|**Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM**|Thai Luu et.al.|[2608.14902](http://arxiv.org/abs/2608.14902)|N/A|
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027](http://arxiv.org/abs/2608.14027)|N/A|
 |**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Aaryan Sharma et.al.|[2608.12532](http://arxiv.org/abs/2608.12532)|N/A|
-|**2026-08-11**|**Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval**|Archan Dutta et.al.|[2608.11343](http://arxiv.org/abs/2608.11343)|N/A|
 |**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
-|**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|N/A|
-|**2026-08-11**|**Rethinking Text-Based Image Retrieval in Specific Domain**|Jingyang Tan et.al.|[2608.10524](http://arxiv.org/abs/2608.10524)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260811---20261008>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260812---20261009>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Efficient Confidence-Aware Densification for 3DGS**|Manuel Hofer et.al.|[2610.13541](http://arxiv.org/abs/2610.13541)|N/A|
 |**2026-10-05**|**WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification**|Turhan Can Kargin et.al.|[2610.07384](http://arxiv.org/abs/2610.07384)|N/A|
 |**2026-10-02**|**Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration**|Zhiwei Wang et.al.|[2610.03167](http://arxiv.org/abs/2610.03167)|N/A|
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|N/A|
@@ -284,14 +282,20 @@
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|N/A|
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
-|**2026-08-11**|**Multi-Level Evidence Aggregation for Robust Facial Phenotype Retrieval in Rare Genetic Disorder Prioritization**|Alexander Hustinx et.al.|[2608.11037](http://arxiv.org/abs/2608.11037)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260811---20261008>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260812---20261009>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|N/A|
+|**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|N/A|
+|**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|N/A|
+|**2026-10-09**|**A Hybrid and Hierarchical Ray Tracing Method for Efficient 3D Gaussian Rendering**|Tiancheng Zhao et.al.|[2610.13498](http://arxiv.org/abs/2610.13498)|N/A|
+|**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309](http://arxiv.org/abs/2610.13309)|N/A|
+|**2026-10-09**|**CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction**|Bing He et.al.|[2610.13177](http://arxiv.org/abs/2610.13177)|N/A|
+|**2026-10-09**|**Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection**|Yi Zhang et.al.|[2610.13143](http://arxiv.org/abs/2610.13143)|N/A|
 |**2026-10-08**|**2DGS-Planner: Rasterization-based Path Planning in 2D Gaussian Splatting Map**|Jiwon Park et.al.|[2610.11752](http://arxiv.org/abs/2610.11752)|N/A|
 |**2026-10-08**|**PAM-ToD: Plug-and-Play Appearance Modeling for Cross-Time-of-Day 3D Gaussian Splatting**|Kota Shimomura et.al.|[2610.11572](http://arxiv.org/abs/2610.11572)|N/A|
 |**2026-10-08**|**OX-NeRF: 3D X-ray Tomography Reconstruction from Sparse Views Using Implicit Neural Representation**|Thomas Welsch et.al.|[2610.11547](http://arxiv.org/abs/2610.11547)|N/A|
@@ -487,15 +491,8 @@
 |**2026-08-13**|**LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting**|Wenyu Li et.al.|[2608.12825](http://arxiv.org/abs/2608.12825)|N/A|
 |**2026-08-12**|**Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding**|Zongjian Ding et.al.|[2608.11928](http://arxiv.org/abs/2608.11928)|N/A|
 |**2026-08-12**|**CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting**|Jiayu Ding et.al.|[2608.11150](http://arxiv.org/abs/2608.11150)|N/A|
-|**2026-08-11**|**WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes**|Nienke Driessen et.al.|[2608.11100](http://arxiv.org/abs/2608.11100)|N/A|
-|**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
-|**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Huosen Ou et.al.|[2608.10756](http://arxiv.org/abs/2608.10756)|N/A|
-|**2026-08-11**|**Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging**|Tim-Felix Fassch et.al.|[2608.10712](http://arxiv.org/abs/2608.10712)|N/A|
-|**2026-08-11**|**Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction**|Junhong Lin et.al.|[2608.10682](http://arxiv.org/abs/2608.10682)|N/A|
-|**2026-08-11**|**Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization**|Ke Jiaxin et.al.|[2608.10602](http://arxiv.org/abs/2608.10602)|N/A|
-|**2026-08-11**|**CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images**|Haeyun Choi et.al.|[2608.10345](http://arxiv.org/abs/2608.10345)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260811---20261008>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260812---20261009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

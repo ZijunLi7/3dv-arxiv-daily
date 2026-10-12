@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.11 - 2026.10.08_
+_Select paper in 2026.08.12 - 2026.10.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -57,5 +57,4 @@ _Select paper in 2026.08.11 - 2026.10.08_
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 |**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 |**2026-08-12**|**Repurposing RGB-based Foundation Model for Depth Estimation on Thermal Images Using Hierarchical Supervision**|Jie Hong et.al.|[2608.11564](http://arxiv.org/abs/2608.11564)|N/A|
-|**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 

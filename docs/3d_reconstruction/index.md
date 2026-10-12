@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.11 - 2026.10.08_
+_Select paper in 2026.08.12 - 2026.10.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Yuchen Wang et.al.|[2610.13681](http://arxiv.org/abs/2610.13681)|N/A|
+|**2026-10-08**|**Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction**|Ehsan Agha Ebrahimi et.al.|[2610.12786](http://arxiv.org/abs/2610.12786)|N/A|
+|**2026-10-08**|**Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction**|Utkarsh Saxena et.al.|[2610.12727](http://arxiv.org/abs/2610.12727)|N/A|
 |**2026-10-08**|**Slot3R: Set-Associative Spatial Memory for Streaming 3D Reconstruction**|Xiyuan Zhang et.al.|[2610.12282](http://arxiv.org/abs/2610.12282)|N/A|
 |**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857](http://arxiv.org/abs/2610.11857)|N/A|
 |**2026-10-08**|**VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving**|Zhaoyang Liu et.al.|[2610.11161](http://arxiv.org/abs/2610.11161)|N/A|
@@ -114,6 +117,4 @@ _Select paper in 2026.08.11 - 2026.10.08_
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|N/A|
 |**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|N/A|
 |**2026-08-12**|**Surfsvr: 2D Surface Priors as 3D Geometric Regularizers for Sparse Voxel Reconstruction**|Yan Di et.al.|[2608.11938](http://arxiv.org/abs/2608.11938)|N/A|
-|**2026-08-11**|**Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction**|Hang Li et.al.|[2608.11077](http://arxiv.org/abs/2608.11077)|N/A|
-|**2026-08-11**|**Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models**|Seokhyun Youn et.al.|[2608.10708](http://arxiv.org/abs/2608.10708)|N/A|
 
