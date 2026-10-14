@@ -14,10 +14,19 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.13 - 2026.10.09_
+_Select paper in 2026.08.14 - 2026.10.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**RTISSLAM: In-air Imaging Sonar SLAM using a Robust Pose Graph and Occupancy Grid Mapping**|Jan Steckel et.al.|[2610.18479](http://arxiv.org/abs/2610.18479)|N/A|
+|**2026-10-12**|**Physical SLAM: Physics-aware Simultaneous Localisation and Mapping**|Guangming Wang et.al.|[2610.17260](http://arxiv.org/abs/2610.17260)|N/A|
+|**2026-10-12**|**Dense Endoluminal Mapping and Localisation from Monocular Bronchoscopy**|Salvatore Esposito et.al.|[2610.16570](http://arxiv.org/abs/2610.16570)|N/A|
+|**2026-10-12**|**Recovering from Pose-Selection Failures in Repeated Visual Localization**|Jaehyun Kim et.al.|[2610.16409](http://arxiv.org/abs/2610.16409)|N/A|
+|**2026-10-12**|**All-St3R SLAM: Real-time RGB Dynamic SLAM with Pixel-wise Motion Masking**|Yewon Kim et.al.|[2610.16143](http://arxiv.org/abs/2610.16143)|N/A|
+|**2026-10-12**|**Removing the Compute Bottleneck for Event-based Visual Place Recognition with Spiking Neural Networks**|Somayeh Hussaini et.al.|[2610.16022](http://arxiv.org/abs/2610.16022)|N/A|
+|**2026-10-10**|**RootSLAM: Square Root Bundle Adjustment for Visual-Inertial SLAM**|Tomás Santucci et.al.|[2610.15157](http://arxiv.org/abs/2610.15157)|N/A|
+|**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|N/A|
+|**2026-10-10**|**PixARG: Pixel-Asynchronous Retrieval-Augmented Diffusion for Fast and Realistic Image Generation**|Zewei Xin et.al.|[2610.14713](http://arxiv.org/abs/2610.14713)|N/A|
 |**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967](http://arxiv.org/abs/2610.11967)|N/A|
 |**2026-10-08**|**RAGNAROK: Radar-Aided Gravity-Normalized Alignment for Robust Open Keyframe-based Radar-Visual-Kinematic-Inertial SLAM**|Hanjun Kim et.al.|[2610.11531](http://arxiv.org/abs/2610.11531)|N/A|
 |**2026-10-08**|**SatFix: Absolute Visual Localization of UAVs in Satellite Maps from a Single Oblique Image**|Jiarui Zeng et.al.|[2610.11049](http://arxiv.org/abs/2610.11049)|N/A|

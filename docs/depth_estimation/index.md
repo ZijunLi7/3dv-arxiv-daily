@@ -14,10 +14,14 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.13 - 2026.10.09_
+_Select paper in 2026.08.14 - 2026.10.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-12**|**The Midas Touch for Metric Depth: Interpretable Metricization for Generalizable Depth Perception**|Mengtan Zhang et.al.|[2610.16749](http://arxiv.org/abs/2610.16749)|N/A|
+|**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|N/A|
+|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|N/A|
+|**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|N/A|
 |**2026-10-06**|**Depth-to-RGB: Repurposing a Frozen Depth Estimator for Geometry-Guided Compositing**|Sanghyun Jo et.al.|[2610.09125](http://arxiv.org/abs/2610.09125)|N/A|
 |**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|N/A|
 |**2026-10-04**|**SPACE-CLIPv2: Decoding Local Geometry from Frozen CLIP for Monocular Depth Estimation**|Hyun Song et.al.|[2610.05029](http://arxiv.org/abs/2610.05029)|N/A|
@@ -55,5 +59,4 @@ _Select paper in 2026.08.13 - 2026.10.09_
 |**2026-08-24**|**DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models**|Jeong-gi Kwak et.al.|[2608.23850](http://arxiv.org/abs/2608.23850)|N/A|
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
-|**2026-08-13**|**RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion**|Wentao Zhao et.al.|[2608.13102](http://arxiv.org/abs/2608.13102)|N/A|
 

@@ -14,10 +14,18 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.13 - 2026.10.09_
+_Select paper in 2026.08.14 - 2026.10.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**LynxScenes: A Large-Scale Real-World Benchmark for Outdoor Wheel-Legged Robot Perception, Navigation, Imagination and Reconstruction**|Jun Tian et.al.|[2610.18093](http://arxiv.org/abs/2610.18093)|N/A|
+|**2026-10-12**|**3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification**|William Grolleau et.al.|[2610.16692](http://arxiv.org/abs/2610.16692)|N/A|
+|**2026-10-12**|**BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates**|Lijian Li et.al.|[2610.16330](http://arxiv.org/abs/2610.16330)|N/A|
+|**2026-10-12**|**FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning**|Junhyeong Go et.al.|[2610.16160](http://arxiv.org/abs/2610.16160)|N/A|
+|**2026-10-12**|**Geometry-Guided Semantic Reconstruction for 3D Instance Segmentation**|Yuanhao Su et.al.|[2610.16122](http://arxiv.org/abs/2610.16122)|N/A|
+|**2026-10-11**|**Sharper Frames, Worse Rooms: Viewpoint Coverage Dominates Image Quality in Feed-Forward 3D Reconstruction**|Alibek Dadajonov et.al.|[2610.15854](http://arxiv.org/abs/2610.15854)|N/A|
+|**2026-10-10**|**Align-VAE: Aligning Attention and Geometry in VecSet VAEs for 3D Reconstruction**|Huaizhi Qu et.al.|[2610.14734](http://arxiv.org/abs/2610.14734)|N/A|
+|**2026-10-10**|**PURE: Refining Feed-forward 3D Reconstruction with Unlabeled Post-training**|Yaolong Zhu et.al.|[2610.14698](http://arxiv.org/abs/2610.14698)|N/A|
 |**2026-10-09**|**PhysForge: Material-Controllable 3D Reconstruction with Separable Components**|Yuchen Wang et.al.|[2610.13681](http://arxiv.org/abs/2610.13681)|N/A|
 |**2026-10-08**|**Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction**|Ehsan Agha Ebrahimi et.al.|[2610.12786](http://arxiv.org/abs/2610.12786)|N/A|
 |**2026-10-08**|**Zebra3D: Efficient Hybrid Foundation Models For Scalable 3D Reconstruction**|Utkarsh Saxena et.al.|[2610.12727](http://arxiv.org/abs/2610.12727)|N/A|
@@ -114,5 +122,4 @@ _Select paper in 2026.08.13 - 2026.10.09_
 |**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|N/A|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260](http://arxiv.org/abs/2608.15260)|N/A|
 |**2026-08-15**|**Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement**|San Jiang et.al.|[2608.15251](http://arxiv.org/abs/2608.15251)|N/A|
-|**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|N/A|
 

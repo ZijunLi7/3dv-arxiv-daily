@@ -14,10 +14,17 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.13 - 2026.10.09_
+_Select paper in 2026.08.14 - 2026.10.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**PUGS: Physics-Guided Uncertainty Modeling for Underwater Dynamic 3D Gaussian Splatting**|Tingjun Li et.al.|[2610.17936](http://arxiv.org/abs/2610.17936)|N/A|
+|**2026-10-13**|**PLEDGE: Progressive Lossy Error-Bounded Compression of 3D Gaussian Splatting**|Mingze Xia et.al.|[2610.17605](http://arxiv.org/abs/2610.17605)|N/A|
+|**2026-10-13**|**Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs**|Ashim Dahal et.al.|[2610.17513](http://arxiv.org/abs/2610.17513)|N/A|
+|**2026-10-12**|**3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design**|Yueling Liao et.al.|[2610.16292](http://arxiv.org/abs/2610.16292)|N/A|
+|**2026-10-12**|**DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation**|Zhifan Zeng et.al.|[2610.16177](http://arxiv.org/abs/2610.16177)|N/A|
+|**2026-10-10**|**AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction**|Zonglin Li et.al.|[2610.14963](http://arxiv.org/abs/2610.14963)|N/A|
+|**2026-10-10**|**TETRIS-4DGS: Efficient Post-Training Compression of 4D Gaussian Splatting**|Chengzhen Wu et.al.|[2610.14663](http://arxiv.org/abs/2610.14663)|N/A|
 |**2026-10-09**|**Make It Flow: Animating Water in 3D Gaussian Splatting Scenes**|Kjell Keune et.al.|[2610.13860](http://arxiv.org/abs/2610.13860)|N/A|
 |**2026-10-09**|**Gaussian Splatting with Reflections Guided by What is Seen**|Yiming Liang et.al.|[2610.13757](http://arxiv.org/abs/2610.13757)|N/A|
 |**2026-10-09**|**SplatQ: Interaction-Aware Pruning of 3D Gaussian Splatting via Quadratic Selection**|Hongbin Ye et.al.|[2610.13503](http://arxiv.org/abs/2610.13503)|N/A|
@@ -215,7 +222,4 @@ _Select paper in 2026.08.13 - 2026.10.09_
 |**2026-08-15**|**GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation**|Zhiqiang Hu et.al.|[2608.14986](http://arxiv.org/abs/2608.14986)|N/A|
 |**2026-08-14**|**Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM**|Thai Luu et.al.|[2608.14902](http://arxiv.org/abs/2608.14902)|N/A|
 |**2026-08-14**|**HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting**|Wei Zhang et.al.|[2608.14136](http://arxiv.org/abs/2608.14136)|N/A|
-|**2026-08-13**|**GS $^{2}$ CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors**|Yanming Yang et.al.|[2608.13502](http://arxiv.org/abs/2608.13502)|N/A|
-|**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](http://arxiv.org/abs/2608.13159)|N/A|
-|**2026-08-13**|**LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting**|Wenyu Li et.al.|[2608.12825](http://arxiv.org/abs/2608.12825)|N/A|
 
