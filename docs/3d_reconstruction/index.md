@@ -14,10 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.14 - 2026.10.13_
+_Select paper in 2026.08.15 - 2026.10.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Ana-Ştefania Kogălniceanu et.al.|[2610.19993](http://arxiv.org/abs/2610.19993)|N/A|
+|**2026-10-14**|**MicroSDF: Microfacet-Driven Hybrid Neural SDFs for Mixed-Reflectance Surface Reconstruction**|Lejia Ye et.al.|[2610.19681](http://arxiv.org/abs/2610.19681)|N/A|
+|**2026-10-14**|**MagicGarment: Benchmarking Single-Image Standalone 3D Garment Reconstruction**|Jia Chen et.al.|[2610.19623](http://arxiv.org/abs/2610.19623)|N/A|
+|**2026-10-13**|**Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments**|Klára Orbán et.al.|[2610.19097](http://arxiv.org/abs/2610.19097)|N/A|
+|**2026-10-13**|**MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection**|Emir Ulurak et.al.|[2610.19071](http://arxiv.org/abs/2610.19071)|N/A|
 |**2026-10-13**|**LynxScenes: A Large-Scale Real-World Benchmark for Outdoor Wheel-Legged Robot Perception, Navigation, Imagination and Reconstruction**|Jun Tian et.al.|[2610.18093](http://arxiv.org/abs/2610.18093)|N/A|
 |**2026-10-12**|**3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification**|William Grolleau et.al.|[2610.16692](http://arxiv.org/abs/2610.16692)|N/A|
 |**2026-10-12**|**BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates**|Lijian Li et.al.|[2610.16330](http://arxiv.org/abs/2610.16330)|N/A|

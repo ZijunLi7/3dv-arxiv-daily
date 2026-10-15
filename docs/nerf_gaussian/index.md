@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.14 - 2026.10.13_
+_Select paper in 2026.08.15 - 2026.10.14_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting**|Seungmi Choi et.al.|[2610.20590](http://arxiv.org/abs/2610.20590)|N/A|
+|**2026-10-14**|**Where Should the Gaussians Go? Reusable Label-Aware Allocation for Budget-Constrained Gaussian Splatting of Cinematic CT**|Bowen Xiang et.al.|[2610.20397](http://arxiv.org/abs/2610.20397)|N/A|
+|**2026-10-14**|**VisibilitySplat: Ray-Traced Occlusion for Relighting with 3D Gaussian Splatting**|Sven Kluge et.al.|[2610.19847](http://arxiv.org/abs/2610.19847)|N/A|
+|**2026-10-14**|**GS-PRM: Gaussian Visual Roadmap for Image-Goal Navigation**|Ashraf Siddique et.al.|[2610.19541](http://arxiv.org/abs/2610.19541)|N/A|
+|**2026-10-14**|**RDCompGS: Rate-Distortion Optimization for Compression of 3D Gaussian Splatting with Image Codecs**|Huiping Ren et.al.|[2610.19538](http://arxiv.org/abs/2610.19538)|N/A|
+|**2026-10-13**|**DoReMe: Dual optimization of Reconstruction and Motion estimation for self-navigated free-breathing abdominal MRI using Gaussian Splatting**|Majd Helo et.al.|[2610.19120](http://arxiv.org/abs/2610.19120)|N/A|
 |**2026-10-13**|**PUGS: Physics-Guided Uncertainty Modeling for Underwater Dynamic 3D Gaussian Splatting**|Tingjun Li et.al.|[2610.17936](http://arxiv.org/abs/2610.17936)|N/A|
 |**2026-10-13**|**PLEDGE: Progressive Lossy Error-Bounded Compression of 3D Gaussian Splatting**|Mingze Xia et.al.|[2610.17605](http://arxiv.org/abs/2610.17605)|N/A|
 |**2026-10-13**|**Gaussian Splatting for Real-Time Scene Reconstruction: Methods, Systems, and Trade-offs**|Ashim Dahal et.al.|[2610.17513](http://arxiv.org/abs/2610.17513)|N/A|
@@ -220,6 +226,4 @@ _Select paper in 2026.08.14 - 2026.10.13_
 |**2026-08-15**|**HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions**|Benjamin T. Hughes et.al.|[2608.15420](http://arxiv.org/abs/2608.15420)|N/A|
 |**2026-08-15**|**MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM**|Zhiqiang Hu et.al.|[2608.15024](http://arxiv.org/abs/2608.15024)|N/A|
 |**2026-08-15**|**GaussMemory: Task-Driven 3D Gaussian Scene Memory for Long-Horizon Robotic Manipulation**|Zhiqiang Hu et.al.|[2608.14986](http://arxiv.org/abs/2608.14986)|N/A|
-|**2026-08-14**|**Geometry-Aware Online Mapping for 3D Gaussian Splatting SLAM**|Thai Luu et.al.|[2608.14902](http://arxiv.org/abs/2608.14902)|N/A|
-|**2026-08-14**|**HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting**|Wei Zhang et.al.|[2608.14136](http://arxiv.org/abs/2608.14136)|N/A|
 
