@@ -1,4 +1,4 @@
-## Select paper in 2026.08.16 - 2026.10.15
+## Select paper in 2026.08.17 - 2026.10.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -125,7 +125,7 @@
 |**2026-08-18**|**UniQuery4R: Unified 4D Scene Reconstruction from a Single Query**|Tiancheng Chen et.al.|[2608.17283](http://arxiv.org/abs/2608.17283)|N/A|
 |**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260816---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260817---20261015>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -173,7 +173,7 @@
 |**2026-08-25**|**SiZeUp: Fast 3D Proxy from Aerial Images via Depth Ordinal Loss**|Wenjun Zhou et.al.|[2608.22821](http://arxiv.org/abs/2608.22821)|N/A|
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260816---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260817---20261015>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -281,7 +281,7 @@
 |**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](http://arxiv.org/abs/2608.17033)|N/A|
 |**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260816---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260817---20261015>back to top</a>)</p>
 
 ## Image Matching
 
@@ -303,7 +303,7 @@
 |**2026-08-24**|**Misanthrope: A Privacy-Preserving Keypoint Detector**|Francesco Vultaggio et.al.|[2608.23012](http://arxiv.org/abs/2608.23012)|N/A|
 |**2026-08-19**|**Evaluation of Image Matching Methods for Visual Odometry on UAVs**|Gašper Spagnolo et.al.|[2608.18624](http://arxiv.org/abs/2608.18624)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260816---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260817---20261015>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -515,10 +515,8 @@
 |**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|N/A|
 |**2026-08-17**|**LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting**|Louen Pottier et.al.|[2608.16324](http://arxiv.org/abs/2608.16324)|N/A|
 |**2026-08-17**|**TR-GS: High-Fidelity Sparse-View CT Volumetric Rendering via t-Distribution Gaussian Splatting and Ray-Confidence Modeling**|Zedong Xiao et.al.|[2608.16042](http://arxiv.org/abs/2608.16042)|N/A|
-|**2026-08-16**|**RoofGS: Roofline-Guided End-to-End Acceleration of 3D Gaussian Splatting**|Yang Luo et.al.|[2608.15785](http://arxiv.org/abs/2608.15785)|N/A|
-|**2026-08-16**|**Gaussian-JEPA: Joint-Embedding Predictive Learning for 3D Gaussian Splats**|Bin Ren et.al.|[2608.15651](http://arxiv.org/abs/2608.15651)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260816---20261015>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260817---20261015>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
