@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.17 - 2026.10.15_
+_Select paper in 2026.08.18 - 2026.10.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -127,5 +127,4 @@ _Select paper in 2026.08.17 - 2026.10.15_
 |**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|N/A|
 |**2026-08-18**|**GeoWeaver: Accurate Long-Sequence 3D Reconstruction via Hierarchical Geometric Assembly**|Tinghao Jiang et.al.|[2608.17389](http://arxiv.org/abs/2608.17389)|N/A|
 |**2026-08-18**|**UniQuery4R: Unified 4D Scene Reconstruction from a Single Query**|Tiancheng Chen et.al.|[2608.17283](http://arxiv.org/abs/2608.17283)|N/A|
-|**2026-08-17**|**SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis**|Yejun Zhang et.al.|[2608.16863](http://arxiv.org/abs/2608.16863)|N/A|
 

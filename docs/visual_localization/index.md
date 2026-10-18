@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.17 - 2026.10.15_
+_Select paper in 2026.08.18 - 2026.10.15_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -117,6 +117,5 @@ _Select paper in 2026.08.17 - 2026.10.15_
 |**2026-08-19**|**Composed Historical Image Retrieval by Modeling Temporal Representations**|Adrià Molina Rodríguez et.al.|[2608.18694](http://arxiv.org/abs/2608.18694)|N/A|
 |**2026-08-24**|**Evaluation of Monocular SLAM Systems on High-Altitude Nadir UAV Footage**|Gašper Spagnolo et.al.|[2608.18632](http://arxiv.org/abs/2608.18632)|N/A|
 |**2026-08-18**|**Scalix: Uncertainty-Aware Scale-Consistent Monocular SLAM**|Sebastian Barbas Laina et.al.|[2608.17553](http://arxiv.org/abs/2608.17553)|N/A|
-|**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](http://arxiv.org/abs/2608.17033)|N/A|
 |**2026-08-18**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|N/A|
 
