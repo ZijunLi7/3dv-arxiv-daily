@@ -14,10 +14,11 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.18 - 2026.10.15_
+_Select paper in 2026.08.19 - 2026.10.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Zhoufeng Xie et.al.|[2610.23250](http://arxiv.org/abs/2610.23250)|N/A|
 |**2026-10-15**|**Motion- and Gravity-Aware Feedforward 3D Reconstruction**|Shiyao Qian et.al.|[2610.22177](http://arxiv.org/abs/2610.22177)|N/A|
 |**2026-10-15**|**GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama**|Jing OU et.al.|[2610.21297](http://arxiv.org/abs/2610.21297)|N/A|
 |**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|N/A|
@@ -125,6 +126,4 @@ _Select paper in 2026.08.18 - 2026.10.15_
 |**2026-08-21**|**3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete**|Jiacheng Liu et.al.|[2608.21468](http://arxiv.org/abs/2608.21468)|N/A|
 |**2026-08-21**|**VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds**|Shania Guo et.al.|[2608.20740](http://arxiv.org/abs/2608.20740)|N/A|
 |**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|N/A|
-|**2026-08-18**|**GeoWeaver: Accurate Long-Sequence 3D Reconstruction via Hierarchical Geometric Assembly**|Tinghao Jiang et.al.|[2608.17389](http://arxiv.org/abs/2608.17389)|N/A|
-|**2026-08-18**|**UniQuery4R: Unified 4D Scene Reconstruction from a Single Query**|Tiancheng Chen et.al.|[2608.17283](http://arxiv.org/abs/2608.17283)|N/A|
 
