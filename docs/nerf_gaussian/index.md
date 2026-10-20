@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.19 - 2026.10.16_
+_Select paper in 2026.08.20 - 2026.10.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**Rethinking Sparse-View 3D Gaussian Splatting: A Few-Shot Learning Perspective on Overfitting Prevention**|Lejia Ye et.al.|[2610.25887](http://arxiv.org/abs/2610.25887)|N/A|
+|**2026-10-19**|**RxGS: Relightable Gaussian Stylization via BRDF Decomposition**|Wanrong Hong et.al.|[2610.25681](http://arxiv.org/abs/2610.25681)|N/A|
+|**2026-10-18**|**MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes**|Yifei Wang et.al.|[2610.25345](http://arxiv.org/abs/2610.25345)|N/A|
+|**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261](http://arxiv.org/abs/2610.25261)|N/A|
+|**2026-10-18**|**Localization and Neural Splatting on the Edge: An FPGA Scene Memory for Robots**|Que Haohua et.al.|[2610.25068](http://arxiv.org/abs/2610.25068)|N/A|
+|**2026-10-18**|**FineSplat: Fine Patches, Local Groups, Detailed Splats**|Hyebin Kim et.al.|[2610.25011](http://arxiv.org/abs/2610.25011)|N/A|
+|**2026-10-17**|**RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur**|Sangwoo Jung et.al.|[2610.24605](http://arxiv.org/abs/2610.24605)|N/A|
+|**2026-10-17**|**HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time**|unsu Kim et.al.|[2610.24452](http://arxiv.org/abs/2610.24452)|N/A|
 |**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|N/A|
 |**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039](http://arxiv.org/abs/2610.23039)|N/A|
 |**2026-10-16**|**Direct Conditional Parameterization for N-Dimensional Splatting**|Zhongpai Gao et.al.|[2610.22778](http://arxiv.org/abs/2610.22778)|N/A|
@@ -218,7 +226,5 @@ _Select paper in 2026.08.19 - 2026.10.16_
 |**2026-08-21**|**In-Situ Reconstruction of the International Space Station Using 3D Gaussian Splatting and Astrobee**|Hudson Kim et.al.|[2608.21685](http://arxiv.org/abs/2608.21685)|N/A|
 |**2026-08-21**|**TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction**|Chuanjin Fan et.al.|[2608.20687](http://arxiv.org/abs/2608.20687)|N/A|
 |**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li et.al.|[2608.20602](http://arxiv.org/abs/2608.20602)|N/A|
-|**2026-08-19**|**GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting**|Yechan Park et.al.|[2608.19066](http://arxiv.org/abs/2608.19066)|N/A|
-|**2026-08-19**|**CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction**|Shihan Chen et.al.|[2608.18413](http://arxiv.org/abs/2608.18413)|N/A|
 |**2026-08-20**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|N/A|
 

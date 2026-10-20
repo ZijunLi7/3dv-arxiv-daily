@@ -14,14 +14,16 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.19 - 2026.10.16_
+_Select paper in 2026.08.20 - 2026.10.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-17**|**IntriAdapt: Generalizable Intrinsic-Guided Test-Time Adaptation for Metric Geometry Estimation**|Jiaxing Chen et.al.|[2610.24607](http://arxiv.org/abs/2610.24607)|N/A|
+|**2026-10-17**|**SAP-Depth: Scene-Adaptive Probability Framework for Self-Supervised Monocular Depth Estimation**|Bowen He et.al.|[2610.24506](http://arxiv.org/abs/2610.24506)|N/A|
 |**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600](http://arxiv.org/abs/2610.23600)|N/A|
 |**2026-10-12**|**The Midas Touch for Metric Depth: Interpretable Metricization for Generalizable Depth Perception**|Mengtan Zhang et.al.|[2610.16749](http://arxiv.org/abs/2610.16749)|N/A|
 |**2026-10-11**|**Harnessing SPAD Noise: Test-Time Gated Attention for Indoor Depth Estimation**|Yiquan Gao et.al.|[2610.15431](http://arxiv.org/abs/2610.15431)|N/A|
-|**2026-10-11**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|N/A|
+|**2026-10-18**|**GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision**|Rui Wang et.al.|[2610.15280](http://arxiv.org/abs/2610.15280)|N/A|
 |**2026-10-10**|**DSM-Free UAV Visual Localization via Latent-Depth Variable Projection and Structure-Adaptive Coupling**|Yibin Ye et.al.|[2610.14945](http://arxiv.org/abs/2610.14945)|N/A|
 |**2026-10-06**|**Depth-to-RGB: Repurposing a Frozen Depth Estimator for Geometry-Guided Compositing**|Sanghyun Jo et.al.|[2610.09125](http://arxiv.org/abs/2610.09125)|N/A|
 |**2026-10-06**|**M3SunAgent: Monocular 3D Spatial Understanding Agent for Metric Depth Estimation and 3D Visual Grounding**|Jinsong Zhang et.al.|[2610.07982](http://arxiv.org/abs/2610.07982)|N/A|

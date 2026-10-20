@@ -14,14 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.19 - 2026.10.16_
+_Select paper in 2026.08.20 - 2026.10.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects**|Guoqin Tang et.al.|[2610.25840](http://arxiv.org/abs/2610.25840)|N/A|
 |**2026-10-16**|**LonGaussian: Tracking Foundation Priors for Long-Context Feedforward Gaussian Reconstruction**|Zhoufeng Xie et.al.|[2610.23250](http://arxiv.org/abs/2610.23250)|N/A|
 |**2026-10-15**|**Motion- and Gravity-Aware Feedforward 3D Reconstruction**|Shiyao Qian et.al.|[2610.22177](http://arxiv.org/abs/2610.22177)|N/A|
 |**2026-10-15**|**GeoPano: Towards Geometrically Accurate 3D Reconstruction from a Single Panorama**|Jing OU et.al.|[2610.21297](http://arxiv.org/abs/2610.21297)|N/A|
-|**2026-10-15**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|N/A|
+|**2026-10-19**|**RoboCloth: A Large-Scale Real Cloth Material Dataset for Neural Reflectance Reconstruction**|Zhen Li et.al.|[2610.21090](http://arxiv.org/abs/2610.21090)|N/A|
 |**2026-10-14**|**Why 3D Reconstruction Breaks Down on Under-Ice AUV Video, and How to Predict It**|Ana-Ştefania Kogălniceanu et.al.|[2610.19993](http://arxiv.org/abs/2610.19993)|N/A|
 |**2026-10-14**|**MicroSDF: Microfacet-Driven Hybrid Neural SDFs for Mixed-Reflectance Surface Reconstruction**|Lejia Ye et.al.|[2610.19681](http://arxiv.org/abs/2610.19681)|N/A|
 |**2026-10-14**|**MagicGarment: Benchmarking Single-Image Standalone 3D Garment Reconstruction**|Jia Chen et.al.|[2610.19623](http://arxiv.org/abs/2610.19623)|N/A|
@@ -125,5 +126,4 @@ _Select paper in 2026.08.19 - 2026.10.16_
 |**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039](http://arxiv.org/abs/2608.22039)|N/A|
 |**2026-08-21**|**3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete**|Jiacheng Liu et.al.|[2608.21468](http://arxiv.org/abs/2608.21468)|N/A|
 |**2026-08-21**|**VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds**|Shania Guo et.al.|[2608.20740](http://arxiv.org/abs/2608.20740)|N/A|
-|**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|N/A|
 
