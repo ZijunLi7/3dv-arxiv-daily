@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.22 - 2026.10.21_
+_Select paper in 2026.08.23 - 2026.10.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|N/A|
+|**2026-10-22**|**Consistent Distributed Invariant EKF SLAM with Point and Object Features**|Mengya Xu et.al.|[2610.31221](http://arxiv.org/abs/2610.31221)|N/A|
+|**2026-10-22**|**Evaluation of Front-End Feature Matching for Lunar Visual SLAM**|Guillem Casadesus Vila et.al.|[2610.30774](http://arxiv.org/abs/2610.30774)|N/A|
 |**2026-10-20**|**Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval**|Yuqian Zheng et.al.|[2610.27538](http://arxiv.org/abs/2610.27538)|N/A|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|N/A|
 |**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110](http://arxiv.org/abs/2610.27110)|N/A|

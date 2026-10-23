@@ -14,15 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.22 - 2026.10.21_
+_Select paper in 2026.08.23 - 2026.10.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|N/A|
+|**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|N/A|
+|**2026-10-22**|**GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis**|Henglei Lv et.al.|[2610.30619](http://arxiv.org/abs/2610.30619)|N/A|
+|**2026-10-21**|**R4DGS: Referring Segmentation in 4D Gaussian Splatting**|Bangpu Chen et.al.|[2610.30326](http://arxiv.org/abs/2610.30326)|N/A|
 |**2026-10-21**|**ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization**|Jian Xu et.al.|[2610.30013](http://arxiv.org/abs/2610.30013)|N/A|
 |**2026-10-21**|**AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting**|Rodion Shkokov et.al.|[2610.29374](http://arxiv.org/abs/2610.29374)|N/A|
 |**2026-10-21**|**DriftNeRF: Cross-Ray Density Drifting for Sparse-View Neural Radiance Fields**|Juntang Wang et.al.|[2610.29106](http://arxiv.org/abs/2610.29106)|N/A|
 |**2026-10-20**|**KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting**|Radu Beche et.al.|[2610.28615](http://arxiv.org/abs/2610.28615)|N/A|
-|**2026-10-20**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|N/A|
+|**2026-10-21**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|N/A|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|N/A|
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|N/A|
 |**2026-10-20**|**Geometry Regularization for Vanilla NeRF via Self-Supervised Cross-Ray Consistency**|Zongji Wang et.al.|[2610.27776](http://arxiv.org/abs/2610.27776)|N/A|
@@ -231,7 +235,4 @@ _Select paper in 2026.08.22 - 2026.10.21_
 |**2026-08-24**|**Seeing the Unseen: Semantic-in-Gaussian for Sparse-View 3D Generalization**|Zeyang Bai et.al.|[2608.22740](http://arxiv.org/abs/2608.22740)|N/A|
 |**2026-08-23**|**M $^3$ ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression**|Xinhui Liu et.al.|[2608.22465](http://arxiv.org/abs/2608.22465)|N/A|
 |**2026-08-23**|**Fast and Compact 3D Gaussian Splatting with Polarized Opacity Prior**|Zi-Ming Wang et.al.|[2608.22344](http://arxiv.org/abs/2608.22344)|N/A|
-|**2026-08-22**|**Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos**|Xiaoyang Liu et.al.|[2608.22102](http://arxiv.org/abs/2608.22102)|N/A|
-|**2026-08-22**|**GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors**|Xinhui Liu et.al.|[2608.21849](http://arxiv.org/abs/2608.21849)|N/A|
-|**2026-08-22**|**Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering**|Ankit Dhiman et.al.|[2608.21828](http://arxiv.org/abs/2608.21828)|N/A|
 

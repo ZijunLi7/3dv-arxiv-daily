@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.22 - 2026.10.21_
+_Select paper in 2026.08.23 - 2026.10.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife**|Muhammad Aamir et.al.|[2610.31123](http://arxiv.org/abs/2610.31123)|N/A|
 |**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880](http://arxiv.org/abs/2610.28880)|N/A|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|N/A|
 |**2026-10-19**|**Which Depth Estimator for Jetson AGX Orin? A 2026 Benchmark of Monocular and Stereo Methods**|Leaf Jiang et.al.|[2610.27199](http://arxiv.org/abs/2610.27199)|N/A|

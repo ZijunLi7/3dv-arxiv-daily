@@ -14,10 +14,14 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.22 - 2026.10.21_
+_Select paper in 2026.08.23 - 2026.10.22_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields**|Namitha Guruprasad et.al.|[2610.31645](http://arxiv.org/abs/2610.31645)|N/A|
+|**2026-10-22**|**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**|Zunnan Xu et.al.|[2610.31635](http://arxiv.org/abs/2610.31635)|N/A|
+|**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Wei Zhang et.al.|[2610.31320](http://arxiv.org/abs/2610.31320)|N/A|
+|**2026-10-22**|**AgentDreamer: Agentic 3D Motion Reasoning for Text-Controllable Physics Simulation**|Mijeong Kim et.al.|[2610.30679](http://arxiv.org/abs/2610.30679)|N/A|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936](http://arxiv.org/abs/2610.29936)|N/A|
 |**2026-10-21**|**GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models**|Qinfan Zhang et.al.|[2610.29866](http://arxiv.org/abs/2610.29866)|N/A|
 |**2026-10-21**|**BlazeVGGT: 13x Faster VGGT at 2,000 Frames via Camera Token without Training**|Shujun Yao et.al.|[2610.29454](http://arxiv.org/abs/2610.29454)|N/A|
@@ -128,6 +132,4 @@ _Select paper in 2026.08.22 - 2026.10.21_
 |**2026-08-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al.|[2608.26752](http://arxiv.org/abs/2608.26752)|N/A|
 |**2026-08-26**|**GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation**|Yuqing Jiang et.al.|[2608.25659](http://arxiv.org/abs/2608.25659)|N/A|
 |**2026-08-25**|**GaussianWAM: Distilling Geometry and Semantics from 3D Gaussian Fields into World-Action Models**|Zijian Zhang et.al.|[2608.24714](http://arxiv.org/abs/2608.24714)|N/A|
-|**2026-08-22**|**Robust Global Structure-from-Motion via View Graph Pruning**|Jiamin Xu et.al.|[2608.22054](http://arxiv.org/abs/2608.22054)|N/A|
-|**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039](http://arxiv.org/abs/2608.22039)|N/A|
 
