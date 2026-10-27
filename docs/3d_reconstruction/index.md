@@ -14,10 +14,17 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.26 - 2026.10.23_
+_Select paper in 2026.08.27 - 2026.10.26_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Does VGGT Know What It Does Not Know?**|Adityan Thirumani Srinivasan et.al.|[2610.35806](http://arxiv.org/abs/2610.35806)|N/A|
+|**2026-10-26**|**Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction**|Íñigo Cirauqui-Viloria et.al.|[2610.35621](http://arxiv.org/abs/2610.35621)|N/A|
+|**2026-10-26**|**Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU**|Davide Cuttini et.al.|[2610.35554](http://arxiv.org/abs/2610.35554)|N/A|
+|**2026-10-26**|**Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization**|Tze Ho Elden Tse et.al.|[2610.35501](http://arxiv.org/abs/2610.35501)|N/A|
+|**2026-10-25**|**Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns**|Xinjie Zhou et.al.|[2610.33988](http://arxiv.org/abs/2610.33988)|N/A|
+|**2026-10-24**|**FreeView: Robust 3D Reconstruction from Uncurated Views**|Junho Kim et.al.|[2610.33656](http://arxiv.org/abs/2610.33656)|N/A|
+|**2026-10-24**|**GeoLift: Grounding Video Spatial Reasoning in Explicit 3D Maps**|Xinglin Li et.al.|[2610.33558](http://arxiv.org/abs/2610.33558)|N/A|
 |**2026-10-22**|**OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields**|Namitha Guruprasad et.al.|[2610.31645](http://arxiv.org/abs/2610.31645)|N/A|
 |**2026-10-22**|**HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction**|Zunnan Xu et.al.|[2610.31635](http://arxiv.org/abs/2610.31635)|N/A|
 |**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Wei Zhang et.al.|[2610.31320](http://arxiv.org/abs/2610.31320)|N/A|
@@ -130,5 +137,4 @@ _Select paper in 2026.08.26 - 2026.10.23_
 |**2026-08-28**|**3D-USE: From Image-Level to Scene-Level Underwater Enhancement**|Jieyu Yuan et.al.|[2608.28020](http://arxiv.org/abs/2608.28020)|N/A|
 |**2026-08-27**|**Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction**|Jiarong Han et.al.|[2608.27529](http://arxiv.org/abs/2608.27529)|N/A|
 |**2026-08-27**|**Glass Surface Detection Grounded in 3D Visual Geometry**|Yiwei Lu et.al.|[2608.26752](http://arxiv.org/abs/2608.26752)|N/A|
-|**2026-08-26**|**GaussianDream++: Efficient 3D Gaussian World Modeling for Robotic Manipulation**|Yuqing Jiang et.al.|[2608.25659](http://arxiv.org/abs/2608.25659)|N/A|
 
