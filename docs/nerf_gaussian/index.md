@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.28 - 2026.10.27_
+_Select paper in 2026.08.29 - 2026.10.27_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -239,5 +239,4 @@ _Select paper in 2026.08.28 - 2026.10.27_
 |**2026-08-29**|**Elastic Triangle Splatting**|Tian Shi et.al.|[2608.29106](http://arxiv.org/abs/2608.29106)|N/A|
 |**2026-08-29**|**DReSG: Diffusion Residuals for Stylized Gaussian Splatting**|Zhongliang Liu et.al.|[2608.29048](http://arxiv.org/abs/2608.29048)|N/A|
 |**2026-08-29**|**RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos**|Wenting Wang et.al.|[2608.29003](http://arxiv.org/abs/2608.29003)|N/A|
-|**2026-08-28**|**WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild**|Yuhao Bai et.al.|[2608.28240](http://arxiv.org/abs/2608.28240)|N/A|
 
