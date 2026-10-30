@@ -14,10 +14,13 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.08.29 - 2026.10.27_
+_Select paper in 2026.08.30 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model**|Xuanang Gao et.al.|[2610.38587](http://arxiv.org/abs/2610.38587)|N/A|
+|**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|N/A|
+|**2026-10-27**|**Efficacy of Monocular Depth Estimation in Lunar Environments**|Michael W. Lanighan et.al.|[2610.38080](http://arxiv.org/abs/2610.38080)|N/A|
 |**2026-10-27**|**Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU**|Davide Cuttini et.al.|[2610.35554](http://arxiv.org/abs/2610.35554)|N/A|
 |**2026-10-26**|**Zero-Shot Monocular Depth Estimation for Visual Perception in Lower-Limb Prostheses**|Ishi Vijayvergiya et.al.|[2610.35018](http://arxiv.org/abs/2610.35018)|N/A|
 |**2026-10-22**|**WildDepth-v2: A Synchronized RGB--LiDAR--Radar Dataset and Benchmark for Metric Depth, Motion, and Tracking of Wildlife**|Muhammad Aamir et.al.|[2610.31123](http://arxiv.org/abs/2610.31123)|N/A|

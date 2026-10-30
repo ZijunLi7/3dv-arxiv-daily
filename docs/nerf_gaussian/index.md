@@ -14,10 +14,15 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.29 - 2026.10.27_
+_Select paper in 2026.08.30 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting**|Houqiang Zhong et.al.|[2610.39399](http://arxiv.org/abs/2610.39399)|N/A|
+|**2026-10-29**|**COGS: A Diagnostic Benchmark for Attribute-Aware Object-Level 3D Gaussian Splatting Perception**|Zheng Xiao et.al.|[2610.39201](http://arxiv.org/abs/2610.39201)|N/A|
+|**2026-10-28**|**GradSplat: Gradients Inside the Forward Pass for Feed-Forward 3D Gaussian Splatting**|Jingong Chen et.al.|[2610.38951](http://arxiv.org/abs/2610.38951)|N/A|
+|**2026-10-28**|**BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget**|Muyu Xu et.al.|[2610.38278](http://arxiv.org/abs/2610.38278)|N/A|
+|**2026-10-27**|**GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction**|Allen Tu et.al.|[2610.37818](http://arxiv.org/abs/2610.37818)|N/A|
 |**2026-10-27**|**CTBakeGS: training-free baking of photorealistic CT volume renderings into 3D Gaussian splats**|Haruki Fukuda et.al.|[2610.37406](http://arxiv.org/abs/2610.37406)|N/A|
 |**2026-10-27**|**DomeGS: Perceptually Consistent Background Completion for Unbounded 3D Gaussian Splatting in Virtual Reality**|Anastasiya Pechko et.al.|[2610.37172](http://arxiv.org/abs/2610.37172)|N/A|
 |**2026-10-27**|**GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing**|Jinxin Ai et.al.|[2610.37036](http://arxiv.org/abs/2610.37036)|N/A|
@@ -235,8 +240,4 @@ _Select paper in 2026.08.29 - 2026.10.27_
 |**2026-08-31**|**ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation**|Jiahao Wu et.al.|[2608.30184](http://arxiv.org/abs/2608.30184)|N/A|
 |**2026-08-30**|**When 3D Gaussian Splatting Recovers Real Surfaces**|Songhe Wang et.al.|[2608.30054](http://arxiv.org/abs/2608.30054)|N/A|
 |**2026-08-30**|**As-Rigid-As-Possible Deformation of Gaussian Radiance Fields**|Xinhao Tong et.al.|[2608.29538](http://arxiv.org/abs/2608.29538)|N/A|
-|**2026-08-29**|**GSPotential: Camera Potential Field for Sparse-View 3D Gaussian Splatting**|Zeyuan An et.al.|[2608.29346](http://arxiv.org/abs/2608.29346)|N/A|
-|**2026-08-29**|**Elastic Triangle Splatting**|Tian Shi et.al.|[2608.29106](http://arxiv.org/abs/2608.29106)|N/A|
-|**2026-08-29**|**DReSG: Diffusion Residuals for Stylized Gaussian Splatting**|Zhongliang Liu et.al.|[2608.29048](http://arxiv.org/abs/2608.29048)|N/A|
-|**2026-08-29**|**RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos**|Wenting Wang et.al.|[2608.29003](http://arxiv.org/abs/2608.29003)|N/A|
 

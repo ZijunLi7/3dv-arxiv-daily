@@ -14,12 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.29 - 2026.10.27_
+_Select paper in 2026.08.30 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-28**|**Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts**|Noâm Boussouf et.al.|[2610.38358](http://arxiv.org/abs/2610.38358)|N/A|
 |**2026-10-27**|**Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction**|Haoyu Yao et.al.|[2610.37046](http://arxiv.org/abs/2610.37046)|N/A|
-|**2026-10-27**|**GPA-VGGT: Geometry-Preserving Acceleration of VGGT**|Muyeol Sung et.al.|[2610.37000](http://arxiv.org/abs/2610.37000)|N/A|
+|**2026-10-28**|**GPA-VGGT: Geometry-Preserving Acceleration of VGGT**|Muyeol Sung et.al.|[2610.37000](http://arxiv.org/abs/2610.37000)|N/A|
 |**2026-10-27**|**HoloRecon: Incremental Reconstruction of Long-Range Panoramas with Global Consistency**|Zhuoxiao Li et.al.|[2610.36876](http://arxiv.org/abs/2610.36876)|N/A|
 |**2026-10-26**|**Any3R: Feedforward 3D Reconstruction from Any Camera Type**|Jingong Chen et.al.|[2610.36150](http://arxiv.org/abs/2610.36150)|N/A|
 |**2026-10-26**|**E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling**|X-Era AI Lab Team et.al.|[2610.36011](http://arxiv.org/abs/2610.36011)|N/A|
@@ -131,9 +132,5 @@ _Select paper in 2026.08.29 - 2026.10.27_
 |**2026-09-01**|**On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios**|Zhe Shen et.al.|[2609.00923](http://arxiv.org/abs/2609.00923)|N/A|
 |**2026-09-02**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|N/A|
 |**2026-08-30**|**GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame**|Zhe Dong et.al.|[2608.29680](http://arxiv.org/abs/2608.29680)|N/A|
-|**2026-08-29**|**LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing**|Haonan Zhou et.al.|[2608.29269](http://arxiv.org/abs/2608.29269)|N/A|
-|**2026-08-29**|**Ground-to-Satellite Localization in Unconstrained Image Collections for 3D Scene Reconstruction**|Angel Daruna et.al.|[2608.29211](http://arxiv.org/abs/2608.29211)|N/A|
-|**2026-08-29**|**Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding**|Boyu Cai et.al.|[2608.29177](http://arxiv.org/abs/2608.29177)|N/A|
-|**2026-08-29**|**Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models**|Shuangkang Fang et.al.|[2608.29137](http://arxiv.org/abs/2608.29137)|N/A|
 |**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 

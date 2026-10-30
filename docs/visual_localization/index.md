@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.08.29 - 2026.10.27_
+_Select paper in 2026.08.30 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Smartphone Indoor Localization Enhanced by Hierarchical Multi-Sensor Context Recognition**|Wenhui Feng et.al.|[2610.39691](http://arxiv.org/abs/2610.39691)|N/A|
+|**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141](http://arxiv.org/abs/2610.38141)|N/A|
+|**2026-10-27**|**What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine**|Saransh Kumar Gupta et.al.|[2610.37867](http://arxiv.org/abs/2610.37867)|N/A|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|N/A|
 |**2026-10-27**|**LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM**|Da Li et.al.|[2610.36853](http://arxiv.org/abs/2610.36853)|N/A|
 |**2026-10-26**|**SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation**|Ziang Guo et.al.|[2610.36312](http://arxiv.org/abs/2610.36312)|N/A|
@@ -119,7 +122,5 @@ _Select paper in 2026.08.29 - 2026.10.27_
 |**2026-09-02**|**Aggregating Neighbor Embedding Projection and Rank-Based Manifold Learning for Image Retrieval**|Vinicius Atsushi Sato Kawai et.al.|[2609.01963](http://arxiv.org/abs/2609.01963)|N/A|
 |**2026-09-01**|**VOIM: Training-Free Open-Vocabulary 3D Instance Mapping for RGB-D and Monocular SLAM**|Sangmin Song et.al.|[2609.00775](http://arxiv.org/abs/2609.00775)|N/A|
 |**2026-08-31**|**Failure or Drift? Evaluating Monocular SLAM under Synthetic and Real-World Corruptions**|Abhay Skaria Thomas et.al.|[2608.30690](http://arxiv.org/abs/2608.30690)|N/A|
-|**2026-08-29**|**Context-Aware Interpretable Representations for Retrieval and Graph Convolutional Network Classification**|Thiago César Castilho Almeida et.al.|[2608.29004](http://arxiv.org/abs/2608.29004)|N/A|
-|**2026-08-29**|**RoSe-SLAM: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos**|Wenting Wang et.al.|[2608.29003](http://arxiv.org/abs/2608.29003)|N/A|
 |**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 
