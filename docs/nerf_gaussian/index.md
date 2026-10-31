@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.08.30 - 2026.10.29_
+_Select paper in 2026.08.31 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -238,6 +238,4 @@ _Select paper in 2026.08.30 - 2026.10.29_
 |**2026-08-31**|**SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting**|Haozheng Yu et.al.|[2608.31023](http://arxiv.org/abs/2608.31023)|N/A|
 |**2026-08-31**|**CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels**|Jirong Li et.al.|[2608.30342](http://arxiv.org/abs/2608.30342)|N/A|
 |**2026-08-31**|**ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation**|Jiahao Wu et.al.|[2608.30184](http://arxiv.org/abs/2608.30184)|N/A|
-|**2026-08-30**|**When 3D Gaussian Splatting Recovers Real Surfaces**|Songhe Wang et.al.|[2608.30054](http://arxiv.org/abs/2608.30054)|N/A|
-|**2026-08-30**|**As-Rigid-As-Possible Deformation of Gaussian Radiance Fields**|Xinhao Tong et.al.|[2608.29538](http://arxiv.org/abs/2608.29538)|N/A|
 

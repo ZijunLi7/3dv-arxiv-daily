@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.08.30 - 2026.10.29_
+_Select paper in 2026.08.31 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -131,6 +131,5 @@ _Select paper in 2026.08.30 - 2026.10.29_
 |**2026-09-01**|**TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views**|Skanda Koppula et.al.|[2609.01899](http://arxiv.org/abs/2609.01899)|N/A|
 |**2026-09-01**|**On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios**|Zhe Shen et.al.|[2609.00923](http://arxiv.org/abs/2609.00923)|N/A|
 |**2026-09-02**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|N/A|
-|**2026-08-30**|**GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame**|Zhe Dong et.al.|[2608.29680](http://arxiv.org/abs/2608.29680)|N/A|
 |**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 

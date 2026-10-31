@@ -14,7 +14,7 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.08.30 - 2026.10.29_
+_Select paper in 2026.08.31 - 2026.10.29_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|

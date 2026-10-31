@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.08.30 - 2026.10.29
+## Select paper in 2026.08.31 - 2026.10.29
 
 ## 3D Reconstruction
 
@@ -130,7 +130,6 @@ layout: default
 |**2026-09-01**|**TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views**|Skanda Koppula et.al.|[2609.01899](http://arxiv.org/abs/2609.01899)|N/A|
 |**2026-09-01**|**On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios**|Zhe Shen et.al.|[2609.00923](http://arxiv.org/abs/2609.00923)|N/A|
 |**2026-09-02**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|N/A|
-|**2026-08-30**|**GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame**|Zhe Dong et.al.|[2608.29680](http://arxiv.org/abs/2608.29680)|N/A|
 |**2026-08-31**|**GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping**|Xiang Yang et.al.|[2608.28288](http://arxiv.org/abs/2608.28288)|N/A|
 
 ## Depth Estimation
@@ -183,7 +182,6 @@ layout: default
 |**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|N/A|
 |**2026-09-01**|**Monocular Depth Estimation from a Single Image: Progress and Opportunities**|Muxin Liu et.al.|[2609.01172](http://arxiv.org/abs/2609.01172)|N/A|
 |**2026-08-31**|**Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention**|Bingde Liu et.al.|[2608.30129](http://arxiv.org/abs/2608.30129)|N/A|
-|**2026-08-30**|**OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes**|Muxin Liu et.al.|[2608.29881](http://arxiv.org/abs/2608.29881)|N/A|
 |**2026-08-31**|**PXDepth: Pixel-Space Modeling for Structure Preserving Monocular Depth Estimation**|Zhiyuan Yuan et.al.|[2608.16984](http://arxiv.org/abs/2608.16984)|N/A|
 
 ## Visual Localization
@@ -544,6 +542,4 @@ layout: default
 |**2026-08-31**|**SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting**|Haozheng Yu et.al.|[2608.31023](http://arxiv.org/abs/2608.31023)|N/A|
 |**2026-08-31**|**CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels**|Jirong Li et.al.|[2608.30342](http://arxiv.org/abs/2608.30342)|N/A|
 |**2026-08-31**|**ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation**|Jiahao Wu et.al.|[2608.30184](http://arxiv.org/abs/2608.30184)|N/A|
-|**2026-08-30**|**When 3D Gaussian Splatting Recovers Real Surfaces**|Songhe Wang et.al.|[2608.30054](http://arxiv.org/abs/2608.30054)|N/A|
-|**2026-08-30**|**As-Rigid-As-Possible Deformation of Gaussian Radiance Fields**|Xinhao Tong et.al.|[2608.29538](http://arxiv.org/abs/2608.29538)|N/A|
 
