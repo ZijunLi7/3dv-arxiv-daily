@@ -14,10 +14,11 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.01 - 2026.10.29_
+_Select paper in 2026.09.02 - 2026.10.30_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**EgoHSI3R: Online 4D Hand-Scene Interaction Reconstruction from Egocentric Video**|Mingzhi Pei et.al.|[2610.40832](http://arxiv.org/abs/2610.40832)|N/A|
 |**2026-10-28**|**Volley3D: Unified 3D Full-Sequence Reconstruction from Monocular Broadcasts**|Noâm Boussouf et.al.|[2610.38358](http://arxiv.org/abs/2610.38358)|N/A|
 |**2026-10-27**|**Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction**|Haoyu Yao et.al.|[2610.37046](http://arxiv.org/abs/2610.37046)|N/A|
 |**2026-10-28**|**GPA-VGGT: Geometry-Preserving Acceleration of VGGT**|Muyeol Sung et.al.|[2610.37000](http://arxiv.org/abs/2610.37000)|N/A|
@@ -127,8 +128,5 @@ _Select paper in 2026.09.01 - 2026.10.29_
 |**2026-09-04**|**HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction**|Ziding Zhao et.al.|[2609.04718](http://arxiv.org/abs/2609.04718)|N/A|
 |**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|N/A|
 |**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174](http://arxiv.org/abs/2609.04174)|N/A|
-|**2026-09-01**|**Automated Maize Ear Phenotyping Using 3D Reconstructions**|Ritwesh A. Kumar et.al.|[2609.01921](http://arxiv.org/abs/2609.01921)|N/A|
-|**2026-09-01**|**TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views**|Skanda Koppula et.al.|[2609.01899](http://arxiv.org/abs/2609.01899)|N/A|
-|**2026-09-01**|**On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios**|Zhe Shen et.al.|[2609.00923](http://arxiv.org/abs/2609.00923)|N/A|
 |**2026-09-02**|**A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction**|Nanxing Nick Deng et.al.|[2608.29705](http://arxiv.org/abs/2608.29705)|N/A|
 
