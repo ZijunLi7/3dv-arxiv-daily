@@ -14,10 +14,11 @@ title: Image Matching
 
 ## Image Matching
 
-_Select paper in 2026.09.03 - 2026.11.02_
+_Select paper in 2026.09.04 - 2026.11.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps**|Nafie El Amrani et.al.|[2611.05083](http://arxiv.org/abs/2611.05083)|N/A|
 |**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|N/A|
 |**2026-10-29**|**Comprehensive empirical evaluation of feature extractors in computer vision**|Murat Isik et.al.|[2610.39551](http://arxiv.org/abs/2610.39551)|N/A|
 |**2026-10-28**|**Aligning Misaligned Benchmarks for Single-View Novel View Synthesis**|Yang-Che Tseng et.al.|[2610.38349](http://arxiv.org/abs/2610.38349)|N/A|

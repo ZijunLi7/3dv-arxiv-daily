@@ -14,10 +14,11 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.03 - 2026.11.02_
+_Select paper in 2026.09.04 - 2026.11.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation**|Jaemin Choi et.al.|[2611.04491](http://arxiv.org/abs/2611.04491)|N/A|
 |**2026-11-01**|**Depth Anyviewpoint? Evaluating Monocular Depth Over Viewpoint Sequences**|Theo Rode et.al.|[2611.02203](http://arxiv.org/abs/2611.02203)|N/A|
 |**2026-11-01**|**UA-Depth: Uncertainty-Aware Depth Restoration for Material-Agnostic Object Manipulation**|Rui Cao et.al.|[2611.01645](http://arxiv.org/abs/2611.01645)|N/A|
 |**2026-11-01**|**Detecting Generated-Depth Injection Attacks on RGB-D Place Authentication**|Seigo Kawachi et.al.|[2611.01550](http://arxiv.org/abs/2611.01550)|N/A|
@@ -64,5 +65,4 @@ _Select paper in 2026.09.03 - 2026.11.02_
 |**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|N/A|
 |**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|N/A|
 |**2026-09-04**|**Weather-Conditioned Depth Anything**|Zhaoming Xu et.al.|[2609.04827](http://arxiv.org/abs/2609.04827)|N/A|
-|**2026-09-03**|**DART: Depth-as-Target Pretraining for Surgical Vision Foundation Models**|John J. Han et.al.|[2609.04555](http://arxiv.org/abs/2609.04555)|N/A|
 

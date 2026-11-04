@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.03 - 2026.11.02_
+_Select paper in 2026.09.04 - 2026.11.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction**|Zhenxiang Xiong et.al.|[2611.04221](http://arxiv.org/abs/2611.04221)|N/A|
+|**2026-10-31**|**Physics-Informed Functional Tucker Method with RKHS Factors for Sparse Spatiotemporal Reconstruction**|Zhengyang Liu et.al.|[2611.03717](http://arxiv.org/abs/2611.03717)|N/A|
 |**2026-11-02**|**Solv3R: 3D Looped Transformer as a Multi-view Solver**|Jeong-gi Kwak et.al.|[2611.02857](http://arxiv.org/abs/2611.02857)|N/A|
 |**2026-11-01**|**Lie Routing Vision Language Models for View-Robust 3D Understanding**|Jingjun Yi et.al.|[2611.02306](http://arxiv.org/abs/2611.02306)|N/A|
 |**2026-11-01**|**Reconstruction as Spatial Evaluation: Diagnosing Cross-View Spatial Intelligence in Large Vision-Language Models**|Junfei Wu et.al.|[2611.02026](http://arxiv.org/abs/2611.02026)|N/A|
@@ -131,6 +133,4 @@ _Select paper in 2026.09.03 - 2026.11.02_
 |**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Yuankun Yang et.al.|[2609.06099](http://arxiv.org/abs/2609.06099)|N/A|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|N/A|
 |**2026-09-04**|**HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction**|Ziding Zhao et.al.|[2609.04718](http://arxiv.org/abs/2609.04718)|N/A|
-|**2026-09-03**|**Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction**|Chin-Yang Lin et.al.|[2609.04201](http://arxiv.org/abs/2609.04201)|N/A|
-|**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174](http://arxiv.org/abs/2609.04174)|N/A|
 

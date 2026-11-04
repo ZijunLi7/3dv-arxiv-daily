@@ -14,10 +14,15 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.03 - 2026.11.02_
+_Select paper in 2026.09.04 - 2026.11.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|N/A|
+|**2026-11-03**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|N/A|
+|**2026-11-03**|**Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models**|Junsung Park et.al.|[2611.04903](http://arxiv.org/abs/2611.04903)|N/A|
+|**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|N/A|
+|**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932](http://arxiv.org/abs/2611.03932)|N/A|
 |**2026-11-02**|**A Tightly Coupled Magnetic-Inertial SLAM System for Field Robots**|Chuan Huang et.al.|[2611.03106](http://arxiv.org/abs/2611.03106)|N/A|
 |**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098](http://arxiv.org/abs/2611.03098)|N/A|
 |**2026-11-01**|**UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics**|Xingyuan Ding et.al.|[2611.02051](http://arxiv.org/abs/2611.02051)|N/A|
@@ -125,5 +130,4 @@ _Select paper in 2026.09.03 - 2026.11.02_
 |**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373](http://arxiv.org/abs/2609.07373)|N/A|
 |**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
 |**2026-09-05**|**Moment-Matching Probabilistic Data Association for Optimization-Based SLAM**|Khoa Nguyen et.al.|[2609.05941](http://arxiv.org/abs/2609.05941)|N/A|
-|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|N/A|
 

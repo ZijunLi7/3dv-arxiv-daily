@@ -14,14 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.03 - 2026.11.02_
+_Select paper in 2026.09.04 - 2026.11.03_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|N/A|
+|**2026-11-03**|**Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video**|Hosung Jeon et.al.|[2611.04666](http://arxiv.org/abs/2611.04666)|N/A|
+|**2026-11-03**|**3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment**|Yuke Xing et.al.|[2611.04498](http://arxiv.org/abs/2611.04498)|N/A|
+|**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Can Wang et.al.|[2611.04493](http://arxiv.org/abs/2611.04493)|N/A|
+|**2026-11-03**|**IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting**|Zhongquan Wang et.al.|[2611.04374](http://arxiv.org/abs/2611.04374)|N/A|
+|**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|N/A|
 |**2026-11-02**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|N/A|
 |**2026-11-02**|**GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting**|Shaocheng Shen et.al.|[2611.02767](http://arxiv.org/abs/2611.02767)|N/A|
 |**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Yibin Zhao et.al.|[2611.02658](http://arxiv.org/abs/2611.02658)|N/A|
-|**2026-11-01**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|N/A|
+|**2026-11-03**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|N/A|
 |**2026-11-01**|**VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph**|Yuntae Jeon et.al.|[2611.01939](http://arxiv.org/abs/2611.01939)|N/A|
 |**2026-11-01**|**AbacusGS: Gaussian Splatting without Per-Splat Sorting**|Jiacheng Ding et.al.|[2611.01534](http://arxiv.org/abs/2611.01534)|N/A|
 |**2026-10-31**|**SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation**|Kunal Bhosikar et.al.|[2611.01162](http://arxiv.org/abs/2611.01162)|N/A|
@@ -232,9 +238,4 @@ _Select paper in 2026.09.03 - 2026.11.02_
 |**2026-09-04**|**GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation**|Nina Vesseron et.al.|[2609.05127](http://arxiv.org/abs/2609.05127)|N/A|
 |**2026-09-04**|**Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction**|Tianle Du et.al.|[2609.04984](http://arxiv.org/abs/2609.04984)|N/A|
 |**2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Junhui Wang et.al.|[2609.04602](http://arxiv.org/abs/2609.04602)|N/A|
-|**2026-09-03**|**Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing**|Cheng-Kang Ted Chao et.al.|[2609.03897](http://arxiv.org/abs/2609.03897)|N/A|
-|**2026-09-03**|**TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization**|Wei Tan et.al.|[2609.03613](http://arxiv.org/abs/2609.03613)|N/A|
-|**2026-09-03**|**TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates**|Theo Morales et.al.|[2609.03534](http://arxiv.org/abs/2609.03534)|N/A|
-|**2026-09-03**|**STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction**|Bocheng Li et.al.|[2609.03447](http://arxiv.org/abs/2609.03447)|N/A|
-|**2026-09-03**|**Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training**|Yixiong Yang et.al.|[2609.03334](http://arxiv.org/abs/2609.03334)|N/A|
 
