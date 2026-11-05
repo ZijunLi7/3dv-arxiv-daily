@@ -14,12 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.04 - 2026.11.03_
+_Select paper in 2026.09.05 - 2026.11.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|N/A|
 |**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|N/A|
-|**2026-11-03**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|N/A|
+|**2026-11-04**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|N/A|
 |**2026-11-03**|**Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models**|Junsung Park et.al.|[2611.04903](http://arxiv.org/abs/2611.04903)|N/A|
 |**2026-11-03**|**EndoS3:Endoscopic Semantic Splatting SLAM**|Mona Sheikh Zeinoddin et.al.|[2611.04358](http://arxiv.org/abs/2611.04358)|N/A|
 |**2026-11-02**|**CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching**|Robert J. Wang et.al.|[2611.03932](http://arxiv.org/abs/2611.03932)|N/A|

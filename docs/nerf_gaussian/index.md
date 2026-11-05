@@ -14,11 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.04 - 2026.11.03_
+_Select paper in 2026.09.05 - 2026.11.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-03**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|N/A|
+|**2026-11-04**|**BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2611.06593](http://arxiv.org/abs/2611.06593)|N/A|
+|**2026-11-04**|**Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification**|Dung Do Tien et.al.|[2611.06273](http://arxiv.org/abs/2611.06273)|N/A|
+|**2026-11-04**|**CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting**|Yuxi Hu et.al.|[2611.06258](http://arxiv.org/abs/2611.06258)|N/A|
+|**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|N/A|
+|**2026-11-03**|**GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats**|Shahaf Valencia Levy et.al.|[2611.05593](http://arxiv.org/abs/2611.05593)|N/A|
+|**2026-11-04**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|N/A|
 |**2026-11-03**|**Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video**|Hosung Jeon et.al.|[2611.04666](http://arxiv.org/abs/2611.04666)|N/A|
 |**2026-11-03**|**3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment**|Yuke Xing et.al.|[2611.04498](http://arxiv.org/abs/2611.04498)|N/A|
 |**2026-11-03**|**Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation**|Can Wang et.al.|[2611.04493](http://arxiv.org/abs/2611.04493)|N/A|
@@ -234,8 +239,4 @@ _Select paper in 2026.09.04 - 2026.11.03_
 |**2026-09-07**|**LightSplat: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure**|Junze Bao et.al.|[2609.07274](http://arxiv.org/abs/2609.07274)|N/A|
 |**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231](http://arxiv.org/abs/2609.07231)|N/A|
 |**2026-09-06**|**MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting**|Chengkai Wang et.al.|[2609.06874](http://arxiv.org/abs/2609.06874)|N/A|
-|**2026-09-04**|**Compact Neural Appearance Models for Efficient Gaussian Splatting**|Florian Hahlbohm et.al.|[2609.05255](http://arxiv.org/abs/2609.05255)|N/A|
-|**2026-09-04**|**GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation**|Nina Vesseron et.al.|[2609.05127](http://arxiv.org/abs/2609.05127)|N/A|
-|**2026-09-04**|**Temporal Residual Neural Radiance Fields for Monocular Video Dynamic Human Body Reconstruction**|Tianle Du et.al.|[2609.04984](http://arxiv.org/abs/2609.04984)|N/A|
-|**2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Junhui Wang et.al.|[2609.04602](http://arxiv.org/abs/2609.04602)|N/A|
 

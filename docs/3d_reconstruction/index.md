@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.04 - 2026.11.03_
+_Select paper in 2026.09.05 - 2026.11.04_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos**|Hanyu Chen et.al.|[2611.06849](http://arxiv.org/abs/2611.06849)|N/A|
+|**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|N/A|
+|**2026-11-04**|**Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation**|Jiahao Ma et.al.|[2611.05874](http://arxiv.org/abs/2611.05874)|N/A|
 |**2026-11-03**|**Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction**|Zhenxiang Xiong et.al.|[2611.04221](http://arxiv.org/abs/2611.04221)|N/A|
 |**2026-10-31**|**Physics-Informed Functional Tucker Method with RKHS Factors for Sparse Spatiotemporal Reconstruction**|Zhengyang Liu et.al.|[2611.03717](http://arxiv.org/abs/2611.03717)|N/A|
 |**2026-11-02**|**Solv3R: 3D Looped Transformer as a Multi-view Solver**|Jeong-gi Kwak et.al.|[2611.02857](http://arxiv.org/abs/2611.02857)|N/A|
@@ -132,5 +135,4 @@ _Select paper in 2026.09.04 - 2026.11.03_
 |**2026-09-05**|**Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction**|Kevin Zhang et.al.|[2609.06261](http://arxiv.org/abs/2609.06261)|N/A|
 |**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Yuankun Yang et.al.|[2609.06099](http://arxiv.org/abs/2609.06099)|N/A|
 |**2026-09-05**|**Efficient and Robust Camera-independent Multiview 3D Geometric Reconstruction from Noisy Monocular Depth Estimation and Multiple Point Matching**|Marius Leordeanu et.al.|[2609.05972](http://arxiv.org/abs/2609.05972)|N/A|
-|**2026-09-04**|**HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction**|Ziding Zhao et.al.|[2609.04718](http://arxiv.org/abs/2609.04718)|N/A|
 
