@@ -14,10 +14,11 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.08 - 2026.11.05_
+_Select paper in 2026.09.09 - 2026.11.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|N/A|
 |**2026-11-05**|**Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives**|Jingsong Liu et.al.|[2611.07935](http://arxiv.org/abs/2611.07935)|N/A|
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|N/A|
 |**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|N/A|

@@ -14,10 +14,13 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.08 - 2026.11.05_
+_Select paper in 2026.09.09 - 2026.11.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|N/A|
+|**2026-11-05**|**Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage**|Maximilian Jansen et.al.|[2611.08782](http://arxiv.org/abs/2611.08782)|N/A|
+|**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|N/A|
 |**2026-11-05**|**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing**|Qin Guo et.al.|[2611.07922](http://arxiv.org/abs/2611.07922)|N/A|
 |**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|N/A|
 |**2026-11-04**|**Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation**|Weiduo Yuan et.al.|[2611.07229](http://arxiv.org/abs/2611.07229)|N/A|
@@ -66,5 +69,4 @@ _Select paper in 2026.09.08 - 2026.11.05_
 |**2026-09-17**|**Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control**|Yuheng Zhou et.al.|[2609.20731](http://arxiv.org/abs/2609.20731)|N/A|
 |**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|N/A|
 |**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|N/A|
-|**2026-09-08**|**Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation**|Igor Pavlovic et.al.|[2609.08084](http://arxiv.org/abs/2609.08084)|N/A|
 

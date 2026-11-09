@@ -14,10 +14,11 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.08 - 2026.11.05_
+_Select paper in 2026.09.09 - 2026.11.06_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Segmenting Geometric Textures of 3D Meshes**|Weidan Xiong et.al.|[2611.08897](http://arxiv.org/abs/2611.08897)|N/A|
 |**2026-11-05**|**SM4RT: Cascaded Feed-forward Model for 4D Reconstruction**|Pang-Chi Lo et.al.|[2611.08436](http://arxiv.org/abs/2611.08436)|N/A|
 |**2026-11-05**|**Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images**|David G. Shatwell et.al.|[2611.07575](http://arxiv.org/abs/2611.07575)|N/A|
 |**2026-11-05**|**MetricTrail: Revisiting the Power of Metric Depth and Local Optimization for Long-Sequence Streaming 3D Reconstruction**|Jingnan Gao et.al.|[2611.07555](http://arxiv.org/abs/2611.07555)|N/A|
@@ -130,9 +131,5 @@ _Select paper in 2026.09.08 - 2026.11.05_
 |**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183](http://arxiv.org/abs/2609.14183)|N/A|
 |**2026-09-11**|**RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction**|Tingjun Huang et.al.|[2609.13504](http://arxiv.org/abs/2609.13504)|N/A|
 |**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|N/A|
-|**2026-09-08**|**RoMa- $Ω$ : What Feed-Forward 3D Models Know About Image Matching**|David Nordström et.al.|[2609.09507](http://arxiv.org/abs/2609.09507)|N/A|
-|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491](http://arxiv.org/abs/2609.09491)|N/A|
-|**2026-09-08**|**FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute**|Hongchi Xia et.al.|[2609.08848](http://arxiv.org/abs/2609.08848)|N/A|
-|**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493](http://arxiv.org/abs/2609.08493)|N/A|
 |**2026-09-09**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
 
