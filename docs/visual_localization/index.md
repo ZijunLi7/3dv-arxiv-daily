@@ -14,10 +14,16 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.09 - 2026.11.06_
+_Select paper in 2026.09.10 - 2026.11.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798](http://arxiv.org/abs/2611.12798)|N/A|
+|**2026-11-09**|**V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM**|Maolin Ye et.al.|[2611.12452](http://arxiv.org/abs/2611.12452)|N/A|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|N/A|
+|**2026-11-08**|**Map2SLAM: From Streaming Map Prediction to Real-Time SLAM**|Jian Gao et.al.|[2611.11169](http://arxiv.org/abs/2611.11169)|N/A|
+|**2026-11-06**|**DAC-MACE: Context-Conditioned Expert Routing for Compact Scene Coordinate Regression in Camera Relocalization**|Dingying Fan et.al.|[2611.10263](http://arxiv.org/abs/2611.10263)|N/A|
+|**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|N/A|
 |**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|N/A|
 |**2026-11-05**|**Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives**|Jingsong Liu et.al.|[2611.07935](http://arxiv.org/abs/2611.07935)|N/A|
 |**2026-11-04**|**Scale Anchoring via Implicit Semantics and Sequence-Consistent Loop Closure for VGGT-Based SLAM**|Ziyi Jin et.al.|[2611.06308](http://arxiv.org/abs/2611.06308)|N/A|

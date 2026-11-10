@@ -14,10 +14,17 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.09 - 2026.11.06_
+_Select paper in 2026.09.10 - 2026.11.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**|Hao Gu et.al.|[2611.12875](http://arxiv.org/abs/2611.12875)|N/A|
+|**2026-11-09**|**A forensic evaluation framework for egocentric foundation models: an EFM3D case study for crime scene reconstruction**|Davidson Chisom Onwubiko et.al.|[2611.12259](http://arxiv.org/abs/2611.12259)|N/A|
+|**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|N/A|
+|**2026-11-09**|**3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model**|Zixiang Ai et.al.|[2611.11964](http://arxiv.org/abs/2611.11964)|N/A|
+|**2026-11-09**|**Budget-aware Correspondence-driven View Selection for Real-time 3D Perception of Mobile Robots**|Vaishnav Ramesh et.al.|[2611.11809](http://arxiv.org/abs/2611.11809)|N/A|
+|**2026-11-08**|**TransArt3D: From Two States to Articulated 3D Reconstruction with Video Transition Priors**|Chenhao Guan et.al.|[2611.11304](http://arxiv.org/abs/2611.11304)|N/A|
+|**2026-11-06**|**OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception**|Quanyun Wu et.al.|[2611.10241](http://arxiv.org/abs/2611.10241)|N/A|
 |**2026-11-06**|**Segmenting Geometric Textures of 3D Meshes**|Weidan Xiong et.al.|[2611.08897](http://arxiv.org/abs/2611.08897)|N/A|
 |**2026-11-05**|**SM4RT: Cascaded Feed-forward Model for 4D Reconstruction**|Pang-Chi Lo et.al.|[2611.08436](http://arxiv.org/abs/2611.08436)|N/A|
 |**2026-11-05**|**Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images**|David G. Shatwell et.al.|[2611.07575](http://arxiv.org/abs/2611.07575)|N/A|
@@ -131,5 +138,4 @@ _Select paper in 2026.09.09 - 2026.11.06_
 |**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183](http://arxiv.org/abs/2609.14183)|N/A|
 |**2026-09-11**|**RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction**|Tingjun Huang et.al.|[2609.13504](http://arxiv.org/abs/2609.13504)|N/A|
 |**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|N/A|
-|**2026-09-09**|**KODAMA: Multimodal Digital Twin Reconstruction for Urban RF Propagation Modelling**|Maximiliano Wardle et.al.|[2609.07298](http://arxiv.org/abs/2609.07298)|N/A|
 

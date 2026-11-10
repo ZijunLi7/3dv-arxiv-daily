@@ -14,10 +14,20 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.09 - 2026.11.06_
+_Select paper in 2026.09.10 - 2026.11.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting**|Zane K. J. Hartley et.al.|[2611.12739](http://arxiv.org/abs/2611.12739)|N/A|
+|**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716](http://arxiv.org/abs/2611.12716)|N/A|
+|**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319](http://arxiv.org/abs/2611.12319)|N/A|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|N/A|
+|**2026-11-09**|**UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction**|Yue Wang et.al.|[2611.11951](http://arxiv.org/abs/2611.11951)|N/A|
+|**2026-11-08**|**FastGRT: Accelerating Training of 3D Gaussian Ray Tracing**|Meet Banthia et.al.|[2611.11586](http://arxiv.org/abs/2611.11586)|N/A|
+|**2026-11-07**|**PLS-GS: Probabilistic Lidar Scaffolds for Compact, Surface-Aligned Gaussian Splatting**|Krishnan Harikumar et.al.|[2611.10699](http://arxiv.org/abs/2611.10699)|N/A|
+|**2026-11-07**|**SHIN: Scalable Hierarchy for INcremental 3D Gaussian Splatting**|Reagan Koo et.al.|[2611.10652](http://arxiv.org/abs/2611.10652)|N/A|
+|**2026-11-07**|**RefineSplat: Reconstruction-Guided Object-Centric Gaussian Splatting for Open-Vocabulary Querying**|Yiren Lu et.al.|[2611.10379](http://arxiv.org/abs/2611.10379)|N/A|
+|**2026-11-07**|**ClearForm: Shared-Surface Gaussian Splatting for Transparent and Opaque Scenes**|Hajeong Lee et.al.|[2611.10370](http://arxiv.org/abs/2611.10370)|N/A|
 |**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330](http://arxiv.org/abs/2611.08330)|N/A|
 |**2026-11-05**|**Hierarchical Incremental Beta Splatting for Online Reconstruction**|Linus Franke et.al.|[2611.08288](http://arxiv.org/abs/2611.08288)|N/A|
 |**2026-11-05**|**Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting**|Yuting Wang et.al.|[2611.07979](http://arxiv.org/abs/2611.07979)|N/A|
@@ -230,8 +240,4 @@ _Select paper in 2026.09.09 - 2026.11.06_
 |**2026-09-10**|**Hologram Representation via Quadratic Phase Gaussian Splatting**|Haolong Wang et.al.|[2609.11434](http://arxiv.org/abs/2609.11434)|N/A|
 |**2026-09-10**|**Tri-DehazeGS: Scene--Medium Decoupled Gaussian Splatting with Transmittance-Aware Optimization**|Kui Jiang et.al.|[2609.11223](http://arxiv.org/abs/2609.11223)|N/A|
 |**2026-09-10**|**RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting**|Jiarong Lian et.al.|[2609.11079](http://arxiv.org/abs/2609.11079)|N/A|
-|**2026-09-09**|**Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction**|Pranav Poudel et.al.|[2609.10376](http://arxiv.org/abs/2609.10376)|N/A|
-|**2026-09-09**|**View-Structured Conformal Prediction for 3D Gaussian Splatting**|Junzheng Chu et.al.|[2609.10307](http://arxiv.org/abs/2609.10307)|N/A|
-|**2026-09-09**|**LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting**|Donghun Ryu et.al.|[2609.10095](http://arxiv.org/abs/2609.10095)|N/A|
-|**2026-09-09**|**RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting**|YuanHang Wang et.al.|[2609.09606](http://arxiv.org/abs/2609.09606)|N/A|
 

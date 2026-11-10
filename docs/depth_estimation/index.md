@@ -14,10 +14,14 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.09 - 2026.11.06_
+_Select paper in 2026.09.10 - 2026.11.09_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|N/A|
+|**2026-11-09**|**LangDepth: Vision-Language Scene Priors for Semantic Binning and Cross-Domain Monocular Depth Estimation**|Reyhaneh Ahani Manghotay et.al.|[2611.11763](http://arxiv.org/abs/2611.11763)|N/A|
+|**2026-11-07**|**LIFT: Local Metric Alignment and Foundation-guided Propagation for Few-shot Depth Completion**|Xiang Li et.al.|[2611.10729](http://arxiv.org/abs/2611.10729)|N/A|
+|**2026-11-06**|**DASH-SLAM: Calibration-Free Metric Monocular SLAM via Depth Scale Propagation**|Otavio Ribas et.al.|[2611.10239](http://arxiv.org/abs/2611.10239)|N/A|
 |**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954](http://arxiv.org/abs/2611.08954)|N/A|
 |**2026-11-05**|**Extrapolation Matters: Sparse-Only Depth Completion Beyond LiDAR Coverage**|Maximilian Jansen et.al.|[2611.08782](http://arxiv.org/abs/2611.08782)|N/A|
 |**2026-11-05**|**eSharp: Diffusion-based Sharp Monocular Metric Event-to-Depth Estimation**|Qiushi Dai et.al.|[2611.08731](http://arxiv.org/abs/2611.08731)|N/A|
@@ -68,5 +72,4 @@ _Select paper in 2026.09.09 - 2026.11.06_
 |**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|N/A|
 |**2026-09-17**|**Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control**|Yuheng Zhou et.al.|[2609.20731](http://arxiv.org/abs/2609.20731)|N/A|
 |**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559](http://arxiv.org/abs/2609.12559)|N/A|
-|**2026-09-09**|**GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation**|Bin Zhao et.al.|[2609.10756](http://arxiv.org/abs/2609.10756)|N/A|
 
