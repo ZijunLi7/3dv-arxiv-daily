@@ -14,10 +14,12 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.10 - 2026.11.09_
+_Select paper in 2026.09.11 - 2026.11.10_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States**|Bowen Deng et.al.|[2611.13581](http://arxiv.org/abs/2611.13581)|N/A|
+|**2026-11-10**|**Camera3R: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models**|Ruxiao Duan et.al.|[2611.13453](http://arxiv.org/abs/2611.13453)|N/A|
 |**2026-11-09**|**Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks**|Hao Gu et.al.|[2611.12875](http://arxiv.org/abs/2611.12875)|N/A|
 |**2026-11-09**|**A forensic evaluation framework for egocentric foundation models: an EFM3D case study for crime scene reconstruction**|Davidson Chisom Onwubiko et.al.|[2611.12259](http://arxiv.org/abs/2611.12259)|N/A|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011](http://arxiv.org/abs/2611.12011)|N/A|
@@ -137,5 +139,4 @@ _Select paper in 2026.09.10 - 2026.11.09_
 |**2026-09-15**|**Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos**|Hyunjun Kim et.al.|[2609.16672](http://arxiv.org/abs/2609.16672)|N/A|
 |**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183](http://arxiv.org/abs/2609.14183)|N/A|
 |**2026-09-11**|**RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction**|Tingjun Huang et.al.|[2609.13504](http://arxiv.org/abs/2609.13504)|N/A|
-|**2026-09-10**|**BridgeMatch: Conditional Transport Bridges in Matching Matrix Space for 3D Deformable Registration**|Qianliang Wu et.al.|[2609.11472](http://arxiv.org/abs/2609.11472)|N/A|
 
