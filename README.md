@@ -1,4 +1,4 @@
-## Select paper in 2026.09.13 - 2026.11.12
+## Select paper in 2026.09.14 - 2026.11.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -136,7 +136,7 @@
 |**2026-09-15**|**MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking**|Sifan Zhou et.al.|[2609.16695](http://arxiv.org/abs/2609.16695)|N/A|
 |**2026-09-15**|**Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos**|Hyunjun Kim et.al.|[2609.16672](http://arxiv.org/abs/2609.16672)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260913---20261112>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260914---20261112>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -198,7 +198,7 @@
 |**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|N/A|
 |**2026-09-17**|**Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control**|Yuheng Zhou et.al.|[2609.20731](http://arxiv.org/abs/2609.20731)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260913---20261112>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260914---20261112>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -322,9 +322,8 @@
 |**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893](http://arxiv.org/abs/2609.18893)|N/A|
 |**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
 |**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|N/A|
-|**2026-09-13**|**SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild**|Kumaran Karthik et.al.|[2609.14634](http://arxiv.org/abs/2609.14634)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260913---20261112>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260914---20261112>back to top</a>)</p>
 
 ## Image Matching
 
@@ -347,7 +346,7 @@
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 |**2026-09-25**|**Facial classification Using Hybrid Quantum Machine Learning**|Roshan Babu Bandlapalli et.al.|[2609.31915](http://arxiv.org/abs/2609.31915)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260913---20261112>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260914---20261112>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -578,7 +577,7 @@
 |**2026-09-15**|**HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|N/A|
 |**2026-09-14**|**Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections**|Deyu Meng et.al.|[2609.15550](http://arxiv.org/abs/2609.15550)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260913---20261112>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260914---20261112>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
