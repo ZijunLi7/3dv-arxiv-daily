@@ -14,10 +14,13 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.15 - 2026.11.12_
+_Select paper in 2026.09.16 - 2026.11.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|N/A|
+|**2026-11-13**|**Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer**|Rabeya Noor et.al.|[2611.17903](http://arxiv.org/abs/2611.17903)|N/A|
+|**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|N/A|
 |**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|N/A|
 |**2026-11-11**|**Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion**|Dimitrios Chatziparaschis et.al.|[2611.14958](http://arxiv.org/abs/2611.14958)|N/A|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|N/A|

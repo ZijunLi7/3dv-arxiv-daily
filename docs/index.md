@@ -11,12 +11,15 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.09.15 - 2026.11.12
+## Select paper in 2026.09.16 - 2026.11.13
 
 ## 3D Reconstruction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|N/A|
+|**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|N/A|
+|**2026-11-13**|**Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation**|Muhammed Izzet Sezer et.al.|[2611.17629](http://arxiv.org/abs/2611.17629)|N/A|
 |**2026-11-12**|**BrickFlow: Connectivity-Guided Brick Reconstruction**|Peter Kulits et.al.|[2611.17321](http://arxiv.org/abs/2611.17321)|N/A|
 |**2026-11-11**|**Multi-View 3D Reconstruction Using V-JEPA Features**|Anwar Shamim et.al.|[2611.15143](http://arxiv.org/abs/2611.15143)|N/A|
 |**2026-11-10**|**Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States**|Bowen Deng et.al.|[2611.13581](http://arxiv.org/abs/2611.13581)|N/A|
@@ -134,15 +137,14 @@ layout: default
 |**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012](http://arxiv.org/abs/2609.20012)|N/A|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|N/A|
 |**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|N/A|
-|**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|N/A|
-|**2026-09-15**|**Evaluating Mesh Reconstruction Methods for Crop Phenotyping**|Karanvir Singh et.al.|[2609.16926](http://arxiv.org/abs/2609.16926)|N/A|
-|**2026-09-15**|**MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking**|Sifan Zhou et.al.|[2609.16695](http://arxiv.org/abs/2609.16695)|N/A|
-|**2026-09-15**|**Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos**|Hyunjun Kim et.al.|[2609.16672](http://arxiv.org/abs/2609.16672)|N/A|
 
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|N/A|
+|**2026-11-13**|**Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer**|Rabeya Noor et.al.|[2611.17903](http://arxiv.org/abs/2611.17903)|N/A|
+|**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|N/A|
 |**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|N/A|
 |**2026-11-11**|**Adapting Monocular Depth Estimation in Novel Scenes through Disparity Refinement and Robot Ego-Motion**|Dimitrios Chatziparaschis et.al.|[2611.14958](http://arxiv.org/abs/2611.14958)|N/A|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934](http://arxiv.org/abs/2611.11934)|N/A|
@@ -319,8 +321,6 @@ layout: default
 |**2026-09-17**|**SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints**|Mohamed Hefny et.al.|[2609.19533](http://arxiv.org/abs/2609.19533)|N/A|
 |**2026-09-17**|**AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend**|Hengyi Wang et.al.|[2609.19518](http://arxiv.org/abs/2609.19518)|N/A|
 |**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893](http://arxiv.org/abs/2609.18893)|N/A|
-|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
-|**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|N/A|
 
 ## Image Matching
 
@@ -347,6 +347,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|N/A|
+|**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|N/A|
 |**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|N/A|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|N/A|
 |**2026-11-11**|**ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction**|Prasanna S et.al.|[2611.15435](http://arxiv.org/abs/2611.15435)|N/A|
@@ -566,8 +568,4 @@ layout: default
 |**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|N/A|
 |**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|N/A|
 |**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473](http://arxiv.org/abs/2609.18473)|N/A|
-|**2026-09-15**|**Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting**|Weiying Chen et.al.|[2609.17810](http://arxiv.org/abs/2609.17810)|N/A|
-|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
-|**2026-09-15**|**Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement**|Yuetong Wang et.al.|[2609.17039](http://arxiv.org/abs/2609.17039)|N/A|
-|**2026-09-15**|**HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|N/A|
 

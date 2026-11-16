@@ -14,10 +14,13 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.15 - 2026.11.12_
+_Select paper in 2026.09.16 - 2026.11.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|N/A|
+|**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|N/A|
+|**2026-11-13**|**Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation**|Muhammed Izzet Sezer et.al.|[2611.17629](http://arxiv.org/abs/2611.17629)|N/A|
 |**2026-11-12**|**BrickFlow: Connectivity-Guided Brick Reconstruction**|Peter Kulits et.al.|[2611.17321](http://arxiv.org/abs/2611.17321)|N/A|
 |**2026-11-11**|**Multi-View 3D Reconstruction Using V-JEPA Features**|Anwar Shamim et.al.|[2611.15143](http://arxiv.org/abs/2611.15143)|N/A|
 |**2026-11-10**|**Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States**|Bowen Deng et.al.|[2611.13581](http://arxiv.org/abs/2611.13581)|N/A|
@@ -135,8 +138,4 @@ _Select paper in 2026.09.15 - 2026.11.12_
 |**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012](http://arxiv.org/abs/2609.20012)|N/A|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|N/A|
 |**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|N/A|
-|**2026-09-15**|**DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming**|Idil Sulo et.al.|[2609.17230](http://arxiv.org/abs/2609.17230)|N/A|
-|**2026-09-15**|**Evaluating Mesh Reconstruction Methods for Crop Phenotyping**|Karanvir Singh et.al.|[2609.16926](http://arxiv.org/abs/2609.16926)|N/A|
-|**2026-09-15**|**MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking**|Sifan Zhou et.al.|[2609.16695](http://arxiv.org/abs/2609.16695)|N/A|
-|**2026-09-15**|**Lesion-centered 3D mapping of colonoscopy procedures: validation of a hierarchical ensemble pipeline on public benchmark videos**|Hyunjun Kim et.al.|[2609.16672](http://arxiv.org/abs/2609.16672)|N/A|
 

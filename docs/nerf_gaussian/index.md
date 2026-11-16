@@ -14,10 +14,12 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.15 - 2026.11.12_
+_Select paper in 2026.09.16 - 2026.11.13_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|N/A|
+|**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|N/A|
 |**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|N/A|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|N/A|
 |**2026-11-11**|**ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction**|Prasanna S et.al.|[2611.15435](http://arxiv.org/abs/2611.15435)|N/A|
@@ -237,8 +239,4 @@ _Select paper in 2026.09.15 - 2026.11.12_
 |**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|N/A|
 |**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|N/A|
 |**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473](http://arxiv.org/abs/2609.18473)|N/A|
-|**2026-09-15**|**Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting**|Weiying Chen et.al.|[2609.17810](http://arxiv.org/abs/2609.17810)|N/A|
-|**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|N/A|
-|**2026-09-15**|**Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement**|Yuetong Wang et.al.|[2609.17039](http://arxiv.org/abs/2609.17039)|N/A|
-|**2026-09-15**|**HLC-GS: Risk-Map-Guided Height-Layer Consistency Gaussian Splatting for DSM Reconstruction from Optical Satellite Imagery**|Jie Yang et.al.|[2609.16772](http://arxiv.org/abs/2609.16772)|N/A|
 
