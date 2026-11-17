@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.16 - 2026.11.13_
+_Select paper in 2026.09.17 - 2026.11.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark**|Haichuan Li et.al.|[2611.20570](http://arxiv.org/abs/2611.20570)|N/A|
+|**2026-11-16**|**sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry**|Jungwoo Lee et.al.|[2611.20568](http://arxiv.org/abs/2611.20568)|N/A|
+|**2026-11-15**|**M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions**|Yan Dong et.al.|[2611.19765](http://arxiv.org/abs/2611.19765)|N/A|
 |**2026-11-12**|**RGB-D SLAM on the Edge: Benchmarking and Profiling RTAB-Map and ORB-SLAM3 on the Raspberry Pi 5**|Himanshu Patil et.al.|[2611.16472](http://arxiv.org/abs/2611.16472)|N/A|
 |**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|N/A|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|N/A|
@@ -133,5 +136,4 @@ _Select paper in 2026.09.16 - 2026.11.13_
 |**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|N/A|
 |**2026-09-17**|**SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints**|Mohamed Hefny et.al.|[2609.19533](http://arxiv.org/abs/2609.19533)|N/A|
 |**2026-09-17**|**AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend**|Hengyi Wang et.al.|[2609.19518](http://arxiv.org/abs/2609.19518)|N/A|
-|**2026-09-16**|**SOL-SLAM: Inverse Compositional Gauss-Newton Direct Registration for Fast Sonar-Only Local SLAM**|Kalvik Jakkala et.al.|[2609.18893](http://arxiv.org/abs/2609.18893)|N/A|
 

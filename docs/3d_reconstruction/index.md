@@ -14,11 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.16 - 2026.11.13_
+_Select paper in 2026.09.17 - 2026.11.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-13**|**EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|N/A|
+|**2026-11-16**|**Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating**|Arda Cinar Demirtas et.al.|[2611.21302](http://arxiv.org/abs/2611.21302)|N/A|
+|**2026-11-16**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126](http://arxiv.org/abs/2611.21126)|N/A|
+|**2026-11-16**|**VA-Assembly: View-Aligned Score Guidance for Training-Free 3D Part Assembly**|Yeon-Jae Kim et.al.|[2611.20788](http://arxiv.org/abs/2611.20788)|N/A|
+|**2026-11-16**|**Pointillist Maize: 3D Reconstruction of Field-Grown Maize Using RGB UAV Imagery**|Dewi Endah Kharismawati et.al.|[2611.20502](http://arxiv.org/abs/2611.20502)|N/A|
+|**2026-11-16**|**Eco3R: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos**|Hongsen Cao et.al.|[2611.18099](http://arxiv.org/abs/2611.18099)|N/A|
 |**2026-11-13**|**TelePhysica: Agentic Reconstruction of Physically Interactive Scenes**|Ruiqi Shu et.al.|[2611.18078](http://arxiv.org/abs/2611.18078)|N/A|
 |**2026-11-13**|**Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation**|Muhammed Izzet Sezer et.al.|[2611.17629](http://arxiv.org/abs/2611.17629)|N/A|
 |**2026-11-12**|**BrickFlow: Connectivity-Guided Brick Reconstruction**|Peter Kulits et.al.|[2611.17321](http://arxiv.org/abs/2611.17321)|N/A|
@@ -136,6 +140,4 @@ _Select paper in 2026.09.16 - 2026.11.13_
 |**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Jingke Zhou et.al.|[2609.21437](http://arxiv.org/abs/2609.21437)|N/A|
 |**2026-09-18**|**VGGT-CAD: Reconstructing Parametric CAD 3D Model with Geometric Grounding**|Chunan Yu et.al.|[2609.21225](http://arxiv.org/abs/2609.21225)|N/A|
 |**2026-09-17**|**GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction**|Enpeng Li et.al.|[2609.20012](http://arxiv.org/abs/2609.20012)|N/A|
-|**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738](http://arxiv.org/abs/2609.18738)|N/A|
-|**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465](http://arxiv.org/abs/2609.18465)|N/A|
 

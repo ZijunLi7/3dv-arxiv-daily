@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.16 - 2026.11.13_
+_Select paper in 2026.09.17 - 2026.11.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation**|Jeonghwan Cho et.al.|[2611.21383](http://arxiv.org/abs/2611.21383)|N/A|
+|**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|N/A|
+|**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546](http://arxiv.org/abs/2611.20546)|N/A|
+|**2026-11-15**|**CiGS: Conduction in Gaussian Splats for Interior Temperature Field from Thermal Images**|Liu Zhenyuan et.al.|[2611.20283](http://arxiv.org/abs/2611.20283)|N/A|
+|**2026-11-15**|**SemLite-GS: Semantic-Selective Parallel Gaussian Splatting for Lightweight Building Reconstruction from UAV Oblique Imagery**|Tengfei Wang et.al.|[2611.19773](http://arxiv.org/abs/2611.19773)|N/A|
+|**2026-11-14**|**Prepare Lighter and Faster for Open-Vocabulary Queries: A Query-Wise 3D Segmenter for Gaussian Splatting**|Nhat-Quynh Le-Pham et.al.|[2611.19429](http://arxiv.org/abs/2611.19429)|N/A|
 |**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|N/A|
 |**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|N/A|
 |**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|N/A|
@@ -232,11 +238,4 @@ _Select paper in 2026.09.16 - 2026.11.13_
 |**2026-09-17**|**EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute**|Björn Ellensohn et.al.|[2609.20348](http://arxiv.org/abs/2609.20348)|N/A|
 |**2026-09-17**|**GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets**|Jieting Xu et.al.|[2609.19907](http://arxiv.org/abs/2609.19907)|N/A|
 |**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|N/A|
-|**2026-09-16**|**ParticleSplat: Self-supervised Object-centric Latent Particle Splatting**|Lyuxing He et.al.|[2609.19463](http://arxiv.org/abs/2609.19463)|N/A|
-|**2026-09-16**|**RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects**|Xiaobiao Du et.al.|[2609.19421](http://arxiv.org/abs/2609.19421)|N/A|
-|**2026-09-16**|**SemSafe-3DGS: Semantic Risk-Aware Active Navigation in Uncertain 3D Gaussian Splatting Maps**|Amirhossein Mollaei Khass et.al.|[2609.19330](http://arxiv.org/abs/2609.19330)|N/A|
-|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[2609.18898](http://arxiv.org/abs/2609.18898)|N/A|
-|**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|N/A|
-|**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|N/A|
-|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473](http://arxiv.org/abs/2609.18473)|N/A|
 

@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.16 - 2026.11.13_
+_Select paper in 2026.09.17 - 2026.11.16_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|N/A|
+|**2026-11-16**|**What the Averages Hide: Monocular Metric Depth Models Still Fail in Everyday Scenes, Mostly on Scale**|Hualie Jiang et.al.|[2611.20518](http://arxiv.org/abs/2611.20518)|N/A|
 |**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|N/A|
 |**2026-11-13**|**Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer**|Rabeya Noor et.al.|[2611.17903](http://arxiv.org/abs/2611.17903)|N/A|
 |**2026-11-13**|**Signal Scaffolding: Unlocking the Potential of Lightweight Models for Self-Supervised Monocular Depth Estimation**|Zhijie Wang et.al.|[2611.17828](http://arxiv.org/abs/2611.17828)|N/A|
