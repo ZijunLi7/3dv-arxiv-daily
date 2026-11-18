@@ -14,10 +14,14 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.17 - 2026.11.16_
+_Select paper in 2026.09.18 - 2026.11.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|N/A|
+|**2026-11-17**|**CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure**|Qi Shao et.al.|[2611.22235](http://arxiv.org/abs/2611.22235)|N/A|
+|**2026-11-17**|**LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model**|Rahim Hossain et.al.|[2611.22131](http://arxiv.org/abs/2611.22131)|N/A|
+|**2026-11-16**|**Beyond Appearance: Where Forest Visual Place Recognition Actually Fails**|Blake Matheson et.al.|[2611.21996](http://arxiv.org/abs/2611.21996)|N/A|
 |**2026-11-16**|**OrthoMark: Place Recognition with Point-Anchored Orthographic Height Mark**|Haichuan Li et.al.|[2611.20570](http://arxiv.org/abs/2611.20570)|N/A|
 |**2026-11-16**|**sqrtVINS-Based 360 Visual-Inertial SLAM Systems: Hilti-Trimble SLAM Challenge 2026 Entry**|Jungwoo Lee et.al.|[2611.20568](http://arxiv.org/abs/2611.20568)|N/A|
 |**2026-11-15**|**M-CROSS: A Multisensor Simulation Dataset for SLAM across Water--Land Transitions**|Yan Dong et.al.|[2611.19765](http://arxiv.org/abs/2611.19765)|N/A|
@@ -127,13 +131,4 @@ _Select paper in 2026.09.17 - 2026.11.16_
 |**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502](http://arxiv.org/abs/2609.21502)|N/A|
 |**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|N/A|
 |**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|N/A|
-|**2026-09-17**|**Noctif3R: Feed-Forward Monocular Real-Time SLAM for Photon-Limited Scenes on Embedded Hardware**|Mihir Chauhan et.al.|[2609.21114](http://arxiv.org/abs/2609.21114)|N/A|
-|**2026-09-17**|**MAPLE-RF: Efficient Probabilistic RF Source Localization in Partially Explored Environments**|Haozhe Lei et.al.|[2609.21026](http://arxiv.org/abs/2609.21026)|N/A|
-|**2026-09-17**|**Towards Effective Visual-Inertial SLAM with Passive-Only Sensors for Low-Cost Autonomous Underwater Vehicles**|Grant Schwidder et.al.|[2609.21015](http://arxiv.org/abs/2609.21015)|N/A|
-|**2026-09-17**|**Semantic SLAM in Precision Agriculture using Bayesian Inference**|Ruben Beumer et.al.|[2609.20604](http://arxiv.org/abs/2609.20604)|N/A|
-|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|N/A|
-|**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](http://arxiv.org/abs/2609.19876)|N/A|
-|**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|N/A|
-|**2026-09-17**|**SLAMSqueezeBench: Comparing SLAM Systems under Resource Constraints**|Mohamed Hefny et.al.|[2609.19533](http://arxiv.org/abs/2609.19533)|N/A|
-|**2026-09-17**|**AMB3R-SLAM: Kilometer-scale SLAM with Hierarchical Backend**|Hengyi Wang et.al.|[2609.19518](http://arxiv.org/abs/2609.19518)|N/A|
 

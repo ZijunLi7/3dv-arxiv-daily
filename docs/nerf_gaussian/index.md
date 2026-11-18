@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.17 - 2026.11.16_
+_Select paper in 2026.09.18 - 2026.11.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2611.23054](http://arxiv.org/abs/2611.23054)|N/A|
+|**2026-11-17**|**You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting**|Canjie Liu et.al.|[2611.22898](http://arxiv.org/abs/2611.22898)|N/A|
+|**2026-11-17**|**DOOM-GS: Dynamic Out-of-core Optimization for Massive Gaussian Splatting**|Doğa Yılmaz et.al.|[2611.22805](http://arxiv.org/abs/2611.22805)|N/A|
+|**2026-11-17**|**Cross3DGS: Unified Vulkan-Based 3D Gaussian Splatting Training from Workstations to Mobile Devices**|Hiroyuki Sato et.al.|[2611.22240](http://arxiv.org/abs/2611.22240)|N/A|
+|**2026-11-17**|**CoSphere-SLAM: Multi-Agent Panoramic Gaussian Splatting SLAM with Spherical Loop Closure**|Qi Shao et.al.|[2611.22235](http://arxiv.org/abs/2611.22235)|N/A|
+|**2026-11-17**|**CueSplat: Learning to Schedule Sparse Deformation for Dynamic Gaussian Splatting on Edge Devices**|Qingyuan Tang et.al.|[2611.22095](http://arxiv.org/abs/2611.22095)|N/A|
 |**2026-11-16**|**The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation**|Jeonghwan Cho et.al.|[2611.21383](http://arxiv.org/abs/2611.21383)|N/A|
 |**2026-11-16**|**QuantileGS: Quantile-Based Conformal Bounds on RGB Rendering Errors for Novel View Synthesis with 3D Gaussian Splatting**|Haiyang Xu et.al.|[2611.21253](http://arxiv.org/abs/2611.21253)|N/A|
 |**2026-11-16**|**A Gaussian Primitive Data Management Framework for Efficient 3DGS Trajectory Rendering**|Haolun Ma et.al.|[2611.20546](http://arxiv.org/abs/2611.20546)|N/A|
@@ -231,11 +237,4 @@ _Select paper in 2026.09.17 - 2026.11.16_
 |**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|N/A|
 |**2026-09-18**|**AirSplan: Risk-Aware Motion Planning for Quadrotors in Cluttered 3D Gaussian Splats**|Seth Isaacson et.al.|[2609.21226](http://arxiv.org/abs/2609.21226)|N/A|
 |**2026-09-18**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|N/A|
-|**2026-09-17**|**Demonstration Synthesis from a Single Scan via Gaussian Splatting for Visuomotor Policy Learning**|Beichen Wang et.al.|[2609.21112](http://arxiv.org/abs/2609.21112)|N/A|
-|**2026-09-17**|**PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions**|Rinto Yagawa et.al.|[2609.20623](http://arxiv.org/abs/2609.20623)|N/A|
-|**2026-09-17**|**RawSLAM: Online HDR Gaussian SLAM from Linear Radiance**|Marina Orozco González et.al.|[2609.20589](http://arxiv.org/abs/2609.20589)|N/A|
-|**2026-09-17**|**CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding**|Zhikun Zhou et.al.|[2609.20586](http://arxiv.org/abs/2609.20586)|N/A|
-|**2026-09-17**|**EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute**|Björn Ellensohn et.al.|[2609.20348](http://arxiv.org/abs/2609.20348)|N/A|
-|**2026-09-17**|**GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets**|Jieting Xu et.al.|[2609.19907](http://arxiv.org/abs/2609.19907)|N/A|
-|**2026-09-17**|**VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors**|Yuhang Han et.al.|[2609.19628](http://arxiv.org/abs/2609.19628)|N/A|
 

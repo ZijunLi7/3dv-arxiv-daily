@@ -14,10 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.17 - 2026.11.16_
+_Select paper in 2026.09.18 - 2026.11.17_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**TRIDENT: Efficient Triple-Task Learning of Dehazing, Depth, and Uncertainty Estimation for Underwater 3-D Robot Visual Perception**|Geonmo Yang et.al.|[2611.22224](http://arxiv.org/abs/2611.22224)|N/A|
+|**2026-11-17**|**Joint-ID: Transformer-based Joint Image Enhancement and Depth Estimation for Underwater Environments**|Geonmo Yang et.al.|[2611.22212](http://arxiv.org/abs/2611.22212)|N/A|
 |**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044](http://arxiv.org/abs/2611.21044)|N/A|
 |**2026-11-16**|**What the Averages Hide: Monocular Metric Depth Models Still Fail in Everyday Scenes, Mostly on Scale**|Hualie Jiang et.al.|[2611.20518](http://arxiv.org/abs/2611.20518)|N/A|
 |**2026-11-13**|**D2ToF: One-Step Diffusion for Depth Super-Resolution from Lightweight Single-Photon LiDAR Waveforms**|Pallabjyoti Deka et.al.|[2611.18243](http://arxiv.org/abs/2611.18243)|N/A|
@@ -77,5 +79,4 @@ _Select paper in 2026.09.17 - 2026.11.16_
 |**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|N/A|
 |**2026-09-19**|**Combining Foundation Model Confidence and Monocular Depth for Training-Free Out-of-Distribution Segmentation**|Serin Varghese et.al.|[2609.22896](http://arxiv.org/abs/2609.22896)|N/A|
 |**2026-09-18**|**XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration**|Aurelien Godet et.al.|[2609.21770](http://arxiv.org/abs/2609.21770)|N/A|
-|**2026-09-17**|**Underwater Visual Target Tracking with Target-Specific Depth Estimation and Adaptive Model-Fusion Predictive Control**|Yuheng Zhou et.al.|[2609.20731](http://arxiv.org/abs/2609.20731)|N/A|
 
