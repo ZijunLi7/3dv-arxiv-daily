@@ -14,10 +14,16 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.18 - 2026.11.17_
+_Select paper in 2026.09.19 - 2026.11.18_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Multi-Band Galaxy Novel-View Synthesis with Radiative Gaussian Fields**|Yuzhe Wu et.al.|[2611.24723](http://arxiv.org/abs/2611.24723)|N/A|
+|**2026-11-18**|**RAPID: Reconstruction Accelerated by Polarization-Informed Depth for 2D Gaussian Splatting**|Daisong Ouyang et.al.|[2611.24404](http://arxiv.org/abs/2611.24404)|N/A|
+|**2026-11-18**|**Facet-SLAM: Real-Time Triangle Splatting SLAM**|Edward Beng Wai Tan et.al.|[2611.23935](http://arxiv.org/abs/2611.23935)|N/A|
+|**2026-11-17**|**NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics**|Latchan Chhetri et.al.|[2611.23450](http://arxiv.org/abs/2611.23450)|N/A|
+|**2026-11-17**|**Gaussian Splatoms: Direct Atomic Structure Identification in Electron Tomography**|Nalini Singh et.al.|[2611.23444](http://arxiv.org/abs/2611.23444)|N/A|
+|**2026-11-17**|**OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming**|Ashim Dahal et.al.|[2611.23416](http://arxiv.org/abs/2611.23416)|N/A|
 |**2026-11-17**|**ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2611.23054](http://arxiv.org/abs/2611.23054)|N/A|
 |**2026-11-17**|**You Only Encode Once: Sub-Pixel-Shifted Frames for Arbitrary-Scale Remote Sensing Super-Resolution with 2D Gaussian Splatting**|Canjie Liu et.al.|[2611.22898](http://arxiv.org/abs/2611.22898)|N/A|
 |**2026-11-17**|**DOOM-GS: Dynamic Out-of-core Optimization for Massive Gaussian Splatting**|Doğa Yılmaz et.al.|[2611.22805](http://arxiv.org/abs/2611.22805)|N/A|
@@ -232,9 +238,4 @@ _Select paper in 2026.09.18 - 2026.11.17_
 |**2026-09-19**|**VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction**|Haolin Yu et.al.|[2609.23049](http://arxiv.org/abs/2609.23049)|N/A|
 |**2026-09-19**|**Compressing 3D Gaussian Splatting via Cross-Representation Priors**|Yezheng Zhang et.al.|[2609.23005](http://arxiv.org/abs/2609.23005)|N/A|
 |**2026-09-19**|**D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction**|Yunqi Gao et.al.|[2609.22941](http://arxiv.org/abs/2609.22941)|N/A|
-|**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498](http://arxiv.org/abs/2609.21498)|N/A|
-|**2026-09-18**|**WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field**|Hang Jiang et.al.|[2609.21391](http://arxiv.org/abs/2609.21391)|N/A|
-|**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|N/A|
-|**2026-09-18**|**AirSplan: Risk-Aware Motion Planning for Quadrotors in Cluttered 3D Gaussian Splats**|Seth Isaacson et.al.|[2609.21226](http://arxiv.org/abs/2609.21226)|N/A|
-|**2026-09-18**|**4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**|Haitao Huang et.al.|[2609.21176](http://arxiv.org/abs/2609.21176)|N/A|
 
