@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.21 - 2026.11.19_
+_Select paper in 2026.09.22 - 2026.11.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -80,5 +80,4 @@ _Select paper in 2026.09.21 - 2026.11.19_
 |**2026-09-24**|**FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors**|Dan Halperin et.al.|[2609.29224](http://arxiv.org/abs/2609.29224)|N/A|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|N/A|
 |**2026-09-22**|**DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection**|Linman Wang et.al.|[2609.26702](http://arxiv.org/abs/2609.26702)|N/A|
-|**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|N/A|
 

@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.21 - 2026.11.19_
+_Select paper in 2026.09.22 - 2026.11.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -138,6 +138,4 @@ _Select paper in 2026.09.21 - 2026.11.19_
 |**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
 |**2026-09-24**|**WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model**|Jerrin Bright et.al.|[2609.29106](http://arxiv.org/abs/2609.29106)|N/A|
 |**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|N/A|
-|**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|N/A|
-|**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|N/A|
 

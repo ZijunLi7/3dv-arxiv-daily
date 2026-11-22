@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.09.21 - 2026.11.19
+## Select paper in 2026.09.22 - 2026.11.19
 
 ## 3D Reconstruction
 
@@ -137,8 +137,6 @@ layout: default
 |**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
 |**2026-09-24**|**WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model**|Jerrin Bright et.al.|[2609.29106](http://arxiv.org/abs/2609.29106)|N/A|
 |**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|N/A|
-|**2026-09-21**|**SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction**|Jeffrey Eiyike et.al.|[2609.24864](http://arxiv.org/abs/2609.24864)|N/A|
-|**2026-09-21**|**When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction**|Daisy Li et.al.|[2609.24839](http://arxiv.org/abs/2609.24839)|N/A|
 
 ## Depth Estimation
 
@@ -206,7 +204,6 @@ layout: default
 |**2026-09-24**|**FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors**|Dan Halperin et.al.|[2609.29224](http://arxiv.org/abs/2609.29224)|N/A|
 |**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|N/A|
 |**2026-09-22**|**DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection**|Linman Wang et.al.|[2609.26702](http://arxiv.org/abs/2609.26702)|N/A|
-|**2026-09-21**|**CMAMBADEPTH: Self-supervised Monocular Depth Estimation with Channel Mamba and Hybrid Attention**|Xuezhi Xiang et.al.|[2609.24494](http://arxiv.org/abs/2609.24494)|N/A|
 
 ## Visual Localization
 
@@ -318,11 +315,6 @@ layout: default
 |**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|N/A|
 |**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
 |**2026-09-22**|**What Drives Hierarchy-Aware Image Retrieval? Taxonomy Alignment, Objective Choice, and Geometry**|Ling Shi et.al.|[2609.25638](http://arxiv.org/abs/2609.25638)|N/A|
-|**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|N/A|
-|**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|N/A|
-|**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|N/A|
-|**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|N/A|
-|**2026-09-21**|**Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24109](http://arxiv.org/abs/2609.24109)|N/A|
 
 ## Image Matching
 
@@ -564,5 +556,4 @@ layout: default
 |**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
 |**2026-09-22**|**Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising**|Chenxiao Hu et.al.|[2609.25604](http://arxiv.org/abs/2609.25604)|N/A|
 |**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578](http://arxiv.org/abs/2609.25578)|N/A|
-|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|N/A|
 

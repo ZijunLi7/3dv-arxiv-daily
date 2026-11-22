@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.21 - 2026.11.19_
+_Select paper in 2026.09.22 - 2026.11.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -124,9 +124,4 @@ _Select paper in 2026.09.21 - 2026.11.19_
 |**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|N/A|
 |**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
 |**2026-09-22**|**What Drives Hierarchy-Aware Image Retrieval? Taxonomy Alignment, Objective Choice, and Geometry**|Ling Shi et.al.|[2609.25638](http://arxiv.org/abs/2609.25638)|N/A|
-|**2026-09-21**|**Range-Aided SLAM Initialization Exploiting Accurate Heading Information**|Isabel Lougheed et.al.|[2609.24846](http://arxiv.org/abs/2609.24846)|N/A|
-|**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|N/A|
-|**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|N/A|
-|**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|N/A|
-|**2026-09-21**|**Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24109](http://arxiv.org/abs/2609.24109)|N/A|
 

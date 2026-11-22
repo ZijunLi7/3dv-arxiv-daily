@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.21 - 2026.11.19_
+_Select paper in 2026.09.22 - 2026.11.19_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -233,5 +233,4 @@ _Select paper in 2026.09.21 - 2026.11.19_
 |**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|N/A|
 |**2026-09-22**|**Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising**|Chenxiao Hu et.al.|[2609.25604](http://arxiv.org/abs/2609.25604)|N/A|
 |**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578](http://arxiv.org/abs/2609.25578)|N/A|
-|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|N/A|
 
