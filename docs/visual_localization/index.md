@@ -14,10 +14,15 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.23 - 2026.11.20_
+_Select paper in 2026.09.24 - 2026.11.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment**|Bo Wang et.al.|[2611.30278](http://arxiv.org/abs/2611.30278)|N/A|
+|**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173](http://arxiv.org/abs/2611.30173)|N/A|
+|**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614](http://arxiv.org/abs/2611.29614)|N/A|
+|**2026-11-22**|**STAGE: Structured Test-Time Adaptation with Global Entropic Soft-coupling for Cross-Subject Brain-to-Image Retrieval**|Yihang Zou et.al.|[2611.29538](http://arxiv.org/abs/2611.29538)|N/A|
+|**2026-11-21**|**Beyond Full-Context Accuracy: Context-Marginalized Evaluation of Test-Time Structure-Aware Inference in EEG-to-Image Retrieval**|Ke Xiao et.al.|[2611.28648](http://arxiv.org/abs/2611.28648)|N/A|
 |**2026-11-20**|**BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles**|Adolfo Damiano Cafaro et.al.|[2611.27817](http://arxiv.org/abs/2611.27817)|N/A|
 |**2026-11-18**|**Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU**|Jaafar Mahmoud et.al.|[2611.25279](http://arxiv.org/abs/2611.25279)|N/A|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|N/A|
@@ -113,9 +118,4 @@ _Select paper in 2026.09.23 - 2026.11.20_
 |**2026-09-26**|**World SLAM Model: Joint World Modeling for SLAM and Navigation**|Minghui Qin et.al.|[2609.32626](http://arxiv.org/abs/2609.32626)|N/A|
 |**2026-09-25**|**Augmented Reality Interfaces for Human-Robot Collaboration: Development of a ROS 2-Based Sensor Streaming Framework and Validation via SLAM Algorithms**|Alessandro Rubert et.al.|[2609.31396](http://arxiv.org/abs/2609.31396)|N/A|
 |**2026-09-25**|**Preserve-and-Compose Training for Composed Image Retrieval**|Sehyun Kwon et.al.|[2609.31202](http://arxiv.org/abs/2609.31202)|N/A|
-|**2026-09-23**|**Large-Scale Geometric Map-Based Localization of UAVs in GNSS-Denied Urban Environments**|Garth Terlizzi et.al.|[2609.28225](http://arxiv.org/abs/2609.28225)|N/A|
-|**2026-09-23**|**DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping**|Jaafar Mahmoud et.al.|[2609.27702](http://arxiv.org/abs/2609.27702)|N/A|
-|**2026-09-23**|**Know-Your-Scene (KYS)-SLAM: Hierarchical Semantic-Motion Priors for Feature Matching in Stereo Visual SLAM**|Preeti Chatterjee et.al.|[2609.27509](http://arxiv.org/abs/2609.27509)|N/A|
-|**2026-09-23**|**Geometry-Conditioned Visual Place Recognition in Natural Environments**|Walter Nedov et.al.|[2609.27370](http://arxiv.org/abs/2609.27370)|N/A|
-|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363](http://arxiv.org/abs/2609.27363)|N/A|
 

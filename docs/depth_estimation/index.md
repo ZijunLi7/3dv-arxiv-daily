@@ -14,11 +14,12 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.23 - 2026.11.20_
+_Select paper in 2026.09.24 - 2026.11.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-20**|**StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning**|Chi Yan et.al.|[2611.27915](http://arxiv.org/abs/2611.27915)|N/A|
+|**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|N/A|
+|**2026-11-23**|**StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning**|Chi Yan et.al.|[2611.27915](http://arxiv.org/abs/2611.27915)|N/A|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|N/A|
 |**2026-11-19**|**Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth**|Peiyun Hu et.al.|[2611.26603](http://arxiv.org/abs/2611.26603)|N/A|
 |**2026-11-19**|**DfD-GS: Defocus Image Prior for Metric-Scale Single-View Depth Estimation and View Synthesis**|Shiori Ueda et.al.|[2611.26072](http://arxiv.org/abs/2611.26072)|N/A|

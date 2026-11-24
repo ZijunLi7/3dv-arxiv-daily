@@ -14,10 +14,18 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.23 - 2026.11.20_
+_Select paper in 2026.09.24 - 2026.11.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769](http://arxiv.org/abs/2611.30769)|N/A|
+|**2026-11-23**|**Dynamic Gaussian Scene Reconstruction by Integrating Events and Structural Priors**|Zihao Yu et.al.|[2611.29920](http://arxiv.org/abs/2611.29920)|N/A|
+|**2026-11-22**|**Ref2Light: From One Image to Interactive Glasses-Free 3D Characters**|Hanzhong Zhang et.al.|[2611.29678](http://arxiv.org/abs/2611.29678)|N/A|
+|**2026-11-21**|**Div3DAfford: Diverse 3D affordance grounding**|Haomeng Zhang et.al.|[2611.28917](http://arxiv.org/abs/2611.28917)|N/A|
+|**2026-11-21**|**STAC++: Plug-and-Play Adaptive Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction**|Boyi Zhu et.al.|[2611.28793](http://arxiv.org/abs/2611.28793)|N/A|
+|**2026-11-21**|**CAR3T: Generalizable Calibration-Guided Reference-View Attention Reuse for Multi-View 3D Transformers**|Lan Wei et.al.|[2611.28591](http://arxiv.org/abs/2611.28591)|N/A|
+|**2026-11-21**|**Reconstruction-Guided Dual-Branch Learning for LiDAR Anomalous Object Detection**|Guanyu Jiang et.al.|[2611.28545](http://arxiv.org/abs/2611.28545)|N/A|
+|**2026-11-20**|**From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment**|Changyu Du et.al.|[2611.28197](http://arxiv.org/abs/2611.28197)|N/A|
 |**2026-11-19**|**SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention**|Aoxiang Fan et.al.|[2611.26493](http://arxiv.org/abs/2611.26493)|N/A|
 |**2026-11-19**|**FirstCross: Convex Single-Photon 3D Reconstruction from Sparse Views**|Chi-Wei Lee et.al.|[2611.26321](http://arxiv.org/abs/2611.26321)|N/A|
 |**2026-11-18**|**Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning**|Zeting Luo et.al.|[2611.24565](http://arxiv.org/abs/2611.24565)|N/A|
@@ -137,5 +145,4 @@ _Select paper in 2026.09.23 - 2026.11.20_
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
 |**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
 |**2026-09-24**|**WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model**|Jerrin Bright et.al.|[2609.29106](http://arxiv.org/abs/2609.29106)|N/A|
-|**2026-09-23**|**AstraLOD3: Zero-shot multimodal agentic reconstruction of LOD3 building models**|Bryan G. Pantoja-Rosero et.al.|[2609.28061](http://arxiv.org/abs/2609.28061)|N/A|
 

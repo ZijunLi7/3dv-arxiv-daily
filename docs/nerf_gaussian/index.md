@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.23 - 2026.11.20_
+_Select paper in 2026.09.24 - 2026.11.23_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-23**|**WildAnySplat: Feed-Forward 3D Gaussian Splatting in the Wild**|Richard Shaw et.al.|[2611.31023](http://arxiv.org/abs/2611.31023)|N/A|
+|**2026-11-23**|**GSDet: Gaussian Splatting for Oriented Object Detection**|Zeyu Ding et.al.|[2611.30602](http://arxiv.org/abs/2611.30602)|N/A|
+|**2026-11-23**|**NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting**|Shiyu Liang et.al.|[2611.30351](http://arxiv.org/abs/2611.30351)|N/A|
+|**2026-11-23**|**AdvMTO: Multimodal and Temporal Adversarial Object Attacks via 2D Gaussian Splatting for BEV-Based 3D Object Detection**|Zhiyang Cui et.al.|[2611.30283](http://arxiv.org/abs/2611.30283)|N/A|
+|**2026-11-23**|**LMnOP: Pruning 3D Gaussian Splatting via Leave-Many-Out Importance**|Sunjae Jeong et.al.|[2611.30102](http://arxiv.org/abs/2611.30102)|N/A|
+|**2026-11-22**|**SpectralGS: Spectral Gaussian Splatting for Unsupervised Spectral Super-Resolution**|Qiaoying Qu et.al.|[2611.29388](http://arxiv.org/abs/2611.29388)|N/A|
+|**2026-11-22**|**Complementary Geometry in Gaussian Splatting**|Mingle Jiang et.al.|[2611.29236](http://arxiv.org/abs/2611.29236)|N/A|
+|**2026-11-21**|**Not All Directions Are Flat: Decomposed-Gradient Flatness for Sparse-View 3D Gaussian Splatting**|Ungbae Yoon et.al.|[2611.28802](http://arxiv.org/abs/2611.28802)|N/A|
+|**2026-11-21**|**SemGuard: Semantics-Decoupled Watermarking for Gaussian Splatting**|Yingying Shi et.al.|[2611.28636](http://arxiv.org/abs/2611.28636)|N/A|
 |**2026-11-20**|**EAST: Event-Anchored Surface Transport for Event-Based Gaussian Reconstruction**|Ke Luo et.al.|[2611.27224](http://arxiv.org/abs/2611.27224)|N/A|
 |**2026-11-19**|**CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting**|Ziwen Wang et.al.|[2611.26128](http://arxiv.org/abs/2611.26128)|N/A|
 |**2026-11-19**|**PaveSplat: Resolution-Robust Feed-Forward Gaussian Splatting with Residually Corrected Surface-Aligned Covariances**|Janghun Kim et.al.|[2611.26045](http://arxiv.org/abs/2611.26045)|N/A|
@@ -227,6 +236,4 @@ _Select paper in 2026.09.23 - 2026.11.20_
 |**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|N/A|
 |**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|N/A|
 |**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|N/A|
-|**2026-09-23**|**PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting**|Sungjae Choi et.al.|[2609.28645](http://arxiv.org/abs/2609.28645)|N/A|
-|**2026-09-23**|**GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting**|Haoyuan Yue et.al.|[2609.27264](http://arxiv.org/abs/2609.27264)|N/A|
 
