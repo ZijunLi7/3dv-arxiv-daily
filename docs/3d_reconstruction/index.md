@@ -14,10 +14,17 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.24 - 2026.11.23_
+_Select paper in 2026.09.25 - 2026.11.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137](http://arxiv.org/abs/2611.33137)|N/A|
+|**2026-11-24**|**X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views**|Zidian Qiu et.al.|[2611.32491](http://arxiv.org/abs/2611.32491)|N/A|
+|**2026-11-24**|**COHERE4D: Training-Free Dense Surface Alignment for Coherent Metric 4D Human-Scene Reconstruction**|Zhumei Wang et.al.|[2611.32482](http://arxiv.org/abs/2611.32482)|N/A|
+|**2026-11-24**|**MaskedVGGT: Masked Multi-View Transformers Are Scalable 3D Learners**|Zichen Zou et.al.|[2611.32297](http://arxiv.org/abs/2611.32297)|N/A|
+|**2026-11-24**|**VLAs Execute, Code Recovers: 3D Skill Envelopes Bridge the Compositional Gap in Agentic Manipulation**|Jiajie Zhang et.al.|[2611.32245](http://arxiv.org/abs/2611.32245)|N/A|
+|**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|N/A|
+|**2026-11-23**|**Tornado4D: Physics-Guided 4D Gaussian Reconstruction of a Laboratory Tornado from Sparse One-Sided Videos**|Yucheng Zhu et.al.|[2611.31435](http://arxiv.org/abs/2611.31435)|N/A|
 |**2026-11-23**|**Screening for nonrigidity in structure from motion using projected reprojection residuals**|Íñigo Cirauqui-Viloria et.al.|[2611.30769](http://arxiv.org/abs/2611.30769)|N/A|
 |**2026-11-23**|**Dynamic Gaussian Scene Reconstruction by Integrating Events and Structural Priors**|Zihao Yu et.al.|[2611.29920](http://arxiv.org/abs/2611.29920)|N/A|
 |**2026-11-22**|**Ref2Light: From One Image to Interactive Glasses-Free 3D Characters**|Hanzhong Zhang et.al.|[2611.29678](http://arxiv.org/abs/2611.29678)|N/A|
@@ -144,5 +151,4 @@ _Select paper in 2026.09.24 - 2026.11.23_
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
 |**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
-|**2026-09-24**|**WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model**|Jerrin Bright et.al.|[2609.29106](http://arxiv.org/abs/2609.29106)|N/A|
 

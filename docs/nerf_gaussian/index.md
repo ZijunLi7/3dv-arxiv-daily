@@ -14,10 +14,18 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.24 - 2026.11.23_
+_Select paper in 2026.09.25 - 2026.11.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**AnyPrune: Optimization-Free Pruning for Any Feedforward 3D Gaussian Splatting Pipeline**|Nicola Leonetti et.al.|[2611.32735](http://arxiv.org/abs/2611.32735)|N/A|
+|**2026-11-24**|**Completion-Aware Compression for Progressive 3D Gaussian Splatting**|Reagan Koo et.al.|[2611.32628](http://arxiv.org/abs/2611.32628)|N/A|
+|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335](http://arxiv.org/abs/2611.32335)|N/A|
+|**2026-11-24**|**ST-SfM: Spatio-Temporal Structure-from-Motion for Initialising 4D Gaussian Splatting**| Harshit et.al.|[2611.32231](http://arxiv.org/abs/2611.32231)|N/A|
+|**2026-11-24**|**SplatTok: Data-Driven Compression of 3D Gaussian Splats with Scene-Level Tokens**|Sai Karthikey Pentapati et.al.|[2611.32202](http://arxiv.org/abs/2611.32202)|N/A|
+|**2026-11-24**|**View Management with Gaussian Placement and Opacity Regularization for Online 3DGS**|Dong Hwi Kim et.al.|[2611.32025](http://arxiv.org/abs/2611.32025)|N/A|
+|**2026-11-24**|**HiGS: A Hierarchical Architecture for Fast Differentiable 3D Gaussian Splatting**|Dawid Pająk et.al.|[2611.31918](http://arxiv.org/abs/2611.31918)|N/A|
+|**2026-11-23**|**Enhancing Sparse-View Gaussian Splatting with Feed-Forward Priors via Spectral Fusion and Distillation**|Weikai Lin et.al.|[2611.31428](http://arxiv.org/abs/2611.31428)|N/A|
 |**2026-11-23**|**WildAnySplat: Feed-Forward 3D Gaussian Splatting in the Wild**|Richard Shaw et.al.|[2611.31023](http://arxiv.org/abs/2611.31023)|N/A|
 |**2026-11-23**|**GSDet: Gaussian Splatting for Oriented Object Detection**|Zeyu Ding et.al.|[2611.30602](http://arxiv.org/abs/2611.30602)|N/A|
 |**2026-11-23**|**NNS-GS: Non-Local Neural Scattering for Relightable Gaussian Splatting**|Shiyu Liang et.al.|[2611.30351](http://arxiv.org/abs/2611.30351)|N/A|
@@ -230,10 +238,4 @@ _Select paper in 2026.09.24 - 2026.11.23_
 |**2026-09-25**|**Spackle: Completing Large View Single Image NVS with Adaptive Gaussians**|Xuanzhi Liu et.al.|[2609.30941](http://arxiv.org/abs/2609.30941)|N/A|
 |**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|N/A|
 |**2026-09-25**|**From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching**|Hongfei Zhu et.al.|[2609.30741](http://arxiv.org/abs/2609.30741)|N/A|
-|**2026-09-24**|**LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting**|Vivek Pandey et.al.|[2609.30393](http://arxiv.org/abs/2609.30393)|N/A|
-|**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|N/A|
-|**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|N/A|
-|**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|N/A|
-|**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|N/A|
-|**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|N/A|
 

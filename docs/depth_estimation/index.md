@@ -14,10 +14,14 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.24 - 2026.11.23_
+_Select paper in 2026.09.25 - 2026.11.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970](http://arxiv.org/abs/2611.32970)|N/A|
+|**2026-11-24**|**Mind the Band: The Hidden Frequency Variable in Geometric RoPE**|Seonghyun Jin et.al.|[2611.32171](http://arxiv.org/abs/2611.32171)|N/A|
+|**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922](http://arxiv.org/abs/2611.31922)|N/A|
+|**2026-11-24**|**EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation**|Sadiq O. Macaulay et.al.|[2611.31720](http://arxiv.org/abs/2611.31720)|N/A|
 |**2026-11-23**|**EgoDepth-Bench: Benchmarking Metric Depth for Egocentric Manipulation**|Yuan Gao et.al.|[2611.30734](http://arxiv.org/abs/2611.30734)|N/A|
 |**2026-11-23**|**StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning**|Chi Yan et.al.|[2611.27915](http://arxiv.org/abs/2611.27915)|N/A|
 |**2026-11-20**|**ADEPT: Adaptive Monocular Depth Estimation via Model-In-The-Loop Photometric Tuning with Capture Risk Prediction**|GiHyun Kim et.al.|[2611.27423](http://arxiv.org/abs/2611.27423)|N/A|
@@ -80,6 +84,4 @@ _Select paper in 2026.09.24 - 2026.11.23_
 |**2026-09-25**|**Depth Any Seen: Which Surfaces and How Far?**|Xiaohao Xu et.al.|[2609.32027](http://arxiv.org/abs/2609.32027)|N/A|
 |**2026-09-25**|**DepthEvidence: Unifying Metric Depth Prediction and Geometric Reasoning in Multimodal Language Models**|Jiangning Wei et.al.|[2609.31103](http://arxiv.org/abs/2609.31103)|N/A|
 |**2026-09-25**|**Self-Supervised Perceptually Interpretable Monocular Depth Estimation**|Zain Ul Abidin et.al.|[2609.30987](http://arxiv.org/abs/2609.30987)|N/A|
-|**2026-09-24**|**FounRef: Robust, Structure-Preserving, and Fast Metric Refinement of Frozen Monocular Foundation Priors with Sparse Anchors**|Dan Halperin et.al.|[2609.29224](http://arxiv.org/abs/2609.29224)|N/A|
-|**2026-09-24**|**Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models**|Kai Glantz et.al.|[2609.29073](http://arxiv.org/abs/2609.29073)|N/A|
 

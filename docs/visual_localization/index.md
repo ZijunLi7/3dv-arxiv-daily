@@ -14,10 +14,13 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.24 - 2026.11.23_
+_Select paper in 2026.09.25 - 2026.11.24_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**AirLeg: A Robust and Accurate Self-Supervised Visual-Inertial-Leg SLAM System**|Kuan Xu et.al.|[2611.32523](http://arxiv.org/abs/2611.32523)|N/A|
+|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335](http://arxiv.org/abs/2611.32335)|N/A|
+|**2026-11-24**|**CREDIT: Compositional Reliability Learning for Noisy Composed Image Retrieval**|Tiancai Zhou et.al.|[2611.32310](http://arxiv.org/abs/2611.32310)|N/A|
 |**2026-11-23**|**RigidAnchor: Cross-View Geo-Localization for UAV via Iterative Planar Rigid Alignment**|Bo Wang et.al.|[2611.30278](http://arxiv.org/abs/2611.30278)|N/A|
 |**2026-11-23**|**Confidently Lost: Silent Failure and Edge Deployment of Dense Visual SLAM under Photon Starvation**|Shrikrishna Bhagirath Rajule et.al.|[2611.30173](http://arxiv.org/abs/2611.30173)|N/A|
 |**2026-11-22**|**GravHMR: Coupling SLAM and Human Mesh Recovery in a Shared Gravity Frame**|Hanglei Jin et.al.|[2611.29614](http://arxiv.org/abs/2611.29614)|N/A|
