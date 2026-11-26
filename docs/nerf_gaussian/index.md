@@ -14,10 +14,19 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.25 - 2026.11.24_
+_Select paper in 2026.09.26 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References**|Michael Baumgartner et.al.|[2611.34932](http://arxiv.org/abs/2611.34932)|N/A|
+|**2026-11-25**|**Feed-Forward Adaptive Gaussian Splatting for Interactive Medical Volume Rendering**|Zhongpai Gao et.al.|[2611.34478](http://arxiv.org/abs/2611.34478)|N/A|
+|**2026-11-25**|**AnyCam4D: Ray-Based 4D Gaussian Rendering for Arbitrary Camera Models**|Sascha Kirch et.al.|[2611.34223](http://arxiv.org/abs/2611.34223)|N/A|
+|**2026-11-25**|**UPP-Gauss: Ultrasound Propagation Physics-informed Gaussian Splatting for B-mode Novel-View Synthesis**|Guil Jung et.al.|[2611.33920](http://arxiv.org/abs/2611.33920)|N/A|
+|**2026-11-25**|**Tortho-Gaussian++: Suppressing Geometric Drift and Floaters for Robust Gravity-Aligned TDOM Generation in Large-Scale Aerial Scenes**|Xiang Wang et.al.|[2611.33905](http://arxiv.org/abs/2611.33905)|N/A|
+|**2026-11-25**|**SprintGS: Eliminating Redundancy for Fast 3D Gaussian Splatting Training**|Ryosuke Watanabe et.al.|[2611.33796](http://arxiv.org/abs/2611.33796)|N/A|
+|**2026-11-25**|**Efficient Scene-Distribution-Aware Second-Order Optimization for 3D Gaussian Splatting**|Hyunseung Son et.al.|[2611.33698](http://arxiv.org/abs/2611.33698)|N/A|
+|**2026-11-24**|**FOCI: Trajectory Optimization on Gaussian Splats for Gaussian Robots**|Mario Gomez Andreu et.al.|[2611.33380](http://arxiv.org/abs/2611.33380)|N/A|
+|**2026-11-24**|**VersionGS: Compact and Motion-Robust Dynamic Gaussian Splatting via Versioned Gaussians**|Shihang Wei et.al.|[2611.33374](http://arxiv.org/abs/2611.33374)|N/A|
 |**2026-11-24**|**AnyPrune: Optimization-Free Pruning for Any Feedforward 3D Gaussian Splatting Pipeline**|Nicola Leonetti et.al.|[2611.32735](http://arxiv.org/abs/2611.32735)|N/A|
 |**2026-11-24**|**Completion-Aware Compression for Progressive 3D Gaussian Splatting**|Reagan Koo et.al.|[2611.32628](http://arxiv.org/abs/2611.32628)|N/A|
 |**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335](http://arxiv.org/abs/2611.32335)|N/A|
@@ -231,11 +240,4 @@ _Select paper in 2026.09.25 - 2026.11.24_
 |**2026-09-26**|**ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera**|Ugo Leone Cavalcanti et.al.|[2609.32711](http://arxiv.org/abs/2609.32711)|N/A|
 |**2026-09-26**|**FoundDSR: A Generalizable Foundation Model with Guided 2D Gaussian Splatting for Depth Super-Resolution**|Zhengxue Wang et.al.|[2609.32323](http://arxiv.org/abs/2609.32323)|N/A|
 |**2026-09-26**|**Federated 3D Gaussian Splatting for Large-Scale Scene Reconstruction at Wireless Edge**|Guanlin Wu et.al.|[2609.32177](http://arxiv.org/abs/2609.32177)|N/A|
-|**2026-09-25**|**OC-GS: Gaussian Splatting for Irregular Turntable Capture**|Jae Joong Lee et.al.|[2609.31572](http://arxiv.org/abs/2609.31572)|N/A|
-|**2026-09-25**|**ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos**|Xuanzhi Liu et.al.|[2609.31509](http://arxiv.org/abs/2609.31509)|N/A|
-|**2026-09-25**|**ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization**|Tobias Batik et.al.|[2609.31339](http://arxiv.org/abs/2609.31339)|N/A|
-|**2026-09-25**|**Gauss What You Need: Compact Gaussian Splatting Across Scene Scales**|Afif Boudaoud et.al.|[2609.31248](http://arxiv.org/abs/2609.31248)|N/A|
-|**2026-09-25**|**Spackle: Completing Large View Single Image NVS with Adaptive Gaussians**|Xuanzhi Liu et.al.|[2609.30941](http://arxiv.org/abs/2609.30941)|N/A|
-|**2026-09-25**|**Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2609.30865](http://arxiv.org/abs/2609.30865)|N/A|
-|**2026-09-25**|**From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching**|Hongfei Zhu et.al.|[2609.30741](http://arxiv.org/abs/2609.30741)|N/A|
 

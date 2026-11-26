@@ -14,14 +14,15 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.25 - 2026.11.24_
+_Select paper in 2026.09.26 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction**|Yiheng Han et.al.|[2611.33964](http://arxiv.org/abs/2611.33964)|N/A|
 |**2026-11-24**|**Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action**|Yueh-Cheng Liu et.al.|[2611.33137](http://arxiv.org/abs/2611.33137)|N/A|
 |**2026-11-24**|**X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views**|Zidian Qiu et.al.|[2611.32491](http://arxiv.org/abs/2611.32491)|N/A|
 |**2026-11-24**|**COHERE4D: Training-Free Dense Surface Alignment for Coherent Metric 4D Human-Scene Reconstruction**|Zhumei Wang et.al.|[2611.32482](http://arxiv.org/abs/2611.32482)|N/A|
-|**2026-11-24**|**MaskedVGGT: Masked Multi-View Transformers Are Scalable 3D Learners**|Zichen Zou et.al.|[2611.32297](http://arxiv.org/abs/2611.32297)|N/A|
+|**2026-11-25**|**MaskedVGGT: Masked Multi-View Transformers Are Scalable 3D Learners**|Zichen Zou et.al.|[2611.32297](http://arxiv.org/abs/2611.32297)|N/A|
 |**2026-11-24**|**VLAs Execute, Code Recovers: 3D Skill Envelopes Bridge the Compositional Gap in Agentic Manipulation**|Jiajie Zhang et.al.|[2611.32245](http://arxiv.org/abs/2611.32245)|N/A|
 |**2026-11-23**|**InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion**|Simon Weber et.al.|[2611.31516](http://arxiv.org/abs/2611.31516)|N/A|
 |**2026-11-23**|**Tornado4D: Physics-Guided 4D Gaussian Reconstruction of a Laboratory Tornado from Sparse One-Sided Videos**|Yucheng Zhu et.al.|[2611.31435](http://arxiv.org/abs/2611.31435)|N/A|
