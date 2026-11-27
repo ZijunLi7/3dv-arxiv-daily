@@ -14,7 +14,7 @@ title: Visual Localization
 
 ## Visual Localization
 
-_Select paper in 2026.09.26 - 2026.11.25_
+_Select paper in 2026.09.27 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -121,6 +121,4 @@ _Select paper in 2026.09.26 - 2026.11.25_
 |**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|N/A|
 |**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|N/A|
 |**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|N/A|
-|**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|N/A|
-|**2026-09-26**|**World SLAM Model: Joint World Modeling for SLAM and Navigation**|Minghui Qin et.al.|[2609.32626](http://arxiv.org/abs/2609.32626)|N/A|
 

@@ -14,7 +14,7 @@ title: 3D Reconstruction
 
 ## 3D Reconstruction
 
-_Select paper in 2026.09.26 - 2026.11.25_
+_Select paper in 2026.09.27 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -151,5 +151,4 @@ _Select paper in 2026.09.26 - 2026.11.25_
 |**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Qiaoge Li et.al.|[2609.35658](http://arxiv.org/abs/2609.35658)|N/A|
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
-|**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
 

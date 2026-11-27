@@ -1,4 +1,4 @@
-## Select paper in 2026.09.26 - 2026.11.25
+## Select paper in 2026.09.27 - 2026.11.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -147,9 +147,8 @@
 |**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Qiaoge Li et.al.|[2609.35658](http://arxiv.org/abs/2609.35658)|N/A|
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
-|**2026-09-26**|**CityToolVQA: Tool-Augmented Visual Question Answering for 3D Spatial Cognition in Urban Low-Altitude Environments**|Boao Yu et.al.|[2609.32427](http://arxiv.org/abs/2609.32427)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260926---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -221,7 +220,7 @@
 |**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
 |**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260926---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -330,10 +329,8 @@
 |**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|N/A|
 |**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|N/A|
 |**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|N/A|
-|**2026-09-26**|**Concepts Complement Dense Semantics: Learning Compact Sparse Spaces for Text-Image Retrieval**|Yoonseo Kim et.al.|[2609.32671](http://arxiv.org/abs/2609.32671)|N/A|
-|**2026-09-26**|**World SLAM Model: Joint World Modeling for SLAM and Navigation**|Minghui Qin et.al.|[2609.32626](http://arxiv.org/abs/2609.32626)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260926---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
 
 ## Image Matching
 
@@ -356,7 +353,7 @@
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|N/A|
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260926---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -581,11 +578,8 @@
 |**2026-09-28**|**AGILE-GS: Anchor-Guided Fast Next-Best-View Selection for Active 3D Gaussian Splatting**|Amirhossein Mollaei Khass et.al.|[2609.34176](http://arxiv.org/abs/2609.34176)|N/A|
 |**2026-09-27**|**Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors**|Ge Gao et.al.|[2609.33969](http://arxiv.org/abs/2609.33969)|N/A|
 |**2026-09-27**|**FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting**|Yuxuan Li et.al.|[2609.33330](http://arxiv.org/abs/2609.33330)|N/A|
-|**2026-09-26**|**ProDyGS: Dynamic Gaussian Splatting from a Single Static Monocular Camera**|Ugo Leone Cavalcanti et.al.|[2609.32711](http://arxiv.org/abs/2609.32711)|N/A|
-|**2026-09-26**|**FoundDSR: A Generalizable Foundation Model with Guided 2D Gaussian Splatting for Depth Super-Resolution**|Zhengxue Wang et.al.|[2609.32323](http://arxiv.org/abs/2609.32323)|N/A|
-|**2026-09-26**|**Federated 3D Gaussian Splatting for Large-Scale Scene Reconstruction at Wireless Edge**|Guanlin Wu et.al.|[2609.32177](http://arxiv.org/abs/2609.32177)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260926---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
