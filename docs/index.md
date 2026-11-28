@@ -11,7 +11,7 @@ layout: default
   <a href="nerf_gaussian/" style="padding:4px 12px;border-radius:4px;background:#e0e0e0;color:#333;text-decoration:none;">NeRF & Gaussian</a>
 </div>
 
-## Select paper in 2026.09.27 - 2026.11.25
+## Select paper in 2026.09.28 - 2026.11.25
 
 ## 3D Reconstruction
 
@@ -219,7 +219,6 @@ layout: default
 |**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|N/A|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
 |**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
-|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 
 ## Visual Localization
 
@@ -571,6 +570,4 @@ layout: default
 |**2026-09-28**|**EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation**|Sungho Moon et.al.|[2609.34853](http://arxiv.org/abs/2609.34853)|N/A|
 |**2026-09-28**|**Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting**|Yulong Cheng et.al.|[2609.34367](http://arxiv.org/abs/2609.34367)|N/A|
 |**2026-09-28**|**AGILE-GS: Anchor-Guided Fast Next-Best-View Selection for Active 3D Gaussian Splatting**|Amirhossein Mollaei Khass et.al.|[2609.34176](http://arxiv.org/abs/2609.34176)|N/A|
-|**2026-09-27**|**Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors**|Ge Gao et.al.|[2609.33969](http://arxiv.org/abs/2609.33969)|N/A|
-|**2026-09-27**|**FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting**|Yuxuan Li et.al.|[2609.33330](http://arxiv.org/abs/2609.33330)|N/A|
 

@@ -1,4 +1,4 @@
-## Select paper in 2026.09.27 - 2026.11.25
+## Select paper in 2026.09.28 - 2026.11.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -148,7 +148,7 @@
 |**2026-09-28**|**ReSS: Residual-Restoring Sparse Attention for 3D Vision Transformers**|Yongsung Kim et.al.|[2609.35593](http://arxiv.org/abs/2609.35593)|N/A|
 |**2026-09-28**|**VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction**|Conghan Yue et.al.|[2609.35134](http://arxiv.org/abs/2609.35134)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260928---20261125>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -218,9 +218,8 @@
 |**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|N/A|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
 |**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
-|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260928---20261125>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -330,7 +329,7 @@
 |**2026-09-29**|**Degeneracy-Orthogonal Geometric Constraints for LiDAR SLAM**|Minseo Kim et.al.|[2609.36753](http://arxiv.org/abs/2609.36753)|N/A|
 |**2026-09-28**|**RRG-SLAM: Real-time Reflection-aware Gaussian SLAM for Indoor Scenes**|Yong Liu et.al.|[2609.34527](http://arxiv.org/abs/2609.34527)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260928---20261125>back to top</a>)</p>
 
 ## Image Matching
 
@@ -353,7 +352,7 @@
 |**2026-09-30**|**EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation**|Debabrata Mandal et.al.|[2609.38689](http://arxiv.org/abs/2609.38689)|N/A|
 |**2026-09-29**|**UltraMatch: Transport Path Routing for Ultra-Fast and Memory-Efficient Image Matching**|Jiajun Le et.al.|[2609.36980](http://arxiv.org/abs/2609.36980)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260928---20261125>back to top</a>)</p>
 
 ## NeRF & Gaussian
 
@@ -576,10 +575,8 @@
 |**2026-09-28**|**EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation**|Sungho Moon et.al.|[2609.34853](http://arxiv.org/abs/2609.34853)|N/A|
 |**2026-09-28**|**Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting**|Yulong Cheng et.al.|[2609.34367](http://arxiv.org/abs/2609.34367)|N/A|
 |**2026-09-28**|**AGILE-GS: Anchor-Guided Fast Next-Best-View Selection for Active 3D Gaussian Splatting**|Amirhossein Mollaei Khass et.al.|[2609.34176](http://arxiv.org/abs/2609.34176)|N/A|
-|**2026-09-27**|**Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors**|Ge Gao et.al.|[2609.33969](http://arxiv.org/abs/2609.33969)|N/A|
-|**2026-09-27**|**FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting**|Yuxuan Li et.al.|[2609.33330](http://arxiv.org/abs/2609.33330)|N/A|
 
-<p align=right>(<a href=#select-paper-in-20260927---20261125>back to top</a>)</p>
+<p align=right>(<a href=#select-paper-in-20260928---20261125>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

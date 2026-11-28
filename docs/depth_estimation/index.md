@@ -14,7 +14,7 @@ title: Depth Estimation
 
 ## Depth Estimation
 
-_Select paper in 2026.09.27 - 2026.11.25_
+_Select paper in 2026.09.28 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -82,5 +82,4 @@ _Select paper in 2026.09.27 - 2026.11.25_
 |**2026-09-30**|**Decoupling Spherical Reasoning from Dense Prediction for 360 Depth Estimation**|Zhijie Shen et.al.|[2609.38856](http://arxiv.org/abs/2609.38856)|N/A|
 |**2026-09-29**|**SFE-VGGT: Source-Free VGGT Distillation for Event-Based Monocular Depth Estimation**|Thai Duy Nguyen et.al.|[2609.36929](http://arxiv.org/abs/2609.36929)|N/A|
 |**2026-09-28**|**Boosting Metric Depth Completion via Training-Free Adaptive Response Geometry**|Mia Zhang et.al.|[2609.36168](http://arxiv.org/abs/2609.36168)|N/A|
-|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939](http://arxiv.org/abs/2609.33939)|N/A|
 

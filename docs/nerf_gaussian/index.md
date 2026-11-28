@@ -14,7 +14,7 @@ title: NeRF & Gaussian
 
 ## NeRF & Gaussian
 
-_Select paper in 2026.09.27 - 2026.11.25_
+_Select paper in 2026.09.28 - 2026.11.25_
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -235,6 +235,4 @@ _Select paper in 2026.09.27 - 2026.11.25_
 |**2026-09-28**|**EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation**|Sungho Moon et.al.|[2609.34853](http://arxiv.org/abs/2609.34853)|N/A|
 |**2026-09-28**|**Rate-Distortion Adaptive Primitive Selection for Omnidirectional Gaussian Splatting**|Yulong Cheng et.al.|[2609.34367](http://arxiv.org/abs/2609.34367)|N/A|
 |**2026-09-28**|**AGILE-GS: Anchor-Guided Fast Next-Best-View Selection for Active 3D Gaussian Splatting**|Amirhossein Mollaei Khass et.al.|[2609.34176](http://arxiv.org/abs/2609.34176)|N/A|
-|**2026-09-27**|**Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors**|Ge Gao et.al.|[2609.33969](http://arxiv.org/abs/2609.33969)|N/A|
-|**2026-09-27**|**FeCoSplat: Feedback-Guided Compression for Feed-Forward 3D Gaussian Splatting**|Yuxuan Li et.al.|[2609.33330](http://arxiv.org/abs/2609.33330)|N/A|
 
